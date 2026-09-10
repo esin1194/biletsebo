@@ -1,0 +1,52 @@
+name: Lizbon Ev Takip
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ev-takip
+  cancel-in-progress: false
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Depoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bagimliliklar ve tarayici
+        run: |
+          pip install requests playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Taramayi calistir
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python ev_takip.py
+
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          git config user.name "ev-takip-bot"
+          git config user.email "actions@github.com"
+          git add ev_durum.json || true
+          if git diff --staged --quiet; then
+            echo "Degisiklik yok."
+          else
+            git commit -m "ev durumu guncellendi [skip ci]"
+            git pull --rebase --autostash || true
+            git push
+          fi
