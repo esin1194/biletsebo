@@ -9,6 +9,8 @@ Calisma mantigi:
   - Sayfadaki ilan linklerini toplar, daha once gorulmemis olanlari
     Telegram'a gonderir (fiyat + kisa ozet + link; Telegram fotografi
     link onizlemesinden kendisi gosterir)
+  - Her yeni ilanin sayfasini acip aciklamasini okur; filtreler.txt'deki
+    istenmeyen ifadelerden biri geciyorsa ilani gondermez
   - Bir site ilk kez eklendiginde mevcut ilanlari "goruldu" sayar,
     sadece ozet ve bir ornek ilan gonderir (ilk turda mesaj yagmuru olmaz)
   - Bir site ust uste bos donerse (engellendi / link bozuk) bir kez uyarir
@@ -24,6 +26,7 @@ import json
 import os
 import re
 import time
+import unicodedata
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urlparse
 
@@ -33,6 +36,7 @@ import requests
 
 SITELER_DOSYASI = "siteler.txt"
 DURUM_DOSYASI = "ev_durum.json"
+FILTRE_DOSYASI = "filtreler.txt"
 
 MAKS_FIYAT = 2000                 # bunun ustundeki ilanlar gonderilmez
 FIYAT_FILTRESI_UYGULANMAYAN = ["airbnb."]   # Airbnb fiyatlari gecelik/toplam karisik
@@ -40,6 +44,20 @@ KAYNAK_BASINA_MAKS_MESAJ = 8      # bir turda tek siteden en fazla bu kadar mesa
 KIMLIK_SAKLAMA_LIMITI = 4000      # site basina hatirlanan ilan sayisi
 BOS_UYARI_ESIGI = 3               # kac tur ust uste bos donerse uyarilsin
 GUNLUK_OZET_SAATI = 9             # Turkiye saatiyle
+DETAY_LIMITI = 40                 # bir turda en fazla kac ilan sayfasi acilsin
+ZORUNLU_UYGULANMAYAN = ["airbnb."]   # Airbnb evleri zaten hep esyali
+ELENENLERI_BILDIR = False         # True yapilirsa elenen ilanlar da kisaca bildirilir
+
+# Ilan sayfasinda aciklamanin bulundugu yerler (siteye gore)
+DETAY_SECICILERI = [
+    ".comment", ".details-property_features",                 # idealista
+    "[data-cy='adPageAdDescription']",                        # imovirtual
+    "[data-cy='ad_description']", "[data-testid='ad_description']",  # olx
+    "[data-section-id='DESCRIPTION_DEFAULT']",                # airbnb
+    "[data-section-id='OVERVIEW_DEFAULT_V2']",
+    "[data-section-id='OVERVIEW_DEFAULT']",
+    "[data-testid*='description']", "[class*='description']", # diger siteler
+]
 
 TR_SAAT = timezone(timedelta(hours=3))
 
@@ -90,6 +108,30 @@ JS_TOPLA = r"""
 }
 """
 
+JS_DETAY = r"""
+(seciciler) => {
+  const parca = [];
+  const meta = (p) => {
+    const el = document.querySelector(`meta[property="${p}"], meta[name="${p}"]`);
+    return el ? (el.getAttribute('content') || '') : '';
+  };
+  parca.push(document.title, meta('og:title'), meta('og:description'), meta('description'));
+  const h1 = document.querySelector('h1');
+  if (h1) parca.push(h1.innerText);
+  let bulundu = false;
+  for (const s of seciciler) {
+    for (const el of document.querySelectorAll(s)) {
+      const t = (el.innerText || '').trim();
+      if (t.length > 20) { parca.push(t.slice(0, 8000)); bulundu = true; }
+    }
+  }
+  const kok = document.querySelector('main') || document.body;
+  const tum = ((kok && kok.innerText) || '').slice(0, 20000);
+  if (!bulundu) parca.push(tum.slice(0, 5000));
+  return { aciklama: parca.join('\n'), tum: parca.join('\n') + '\n' + tum };
+}
+"""
+
 FIYAT_RE = re.compile(
     r"€\s?(\d{1,3}(?:[.,\s]\d{3})+|\d+)|(\d{1,3}(?:[.,\s]\d{3})+|\d+)\s?€"
 )
@@ -132,6 +174,61 @@ def temizle(metin, sinir=280):
         temiz.append(s)
     ozet = " · ".join(temiz)
     return ozet[:sinir] + ("…" if len(ozet) > sinir else "")
+
+
+def normallestir(metin):
+    """Kucuk harf, aksansiz, tek bosluk: 'Proprietário' -> 'proprietario'."""
+    metin = unicodedata.normalize("NFKD", (metin or "").lower())
+    metin = "".join(c for c in metin if not unicodedata.combining(c))
+    return re.sub(r"\s+", " ", metin)
+
+
+def filtreleri_oku():
+    """
+    [ISTENMEYEN] bolumu: biri gecerse ilan elenir.
+    [ZORUNLU] bolumu: her satir bir sarttir, satirdaki / ile ayrilmis
+    seceneklerden en az biri gecmelidir. Birden fazla satir = hepsi gerekli.
+    """
+    istenmeyen, zorunlu = [], []
+    if not os.path.exists(FILTRE_DOSYASI):
+        return istenmeyen, zorunlu
+    bolum = "ISTENMEYEN"
+    with open(FILTRE_DOSYASI, encoding="utf-8") as f:
+        for satir in f:
+            satir = satir.strip()
+            if not satir or satir.startswith("#"):
+                continue
+            if satir.startswith("[") and satir.endswith("]"):
+                bolum = satir.strip("[]").strip().upper()
+                continue
+            if bolum == "ZORUNLU":
+                secenekler = [normallestir(x.strip()) for x in satir.split("/") if x.strip()]
+                if secenekler:
+                    zorunlu.append(secenekler)
+            else:
+                istenmeyen.append(normallestir(satir))
+    return istenmeyen, zorunlu
+
+
+def _gecer_mi(ifade, n):
+    return re.search(r"(?<![a-z0-9])" + re.escape(ifade) + r"(?![a-z0-9])", n) is not None
+
+
+def yasakli_ifade_bul(metin, filtreler):
+    n = normallestir(metin)
+    for ifade in filtreler:
+        if _gecer_mi(ifade, n):
+            return ifade
+    return None
+
+
+def eksik_sart_bul(metin, zorunlu):
+    """Karsilanmayan ilk sartin ilk secenegini dondurur; hepsi tamamsa None."""
+    n = normallestir(metin)
+    for secenekler in zorunlu:
+        if not any(_gecer_mi(x, n) for x in secenekler):
+            return secenekler[0]
+    return None
 
 
 def para(sayi):
@@ -259,7 +356,26 @@ def sayfa_tara(sayfa, url, desen):
     return ilanlar, engel
 
 
-def ilan_mesaji(ad, link, metin, fiyat, ornek=False):
+def detay_oku(baglam, link):
+    """Ilan sayfasini acip aciklama metnini dondurur. Okunamazsa None."""
+    sayfa = baglam.new_page()
+    try:
+        sayfa.goto(link, timeout=45000, wait_until="domcontentloaded")
+        sayfa.wait_for_timeout(3500)
+        sonuc = sayfa.evaluate(JS_DETAY, DETAY_SECICILERI) or {}
+        tum = sonuc.get("tum", "")
+        kucuk = tum.lower()
+        if len(tum) < 150 or any(i in kucuk[:3000] for i in ENGEL_ISARETLERI):
+            return None
+        return sonuc
+    except Exception as e:
+        log(f"  detay acilamadi: {link} ({e.__class__.__name__})")
+        return None
+    finally:
+        sayfa.close()
+
+
+def ilan_mesaji(ad, link, metin, fiyat, ornek=False, not_=None):
     baslik = "🔎 Örnek ilan" if ornek else "🏠 Yeni ilan"
     satirlar = [f"<b>{baslik} · {esc(ad)}</b>"]
     if fiyat:
@@ -267,6 +383,8 @@ def ilan_mesaji(ad, link, metin, fiyat, ornek=False):
     ozet = temizle(metin)
     if ozet:
         satirlar.append(esc(ozet))
+    if not_:
+        satirlar.append(f"<i>{esc(not_)}</i>")
     satirlar.append(link)
     return "\n".join(satirlar)
 
@@ -282,7 +400,12 @@ def main():
         return
 
     durum = durum_yukle()
+    filtreler, zorunlular = filtreleri_oku()
+    log(f"{len(filtreler)} istenmeyen ifade, {len(zorunlular)} zorunlu sart yuklendi.")
     ilanlar_msj, ornekler, ilk_ozet, uyarilar, rapor = [], [], [], [], []
+    elenen_msj = []
+    elenen_sayisi = 0
+    detay_hakki = DETAY_LIMITI
 
     with sync_playwright() as p:
         tarayici = p.chromium.launch(headless=True)
@@ -346,6 +469,8 @@ def main():
                 continue
 
             fiyat_serbest = any(x in alan for x in FIYAT_FILTRESI_UYGULANMAYAN)
+            aktif_zorunlu = [] if any(x in alan for x in ZORUNLU_UYGULANMAYAN) else zorunlular
+            filtre_var = bool(filtreler or aktif_zorunlu)
             uygun = []
             for k, t in yeniler:
                 fiyat = fiyat_bul(t)
@@ -353,9 +478,48 @@ def main():
                     continue
                 uygun.append((k, t, fiyat))
 
-            for k, t, f in uygun[:KAYNAK_BASINA_MAKS_MESAJ]:
-                ilanlar_msj.append(ilan_mesaji(ad, sablon.format(id=k), t, f))
-            fazla = len(uygun) - KAYNAK_BASINA_MAKS_MESAJ
+            gonderilecek = 0
+            fazla = 0
+            for k, t, f in uygun:
+                if gonderilecek >= KAYNAK_BASINA_MAKS_MESAJ:
+                    fazla += 1
+                    continue
+                link = sablon.format(id=k)
+
+                # once kart metnine bak (sayfa acmaya gerek kalmayabilir)
+                sebep = yasakli_ifade_bul(t, filtreler) if filtreler else None
+                not_ = None
+                if not sebep and filtre_var:
+                    if detay_hakki > 0:
+                        detay_hakki -= 1
+                        detay = detay_oku(baglam, link)
+                        if detay is None:
+                            not_ = "⚠️ Açıklama okunamadı, filtreler kontrol edilemedi."
+                        else:
+                            aciklama = detay.get("aciklama", "")
+                            sebep = yasakli_ifade_bul(aciklama, filtreler)
+                            if not sebep and aktif_zorunlu:
+                                eksik = eksik_sart_bul(t + "\n" + detay.get("tum", ""), aktif_zorunlu)
+                                if eksik:
+                                    sebep = f"şart yok: {eksik}"
+                            if f is None:
+                                f = fiyat_bul(aciklama) if not fiyat_serbest else None
+                                if f and f > MAKS_FIYAT:
+                                    sebep = f"fiyat {para(f)}"
+                    else:
+                        not_ = "⚠️ Bu turda sayfa kontrol limiti doldu, açıklama okunmadı."
+
+                if sebep:
+                    elenen_sayisi += 1
+                    log(f"  elendi ({sebep}): {link}")
+                    if ELENENLERI_BILDIR:
+                        elenen_msj.append(
+                            f"🚫 <b>Elendi · {esc(ad)}</b> — “{esc(sebep)}”\n{link}")
+                    continue
+
+                ilanlar_msj.append(ilan_mesaji(ad, link, t, f, not_=not_))
+                gonderilecek += 1
+
             if fazla > 0:
                 ilanlar_msj.append(
                     f"…ve <b>{esc(ad)}</b> sitesinde {fazla} yeni ilan daha. Hepsi burada:\n{url}")
@@ -379,6 +543,10 @@ def main():
         telegram_gonder(m, onizleme=False)
         time.sleep(1)
 
+    for m in elenen_msj:
+        telegram_gonder(m, onizleme=False)
+        time.sleep(1)
+
     gonderilen = 0
     for m in ilanlar_msj:
         if telegram_gonder(m):
@@ -389,15 +557,18 @@ def main():
     bugun = simdi().strftime("%Y-%m-%d")
     gunluk = durum["gunluk"]
     gunluk["gonderilen"] = gunluk.get("gonderilen", 0) + gonderilen
+    gunluk["elenen"] = gunluk.get("elenen", 0) + elenen_sayisi
     if gunluk.get("tarih") != bugun and simdi().hour >= GUNLUK_OZET_SAATI:
         durum_satirlari = "\n".join(
             f"• {esc(ad)}: {'✅' if n else '⚠️'} {n} ilan görünüyor" for ad, n in rapor)
         telegram_gonder(
             f"☀️ <b>Günaydın, takip çalışıyor.</b>\n"
-            f"Son özetten bu yana {gunluk['gonderilen']} yeni ilan gönderildi.\n\n{durum_satirlari}",
+            f"Son özetten bu yana {gunluk['gonderilen']} yeni ilan gönderildi, "
+            f"{gunluk['elenen']} ilan filtreye takılıp elendi.\n\n{durum_satirlari}",
             onizleme=False)
         gunluk["tarih"] = bugun
         gunluk["gonderilen"] = 0
+        gunluk["elenen"] = 0
 
     durum_kaydet(durum)
     log(f"Tur bitti. {gonderilen} yeni ilan gonderildi.")

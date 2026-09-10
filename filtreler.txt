@@ -1,0 +1,134 @@
+# ILAN FILTRELERI
+# Buyuk/kucuk harf ve aksan (ã, é, ç...) fark etmez.
+# Basinda # olan satirlar dikkate alinmaz.
+#
+# DIKKAT: Tek kelime yazmayin (ornegin sadece "quarto" ya da "shared").
+# "quarto" normal ilanlarda "2 quartos" diye gecer, "shared" de "shared pool" diye.
+# Hep kalip ifade yazin.
+
+# =====================================================================
+# ISTENMEYEN: bu ifadelerden biri gecerse ilan GONDERILMEZ.
+# Her satira bir ifade.
+# =====================================================================
+[ISTENMEYEN]
+
+# ---------- Ev sahibiyle ayni evde yasamak ----------
+# Portekizce
+senhorio vive
+senhoria vive
+vive o senhorio
+vive a senhoria
+proprietario vive
+proprietaria vive
+vive o proprietario
+vive a proprietaria
+viver com o proprietario
+viver com a proprietaria
+viver com o senhorio
+morar com o proprietario
+morar com a proprietaria
+partilhar com o proprietario
+partilhar com a proprietaria
+partilhar casa com
+vivo no apartamento
+moro no apartamento
+vivo na casa
+moro na casa
+casa de familia
+# Ingilizce
+live with the landlord
+living with the landlord
+live with the owner
+living with the owner
+live with the host
+landlord lives
+landlady lives
+owner lives
+host lives
+the host also lives
+live-in landlord
+live in landlord
+i live in the apartment
+i live in the flat
+i live in the house
+share the apartment with me
+share the flat with me
+share the house with me
+living with me
+# Ispanyolca
+vive el propietario
+vive la propietaria
+propietario vive
+propietaria vive
+convivir con el propietario
+convivir con la propietaria
+
+# ---------- Paylasimli oda / paylasimli daire / tek oda kiralama ----------
+# Portekizce
+quarto partilhado
+quarto compartilhado
+quarto em apartamento
+quarto em casa
+quarto em moradia
+quarto num apartamento
+quarto numa casa
+quartos em apartamento
+arrendo quarto
+arrenda-se quarto
+aluga-se quarto
+alugo quarto
+quarto para arrendar
+quarto para alugar
+quartos para arrendar
+casa partilhada
+apartamento partilhado
+apartamento compartilhado
+residencia de estudantes
+residencia universitaria
+# Ingilizce
+shared room
+shared bedroom
+shared apartment
+shared flat
+shared house
+room in a shared
+room in shared
+room in an apartment
+room in apartment
+private room in
+room for rent
+rooms for rent
+flatshare
+flat share
+coliving
+co-living
+student residence
+# Ispanyolca
+habitacion compartida
+habitacion en piso
+piso compartido
+
+# ---------- Esyasiz ev ----------
+nao mobilado
+nao mobilada
+sem mobilia
+sem moveis
+unfurnished
+not furnished
+sin amueblar
+no amueblado
+# Yari esyali istemiyorsaniz alttaki iki satirin basindaki # isaretini silin
+# semi-mobilado
+# semi-furnished
+
+
+# =====================================================================
+# ZORUNLU: ilanda bu sartlar GECMEZSE ilan gonderilmez.
+# Her satir bir sarttir. Satirdaki / ile ayrilmis ifadelerden
+# EN AZ BIRI gecmesi yeterli. Birden fazla satir yazarsaniz HEPSI aranir.
+# Ornek yeni sart:   varanda / balcony / terraco / terrace
+# (Airbnb'ye bu bolum uygulanmaz, oradaki evler zaten esyali.)
+# =====================================================================
+[ZORUNLU]
+
+mobilado / mobilada / mobiliado / mobiliada / furnished / amueblado / amueblada / mobilia incluida
