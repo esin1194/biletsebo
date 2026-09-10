@@ -88,7 +88,9 @@
    "luminoso-t2-1-1-com-terraco-privativo-estefania-lisboa-ID1iIT1",
    "t2-em-belem-com-otima-localizacao-e-pronto-a-habitar-ID1iR42",
    "apartamento-t2-com-terraco-em-lisboa-IDTQNC",
-   "t2-em-benfica-76-m-uteis-94-m-de-area-bruta-privativa-ID1itJ5"
+   "t2-em-benfica-76-m-uteis-94-m-de-area-bruta-privativa-ID1itJ5",
+   "cozy-studio-in-graca-orange-tree-view-ID1iQbc",
+   "t2-remodelado-junto-ao-metro-do-areeiro-disponivel-em-novembro-ID1iMGz"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -302,7 +304,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -339,6 +341,6 @@
  "gunluk": {
   "tarih": "2026-09-10",
   "gonderilen": 39,
-  "elenen": 7
+  "elenen": 9
  }
 }
