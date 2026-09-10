@@ -30,7 +30,15 @@
    "35320235",
    "35320245",
    "35320211",
-   "35320242"
+   "35320242",
+   "35323540",
+   "35323551",
+   "35323533",
+   "35323521",
+   "35323530",
+   "35323458",
+   "35323456",
+   "35323493"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -74,7 +82,10 @@
    "t1-para-arrendamento-nos-anjos-ID1iRqu",
    "apartamento-t2-av-elias-garcia-lisboa-ID1iQtH",
    "t1-na-rua-de-sao-bento-junto-ao-largo-do-rato-ID1iPWO",
-   "apartamento-t3-com-2-varandas-e-ar-condicionado-nas-avenidas-novas-ID1iMFi"
+   "apartamento-t3-com-2-varandas-e-ar-condicionado-nas-avenidas-novas-ID1iMFi",
+   "t2-em-benfica-estado-novo-equipado-mobilado-e-servicos-incluidos-ID1iMGi",
+   "ajuda-t2-proximo-faculdades-e-instituto-agronomia-e-ciencias-sociais-ID1iM4i",
+   "luminoso-t2-1-1-com-terraco-privativo-estefania-lisboa-ID1iIT1"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -152,7 +163,10 @@
    "apartments/466165",
    "apartments/972182",
    "apartments/1205245",
-   "apartments/430193"
+   "apartments/430193",
+   "apartments/372445",
+   "apartments/1175772",
+   "apartments/1486476"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -241,7 +255,11 @@
    "1242611085326785589",
    "1072421411232371644",
    "29776695",
-   "31048623"
+   "31048623",
+   "1272536243358003778",
+   "1444725814156493308",
+   "597550558112218394",
+   "1628398361723748711"
   ]
  },
  "kaynaklar": {
@@ -283,6 +301,6 @@
  },
  "gunluk": {
   "tarih": "2026-09-10",
-  "gonderilen": 11
+  "gonderilen": 28
  }
 }
