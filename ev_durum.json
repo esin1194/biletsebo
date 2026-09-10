@@ -71,7 +71,10 @@
    "apartamento-com-1-quartos-localizado-em-bairro-alto-lisbon-ID1iRrB",
    "estudio-localizado-em-alcantara-lisbon-ID1iRrA",
    "estudio-localizado-em-campo-de-ourique-lisbon-ID1iRrz",
-   "t1-para-arrendamento-nos-anjos-ID1iRqu"
+   "t1-para-arrendamento-nos-anjos-ID1iRqu",
+   "apartamento-t2-av-elias-garcia-lisboa-ID1iQtH",
+   "t1-na-rua-de-sao-bento-junto-ao-largo-do-rato-ID1iPWO",
+   "apartamento-t3-com-2-varandas-e-ar-condicionado-nas-avenidas-novas-ID1iMFi"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -87,7 +90,8 @@
    "alugo-studio-20m-estoril-totalmente-mobiliado-e-com-todas-as-contas-includas-IDJzOEj",
    "t2-com-2-vagas-de-garagem-coberta-IDJwieH",
    "t2-para-arrendamento-queluz-de-baixo-IDJzKoE",
-   "t2-luminoso-com-excelente-vista-IDJzYuM"
+   "t2-luminoso-com-excelente-vista-IDJzYuM",
+   "apartamento-t2-para-arrendamento-IDJzRK9"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -137,7 +141,18 @@
    "apartments/1183139",
    "apartments/1181686",
    "apartments/253148",
-   "apartments/766880"
+   "apartments/766880",
+   "apartments/384889",
+   "apartments/1698613",
+   "apartments/253124",
+   "apartments/1594664",
+   "apartments/1180202",
+   "apartments/1594624",
+   "apartments/1183199",
+   "apartments/466165",
+   "apartments/972182",
+   "apartments/1205245",
+   "apartments/430193"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -197,7 +212,8 @@
    "887484",
    "866205",
    "57228",
-   "786555"
+   "786555",
+   "808059"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -223,7 +239,9 @@
    "1747936066605810526",
    "1754297045579572648",
    "1242611085326785589",
-   "1072421411232371644"
+   "1072421411232371644",
+   "29776695",
+   "31048623"
   ]
  },
  "kaynaklar": {
@@ -265,6 +283,6 @@
  },
  "gunluk": {
   "tarih": "2026-09-10",
-  "gonderilen": 0
+  "gonderilen": 11
  }
 }
