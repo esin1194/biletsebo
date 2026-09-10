@@ -99,7 +99,9 @@
    "apartamento-t3-em-lisboa-pronto-a-habitar-ID1iNRL",
    "t1-remodelado-em-2025-sao-bento-misericordia-lisboa-ID1iRd4",
    "excelente-apartamento-t2-renovado-no-alto-de-santo-amaro-ID1iOVK",
-   "t3-benfica-lisboa-ID1hzdd"
+   "t3-benfica-lisboa-ID1hzdd",
+   "tranquilidade-e-centralidade-em-picoas-t0-novo-mobilado-ID1iQDG",
+   "apartamento-t2-com-varanda-e-ar-condicionado-nas-avenidas-novas-ID1iMIy"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -222,7 +224,12 @@
    "apartments/473781",
    "apartments/1485062",
    "apartments/291024",
-   "apartments/800945"
+   "apartments/800945",
+   "apartments/1485076",
+   "apartments/1469121",
+   "apartments/1639934",
+   "apartments/985260",
+   "apartments/1592985"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -363,7 +370,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-10",
-  "gonderilen": 47,
-  "elenen": 19
+  "gonderilen": 50,
+  "elenen": 22
  }
 }
