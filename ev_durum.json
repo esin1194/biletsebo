@@ -90,7 +90,9 @@
    "apartamento-t2-com-terraco-em-lisboa-IDTQNC",
    "t2-em-benfica-76-m-uteis-94-m-de-area-bruta-privativa-ID1itJ5",
    "cozy-studio-in-graca-orange-tree-view-ID1iQbc",
-   "t2-remodelado-junto-ao-metro-do-areeiro-disponivel-em-novembro-ID1iMGz"
+   "t2-remodelado-junto-ao-metro-do-areeiro-disponivel-em-novembro-ID1iMGz",
+   "t2-com-varanda-e-elevador-no-campo-pequeno-ID1iOj3",
+   "apartamento-t2-com-varanda-na-av-mouzinho-de-albuquerque-em-lisboa-ID1i90m"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -107,7 +109,8 @@
    "t2-com-2-vagas-de-garagem-coberta-IDJwieH",
    "t2-para-arrendamento-queluz-de-baixo-IDJzKoE",
    "t2-luminoso-com-excelente-vista-IDJzYuM",
-   "apartamento-t2-para-arrendamento-IDJzRK9"
+   "apartamento-t2-para-arrendamento-IDJzRK9",
+   "t2-no-alameada-alto-da-barra-IDJA0el"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -304,7 +307,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -340,7 +343,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-10",
-  "gonderilen": 39,
-  "elenen": 9
+  "gonderilen": 40,
+  "elenen": 11
  }
 }
