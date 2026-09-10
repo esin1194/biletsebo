@@ -106,7 +106,9 @@
    "apartamento-95-m-lumiar-ID1fHxe",
    "t2-com-80m2-estrada-paco-do-lumiar-ID1iOU0",
    "apartamento-85-m-campo-de-ourique-ID1iNCs",
-   "arrendamento-de-apartamento-t2-na-rua-afonso-lopes-vieira-58-ID1gZTy"
+   "arrendamento-de-apartamento-t2-na-rua-afonso-lopes-vieira-58-ID1gZTy",
+   "t3-duplex-a-estacao-de-comboios-de-benfica-av-gomes-pereira-ID1iD2u",
+   "t2-remodelado-com-varanda-a-5-minutos-a-pe-do-instituto-superior-ID1iRHi"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -236,7 +238,11 @@
    "apartments/1639934",
    "apartments/985260",
    "apartments/1592985",
-   "apartments/1699960"
+   "apartments/1699960",
+   "apartments/1594626",
+   "apartments/1182744",
+   "apartments/766888",
+   "apartments/301105"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -380,6 +386,6 @@
  "gunluk": {
   "tarih": "2026-09-10",
   "gonderilen": 53,
-  "elenen": 27
+  "elenen": 29
  }
 }
