@@ -1,0 +1,27 @@
+# LIZBON KIRALIK EV TAKIBI - ARAMA LINKLERI
+#
+# Her satir:   Isim | arama linki
+# Basinda # olan satirlar kapalidir. Bir siteyi kapatmak icin basina # koyun.
+#
+# Filtreyi degistirmek isterseniz: siteyi tarayicida acin, filtreleri secin
+# (oda sayisi, semt, esyali vb.), adres cubugundaki linki kopyalayip
+# ilgili satirda | isaretinden sonrasina yapistirin.
+
+# --- Klasik ilan siteleri ---
+# Idealista: sadece "arrendamento temporario" (kisa/orta donem) ilanlar
+Idealista | https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc
+# Idealista'da tum kiralik ilanlari da istersen alttaki satirin basindaki #'i sil
+# Idealista (hepsi) | https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000/?ordem=atualizado-desc
+
+Imovirtual | https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC
+OLX | https://www.olx.pt/imoveis/apartamento-casa-a-venda/apartamentos-arrenda/lisboa/?search%5Bfilter_float_price:to%5D=2000&search%5Border%5D=created_at:desc
+
+# --- Orta donem (1-11 ay) siteleri ---
+Spotahome | https://www.spotahome.com/s/lisbon/for-rent:apartments
+HousingAnywhere | https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent
+Uniplaces | https://www.uniplaces.com/accommodation/lisbon
+
+# --- Airbnb (aylik konaklama) ---
+# Tarihleri kendinize gore degistirin:
+#   monthly_start_date = giris tarihi (YYYY-AA-GG), monthly_length = kac ay
+Airbnb | https://www.airbnb.com/s/Lisbon--Portugal/homes?date_picker_type=monthly_stay&monthly_start_date=2026-10-01&monthly_length=3&room_types%5B%5D=Entire%20home%2Fapt
