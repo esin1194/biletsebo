@@ -85,7 +85,9 @@
    "apartamento-t3-com-2-varandas-e-ar-condicionado-nas-avenidas-novas-ID1iMFi",
    "t2-em-benfica-estado-novo-equipado-mobilado-e-servicos-incluidos-ID1iMGi",
    "ajuda-t2-proximo-faculdades-e-instituto-agronomia-e-ciencias-sociais-ID1iM4i",
-   "luminoso-t2-1-1-com-terraco-privativo-estefania-lisboa-ID1iIT1"
+   "luminoso-t2-1-1-com-terraco-privativo-estefania-lisboa-ID1iIT1",
+   "t2-em-belem-com-otima-localizacao-e-pronto-a-habitar-ID1iR42",
+   "apartamento-t2-com-terraco-em-lisboa-IDTQNC"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -166,7 +168,8 @@
    "apartments/430193",
    "apartments/372445",
    "apartments/1175772",
-   "apartments/1486476"
+   "apartments/1486476",
+   "apartments/1687696"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -259,7 +262,8 @@
    "1272536243358003778",
    "1444725814156493308",
    "597550558112218394",
-   "1628398361723748711"
+   "1628398361723748711",
+   "1304331143052830140"
   ]
  },
  "kaynaklar": {
@@ -301,6 +305,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-10",
-  "gonderilen": 28
+  "gonderilen": 29,
+  "elenen": 2
  }
 }
