@@ -249,7 +249,10 @@
    "arrendamento-de-apartamento-t1-na-rua-joo-lus-ricardo-76-IDINdo4",
    "estdio-para-professores-deslocados-IDJA6om",
    "estudio-no-cacm-aluguer-IDJA6nq",
-   "espao-com-2-quartos-superiores-IDJumFn"
+   "espao-com-2-quartos-superiores-IDJumFn",
+   "apart-t1-1-junto-ao-jardim-da-musica-e-c-m-odivelas-IDJA7Qn",
+   "apartamento-t1-em-pontinha-odivelas-IDJA7wr",
+   "t2-para-alugar-em-porto-salvo-IDJoLZL"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -502,7 +505,8 @@
    "1771777049975478218",
    "1677869048240713241",
    "36978731",
-   "1248700882505551370"
+   "1248700882505551370",
+   "1755190284943505007"
   ]
  },
  "kaynaklar": {
@@ -544,7 +548,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 73,
-  "elenen": 57
+  "gonderilen": 76,
+  "elenen": 58
  }
 }
