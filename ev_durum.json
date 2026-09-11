@@ -215,7 +215,8 @@
    "t4-alvalade-enorme-a-nao-perder-c-novo-e-coz-bem-equipada-ID1iRXE",
    "apartamento-t1-novo-com-varanda-e-mobildado-ID1iRYl",
    "t2-bairro-do-rego-lisboa-setembro-2026-ID1iRYb",
-   "apartamento-t2-para-arrendamento-ID1iRZg"
+   "apartamento-t2-para-arrendamento-ID1iRZg",
+   "t2-luminoso-em-campo-de-ourique-com-cozinha-equipada-ID1iS5E"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -516,7 +517,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -553,6 +554,6 @@
  "gunluk": {
   "tarih": "2026-09-11",
   "gonderilen": 80,
-  "elenen": 58
+  "elenen": 59
  }
 }
