@@ -109,7 +109,8 @@
    "arrendamento-de-apartamento-t2-na-rua-afonso-lopes-vieira-58-ID1gZTy",
    "t3-duplex-a-estacao-de-comboios-de-benfica-av-gomes-pereira-ID1iD2u",
    "t2-remodelado-com-varanda-a-5-minutos-a-pe-do-instituto-superior-ID1iRHi",
-   "t2-graca-ID1iMXM"
+   "t2-graca-ID1iMXM",
+   "apartamento-70-m-estrela-ID1iNN7"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -243,7 +244,10 @@
    "apartments/1594626",
    "apartments/1182744",
    "apartments/766888",
-   "apartments/301105"
+   "apartments/301105",
+   "apartments/1699970",
+   "apartments/1584848",
+   "apartments/1535017"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -344,7 +348,8 @@
    "30505841",
    "24608094",
    "1771290073749654469",
-   "1620455067398274142"
+   "1620455067398274142",
+   "747607353078268954"
   ]
  },
  "kaynaklar": {
@@ -386,7 +391,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-10",
-  "gonderilen": 54,
-  "elenen": 29
+  "gonderilen": 57,
+  "elenen": 31
  }
 }
