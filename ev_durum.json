@@ -117,7 +117,8 @@
    "apartamento-t0-com-terraco-e-mobilado-ID1iOnk",
    "apartamento-120-m-olivais-ID1iQ9B",
    "apartamento-t5-com-ar-condicionado-na-av-de-roma-ID1iCZK",
-   "apartamento-para-arrendar-praca-das-flores-lisboa-ID1iQmb"
+   "apartamento-para-arrendar-praca-das-flores-lisboa-ID1iQmb",
+   "apartamento-arrendar-ID1iRI5"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -321,7 +322,9 @@
    "804053",
    "419508",
    "59423",
-   "150763"
+   "150763",
+   "888316",
+   "59479"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -367,8 +370,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -404,6 +407,6 @@
  "gunluk": {
   "tarih": "2026-09-11",
   "gonderilen": 1,
-  "elenen": 1
+  "elenen": 4
  }
 }
