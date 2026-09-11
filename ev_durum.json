@@ -127,7 +127,10 @@
    "t2-remodelado-com-vista-livre-na-calcada-de-carriche-ID1iRIa",
    "moderno-t2-remodelado-com-vista-livre-na-calcada-de-carriche-ID1iRIB",
    "t1-com-varanda-no-coracao-de-campo-de-ourique-ID1iRIr",
-   "apartamento-t1-com-vista-rio-e-varanda-ajuda-cozinha-equipada-ID1iRJ5"
+   "apartamento-t1-com-vista-rio-e-varanda-ajuda-cozinha-equipada-ID1iRJ5",
+   "t2-em-olivais-com-jardim-e-cozinha-separada-ID1iQDK",
+   "t1-campo-pequeno-ID1iItJ",
+   "t2-remodelado-em-alvalade-mesmo-por-tras-da-av-de-roma-ID1iRKp"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -149,7 +152,9 @@
    "arrenda-se-t2-na-encarnao-IDJA0Zb",
    "apartamento-arrendar-IDJA1L5",
    "apartamento-t1-amadora-casal-de-so-brs-IDJA1QT",
-   "apartamento-t2-na-rua-de-timor-IDJxiWU"
+   "apartamento-t2-na-rua-de-timor-IDJxiWU",
+   "alugo-t1em-leceia-barcarena-IDJA2fm",
+   "arrendamento-t1-metro-reboleira-IDJA26d"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -339,7 +344,13 @@
    "59479",
    "718641",
    "707107",
-   "622688"
+   "622688",
+   "745676",
+   "745674",
+   "745654",
+   "745675",
+   "745655",
+   "745656"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -386,7 +397,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -422,7 +433,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 9,
-  "elenen": 12
+  "gonderilen": 12,
+  "elenen": 20
  }
 }
