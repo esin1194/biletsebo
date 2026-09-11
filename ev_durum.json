@@ -114,7 +114,8 @@
    "apartamento-70-m-estrela-ID1iNN7",
    "t1-no-bairro-historico-da-bica-ID1iMbV",
    "apartamento-t0-com-terraco-e-mobilado-ID1iOnk",
-   "apartamento-120-m-olivais-ID1iQ9B"
+   "apartamento-120-m-olivais-ID1iQ9B",
+   "apartamento-t5-com-ar-condicionado-na-av-de-roma-ID1iCZK"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -316,7 +317,9 @@
    "808059",
    "889869",
    "804053",
-   "419508"
+   "419508",
+   "59423",
+   "150763"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -355,13 +358,14 @@
    "1771290073749654469",
    "1620455067398274142",
    "747607353078268954",
-   "585175"
+   "585175",
+   "767911917280466069"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -397,7 +401,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-10",
-  "gonderilen": 62,
-  "elenen": 31
+  "gonderilen": 63,
+  "elenen": 34
  }
 }
