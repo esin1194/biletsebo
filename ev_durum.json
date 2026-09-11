@@ -188,7 +188,10 @@
    "apartamento-t2-para-arrendamento-ID1iRUn",
    "apartamento-t3-para-arrendamento-ID1iRUh",
    "t1-1-remodelado-na-ajuda-com-cozinha-totalmente-equipada-ID1iRUb",
-   "apartamento-duplex-para-arrendar-na-praca-das-flores-ID1iRTT"
+   "apartamento-duplex-para-arrendar-na-praca-das-flores-ID1iRTT",
+   "t3-com-varanda-e-logradouro-totalmente-recuperado-praca-paiva-c-ID1iRXd",
+   "apartamento-completo-para-alugar-diretamente-ID1iRVK",
+   "arrendo-alugo-apartamento-t1-1-duplex-com-garagem-na-lapa-lisbo-ID1iRVp"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -215,7 +218,9 @@
    "arrendamento-t1-metro-reboleira-IDJA26d",
    "t2-disponvel-totalmente-envidraado-e-equipado-despesas-includas-IDJ0bRs",
    "t2-linda-a-velha-proximo-pingo-doce-IDJuEDj",
-   "amadora-t2-1-andar-com-garagem-box-totalmente-renovado-IDJuM9U"
+   "amadora-t2-1-andar-com-garagem-box-totalmente-renovado-IDJuM9U",
+   "apartamento-completo-para-alugar-diretamente-IDJA5vd",
+   "apartamento-com-2-quartos-IDJumFn"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -419,7 +424,8 @@
    "851398",
    "128929",
    "750493",
-   "608894"
+   "608894",
+   "160"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -503,7 +509,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 47,
-  "elenen": 48
+  "gonderilen": 49,
+  "elenen": 52
  }
 }
