@@ -254,7 +254,8 @@
    "apart-t1-1-junto-ao-jardim-da-musica-e-c-m-odivelas-IDJA7Qn",
    "apartamento-t1-em-pontinha-odivelas-IDJA7wr",
    "t2-para-alugar-em-porto-salvo-IDJoLZL",
-   "t3-na-reboleira-para-alugar-IDJduxg"
+   "t3-na-reboleira-para-alugar-IDJduxg",
+   "a-melhor-vista-de-lisboa-t2-em-belm-com-vista-espectacular-sobre-o-tejo-2wc-elevador-IDJg7sZ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -515,7 +516,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -551,7 +552,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 79,
+  "gonderilen": 80,
   "elenen": 58
  }
 }
