@@ -44,7 +44,8 @@
    "32898542",
    "35324528",
    "34916663",
-   "35324525"
+   "35324525",
+   "32423349"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -125,7 +126,8 @@
    "t1-com-patio-privado-nas-merces-lisboa-disponivel-em-nov-2026-ID1iQvR",
    "t2-remodelado-com-vista-livre-na-calcada-de-carriche-ID1iRIa",
    "moderno-t2-remodelado-com-vista-livre-na-calcada-de-carriche-ID1iRIB",
-   "t1-com-varanda-no-coracao-de-campo-de-ourique-ID1iRIr"
+   "t1-com-varanda-no-coracao-de-campo-de-ourique-ID1iRIr",
+   "apartamento-t1-com-vista-rio-e-varanda-ajuda-cozinha-equipada-ID1iRJ5"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -334,7 +336,10 @@
    "59423",
    "150763",
    "888316",
-   "59479"
+   "59479",
+   "718641",
+   "707107",
+   "622688"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -374,7 +379,8 @@
    "1620455067398274142",
    "747607353078268954",
    "585175",
-   "767911917280466069"
+   "767911917280466069",
+   "27086651"
   ]
  },
  "kaynaklar": {
@@ -416,7 +422,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 7,
-  "elenen": 8
+  "gonderilen": 9,
+  "elenen": 12
  }
 }
