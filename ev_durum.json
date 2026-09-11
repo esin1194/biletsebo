@@ -191,7 +191,9 @@
    "apartamento-duplex-para-arrendar-na-praca-das-flores-ID1iRTT",
    "t3-com-varanda-e-logradouro-totalmente-recuperado-praca-paiva-c-ID1iRXd",
    "apartamento-completo-para-alugar-diretamente-ID1iRVK",
-   "arrendo-alugo-apartamento-t1-1-duplex-com-garagem-na-lapa-lisbo-ID1iRVp"
+   "arrendo-alugo-apartamento-t1-1-duplex-com-garagem-na-lapa-lisbo-ID1iRVp",
+   "t1-na-penha-de-franca-ID1iRXR",
+   "t4-alvalade-enorme-a-nao-perder-c-novo-e-coz-bem-equipada-ID1iRXE"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -425,7 +427,9 @@
    "128929",
    "750493",
    "608894",
-   "160"
+   "160",
+   "228799",
+   "433806"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -467,7 +471,8 @@
    "585175",
    "767911917280466069",
    "27086651",
-   "1771777049975478218"
+   "1771777049975478218",
+   "1677869048240713241"
   ]
  },
  "kaynaklar": {
@@ -509,7 +514,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 49,
-  "elenen": 52
+  "gonderilen": 51,
+  "elenen": 55
  }
 }
