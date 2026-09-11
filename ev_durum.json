@@ -118,7 +118,9 @@
    "apartamento-120-m-olivais-ID1iQ9B",
    "apartamento-t5-com-ar-condicionado-na-av-de-roma-ID1iCZK",
    "apartamento-para-arrendar-praca-das-flores-lisboa-ID1iQmb",
-   "apartamento-arrendar-ID1iRI5"
+   "apartamento-arrendar-ID1iRI5",
+   "t1-com-patio-privado-nas-merces-lisboa-disponivel-em-nov-2026-ID1iQvR",
+   "t2-remodelado-com-vista-livre-na-calcada-de-carriche-ID1iRIa"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -137,7 +139,8 @@
    "t2-luminoso-com-excelente-vista-IDJzYuM",
    "apartamento-t2-para-arrendamento-IDJzRK9",
    "t2-no-alameada-alto-da-barra-IDJA0el",
-   "arrenda-se-t2-na-encarnao-IDJA0Zb"
+   "arrenda-se-t2-na-encarnao-IDJA0Zb",
+   "apartamento-arrendar-IDJA1L5"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -370,7 +373,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -406,7 +409,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 1,
-  "elenen": 4
+  "gonderilen": 2,
+  "elenen": 6
  }
 }
