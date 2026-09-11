@@ -184,7 +184,11 @@
    "apartamento-com-2-quartos-localizado-em-graca-lisbon-ID1iRP7",
    "apartamento-com-1-quartos-localizado-em-cais-do-sodre-lisbon-ID1iRP6",
    "apartamento-t3-para-arrendamento-ID1iRRI",
-   "apartamento-t1-no-prata-riverside-village-ID1iRSq"
+   "apartamento-t1-no-prata-riverside-village-ID1iRSq",
+   "apartamento-t2-para-arrendamento-ID1iRUn",
+   "apartamento-t3-para-arrendamento-ID1iRUh",
+   "t1-1-remodelado-na-ajuda-com-cozinha-totalmente-equipada-ID1iRUb",
+   "apartamento-duplex-para-arrendar-na-praca-das-flores-ID1iRTT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -414,7 +418,8 @@
    "851755",
    "851398",
    "128929",
-   "750493"
+   "750493",
+   "608894"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -455,7 +460,8 @@
    "747607353078268954",
    "585175",
    "767911917280466069",
-   "27086651"
+   "27086651",
+   "1771777049975478218"
   ]
  },
  "kaynaklar": {
@@ -497,7 +503,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 46,
-  "elenen": 43
+  "gonderilen": 47,
+  "elenen": 48
  }
 }
