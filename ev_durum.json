@@ -331,7 +331,8 @@
    "arrendo-t2-lumiar-IDJbdlx",
    "aluguer-apartamento-t2-IDJAa9h",
    "t1-bingo-da-amadora-reboleira-IDJAaml",
-   "t3-renovado-so-marcos-taguspark-oeiras-valley-IDJAbdV"
+   "t3-renovado-so-marcos-taguspark-oeiras-valley-IDJAbdV",
+   "arrenda-se-moradia-t1-IDJAbEY"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -700,7 +701,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -737,6 +738,6 @@
  "gunluk": {
   "tarih": "2026-09-12",
   "gonderilen": 67,
-  "elenen": 15
+  "elenen": 16
  }
 }
