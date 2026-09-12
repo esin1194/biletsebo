@@ -265,7 +265,8 @@
    "apartamento-t3-para-arrendamento-ID1iSaF",
    "apartamento-t2-para-arrendamento-ID1iSaz",
    "apartamento-t2-para-arrendamento-ID1iSbC",
-   "apartamento-t1-para-arrendamento-ID1iSb9"
+   "apartamento-t1-para-arrendamento-ID1iSb9",
+   "t1-portas-de-benfica-450mts-do-metro-ID13lWO"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -316,7 +317,8 @@
    "arrendamento-de-apartamento-t1-IDJuRkM",
    "arrendamento-apartamento-t3-junto-das-torres-de-lisboa-IDJvjxX",
    "arrendo-t2-lumiar-IDJbdlx",
-   "aluguer-apartamento-t2-IDJAa9h"
+   "aluguer-apartamento-t2-IDJAa9h",
+   "t1-bingo-da-amadora-reboleira-IDJAaml"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -659,7 +661,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -695,7 +697,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-12",
-  "gonderilen": 37,
-  "elenen": 12
+  "gonderilen": 38,
+  "elenen": 13
  }
 }
