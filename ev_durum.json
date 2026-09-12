@@ -408,7 +408,29 @@
    "apartments/1594658",
    "apartments/655494",
    "apartments/1180604",
-   "apartments/1542447"
+   "apartments/1542447",
+   "apartments/1013282",
+   "apartments/641335",
+   "apartments/1066847",
+   "apartments/1337375",
+   "apartments/773603",
+   "apartments/1072100",
+   "apartments/380830",
+   "apartments/1482120",
+   "apartments/926825",
+   "apartments/917129",
+   "apartments/634277",
+   "apartments/1485070",
+   "apartments/728701",
+   "apartments/291998",
+   "apartments/1441923",
+   "apartments/1616713",
+   "apartments/370598",
+   "apartments/676735",
+   "apartments/444567",
+   "apartments/1648342",
+   "apartments/1476111",
+   "apartments/1496675"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -418,7 +440,8 @@
    "ut1735475",
    "ut1734364",
    "ut1213051",
-   "ut1670463"
+   "ut1670463",
+   "ut1662640"
   ],
   "uniplaces.com": [
    "890027",
@@ -588,7 +611,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-11",
-  "gonderilen": 99,
-  "elenen": 60
+  "gonderilen": 108,
+  "elenen": 62
  }
 }
