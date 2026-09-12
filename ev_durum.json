@@ -136,7 +136,8 @@
    "35327333",
    "35327638",
    "35327637",
-   "35327628"
+   "35327628",
+   "35327907"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -266,7 +267,8 @@
    "apartamento-t2-para-arrendamento-ID1iSaz",
    "apartamento-t2-para-arrendamento-ID1iSbC",
    "apartamento-t1-para-arrendamento-ID1iSb9",
-   "t1-portas-de-benfica-450mts-do-metro-ID13lWO"
+   "t1-portas-de-benfica-450mts-do-metro-ID13lWO",
+   "arrendamento-t3-ID1iScx"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -661,7 +663,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -697,7 +699,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-12",
-  "gonderilen": 38,
-  "elenen": 13
+  "gonderilen": 39,
+  "elenen": 14
  }
 }
