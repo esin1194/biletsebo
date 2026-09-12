@@ -144,7 +144,10 @@
    "35328197",
    "35328137",
    "35327814",
-   "35128991"
+   "35128991",
+   "35328354",
+   "35328353",
+   "35328288"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -516,7 +519,12 @@
    "apartments/1633940",
    "apartments/390046",
    "apartments/1494602",
-   "apartments/1180329"
+   "apartments/1180329",
+   "apartments/253118",
+   "apartments/412013",
+   "apartments/300205",
+   "apartments/560787",
+   "apartments/398694"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -710,7 +718,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-12",
-  "gonderilen": 50,
+  "gonderilen": 56,
   "elenen": 14
  }
 }
