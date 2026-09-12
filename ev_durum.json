@@ -259,7 +259,8 @@
    "apartamento-t0-para-arrendamento-ID1iS7n",
    "t1-campo-de-ourique-ID1iS8w",
    "apartamento-t2-para-arrendamento-ID1iS8m",
-   "apartamento-t1-para-arrendamento-ID1iS8k"
+   "apartamento-t1-para-arrendamento-ID1iS8k",
+   "excelente-apartamento-t2-para-arrendamento-mobilado-na-rua-cecilia-mei-ID1iSag"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -585,7 +586,8 @@
    "228799",
    "433806",
    "883454",
-   "890704"
+   "890704",
+   "861746"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -645,7 +647,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -681,7 +683,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-12",
-  "gonderilen": 30,
+  "gonderilen": 31,
   "elenen": 6
  }
 }
