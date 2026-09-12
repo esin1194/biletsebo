@@ -293,7 +293,8 @@
    "arrendo-apartamento-t3-na-pvoa-de-santo-adrio-odivelas-IDJxbzV",
    "t1-com-terraco-quinta-das-flores-massama-IDJA8gq",
    "apartamento-t1-na-pontinha-odivelas-IDJA7wr",
-   "sao-domingos-de-rana-arrenda-se-t2-IDJA8Bl"
+   "sao-domingos-de-rana-arrenda-se-t2-IDJA8Bl",
+   "t1-em-anjos-mobilado-IDJ7fVK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -611,7 +612,8 @@
    "1482561880331470368",
    "1462339477285956100",
    "44692214",
-   "1242225501800385576"
+   "1242225501800385576",
+   "1695788466485306932"
   ]
  },
  "kaynaklar": {
@@ -653,7 +655,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-12",
-  "gonderilen": 12,
+  "gonderilen": 14,
   "elenen": 1
  }
 }
