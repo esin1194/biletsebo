@@ -130,7 +130,10 @@
    "35327244",
    "35327243",
    "34916664",
-   "35327242"
+   "35327242",
+   "35327346",
+   "35327343",
+   "35327333"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -249,7 +252,8 @@
    "t2-bairro-do-rego-lisboa-setembro-2026-ID1iRYb",
    "apartamento-t2-para-arrendamento-ID1iRZg",
    "t2-luminoso-em-campo-de-ourique-com-cozinha-equipada-ID1iS5E",
-   "apartamento-t2-1-com-em-campo-de-ourique-ID1iS5G"
+   "apartamento-t2-1-com-em-campo-de-ourique-ID1iS5G",
+   "apartamento-t0-para-arrendamento-ID1iS7n"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -472,7 +476,8 @@
    "apartments/1321295",
    "apartments/1440620",
    "apartments/1644435",
-   "apartments/468206"
+   "apartments/468206",
+   "apartments/931079"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -655,7 +660,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-12",
-  "gonderilen": 14,
-  "elenen": 1
+  "gonderilen": 18,
+  "elenen": 2
  }
 }
