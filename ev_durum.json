@@ -253,7 +253,10 @@
    "apartamento-t2-para-arrendamento-ID1iRZg",
    "t2-luminoso-em-campo-de-ourique-com-cozinha-equipada-ID1iS5E",
    "apartamento-t2-1-com-em-campo-de-ourique-ID1iS5G",
-   "apartamento-t0-para-arrendamento-ID1iS7n"
+   "apartamento-t0-para-arrendamento-ID1iS7n",
+   "t1-campo-de-ourique-ID1iS8w",
+   "apartamento-t2-para-arrendamento-ID1iS8m",
+   "apartamento-t1-para-arrendamento-ID1iS8k"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -298,7 +301,9 @@
    "t1-com-terraco-quinta-das-flores-massama-IDJA8gq",
    "apartamento-t1-na-pontinha-odivelas-IDJA7wr",
    "sao-domingos-de-rana-arrenda-se-t2-IDJA8Bl",
-   "t1-em-anjos-mobilado-IDJ7fVK"
+   "t1-em-anjos-mobilado-IDJ7fVK",
+   "t1-campo-de-ourique-IDJA9df",
+   "apartamento-t2-na-brandoa-IDJA9ao"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -671,7 +676,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-12",
-  "gonderilen": 23,
-  "elenen": 3
+  "gonderilen": 25,
+  "elenen": 6
  }
 }
