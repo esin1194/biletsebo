@@ -216,7 +216,8 @@
    "apartamento-t1-novo-com-varanda-e-mobildado-ID1iRYl",
    "t2-bairro-do-rego-lisboa-setembro-2026-ID1iRYb",
    "apartamento-t2-para-arrendamento-ID1iRZg",
-   "t2-luminoso-em-campo-de-ourique-com-cozinha-equipada-ID1iS5E"
+   "t2-luminoso-em-campo-de-ourique-com-cozinha-equipada-ID1iS5E",
+   "apartamento-t2-1-com-em-campo-de-ourique-ID1iS5G"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -517,7 +518,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -554,6 +555,6 @@
  "gunluk": {
   "tarih": "2026-09-11",
   "gonderilen": 80,
-  "elenen": 59
+  "elenen": 60
  }
 }
