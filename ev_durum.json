@@ -313,7 +313,9 @@
    "arrendamento-t3-ID1iScx",
    "arrenda-se-zona-de-amadora-t2-ID1iSfM",
    "apartamento-t2-no-alto-do-lumiar-perto-do-metro-ID1iSfH",
-   "apartamento-arroios-ID1iSfY"
+   "apartamento-arroios-ID1iSfY",
+   "t2-totalmente-remodelado-na-penha-de-franca-ID1iSgp",
+   "apartamento-t2-na-av-almirante-reis-totalmente-recuperado-ID1iSgo"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -612,7 +614,9 @@
    "apartments/1594709",
    "apartments/358542",
    "apartments/779379",
-   "apartments/369740"
+   "apartments/369740",
+   "apartments/583636",
+   "apartments/617895"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -811,7 +815,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 41,
-  "elenen": 4
+  "gonderilen": 42,
+  "elenen": 6
  }
 }
