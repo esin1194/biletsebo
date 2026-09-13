@@ -418,7 +418,8 @@
    "apartamento-tipologia-t1-IDJAdBd",
    "t2-queluz-de-baixo-100m2-IDJAdMc",
    "apartamento-t3-colinas-do-cruzeiro-IDJAeaV",
-   "apartamento-t1-telheiras-carnide-arrendar-IDJlyNq"
+   "apartamento-t1-telheiras-carnide-arrendar-IDJlyNq",
+   "arrenda-se-apartamento-t2-IDJkfSd"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -827,7 +828,8 @@
    "1132753062387584387",
    "1601532113321491267",
    "1462340160977713609",
-   "1205051128056953800"
+   "1205051128056953800",
+   "36978550"
   ]
  },
  "kaynaklar": {
@@ -869,7 +871,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 77,
+  "gonderilen": 79,
   "elenen": 15
  }
 }
