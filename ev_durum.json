@@ -147,7 +147,16 @@
    "35128991",
    "35328354",
    "35328353",
-   "35328288"
+   "35328288",
+   "34936268",
+   "35282993",
+   "35289079",
+   "35146846",
+   "35328556",
+   "35328554",
+   "35187271",
+   "35328553",
+   "34670825"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -278,7 +287,9 @@
    "apartamento-t2-para-arrendamento-ID1iSbC",
    "apartamento-t1-para-arrendamento-ID1iSb9",
    "t1-portas-de-benfica-450mts-do-metro-ID13lWO",
-   "arrendamento-t3-ID1iScx"
+   "arrendamento-t3-ID1iScx",
+   "arrenda-se-zona-de-amadora-t2-ID1iSfM",
+   "apartamento-t2-no-alto-do-lumiar-perto-do-metro-ID1iSfH"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -332,7 +343,10 @@
    "aluguer-apartamento-t2-IDJAa9h",
    "t1-bingo-da-amadora-reboleira-IDJAaml",
    "t3-renovado-so-marcos-taguspark-oeiras-valley-IDJAbdV",
-   "arrenda-se-moradia-t1-IDJAbEY"
+   "arrenda-se-moradia-t1-IDJAbEY",
+   "arrenda-se-zona-de-amadora-t2-IDJAcpu",
+   "apartamento-t2-no-alto-do-lumiar-perto-do-metro-IDJAbSP",
+   "t2-na-estrada-de-benfica-prximo-metro-alto-dos-moinhos-IDJoZU7"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -721,7 +735,8 @@
    "606937896751640985",
    "41368992",
    "1132753062387584387",
-   "1601532113321491267"
+   "1601532113321491267",
+   "1462340160977713609"
   ]
  },
  "kaynaklar": {
@@ -763,7 +778,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 8,
-  "elenen": 0
+  "gonderilen": 21,
+  "elenen": 2
  }
 }
