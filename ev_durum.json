@@ -381,7 +381,9 @@
    "t3-telheiras-arrendamento-IDJrQwa",
    "atelier-estdio-no-cabo-ruivo-lisboa-IDJAd6V",
    "apartamento-t2-campo-de-ourique-IDJAczn",
-   "arrendo-apartamento-3-assoalhadas-IDJAclx"
+   "arrendo-apartamento-3-assoalhadas-IDJAclx",
+   "garagem-box-para-arrendamento-massam-IDJAdEc",
+   "apartamento-tipologia-t1-IDJAdBd"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -823,7 +825,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 43,
-  "elenen": 12
+  "gonderilen": 44,
+  "elenen": 13
  }
 }
