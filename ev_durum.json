@@ -355,7 +355,8 @@
    "apartamento-t2-no-alto-do-lumiar-perto-do-metro-IDJAbSP",
    "t2-na-estrada-de-benfica-prximo-metro-alto-dos-moinhos-IDJoZU7",
    "apartamento-arroios-IDJAcyI",
-   "arrendamento-de-apartamento-exclusivamente-a-professora-IDJAcvy"
+   "arrendamento-de-apartamento-exclusivamente-a-professora-IDJAcvy",
+   "t3-com-3-quartos-e-sala-de-estudo-disponveis-para-estudantes-arroios-a-5-minutos-do-instituto-superior-tcnico-IDJxgwG"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -590,7 +591,10 @@
    "apartments/1502659",
    "apartments/230567",
    "apartments/445770",
-   "apartments/1594709"
+   "apartments/1594709",
+   "apartments/358542",
+   "apartments/779379",
+   "apartments/369740"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -746,13 +750,14 @@
    "41368992",
    "1132753062387584387",
    "1601532113321491267",
-   "1462340160977713609"
+   "1462340160977713609",
+   "1205051128056953800"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -788,7 +793,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 28,
+  "gonderilen": 31,
   "elenen": 4
  }
 }
