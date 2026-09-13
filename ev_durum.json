@@ -385,7 +385,8 @@
    "arrendo-apartamento-3-assoalhadas-IDJAclx",
    "garagem-box-para-arrendamento-massam-IDJAdEc",
    "apartamento-tipologia-t1-IDJAdBd",
-   "t2-queluz-de-baixo-100m2-IDJAdMc"
+   "t2-queluz-de-baixo-100m2-IDJAdMc",
+   "apartamento-t3-colinas-do-cruzeiro-IDJAeaV"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -827,7 +828,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 46,
+  "gonderilen": 47,
   "elenen": 13
  }
 }
