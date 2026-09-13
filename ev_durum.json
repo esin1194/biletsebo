@@ -349,7 +349,8 @@
    "apartamento-t2-na-av-almirante-reis-totalmente-recuperado-ID1iSgo",
    "atelier-estudio-no-cabo-ruivo-lisboa-ID1iSgu",
    "apartamento-t2-campo-de-ourique-ID1iSgt",
-   "apartamento-t0-com-varanda-e-ar-condicionado-ID1iSgQ"
+   "apartamento-t0-com-varanda-e-ar-condicionado-ID1iSgQ",
+   "apartamento-t3-entrada-independente-e-aguas-furtadas-estrela-lisboa-ID1iShT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -835,7 +836,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -871,7 +872,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 79,
+  "gonderilen": 80,
   "elenen": 15
  }
 }
