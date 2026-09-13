@@ -179,7 +179,18 @@
    "35328799",
    "35328769",
    "35328628",
-   "35328277"
+   "35328277",
+   "35329096",
+   "35329045",
+   "35329094",
+   "35329044",
+   "35329092",
+   "35329089",
+   "35329053",
+   "35329043",
+   "35329051",
+   "35328904",
+   "35328856"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -386,7 +397,8 @@
    "garagem-box-para-arrendamento-massam-IDJAdEc",
    "apartamento-tipologia-t1-IDJAdBd",
    "t2-queluz-de-baixo-100m2-IDJAdMc",
-   "apartamento-t3-colinas-do-cruzeiro-IDJAeaV"
+   "apartamento-t3-colinas-do-cruzeiro-IDJAeaV",
+   "apartamento-t1-telheiras-carnide-arrendar-IDJlyNq"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -627,7 +639,10 @@
    "apartments/369740",
    "apartments/583636",
    "apartments/617895",
-   "apartments/765147"
+   "apartments/765147",
+   "apartments/603108",
+   "apartments/515492",
+   "apartments/333005"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -828,7 +843,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 47,
+  "gonderilen": 58,
   "elenen": 13
  }
 }
