@@ -271,7 +271,15 @@
    "35331365",
    "35330681",
    "35330588",
-   "35330658"
+   "35330658",
+   "35331626",
+   "35331659",
+   "35331639",
+   "35331578",
+   "35331584",
+   "33973629",
+   "35329909",
+   "35329804"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -426,7 +434,8 @@
    "apartamento-t2-na-ajuda-ID1iSvq",
    "studio-para-dividir-olivais-ID1iSvc",
    "t1-novo-para-arrendamento-no-duuo-avenidas-novas-lisboa-ID1iSvZ",
-   "apartamento-t1-penha-de-franca-vista-rio-ID1iwTU"
+   "apartamento-t1-penha-de-franca-vista-rio-ID1iwTU",
+   "t2-totalmente-renovado-e-mobilado-em-alvalade-ID1iSzC"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -994,7 +1003,8 @@
    "36402124",
    "1757335643344515842",
    "1764415695866799962",
-   "1331782250108966516"
+   "1331782250108966516",
+   "1412137252340426975"
   ]
  },
  "kaynaklar": {
@@ -1036,7 +1046,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 61,
+  "gonderilen": 71,
   "elenen": 30
  }
 }
