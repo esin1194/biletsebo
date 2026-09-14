@@ -508,7 +508,8 @@
    "t2-falagueira-perto-do-metro-IDJAj8t",
    "apartamento-t2-santa-engrcia-IDJAjlB",
    "studio-para-dividir-olivais-IDJAjlb",
-   "arrendamento-t1-1-em-alto-do-murtal-IDJAkB5"
+   "arrendamento-t1-1-em-alto-do-murtal-IDJAkB5",
+   "apartamento-para-arrendar-carnaxide-IDJAkPL"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -914,7 +915,10 @@
    "890940",
    "890705",
    "892576",
-   "891909"
+   "891909",
+   "119880",
+   "748437",
+   "154719"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1032,7 +1036,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 60,
-  "elenen": 27
+  "gonderilen": 61,
+  "elenen": 30
  }
 }
