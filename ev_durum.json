@@ -394,7 +394,8 @@
    "t2-renovado-para-arrendamento-rua-das-trinas-lisboa-ID1iSrA",
    "apartamento-t1-mobilado-no-condominio-villa-garcia-pedroucos-ID1iSsE",
    "t1-luminoso-na-rua-de-sao-bento-ID1iStW",
-   "apartamento-t2-renovado-e-luminoso-junto-ao-hotel-pestana-palace-ID1iSuS"
+   "apartamento-t2-renovado-e-luminoso-junto-ao-hotel-pestana-palace-ID1iSuS",
+   "apartamento-t2-santa-engracia-ID1iSwC"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -473,7 +474,8 @@
    "t2-moradia-c-terrao-pronto-entrar-b-so-mateus-cascais-IDJAikS",
    "t1-luminoso-na-rua-de-so-bento-IDJAhR6",
    "alugo-apartamento-azueira-mafra-IDJxkG1",
-   "t2-falagueira-perto-do-metro-IDJAj8t"
+   "t2-falagueira-perto-do-metro-IDJAj8t",
+   "apartamento-t2-santa-engrcia-IDJAjlB"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -952,13 +954,14 @@
    "1643378607614104727",
    "1427414249721147228",
    "36402124",
-   "1757335643344515842"
+   "1757335643344515842",
+   "1764415695866799962"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -994,7 +997,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 43,
-  "elenen": 21
+  "gonderilen": 44,
+  "elenen": 23
  }
 }
