@@ -393,7 +393,8 @@
    "t1-mobilado-e-luminoso-com-varandas-av-barbosa-du-bocage-ID1iSqR",
    "t2-renovado-para-arrendamento-rua-das-trinas-lisboa-ID1iSrA",
    "apartamento-t1-mobilado-no-condominio-villa-garcia-pedroucos-ID1iSsE",
-   "t1-luminoso-na-rua-de-sao-bento-ID1iStW"
+   "t1-luminoso-na-rua-de-sao-bento-ID1iStW",
+   "apartamento-t2-renovado-e-luminoso-junto-ao-hotel-pestana-palace-ID1iSuS"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -471,7 +472,8 @@
    "apartamento-t2-sobralinho-IDJ6yF8",
    "t2-moradia-c-terrao-pronto-entrar-b-so-mateus-cascais-IDJAikS",
    "t1-luminoso-na-rua-de-so-bento-IDJAhR6",
-   "alugo-apartamento-azueira-mafra-IDJxkG1"
+   "alugo-apartamento-azueira-mafra-IDJxkG1",
+   "t2-falagueira-perto-do-metro-IDJAj8t"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -956,7 +958,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -992,7 +994,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 41,
+  "gonderilen": 43,
   "elenen": 21
  }
 }
