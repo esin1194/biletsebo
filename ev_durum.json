@@ -672,7 +672,16 @@
    "apartments/452940",
    "apartments/966667",
    "apartments/635024",
-   "apartments/1535072"
+   "apartments/1535072",
+   "apartments/609663",
+   "apartments/1484819",
+   "apartments/1181630",
+   "apartments/765243",
+   "apartments/1594600",
+   "apartments/1069381",
+   "apartments/1165984",
+   "apartments/336905",
+   "apartments/523298"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -862,7 +871,7 @@
   },
   "https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.uniplaces.com/accommodation/lisbon": {
@@ -878,7 +887,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 85,
+  "gonderilen": 90,
   "elenen": 16
  }
 }
