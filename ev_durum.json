@@ -435,7 +435,8 @@
    "studio-para-dividir-olivais-ID1iSvc",
    "t1-novo-para-arrendamento-no-duuo-avenidas-novas-lisboa-ID1iSvZ",
    "apartamento-t1-penha-de-franca-vista-rio-ID1iwTU",
-   "t2-totalmente-renovado-e-mobilado-em-alvalade-ID1iSzC"
+   "t2-totalmente-renovado-e-mobilado-em-alvalade-ID1iSzC",
+   "arrendamento-t1-60-m-avenida-almirante-gago-coutinho-confort-ID1hxUr"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -518,7 +519,9 @@
    "apartamento-t2-santa-engrcia-IDJAjlB",
    "studio-para-dividir-olivais-IDJAjlb",
    "arrendamento-t1-1-em-alto-do-murtal-IDJAkB5",
-   "apartamento-para-arrendar-carnaxide-IDJAkPL"
+   "apartamento-para-arrendar-carnaxide-IDJAkPL",
+   "apartamento-t1-para-arrendar-nas-portas-de-benfica-venda-nova-amadora-IDJAlk0",
+   "t2-totalmente-renovado-e-mobilado-em-alvalade-IDJAlhX"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -811,7 +814,9 @@
    "apartments/476382",
    "apartments/1662001",
    "apartments/1568169",
-   "apartments/281108"
+   "apartments/281108",
+   "apartments/398680",
+   "apartments/1180599"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1046,7 +1051,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 71,
-  "elenen": 30
+  "gonderilen": 74,
+  "elenen": 31
  }
 }
