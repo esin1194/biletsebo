@@ -221,7 +221,23 @@
    "35329733",
    "35329126",
    "35329137",
-   "35329124"
+   "35329124",
+   "35330271",
+   "35330279",
+   "35330238",
+   "35330261",
+   "35330252",
+   "35330237",
+   "35330236",
+   "35330235",
+   "35330187",
+   "35330175",
+   "35330228",
+   "35330249",
+   "35330241",
+   "35330218",
+   "35330217",
+   "35330216"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -438,7 +454,8 @@
    "arrenda-se-apartamento-t2-IDJkfSd",
    "skyline-t1-apartment-in-alcntara-IDJAfMS",
    "apartamento-mobiliado-no-beato-IDJ3h25",
-   "arrendamento-de-apartamento-t2-lourinh-centro-IDJAhpD"
+   "arrendamento-de-apartamento-t2-lourinh-centro-IDJAhpD",
+   "jovem-investigador-phd-procura-apartamento-t0-ou-t1-em-lisboa-baixa-chiado-ou-perto-at-1100-IDJAhpK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -838,7 +855,8 @@
    "735722",
    "64823",
    "838766",
-   "849014"
+   "849014",
+   "890940"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -914,7 +932,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -950,7 +968,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 15,
-  "elenen": 13
+  "gonderilen": 25,
+  "elenen": 14
  }
 }
