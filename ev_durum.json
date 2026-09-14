@@ -436,7 +436,8 @@
    "t1-novo-para-arrendamento-no-duuo-avenidas-novas-lisboa-ID1iSvZ",
    "apartamento-t1-penha-de-franca-vista-rio-ID1iwTU",
    "t2-totalmente-renovado-e-mobilado-em-alvalade-ID1iSzC",
-   "arrendamento-t1-60-m-avenida-almirante-gago-coutinho-confort-ID1hxUr"
+   "arrendamento-t1-60-m-avenida-almirante-gago-coutinho-confort-ID1hxUr",
+   "apartamento-t1-em-alfama-perto-do-metro-santa-apolonia-ID1iSfH"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1024,7 +1025,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1061,6 +1062,6 @@
  "gunluk": {
   "tarih": "2026-09-14",
   "gonderilen": 78,
-  "elenen": 33
+  "elenen": 34
  }
 }
