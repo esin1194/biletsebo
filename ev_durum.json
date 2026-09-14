@@ -437,7 +437,8 @@
    "apartamento-t1-telheiras-carnide-arrendar-IDJlyNq",
    "arrenda-se-apartamento-t2-IDJkfSd",
    "skyline-t1-apartment-in-alcntara-IDJAfMS",
-   "apartamento-mobiliado-no-beato-IDJ3h25"
+   "apartamento-mobiliado-no-beato-IDJ3h25",
+   "arrendamento-de-apartamento-t2-lourinh-centro-IDJAhpD"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -913,7 +914,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -949,7 +950,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 14,
+  "gonderilen": 15,
   "elenen": 13
  }
 }
