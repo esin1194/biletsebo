@@ -392,7 +392,8 @@
    "apartamento-t2-totalmente-remodelado-com-varanda-para-arrendar-sao-do-ID1iSqZ",
    "t1-mobilado-e-luminoso-com-varandas-av-barbosa-du-bocage-ID1iSqR",
    "t2-renovado-para-arrendamento-rua-das-trinas-lisboa-ID1iSrA",
-   "apartamento-t1-mobilado-no-condominio-villa-garcia-pedroucos-ID1iSsE"
+   "apartamento-t1-mobilado-no-condominio-villa-garcia-pedroucos-ID1iSsE",
+   "t1-luminoso-na-rua-de-sao-bento-ID1iStW"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -772,7 +773,8 @@
    "ut1734364",
    "ut1213051",
    "ut1670463",
-   "ut1662640"
+   "ut1662640",
+   "ut1457663"
   ],
   "uniplaces.com": [
    "890027",
@@ -943,7 +945,10 @@
    "49966942",
    "646238695682428835",
    "1771672995272055868",
-   "1643378607614104727"
+   "1643378607614104727",
+   "1427414249721147228",
+   "36402124",
+   "1757335643344515842"
   ]
  },
  "kaynaklar": {
@@ -985,7 +990,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 36,
-  "elenen": 19
+  "gonderilen": 40,
+  "elenen": 20
  }
 }
