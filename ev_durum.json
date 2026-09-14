@@ -395,7 +395,9 @@
    "apartamento-t1-mobilado-no-condominio-villa-garcia-pedroucos-ID1iSsE",
    "t1-luminoso-na-rua-de-sao-bento-ID1iStW",
    "apartamento-t2-renovado-e-luminoso-junto-ao-hotel-pestana-palace-ID1iSuS",
-   "apartamento-t2-santa-engracia-ID1iSwC"
+   "apartamento-t2-santa-engracia-ID1iSwC",
+   "apartamento-t2-na-ajuda-ID1iSvq",
+   "studio-para-dividir-olivais-ID1iSvc"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -475,7 +477,8 @@
    "t1-luminoso-na-rua-de-so-bento-IDJAhR6",
    "alugo-apartamento-azueira-mafra-IDJxkG1",
    "t2-falagueira-perto-do-metro-IDJAj8t",
-   "apartamento-t2-santa-engrcia-IDJAjlB"
+   "apartamento-t2-santa-engrcia-IDJAjlB",
+   "studio-para-dividir-olivais-IDJAjlb"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -880,7 +883,8 @@
    "849014",
    "890940",
    "890705",
-   "892576"
+   "892576",
+   "891909"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -955,7 +959,8 @@
    "1427414249721147228",
    "36402124",
    "1757335643344515842",
-   "1764415695866799962"
+   "1764415695866799962",
+   "1331782250108966516"
   ]
  },
  "kaynaklar": {
@@ -997,7 +1002,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 44,
-  "elenen": 23
+  "gonderilen": 47,
+  "elenen": 25
  }
 }
