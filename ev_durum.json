@@ -269,7 +269,9 @@
    "35331394",
    "35331366",
    "35331365",
-   "35330681"
+   "35330681",
+   "35330588",
+   "35330658"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -505,7 +507,8 @@
    "alugo-apartamento-azueira-mafra-IDJxkG1",
    "t2-falagueira-perto-do-metro-IDJAj8t",
    "apartamento-t2-santa-engrcia-IDJAjlB",
-   "studio-para-dividir-olivais-IDJAjlb"
+   "studio-para-dividir-olivais-IDJAjlb",
+   "arrendamento-t1-1-em-alto-do-murtal-IDJAkB5"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1029,7 +1032,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 57,
+  "gonderilen": 60,
   "elenen": 27
  }
 }
