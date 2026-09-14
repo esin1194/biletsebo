@@ -681,7 +681,11 @@
    "apartments/1069381",
    "apartments/1165984",
    "apartments/336905",
-   "apartments/523298"
+   "apartments/523298",
+   "apartments/1020634",
+   "apartments/997854",
+   "apartments/603373",
+   "apartments/442852"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -851,7 +855,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -871,7 +875,7 @@
   },
   "https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.uniplaces.com/accommodation/lisbon": {
@@ -887,7 +891,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-13",
-  "gonderilen": 90,
+  "gonderilen": 91,
   "elenen": 16
  }
 }
