@@ -423,7 +423,8 @@
    "apartamento-t3-colinas-do-cruzeiro-IDJAeaV",
    "apartamento-t1-telheiras-carnide-arrendar-IDJlyNq",
    "arrenda-se-apartamento-t2-IDJkfSd",
-   "skyline-t1-apartment-in-alcntara-IDJAfMS"
+   "skyline-t1-apartment-in-alcntara-IDJAfMS",
+   "apartamento-mobiliado-no-beato-IDJ3h25"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -714,7 +715,8 @@
    "apartments/956501",
    "apartments/1690885",
    "apartments/476382",
-   "apartments/1662001"
+   "apartments/1662001",
+   "apartments/1568169"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -887,8 +889,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -923,7 +925,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 2,
+  "gonderilen": 3,
   "elenen": 1
  }
 }
