@@ -239,7 +239,11 @@
    "35330217",
    "35330216",
    "32932608",
-   "35329872"
+   "35329872",
+   "35330417",
+   "35329918",
+   "35329917",
+   "35329885"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -383,7 +387,9 @@
    "skyline-t1-apartment-in-alcantara-ID1iSl5",
    "t1-exclusivo-em-localizacao-privilegiada-ID1iSm2",
    "apartamento-com-3-quartos-localizado-em-santa-apolonia-lisbon-ID1iSpJ",
-   "apartamento-t3-nas-amoreiras-ID1iSpw"
+   "apartamento-t3-nas-amoreiras-ID1iSpw",
+   "apartamento-t2-totalmente-remodelado-com-varanda-para-arrendar-sao-do-ID1iSqZ",
+   "t1-mobilado-e-luminoso-com-varandas-av-barbosa-du-bocage-ID1iSqR"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -749,7 +755,8 @@
    "apartments/1690885",
    "apartments/476382",
    "apartments/1662001",
-   "apartments/1568169"
+   "apartments/1568169",
+   "apartments/281108"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -970,7 +977,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-14",
-  "gonderilen": 27,
-  "elenen": 14
+  "gonderilen": 32,
+  "elenen": 15
  }
 }
