@@ -563,7 +563,8 @@
    "t3-disponivel-lisboa-IDJAov0",
    "apartamento-t2-para-alugar-em-carnaxide-IDJlHjA",
    "t2-arrendamento-alfama-IDJzKhD",
-   "arrendo-apartamento-t1-no-junqueiro-carcavelos-IDJApfh"
+   "arrendo-apartamento-t1-no-junqueiro-carcavelos-IDJApfh",
+   "arrenda-se-t2-benfica-IDJApxe"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -932,7 +933,9 @@
    "apartments/1334649",
    "apartments/1445077",
    "apartments/1679502",
-   "apartments/1523322"
+   "apartments/1523322",
+   "apartments/584982",
+   "apartments/1670576"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1067,7 +1070,9 @@
    "623136",
    "820266",
    "890319",
-   "557000"
+   "557000",
+   "889348",
+   "889347"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1192,7 +1197,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 67,
-  "elenen": 29
+  "gonderilen": 70,
+  "elenen": 31
  }
 }
