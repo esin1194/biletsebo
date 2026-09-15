@@ -291,7 +291,8 @@
    "35332307",
    "35332310",
    "34575813",
-   "35333056"
+   "35333056",
+   "35333840"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -584,7 +585,8 @@
    "t1-1-para-arrendamento-IDJAqmi",
    "apartamento-t2-no-alto-de-santo-amaro-IDJAqwh",
    "aluga-se-t2-em-s-domingos-de-rana-zambujal-matarraque-IDJAqsB",
-   "arrenda-se-t1-alguber-cadaval-550-ms-IDJAqXP"
+   "arrenda-se-t1-alguber-cadaval-550-ms-IDJAqXP",
+   "aluga-se-apartamento-t2-graa-lisboa-IDJoU8I"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1192,7 +1194,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1228,7 +1230,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 83,
+  "gonderilen": 85,
   "elenen": 44
  }
 }
