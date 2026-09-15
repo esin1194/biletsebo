@@ -468,7 +468,11 @@
    "arrenda-se-t2-benfica-ID1iSKo",
    "apartamento-t1-para-arrendamento-ID1iSMV",
    "apartamento-t3-para-arrendamento-ID1iSMN",
-   "apartamento-renovado-t2-em-benfica-lisboa-ID1iSME"
+   "apartamento-renovado-t2-em-benfica-lisboa-ID1iSME",
+   "arrendamento-t2-com-estacionamento-em-benfica-ID1iSOo",
+   "t1-parque-das-nacoes-ID1iSNU",
+   "t1-alfama-junto-ao-museu-do-fado-para-arrendamento-ID1iSNI",
+   "t1-1-para-arrendamento-ID1iSNF"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -570,7 +574,8 @@
    "arrenda-se-t2-benfica-IDJApxe",
    "t1-acponchegante-nas-virtudes-cordoaria-IDJApKy",
    "apartamento-de-rs-de-cho-t2-para-arrendamento-82mt-rea-bruta-renovado-IDJxnKR",
-   "apartamento-t3-mem-martins-IDJsBJl"
+   "apartamento-t3-mem-martins-IDJsBJl",
+   "t1-1-para-arrendamento-IDJAqmi"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1081,7 +1086,8 @@
    "557000",
    "889348",
    "889347",
-   "875874"
+   "875874",
+   "835246"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1208,6 +1214,6 @@
  "gunluk": {
   "tarih": "2026-09-15",
   "gonderilen": 77,
-  "elenen": 33
+  "elenen": 39
  }
 }
