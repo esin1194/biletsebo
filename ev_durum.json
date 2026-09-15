@@ -607,7 +607,8 @@
    "aluga-se-t2-em-s-domingos-de-rana-zambujal-matarraque-IDJAqsB",
    "arrenda-se-t1-alguber-cadaval-550-ms-IDJAqXP",
    "aluga-se-apartamento-t2-graa-lisboa-IDJoU8I",
-   "apartamento-moscavide-t1-prximo-metro-e-comboio-IDJArlh"
+   "apartamento-moscavide-t1-prximo-metro-e-comboio-IDJArlh",
+   "arrenda-se-t1-mobilado-com-ptio-na-graa-IDJgkkf"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1219,7 +1220,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1255,7 +1256,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 102,
+  "gonderilen": 103,
   "elenen": 47
  }
 }
