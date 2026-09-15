@@ -501,7 +501,8 @@
    "apartamento-t2-para-arrendamento-ID1iSSZ",
    "t2-mobilado-com-varanda-e-vista-rio-ajuda-lisboa-ID1iSSG",
    "t1-mobilado-com-varanda-e-vista-rio-ajuda-lisboa-ID1iSSF",
-   "apartamento-moscavide-t1-proximo-metro-e-comboio-ID1iSSw"
+   "apartamento-moscavide-t1-proximo-metro-e-comboio-ID1iSSw",
+   "estudio-mobilado-para-arrendar-em-arroios-lisboa-ID1iSU3"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -992,7 +993,9 @@
    "apartments/1281183",
    "apartments/861653",
    "apartments/1658024",
-   "apartments/944156"
+   "apartments/944156",
+   "apartments/1180217",
+   "apartments/1535096"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1224,7 +1227,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1260,7 +1263,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 107,
+  "gonderilen": 108,
   "elenen": 47
  }
 }
