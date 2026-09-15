@@ -282,7 +282,14 @@
    "35329804",
    "35332105",
    "35332104",
-   "34687430"
+   "34687430",
+   "35332336",
+   "35332350",
+   "35332333",
+   "35332326",
+   "35332349",
+   "35332307",
+   "35332310"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -443,7 +450,8 @@
    "apartamento-t1-em-alfama-perto-do-metro-santa-apolonia-ID1iSfH",
    "t1-com-varanda-em-estrela-lisboa-ID1iSBz",
    "arrenda-se-t3-109m2-ar-condicionado-varanda-e-vista-jardim-r-ID1iSBu",
-   "t2-com-93-m-suite-e-estacionamento-em-benfica-ID1iSCV"
+   "t2-com-93-m-suite-e-estacionamento-em-benfica-ID1iSCV",
+   "apartamento-t1-para-arrendamento-ID1iSDC"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -531,7 +539,8 @@
    "t2-totalmente-renovado-e-mobilado-em-alvalade-IDJAlhX",
    "arrendamento-de-apartamento-penha-de-frana-IDJ6eO0",
    "luminoso-t3-115m-com-vista-rio-e-varanda-1-fase-quinta-da-piedade-IDJAmH9",
-   "apartamento-t3-restelo-IDJw2KK"
+   "apartamento-t3-restelo-IDJw2KK",
+   "t2-com-93-m-suite-e-estacionamento-em-benfica-IDJAnkG"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -871,7 +880,10 @@
    "apartments/992643",
    "apartments/281192",
    "apartments/1469749",
-   "apartments/425108"
+   "apartments/425108",
+   "apartments/381393",
+   "apartments/1658033",
+   "apartments/466172"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -993,7 +1005,9 @@
    "70478",
    "418866",
    "743949",
-   "892627"
+   "892627",
+   "592348",
+   "766067"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1115,7 +1129,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 27,
-  "elenen": 5
+  "gonderilen": 37,
+  "elenen": 8
  }
 }
