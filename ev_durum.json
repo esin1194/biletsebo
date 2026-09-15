@@ -460,7 +460,8 @@
    "t2-mobilado-com-2-suites-varanda-e-jardim-privado-na-calcada-das-ID1iSHn",
    "apartamento-com-1-quartos-localizado-em-telheiras-lisbon-ID1iSHb",
    "t2-no-centro-de-moscavide-desafogado-ID1iSGQ",
-   "t3-disponivel-lisboa-ID1iSHO"
+   "t3-disponivel-lisboa-ID1iSHO",
+   "apartamento-t1-para-arrendamento-ID1iSIo"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -554,7 +555,8 @@
    "quarto-individual-em-alfragide-390-com-despesas-includas-IDJAnn4",
    "t2-renovado-loures-IDJAnZE",
    "arrenda-se-t2-na-misericrdia-IDJAo4C",
-   "t2-no-centro-de-moscavide-desafogado-IDJAogi"
+   "t2-no-centro-de-moscavide-desafogado-IDJAogi",
+   "t3-disponivel-lisboa-IDJAov0"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1132,13 +1134,14 @@
    "1412137252340426975",
    "1196348155799474516",
    "1044592540492948989",
-   "45011169"
+   "45011169",
+   "1774617540536914855"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1174,7 +1177,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 56,
+  "gonderilen": 59,
   "elenen": 24
  }
 }
