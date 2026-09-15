@@ -479,7 +479,9 @@
    "apartamento-t2-no-alto-de-santo-amaro-ID1iSOt",
    "apartamento-t1-para-arrendamento-ID1iSPH",
    "apartamento-t1-mobilado-parque-do-rio-parque-das-nacoes-ID1iSPE",
-   "t3-transformado-em-t2-remodelado-com-varanda-na-penha-de-franca-ID1iSP3"
+   "t3-transformado-em-t2-remodelado-com-varanda-na-penha-de-franca-ID1iSP3",
+   "arrendamento-de-apartamento-t4-na-avenida-pereira-gomes-benfica-ID1iN7S",
+   "apartamento-t0-para-arrendamento-ID1iSRE"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1230,7 +1232,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 85,
-  "elenen": 44
+  "gonderilen": 86,
+  "elenen": 45
  }
 }
