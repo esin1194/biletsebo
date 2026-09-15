@@ -464,7 +464,8 @@
    "t3-disponivel-lisboa-ID1iSHO",
    "apartamento-t1-para-arrendamento-ID1iSIo",
    "apartamento-t2-para-arrendamento-ID1iSJj",
-   "apartamento-t1-para-arrendamento-ID1iSJg"
+   "apartamento-t1-para-arrendamento-ID1iSJg",
+   "arrenda-se-t2-benfica-ID1iSKo"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1064,7 +1065,9 @@
    "892671",
    "356337",
    "623136",
-   "820266"
+   "820266",
+   "890319",
+   "557000"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1190,6 +1193,6 @@
  "gunluk": {
   "tarih": "2026-09-15",
   "gonderilen": 67,
-  "elenen": 27
+  "elenen": 29
  }
 }
