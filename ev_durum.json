@@ -608,7 +608,8 @@
    "arrenda-se-t1-alguber-cadaval-550-ms-IDJAqXP",
    "aluga-se-apartamento-t2-graa-lisboa-IDJoU8I",
    "apartamento-moscavide-t1-prximo-metro-e-comboio-IDJArlh",
-   "arrenda-se-t1-mobilado-com-ptio-na-graa-IDJgkkf"
+   "arrenda-se-t1-mobilado-com-ptio-na-graa-IDJgkkf",
+   "arrendamento-residencial-de-t0-na-rua-jos-florindo-663-IDJmGd0"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1214,13 +1215,14 @@
    "1774623727795746305",
    "51442099",
    "37598386",
-   "1556650464012531694"
+   "1556650464012531694",
+   "1670191923323253834"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1256,7 +1258,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 103,
+  "gonderilen": 105,
   "elenen": 47
  }
 }
