@@ -461,7 +461,9 @@
    "apartamento-com-1-quartos-localizado-em-telheiras-lisbon-ID1iSHb",
    "t2-no-centro-de-moscavide-desafogado-ID1iSGQ",
    "t3-disponivel-lisboa-ID1iSHO",
-   "apartamento-t1-para-arrendamento-ID1iSIo"
+   "apartamento-t1-para-arrendamento-ID1iSIo",
+   "apartamento-t2-para-arrendamento-ID1iSJj",
+   "apartamento-t1-para-arrendamento-ID1iSJg"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -556,7 +558,9 @@
    "t2-renovado-loures-IDJAnZE",
    "arrenda-se-t2-na-misericrdia-IDJAo4C",
    "t2-no-centro-de-moscavide-desafogado-IDJAogi",
-   "t3-disponivel-lisboa-IDJAov0"
+   "t3-disponivel-lisboa-IDJAov0",
+   "apartamento-t2-para-alugar-em-carnaxide-IDJlHjA",
+   "t2-arrendamento-alfama-IDJzKhD"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -922,7 +926,8 @@
    "apartments/429497",
    "apartments/1439608",
    "apartments/1498714",
-   "apartments/1334649"
+   "apartments/1334649",
+   "apartments/1445077"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1136,7 +1141,9 @@
    "1196348155799474516",
    "1044592540492948989",
    "45011169",
-   "1774617540536914855"
+   "1774617540536914855",
+   "53064034",
+   "1774623727795746305"
   ]
  },
  "kaynaklar": {
@@ -1178,7 +1185,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 60,
-  "elenen": 24
+  "gonderilen": 65,
+  "elenen": 26
  }
 }
