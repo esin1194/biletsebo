@@ -289,7 +289,8 @@
    "35332326",
    "35332349",
    "35332307",
-   "35332310"
+   "35332310",
+   "34575813"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -454,7 +455,11 @@
    "apartamento-t1-para-arrendamento-ID1iSDC",
    "lisboa-olivais-agradavel-apartamento-de-3-assoalhadas-ID1iRo5",
    "arrenda-se-t2-na-misericordia-ID1iSG1",
-   "arrendamento-apartamento-t1-1-no-centro-de-lisboa-com-54mts2-no-1anda-ID1iSG0"
+   "arrendamento-apartamento-t1-1-no-centro-de-lisboa-com-54mts2-no-1anda-ID1iSG0",
+   "apartamento-t2-renovado-no-areeiro-ID1iSHz",
+   "t2-mobilado-com-2-suites-varanda-e-jardim-privado-na-calcada-das-ID1iSHn",
+   "apartamento-com-1-quartos-localizado-em-telheiras-lisbon-ID1iSHb",
+   "t2-no-centro-de-moscavide-desafogado-ID1iSGQ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -547,7 +552,8 @@
    "aluga-se-t2-em-lisboa-benfica-terrao-espao-para-1-viatura-na-garagem-IDJxmId",
    "quarto-individual-em-alfragide-390-com-despesas-includas-IDJAnn4",
    "t2-renovado-loures-IDJAnZE",
-   "arrenda-se-t2-na-misericrdia-IDJAo4C"
+   "arrenda-se-t2-na-misericrdia-IDJAo4C",
+   "t2-no-centro-de-moscavide-desafogado-IDJAogi"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -896,7 +902,8 @@
    "apartments/1506254",
    "apartments/1680585",
    "apartments/381395",
-   "apartments/584979"
+   "apartments/584979",
+   "apartments/1431328"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1027,7 +1034,9 @@
    "892673",
    "892672",
    "892671",
-   "356337"
+   "356337",
+   "623136",
+   "820266"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1113,7 +1122,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1149,7 +1158,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 48,
-  "elenen": 17
+  "gonderilen": 52,
+  "elenen": 22
  }
 }
