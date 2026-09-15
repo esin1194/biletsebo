@@ -523,7 +523,8 @@
    "apartamento-para-arrendar-carnaxide-IDJAkPL",
    "apartamento-t1-para-arrendar-nas-portas-de-benfica-venda-nova-amadora-IDJAlk0",
    "t2-totalmente-renovado-e-mobilado-em-alvalade-IDJAlhX",
-   "arrendamento-de-apartamento-penha-de-frana-IDJ6eO0"
+   "arrendamento-de-apartamento-penha-de-frana-IDJ6eO0",
+   "luminoso-t3-115m-com-vista-rio-e-varanda-1-fase-quinta-da-piedade-IDJAmH9"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1032,7 +1033,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1068,7 +1069,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 2,
+  "gonderilen": 3,
   "elenen": 0
  }
 }
