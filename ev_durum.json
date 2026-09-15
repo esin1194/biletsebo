@@ -481,7 +481,11 @@
    "apartamento-t1-mobilado-parque-do-rio-parque-das-nacoes-ID1iSPE",
    "t3-transformado-em-t2-remodelado-com-varanda-na-penha-de-franca-ID1iSP3",
    "arrendamento-de-apartamento-t4-na-avenida-pereira-gomes-benfica-ID1iN7S",
-   "apartamento-t0-para-arrendamento-ID1iSRE"
+   "apartamento-t0-para-arrendamento-ID1iSRE",
+   "apartamento-t2-para-arrendamento-ID1iSSZ",
+   "t2-mobilado-com-varanda-e-vista-rio-ajuda-lisboa-ID1iSSG",
+   "t1-mobilado-com-varanda-e-vista-rio-ajuda-lisboa-ID1iSSF",
+   "apartamento-moscavide-t1-proximo-metro-e-comboio-ID1iSSw"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -588,7 +592,8 @@
    "apartamento-t2-no-alto-de-santo-amaro-IDJAqwh",
    "aluga-se-t2-em-s-domingos-de-rana-zambujal-matarraque-IDJAqsB",
    "arrenda-se-t1-alguber-cadaval-550-ms-IDJAqXP",
-   "aluga-se-apartamento-t2-graa-lisboa-IDJoU8I"
+   "aluga-se-apartamento-t2-graa-lisboa-IDJoU8I",
+   "apartamento-moscavide-t1-prximo-metro-e-comboio-IDJArlh"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -966,7 +971,9 @@
    "apartments/1524328",
    "apartments/1534950",
    "apartments/1496738",
-   "apartments/1281183"
+   "apartments/1281183",
+   "apartments/861653",
+   "apartments/1658024"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1196,7 +1203,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1232,7 +1239,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 86,
-  "elenen": 45
+  "gonderilen": 91,
+  "elenen": 47
  }
 }
