@@ -472,7 +472,10 @@
    "arrendamento-t2-com-estacionamento-em-benfica-ID1iSOo",
    "t1-parque-das-nacoes-ID1iSNU",
    "t1-alfama-junto-ao-museu-do-fado-para-arrendamento-ID1iSNI",
-   "t1-1-para-arrendamento-ID1iSNF"
+   "t1-1-para-arrendamento-ID1iSNF",
+   "apartamento-t2-em-lisboa-perto-do-aeroporto-isel-e-rtp-ID1hE6O",
+   "apartamento-t2-no-lumiar-com-garagem-perto-do-metro-ID1iSOJ",
+   "apartamento-t2-no-alto-de-santo-amaro-ID1iSOt"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -575,7 +578,9 @@
    "t1-acponchegante-nas-virtudes-cordoaria-IDJApKy",
    "apartamento-de-rs-de-cho-t2-para-arrendamento-82mt-rea-bruta-renovado-IDJxnKR",
    "apartamento-t3-mem-martins-IDJsBJl",
-   "t1-1-para-arrendamento-IDJAqmi"
+   "t1-1-para-arrendamento-IDJAqmi",
+   "apartamento-t2-no-alto-de-santo-amaro-IDJAqwh",
+   "aluga-se-t2-em-s-domingos-de-rana-zambujal-matarraque-IDJAqsB"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1213,7 +1218,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 77,
-  "elenen": 39
+  "gonderilen": 80,
+  "elenen": 41
  }
 }
