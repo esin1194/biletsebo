@@ -290,7 +290,8 @@
    "35332349",
    "35332307",
    "35332310",
-   "34575813"
+   "34575813",
+   "35333056"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -560,7 +561,8 @@
    "t2-no-centro-de-moscavide-desafogado-IDJAogi",
    "t3-disponivel-lisboa-IDJAov0",
    "apartamento-t2-para-alugar-em-carnaxide-IDJlHjA",
-   "t2-arrendamento-alfama-IDJzKhD"
+   "t2-arrendamento-alfama-IDJzKhD",
+   "arrendo-apartamento-t1-no-junqueiro-carcavelos-IDJApfh"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -927,7 +929,9 @@
    "apartments/1439608",
    "apartments/1498714",
    "apartments/1334649",
-   "apartments/1445077"
+   "apartments/1445077",
+   "apartments/1679502",
+   "apartments/1523322"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1185,7 +1189,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 65,
-  "elenen": 26
+  "gonderilen": 67,
+  "elenen": 27
  }
 }
