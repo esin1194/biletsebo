@@ -465,7 +465,10 @@
    "apartamento-t1-para-arrendamento-ID1iSIo",
    "apartamento-t2-para-arrendamento-ID1iSJj",
    "apartamento-t1-para-arrendamento-ID1iSJg",
-   "arrenda-se-t2-benfica-ID1iSKo"
+   "arrenda-se-t2-benfica-ID1iSKo",
+   "apartamento-t1-para-arrendamento-ID1iSMV",
+   "apartamento-t3-para-arrendamento-ID1iSMN",
+   "apartamento-renovado-t2-em-benfica-lisboa-ID1iSME"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -565,7 +568,9 @@
    "t2-arrendamento-alfama-IDJzKhD",
    "arrendo-apartamento-t1-no-junqueiro-carcavelos-IDJApfh",
    "arrenda-se-t2-benfica-IDJApxe",
-   "t1-acponchegante-nas-virtudes-cordoaria-IDJApKy"
+   "t1-acponchegante-nas-virtudes-cordoaria-IDJApKy",
+   "apartamento-de-rs-de-cho-t2-para-arrendamento-82mt-rea-bruta-renovado-IDJxnKR",
+   "apartamento-t3-mem-martins-IDJsBJl"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -936,7 +941,9 @@
    "apartments/1679502",
    "apartments/1523322",
    "apartments/584982",
-   "apartments/1670576"
+   "apartments/1670576",
+   "apartments/1494525",
+   "apartments/1679484"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1157,7 +1164,8 @@
    "45011169",
    "1774617540536914855",
    "53064034",
-   "1774623727795746305"
+   "1774623727795746305",
+   "51442099"
   ]
  },
  "kaynaklar": {
@@ -1199,7 +1207,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 71,
-  "elenen": 32
+  "gonderilen": 77,
+  "elenen": 33
  }
 }
