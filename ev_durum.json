@@ -583,7 +583,8 @@
    "apartamento-t3-mem-martins-IDJsBJl",
    "t1-1-para-arrendamento-IDJAqmi",
    "apartamento-t2-no-alto-de-santo-amaro-IDJAqwh",
-   "aluga-se-t2-em-s-domingos-de-rana-zambujal-matarraque-IDJAqsB"
+   "aluga-se-t2-em-s-domingos-de-rana-zambujal-matarraque-IDJAqsB",
+   "arrenda-se-t1-alguber-cadaval-550-ms-IDJAqXP"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1184,13 +1185,14 @@
    "1774617540536914855",
    "53064034",
    "1774623727795746305",
-   "51442099"
+   "51442099",
+   "37598386"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1226,7 +1228,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 81,
+  "gonderilen": 83,
   "elenen": 44
  }
 }
