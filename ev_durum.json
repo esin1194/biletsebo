@@ -475,7 +475,10 @@
    "t1-1-para-arrendamento-ID1iSNF",
    "apartamento-t2-em-lisboa-perto-do-aeroporto-isel-e-rtp-ID1hE6O",
    "apartamento-t2-no-lumiar-com-garagem-perto-do-metro-ID1iSOJ",
-   "apartamento-t2-no-alto-de-santo-amaro-ID1iSOt"
+   "apartamento-t2-no-alto-de-santo-amaro-ID1iSOt",
+   "apartamento-t1-para-arrendamento-ID1iSPH",
+   "apartamento-t1-mobilado-parque-do-rio-parque-das-nacoes-ID1iSPE",
+   "t3-transformado-em-t2-remodelado-com-varanda-na-penha-de-franca-ID1iSP3"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -953,7 +956,12 @@
    "apartments/584982",
    "apartments/1670576",
    "apartments/1494525",
-   "apartments/1679484"
+   "apartments/1679484",
+   "apartments/1703441",
+   "apartments/1524328",
+   "apartments/1534950",
+   "apartments/1496738",
+   "apartments/1281183"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1218,7 +1226,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 80,
-  "elenen": 41
+  "gonderilen": 81,
+  "elenen": 44
  }
 }
