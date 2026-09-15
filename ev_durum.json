@@ -452,7 +452,9 @@
    "arrenda-se-t3-109m2-ar-condicionado-varanda-e-vista-jardim-r-ID1iSBu",
    "t2-com-93-m-suite-e-estacionamento-em-benfica-ID1iSCV",
    "apartamento-t1-para-arrendamento-ID1iSDC",
-   "lisboa-olivais-agradavel-apartamento-de-3-assoalhadas-ID1iRo5"
+   "lisboa-olivais-agradavel-apartamento-de-3-assoalhadas-ID1iRo5",
+   "arrenda-se-t2-na-misericordia-ID1iSG1",
+   "arrendamento-apartamento-t1-1-no-centro-de-lisboa-com-54mts2-no-1anda-ID1iSG0"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -544,7 +546,8 @@
    "t2-com-93-m-suite-e-estacionamento-em-benfica-IDJAnkG",
    "aluga-se-t2-em-lisboa-benfica-terrao-espao-para-1-viatura-na-garagem-IDJxmId",
    "quarto-individual-em-alfragide-390-com-despesas-includas-IDJAnn4",
-   "t2-renovado-loures-IDJAnZE"
+   "t2-renovado-loures-IDJAnZE",
+   "arrenda-se-t2-na-misericrdia-IDJAo4C"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -891,7 +894,9 @@
    "apartments/1018553",
    "apartments/1164827",
    "apartments/1506254",
-   "apartments/1680585"
+   "apartments/1680585",
+   "apartments/381395",
+   "apartments/584979"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1108,7 +1113,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1144,7 +1149,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 44,
-  "elenen": 16
+  "gonderilen": 48,
+  "elenen": 17
  }
 }
