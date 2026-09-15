@@ -279,7 +279,9 @@
    "35331584",
    "33973629",
    "35329909",
-   "35329804"
+   "35329804",
+   "35332105",
+   "35332104"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -437,7 +439,9 @@
    "apartamento-t1-penha-de-franca-vista-rio-ID1iwTU",
    "t2-totalmente-renovado-e-mobilado-em-alvalade-ID1iSzC",
    "arrendamento-t1-60-m-avenida-almirante-gago-coutinho-confort-ID1hxUr",
-   "apartamento-t1-em-alfama-perto-do-metro-santa-apolonia-ID1iSfH"
+   "apartamento-t1-em-alfama-perto-do-metro-santa-apolonia-ID1iSfH",
+   "t1-com-varanda-em-estrela-lisboa-ID1iSBz",
+   "arrenda-se-t3-109m2-ar-condicionado-varanda-e-vista-jardim-r-ID1iSBu"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -843,7 +847,21 @@
    "apartments/427152",
    "apartments/370205",
    "apartments/937588",
-   "apartments/429505"
+   "apartments/429505",
+   "apartments/1320645",
+   "apartments/603234",
+   "apartments/1703320",
+   "apartments/948978",
+   "apartments/1091735",
+   "apartments/1181304",
+   "apartments/367039",
+   "apartments/455977",
+   "apartments/1319667",
+   "apartments/1334583",
+   "apartments/1272934",
+   "apartments/1320673",
+   "apartments/1288161",
+   "apartments/1320679"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -964,7 +982,8 @@
    "394489",
    "70478",
    "418866",
-   "743949"
+   "743949",
+   "892627"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1086,7 +1105,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 13,
-  "elenen": 0
+  "gonderilen": 23,
+  "elenen": 3
  }
 }
