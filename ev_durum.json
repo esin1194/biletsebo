@@ -1034,7 +1034,10 @@
    "apartments/918274",
    "apartments/289489",
    "apartments/459291",
-   "apartments/1274052"
+   "apartments/1274052",
+   "apartments/426145",
+   "apartments/295826",
+   "apartments/1066165"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1307,7 +1310,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 128,
+  "gonderilen": 130,
   "elenen": 52
  }
 }
