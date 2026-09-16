@@ -535,7 +535,8 @@
    "apartamento-em-alcantara-para-arrendamento-temporario-ID1iT26",
    "apartamento-t4-para-arrendamento-ID1iT3B",
    "apartamento-t2-junto-ao-hospital-egas-moniz-ID1iT3m",
-   "apartamento-em-alcntara-para-arrendamento-temporario-ID1iT26"
+   "apartamento-em-alcntara-para-arrendamento-temporario-ID1iT26",
+   "apartamento-t2-para-arrendamento-ID1iT51"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -653,7 +654,9 @@
    "aluga-se-t2-em-rio-de-mouro-IDJxmeZ",
    "apartamento-t1-marteleira-lourinh-IDJAuDw",
    "apartamento-t3-novo-em-alverca-para-alugar-1-800-IDJAwfq",
-   "apartamento-t3-nas-escadinhas-marqus-de-ponte-de-lima-IDJlOd2"
+   "apartamento-t3-nas-escadinhas-marqus-de-ponte-de-lima-IDJlOd2",
+   "arrendamento-t2-em-ribeirada-odivelas-IDJAvm8",
+   "zoo-sete-rios-a-800-m-com-tudo-para-4-6-pessoas-IDJsACO"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1141,7 +1144,8 @@
    "apartments/469098",
    "apartments/1064233",
    "apartments/1613327",
-   "apartments/593024"
+   "apartments/593024",
+   "apartments/473786"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1381,13 +1385,14 @@
    "1654435199794338923",
    "1746491244066639375",
    "24868283",
-   "1713897814269246803"
+   "1713897814269246803",
+   "1775390104844405376"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1423,7 +1428,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 50,
-  "elenen": 16
+  "gonderilen": 53,
+  "elenen": 17
  }
 }
