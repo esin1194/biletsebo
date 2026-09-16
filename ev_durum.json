@@ -617,7 +617,8 @@
    "apartamento-moscavide-t1-prximo-metro-e-comboio-IDJArlh",
    "arrenda-se-t1-mobilado-com-ptio-na-graa-IDJgkkf",
    "arrendamento-residencial-de-t0-na-rua-jos-florindo-663-IDJmGd0",
-   "cascais-parede-andar-t3-com-ou-sem-moblia-IDJrB8a"
+   "cascais-parede-andar-t3-com-ou-sem-moblia-IDJrB8a",
+   "alugo-apartamento-t2-em-cheleiros-mafra-IDJAtxa"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1313,7 +1314,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1349,7 +1350,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 5,
+  "gonderilen": 6,
   "elenen": 0
  }
 }
