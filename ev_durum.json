@@ -560,7 +560,8 @@
    "apartamento-t3-para-arrendamento-ID1iT9p",
    "apartamento-t1-1-mobilado-em-frente-aos-pasteis-de-belem-ID1iTbv",
    "t2-penha-de-franca-ID1iTb7",
-   "apartamento-t1-com-vista-braco-de-prata-lisboa-ID1iTdr"
+   "apartamento-t1-com-vista-braco-de-prata-lisboa-ID1iTdr",
+   "apartamento-t2-na-estrada-de-caselas-88-ID1iTfo"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1183,7 +1184,9 @@
    "apartments/281612",
    "apartments/961788",
    "apartments/964372",
-   "apartments/1205324"
+   "apartments/1205324",
+   "apartments/1534946",
+   "apartments/1535026"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1433,7 +1436,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1469,7 +1472,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 83,
-  "elenen": 25
+  "gonderilen": 84,
+  "elenen": 27
  }
 }
