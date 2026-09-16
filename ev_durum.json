@@ -1008,7 +1008,15 @@
    "apartments/1087486",
    "apartments/1485078",
    "apartments/1532363",
-   "apartments/1534940"
+   "apartments/1534940",
+   "apartments/981572",
+   "apartments/935834",
+   "apartments/1007730",
+   "apartments/513136",
+   "apartments/425456",
+   "apartments/1197596",
+   "apartments/779788",
+   "apartments/1180589"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1149,7 +1157,8 @@
    "875874",
    "835246",
    "435444",
-   "890315"
+   "890315",
+   "885292"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1237,7 +1246,8 @@
    "37598386",
    "1556650464012531694",
    "1670191923323253834",
-   "6625726"
+   "6625726",
+   "1654435199794338923"
   ]
  },
  "kaynaklar": {
@@ -1279,7 +1289,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-15",
-  "gonderilen": 114,
+  "gonderilen": 117,
   "elenen": 52
  }
 }
