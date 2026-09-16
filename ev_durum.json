@@ -619,7 +619,8 @@
    "arrenda-se-t1-mobilado-com-ptio-na-graa-IDJgkkf",
    "arrendamento-residencial-de-t0-na-rua-jos-florindo-663-IDJmGd0",
    "cascais-parede-andar-t3-com-ou-sem-moblia-IDJrB8a",
-   "alugo-apartamento-t2-em-cheleiros-mafra-IDJAtxa"
+   "alugo-apartamento-t2-em-cheleiros-mafra-IDJAtxa",
+   "alugo-t1-em-rio-de-mouro-IDJAtCu"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1084,7 +1085,9 @@
    "apartments/1494595",
    "apartments/371700",
    "apartments/1591633",
-   "apartments/329354"
+   "apartments/329354",
+   "apartments/1508869",
+   "apartments/272964"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1357,7 +1360,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 11,
+  "gonderilen": 13,
   "elenen": 0
  }
 }
