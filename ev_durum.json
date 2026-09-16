@@ -645,7 +645,8 @@
    "alugo-t1-em-rio-de-mouro-IDJAtCu",
    "apartamento-t2-1-amadora-IDJAusr",
    "aluga-se-t2-em-rio-de-mouro-IDJxmeZ",
-   "apartamento-t1-marteleira-lourinh-IDJAuDw"
+   "apartamento-t1-marteleira-lourinh-IDJAuDw",
+   "apartamento-t3-novo-em-alverca-para-alugar-1-800-IDJAwfq"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1268,7 +1269,8 @@
    "435444",
    "890315",
    "885292",
-   "563977"
+   "563977",
+   "562770"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1401,6 +1403,6 @@
  "gunluk": {
   "tarih": "2026-09-16",
   "gonderilen": 37,
-  "elenen": 8
+  "elenen": 10
  }
 }
