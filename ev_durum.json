@@ -561,7 +561,8 @@
    "apartamento-t1-1-mobilado-em-frente-aos-pasteis-de-belem-ID1iTbv",
    "t2-penha-de-franca-ID1iTb7",
    "apartamento-t1-com-vista-braco-de-prata-lisboa-ID1iTdr",
-   "apartamento-t2-na-estrada-de-caselas-88-ID1iTfo"
+   "apartamento-t2-na-estrada-de-caselas-88-ID1iTfo",
+   "ajuda-t2-proximo-escolas-faculdades-e-instituto-ciencias-ID1iM4i"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -686,7 +687,8 @@
    "t2-penha-de-frana-IDJAxTk",
    "apartamento-em-zona-muito-central-olivais-norte-IDIV2Tk",
    "arrenda-se-t2-em-monte-abrao-IDJAyuS",
-   "alugo-t1-remodelado-em-lisboa-oeiras-linda-a-velha-IDJ8wR8"
+   "alugo-t1-remodelado-em-lisboa-oeiras-linda-a-velha-IDJ8wR8",
+   "arrenda-apartamento-t1-parque-naes-IDIQ3bh"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1436,7 +1438,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1472,7 +1474,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 84,
-  "elenen": 27
+  "gonderilen": 85,
+  "elenen": 28
  }
 }
