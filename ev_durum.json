@@ -662,7 +662,8 @@
    "arrendamento-t2-em-ribeirada-odivelas-IDJAvm8",
    "zoo-sete-rios-a-800-m-com-tudo-para-4-6-pessoas-IDJsACO",
    "t1-mobilado-com-vista-panormica-e-muita-luz-alvalade-av-roma-IDJpjKf",
-   "t2-penha-de-frana-IDJAxTk"
+   "t2-penha-de-frana-IDJAxTk",
+   "apartamento-em-zona-muito-central-olivais-norte-IDIV2Tk"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1156,7 +1157,8 @@
    "apartments/1577716",
    "apartments/935132",
    "apartments/1663329",
-   "apartments/1486674"
+   "apartments/1486674",
+   "apartments/281612"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1406,7 +1408,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1443,6 +1445,6 @@
  "gunluk": {
   "tarih": "2026-09-16",
   "gonderilen": 61,
-  "elenen": 22
+  "elenen": 23
  }
 }
