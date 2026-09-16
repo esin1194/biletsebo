@@ -532,7 +532,10 @@
    "apartamento-t2-mobilado-junto-a-praca-de-espanha-ID1iT0T",
    "apartamento-t2-para-arrendamento-ID1iT2B",
    "t3-luminoso-com-suite-e-2-varandas-junto-ao-metro-do-alto-dos-moinhos-ID1iT29",
-   "apartamento-em-alcantara-para-arrendamento-temporario-ID1iT26"
+   "apartamento-em-alcantara-para-arrendamento-temporario-ID1iT26",
+   "apartamento-t4-para-arrendamento-ID1iT3B",
+   "apartamento-t2-junto-ao-hospital-egas-moniz-ID1iT3m",
+   "apartamento-em-alcntara-para-arrendamento-temporario-ID1iT26"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -649,7 +652,8 @@
    "apartamento-t2-1-amadora-IDJAusr",
    "aluga-se-t2-em-rio-de-mouro-IDJxmeZ",
    "apartamento-t1-marteleira-lourinh-IDJAuDw",
-   "apartamento-t3-novo-em-alverca-para-alugar-1-800-IDJAwfq"
+   "apartamento-t3-novo-em-alverca-para-alugar-1-800-IDJAwfq",
+   "apartamento-t3-nas-escadinhas-marqus-de-ponte-de-lima-IDJlOd2"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1135,7 +1139,8 @@
    "apartments/1322147",
    "apartments/1556975",
    "apartments/469098",
-   "apartments/1064233"
+   "apartments/1064233",
+   "apartments/1613327"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1371,7 +1376,8 @@
    "1670191923323253834",
    "6625726",
    "1654435199794338923",
-   "1746491244066639375"
+   "1746491244066639375",
+   "24868283"
   ]
  },
  "kaynaklar": {
@@ -1413,7 +1419,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 42,
+  "gonderilen": 48,
   "elenen": 14
  }
 }
