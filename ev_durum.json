@@ -525,7 +525,8 @@
    "t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iSYQ",
    "apartamento-t2-para-arrendamento-ID1iSYP",
    "apartamento-t0-para-arrendamento-ID1iSYJ",
-   "casa-de-porteira-para-arrendar-r-coronel-bento-ID1iSZl"
+   "casa-de-porteira-para-arrendar-r-coronel-bento-ID1iSZl",
+   "apartamento-t2-para-arrendamento-ID1iT0r"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1116,7 +1117,10 @@
    "apartments/1638447",
    "apartments/1663246",
    "apartments/1292290",
-   "apartments/1333393"
+   "apartments/1333393",
+   "apartments/976913",
+   "apartments/1695400",
+   "apartments/1429759"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1348,13 +1352,14 @@
    "1556650464012531694",
    "1670191923323253834",
    "6625726",
-   "1654435199794338923"
+   "1654435199794338923",
+   "1746491244066639375"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1390,7 +1395,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 31,
-  "elenen": 5
+  "gonderilen": 34,
+  "elenen": 6
  }
 }
