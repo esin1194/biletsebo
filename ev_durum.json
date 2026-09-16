@@ -324,7 +324,8 @@
    "35335049",
    "35335016",
    "35334997",
-   "35318835"
+   "35318835",
+   "33128772"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -526,7 +527,9 @@
    "apartamento-t2-para-arrendamento-ID1iSYP",
    "apartamento-t0-para-arrendamento-ID1iSYJ",
    "casa-de-porteira-para-arrendar-r-coronel-bento-ID1iSZl",
-   "apartamento-t2-para-arrendamento-ID1iT0r"
+   "apartamento-t2-para-arrendamento-ID1iT0r",
+   "arrenda-t2-rua-mestre-antonio-martins-ID1iT17",
+   "apartamento-t2-mobilado-junto-a-praca-de-espanha-ID1iT0T"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -641,7 +644,8 @@
    "alugo-apartamento-t2-em-cheleiros-mafra-IDJAtxa",
    "alugo-t1-em-rio-de-mouro-IDJAtCu",
    "apartamento-t2-1-amadora-IDJAusr",
-   "aluga-se-t2-em-rio-de-mouro-IDJxmeZ"
+   "aluga-se-t2-em-rio-de-mouro-IDJxmeZ",
+   "apartamento-t1-marteleira-lourinh-IDJAuDw"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1120,7 +1124,8 @@
    "apartments/1333393",
    "apartments/976913",
    "apartments/1695400",
-   "apartments/1429759"
+   "apartments/1429759",
+   "apartments/1629883"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1359,7 +1364,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1395,7 +1400,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 34,
-  "elenen": 6
+  "gonderilen": 37,
+  "elenen": 8
  }
 }
