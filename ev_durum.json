@@ -537,7 +537,8 @@
    "apartamento-t2-junto-ao-hospital-egas-moniz-ID1iT3m",
    "apartamento-em-alcntara-para-arrendamento-temporario-ID1iT26",
    "apartamento-t2-para-arrendamento-ID1iT51",
-   "t2-em-alvalade-localizacao-de-excelencia-ID1ggKF"
+   "t2-em-alvalade-localizacao-de-excelencia-ID1ggKF",
+   "apartamento-t3-para-arrendamento-ID1iT9p"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1401,7 +1402,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1438,6 +1439,6 @@
  "gunluk": {
   "tarih": "2026-09-16",
   "gonderilen": 58,
-  "elenen": 20
+  "elenen": 21
  }
 }
