@@ -691,7 +691,8 @@
    "alugo-t1-remodelado-em-lisboa-oeiras-linda-a-velha-IDJ8wR8",
    "arrenda-apartamento-t1-parque-naes-IDIQ3bh",
    "t2-condominio-fechado-com-piscina-estoril-IDJsGPd",
-   "apartamento-t1-1-mobilado-IDJjIi2"
+   "apartamento-t1-1-mobilado-IDJjIi2",
+   "t3-para-arrendar-IDJAzUn"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1470,7 +1471,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1506,7 +1507,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 109,
+  "gonderilen": 110,
   "elenen": 30
  }
 }
