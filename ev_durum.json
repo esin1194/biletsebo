@@ -362,7 +362,10 @@
    "35337935",
    "35337900",
    "35337951",
-   "35337934"
+   "35337934",
+   "35338130",
+   "35336548",
+   "35337074"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -588,7 +591,9 @@
    "t2-remodelado-com-azulejo-original-na-graca-ID1iThb",
    "laranjeiras-cond-fechado-green-park-ID1iTiL",
    "apartamento-t1-para-arrendamento-ID1iTje",
-   "para-arrendar-mobilado-apartamento-t3-no-restelo-junto-ao-jardim-ID1iTiT"
+   "para-arrendar-mobilado-apartamento-t3-no-restelo-junto-ao-jardim-ID1iTiT",
+   "t1-para-arrendar-mobilado-com-terraco-ID1h3xF",
+   "t1-no-castelo-em-lisboa-800-euros-tudo-incluido-ID1iTkx"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -724,7 +729,8 @@
    "t2-em-campo-ourique-cozinha-equipada-IDJwamA",
    "estdio-torres-vedras-IDJgjcE",
    "arrendamento-de-apartamento-t1-na-rua-gualdim-pais-IDJAAm6",
-   "apartamento-t2-paredes-IDJAAnC"
+   "apartamento-t2-paredes-IDJAAnC",
+   "t1-no-castelo-em-lisboa-800-euros-tudo-includo-IDJAAD9"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1264,7 +1270,8 @@
    "apartments/1655017",
    "apartments/1704996",
    "apartments/1699797",
-   "apartments/661393"
+   "apartments/661393",
+   "apartments/1504946"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1421,7 +1428,9 @@
    "24892",
    "892980",
    "605888",
-   "810538"
+   "810538",
+   "670417",
+   "794679"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1525,7 +1534,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1561,7 +1570,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 31,
-  "elenen": 12
+  "gonderilen": 36,
+  "elenen": 16
  }
 }
