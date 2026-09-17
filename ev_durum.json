@@ -577,7 +577,8 @@
    "t2-em-telheiras-alto-da-faia-ID1iTgi",
    "apartamento-t1-para-arrendamento-ID1iTho",
    "apartamento-t0-para-arrendamento-ID1iThl",
-   "t2-remodelado-com-azulejo-original-na-graca-ID1iThb"
+   "t2-remodelado-com-azulejo-original-na-graca-ID1iThb",
+   "laranjeiras-cond-fechado-green-park-ID1iTiL"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -710,7 +711,9 @@
    "t2-em-telheiras-alto-da-faia-IDJAzYR",
    "apartamento-t2-algueiro-mem-martins-IDJrulT",
    "arrenda-se-ap-t2-IDJAyuS",
-   "t2-em-campo-ourique-cozinha-equipada-IDJwamA"
+   "t2-em-campo-ourique-cozinha-equipada-IDJwamA",
+   "estdio-torres-vedras-IDJgjcE",
+   "arrendamento-de-apartamento-t1-na-rua-gualdim-pais-IDJAAm6"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1404,7 +1407,8 @@
    "882482",
    "24892",
    "892980",
-   "605888"
+   "605888",
+   "810538"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1543,7 +1547,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 18,
-  "elenen": 8
+  "gonderilen": 19,
+  "elenen": 11
  }
 }
