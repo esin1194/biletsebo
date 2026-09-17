@@ -601,7 +601,9 @@
    "arrendamento-de-estudio-com-garagem-e-elevador-na-rua-da-bela-vista-a-ID1iTkR",
    "arrendamento-lumiar-t2-ID1iTkM",
    "apartamento-3-assoalhadas-para-estudantes-ID1iSSl",
-   "apartamento-t1-renovado-e-mobilado-em-moscavide-junto-a-estacao-de-ID1iTrx"
+   "apartamento-t1-renovado-e-mobilado-em-moscavide-junto-a-estacao-de-ID1iTrx",
+   "apartamento-t2-para-arrendamento-ID1iTsu",
+   "t1-para-arrendar-em-arroios-ID1iTrS"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -742,7 +744,8 @@
    "arrendamento-lumiar-t2-IDJAAGs",
    "t1-oeiras-jardim-dos-arcos-com-parqueamento-para-arrendar-IDJj4mI",
    "apartamento-t2-urb-serra-das-brancas-amadora-IDJxrKT",
-   "um-lar-acolhedor-no-corao-de-algs-IDJABvu"
+   "um-lar-acolhedor-no-corao-de-algs-IDJABvu",
+   "t1-para-arrendar-em-arroios-IDJzLt2"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1287,7 +1290,8 @@
    "apartments/397294",
    "apartments/1662493",
    "apartments/1534988",
-   "apartments/606042"
+   "apartments/606042",
+   "apartments/1705535"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1451,7 +1455,8 @@
    "892670",
    "32314",
    "882954",
-   "95201"
+   "95201",
+   "748818"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1556,7 +1561,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1592,7 +1597,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 49,
-  "elenen": 25
+  "gonderilen": 51,
+  "elenen": 28
  }
 }
