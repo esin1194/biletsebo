@@ -344,7 +344,8 @@
    "35337206",
    "35337193",
    "35337209",
-   "35337106"
+   "35337106",
+   "35336987"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -563,7 +564,8 @@
    "apartamento-t1-com-vista-braco-de-prata-lisboa-ID1iTdr",
    "apartamento-t2-na-estrada-de-caselas-88-ID1iTfo",
    "ajuda-t2-proximo-escolas-faculdades-e-instituto-ciencias-ID1iM4i",
-   "apartamento-t1-mobilado-em-entrecampos-ID1fOWn"
+   "apartamento-t1-mobilado-em-entrecampos-ID1fOWn",
+   "t2-em-telheiras-alto-da-faia-ID1iTgi"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1226,7 +1228,8 @@
    "apartments/462477",
    "apartments/292006",
    "apartments/380775",
-   "apartments/1067195"
+   "apartments/1067195",
+   "apartments/1633690"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1516,7 +1519,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 0,
-  "elenen": 0
+  "gonderilen": 2,
+  "elenen": 1
  }
 }
