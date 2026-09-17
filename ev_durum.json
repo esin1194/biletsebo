@@ -354,7 +354,15 @@
    "35291695",
    "35337721",
    "35337697",
-   "35337696"
+   "35337696",
+   "34953032",
+   "35337979",
+   "35337965",
+   "35337952",
+   "35337935",
+   "35337900",
+   "35337951",
+   "35337934"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -578,7 +586,9 @@
    "apartamento-t1-para-arrendamento-ID1iTho",
    "apartamento-t0-para-arrendamento-ID1iThl",
    "t2-remodelado-com-azulejo-original-na-graca-ID1iThb",
-   "laranjeiras-cond-fechado-green-park-ID1iTiL"
+   "laranjeiras-cond-fechado-green-park-ID1iTiL",
+   "apartamento-t1-para-arrendamento-ID1iTje",
+   "para-arrendar-mobilado-apartamento-t3-no-restelo-junto-ao-jardim-ID1iTiT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -713,7 +723,8 @@
    "arrenda-se-ap-t2-IDJAyuS",
    "t2-em-campo-ourique-cozinha-equipada-IDJwamA",
    "estdio-torres-vedras-IDJgjcE",
-   "arrendamento-de-apartamento-t1-na-rua-gualdim-pais-IDJAAm6"
+   "arrendamento-de-apartamento-t1-na-rua-gualdim-pais-IDJAAm6",
+   "apartamento-t2-paredes-IDJAAnC"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1251,7 +1262,9 @@
    "apartments/1633690",
    "apartments/990773",
    "apartments/1655017",
-   "apartments/1704996"
+   "apartments/1704996",
+   "apartments/1699797",
+   "apartments/661393"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1547,7 +1560,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 19,
-  "elenen": 11
+  "gonderilen": 30,
+  "elenen": 12
  }
 }
