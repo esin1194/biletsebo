@@ -765,7 +765,8 @@
    "aluga-se-t0-em-pao-de-arcos-IDJj3cN",
    "t2-para-arrendar-IDJjOJs",
    "excelente-t1-nos-olivais-IDJADPB",
-   "apartamento-t1-lisboa-alfama-IDHVMxp"
+   "apartamento-t1-lisboa-alfama-IDHVMxp",
+   "excelente-t1-santa-clara-em-frente-ao-metro-IDHKnRS"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1321,7 +1322,8 @@
    "apartments/275951",
    "apartments/1181357",
    "apartments/253109",
-   "apartments/340371"
+   "apartments/340371",
+   "apartments/399056"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1593,7 +1595,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1629,7 +1631,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 69,
+  "gonderilen": 71,
   "elenen": 37
  }
 }
