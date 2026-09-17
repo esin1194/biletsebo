@@ -600,7 +600,8 @@
    "t1-no-castelo-em-lisboa-800-euros-tudo-incluido-ID1iTkx",
    "arrendamento-de-estudio-com-garagem-e-elevador-na-rua-da-bela-vista-a-ID1iTkR",
    "arrendamento-lumiar-t2-ID1iTkM",
-   "apartamento-3-assoalhadas-para-estudantes-ID1iSSl"
+   "apartamento-3-assoalhadas-para-estudantes-ID1iSSl",
+   "apartamento-t1-renovado-e-mobilado-em-moscavide-junto-a-estacao-de-ID1iTrx"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -740,7 +741,8 @@
    "t1-no-castelo-em-lisboa-800-euros-tudo-includo-IDJAAD9",
    "arrendamento-lumiar-t2-IDJAAGs",
    "t1-oeiras-jardim-dos-arcos-com-parqueamento-para-arrendar-IDJj4mI",
-   "apartamento-t2-urb-serra-das-brancas-amadora-IDJxrKT"
+   "apartamento-t2-urb-serra-das-brancas-amadora-IDJxrKT",
+   "um-lar-acolhedor-no-corao-de-algs-IDJABvu"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1447,7 +1449,9 @@
    "794679",
    "893018",
    "892670",
-   "32314"
+   "32314",
+   "882954",
+   "95201"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1572,7 +1576,7 @@
   },
   "https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.uniplaces.com/accommodation/lisbon": {
@@ -1588,7 +1592,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 47,
-  "elenen": 23
+  "gonderilen": 49,
+  "elenen": 25
  }
 }
