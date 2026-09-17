@@ -566,7 +566,10 @@
    "apartamento-t2-na-estrada-de-caselas-88-ID1iTfo",
    "ajuda-t2-proximo-escolas-faculdades-e-instituto-ciencias-ID1iM4i",
    "apartamento-t1-mobilado-em-entrecampos-ID1fOWn",
-   "t2-em-telheiras-alto-da-faia-ID1iTgi"
+   "t2-em-telheiras-alto-da-faia-ID1iTgi",
+   "apartamento-t1-para-arrendamento-ID1iTho",
+   "apartamento-t0-para-arrendamento-ID1iThl",
+   "t2-remodelado-com-azulejo-original-na-graca-ID1iThb"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1235,7 +1238,8 @@
    "apartments/1067195",
    "apartments/1633690",
    "apartments/990773",
-   "apartments/1655017"
+   "apartments/1655017",
+   "apartments/1704996"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1388,7 +1392,8 @@
    "786582",
    "766308",
    "890690",
-   "882482"
+   "882482",
+   "24892"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1491,7 +1496,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1527,7 +1532,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 8,
-  "elenen": 2
+  "gonderilen": 11,
+  "elenen": 4
  }
 }
