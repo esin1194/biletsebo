@@ -694,7 +694,10 @@
    "arrenda-apartamento-t1-parque-naes-IDIQ3bh",
    "t2-condominio-fechado-com-piscina-estoril-IDJsGPd",
    "apartamento-t1-1-mobilado-IDJjIi2",
-   "t3-para-arrendar-IDJAzUn"
+   "t3-para-arrendar-IDJAzUn",
+   "t2-em-telheiras-alto-da-faia-IDJAzYR",
+   "apartamento-t2-algueiro-mem-martins-IDJrulT",
+   "arrenda-se-ap-t2-IDJAyuS"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1477,7 +1480,8 @@
    "1775390104844405376",
    "1055770533892936513",
    "848268253707548370",
-   "1310908565823707765"
+   "1310908565823707765",
+   "1501661697979894270"
   ]
  },
  "kaynaklar": {
@@ -1519,7 +1523,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 2,
+  "gonderilen": 6,
   "elenen": 1
  }
 }
