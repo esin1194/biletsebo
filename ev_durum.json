@@ -369,7 +369,8 @@
    "35337140",
    "35337134",
    "35337120",
-   "35338331"
+   "35338331",
+   "35339682"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -755,7 +756,8 @@
    "t1-para-arrendar-em-arroios-IDJzLt2",
    "apartamento-t1-fames-odivelas-IDJABVp",
    "t0-mobilado-no-campo-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDJAC7a",
-   "t1-condomnio-na-graa-lisboa-vista-frontal-de-rio-e-garagem-condomnio-arrendamento-IDJxv6B"
+   "t1-condomnio-na-graa-lisboa-vista-frontal-de-rio-e-garagem-condomnio-arrendamento-IDJxv6B",
+   "apartamento-t2-no-alto-de-santo-amaro-alcantara-IDJAqwh"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1303,7 +1305,10 @@
    "apartments/606042",
    "apartments/1705535",
    "apartments/379685",
-   "apartments/1705544"
+   "apartments/1705544",
+   "apartments/1590432",
+   "apartments/1651189",
+   "apartments/983440"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1574,7 +1579,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1610,7 +1615,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 57,
-  "elenen": 34
+  "gonderilen": 60,
+  "elenen": 35
  }
 }
