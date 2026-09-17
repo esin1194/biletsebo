@@ -599,7 +599,8 @@
    "t1-para-arrendar-mobilado-com-terraco-ID1h3xF",
    "t1-no-castelo-em-lisboa-800-euros-tudo-incluido-ID1iTkx",
    "arrendamento-de-estudio-com-garagem-e-elevador-na-rua-da-bela-vista-a-ID1iTkR",
-   "arrendamento-lumiar-t2-ID1iTkM"
+   "arrendamento-lumiar-t2-ID1iTkM",
+   "apartamento-3-assoalhadas-para-estudantes-ID1iSSl"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1439,7 +1440,8 @@
    "810538",
    "670417",
    "794679",
-   "893018"
+   "893018",
+   "892670"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1543,7 +1545,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1580,6 +1582,6 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 42,
-  "elenen": 19
+  "elenen": 21
  }
 }
