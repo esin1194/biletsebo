@@ -368,7 +368,8 @@
    "35337074",
    "35337140",
    "35337134",
-   "35337120"
+   "35337120",
+   "35338331"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1542,7 +1543,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1578,7 +1579,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 41,
+  "gonderilen": 42,
   "elenen": 19
  }
 }
