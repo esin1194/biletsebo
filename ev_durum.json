@@ -370,7 +370,8 @@
    "35337134",
    "35337120",
    "35338331",
-   "35339682"
+   "35339682",
+   "35339826"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -612,7 +613,8 @@
    "apartamento-t3-para-arrendamento-ID1iTx8",
    "apartamento-t3-remodelado-no-areeiro-ID1iTvo",
    "apartamento-t4-remodelado-com-terraco-privativo-no-areeiro-ID1iTvp",
-   "t1-para-arrendamento-rua-professor-mira-fernandes-lisboa-ID1iTz1"
+   "t1-para-arrendamento-rua-professor-mira-fernandes-lisboa-ID1iTz1",
+   "excelente-t1-nos-olivais-ID1iTzI"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -760,7 +762,8 @@
    "t1-condomnio-na-graa-lisboa-vista-frontal-de-rio-e-garagem-condomnio-arrendamento-IDJxv6B",
    "apartamento-t2-no-alto-de-santo-amaro-alcantara-IDJAqwh",
    "aluga-se-t0-em-pao-de-arcos-IDJj3cN",
-   "t2-para-arrendar-IDJjOJs"
+   "t2-para-arrendar-IDJjOJs",
+   "excelente-t1-nos-olivais-IDJADPB"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1583,8 +1586,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1619,7 +1622,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 62,
+  "gonderilen": 65,
   "elenen": 36
  }
 }
