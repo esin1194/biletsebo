@@ -603,7 +603,9 @@
    "apartamento-3-assoalhadas-para-estudantes-ID1iSSl",
    "apartamento-t1-renovado-e-mobilado-em-moscavide-junto-a-estacao-de-ID1iTrx",
    "apartamento-t2-para-arrendamento-ID1iTsu",
-   "t1-para-arrendar-em-arroios-ID1iTrS"
+   "t1-para-arrendar-em-arroios-ID1iTrS",
+   "apartamento-t1-largo-do-intendente-ID1iTuZ",
+   "apartamento-t1-para-arrendamento-ID1iTuU"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -745,7 +747,8 @@
    "t1-oeiras-jardim-dos-arcos-com-parqueamento-para-arrendar-IDJj4mI",
    "apartamento-t2-urb-serra-das-brancas-amadora-IDJxrKT",
    "um-lar-acolhedor-no-corao-de-algs-IDJABvu",
-   "t1-para-arrendar-em-arroios-IDJzLt2"
+   "t1-para-arrendar-em-arroios-IDJzLt2",
+   "apartamento-t1-fames-odivelas-IDJABVp"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1291,7 +1294,8 @@
    "apartments/1662493",
    "apartments/1534988",
    "apartments/606042",
-   "apartments/1705535"
+   "apartments/1705535",
+   "apartments/379685"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1561,7 +1565,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1597,7 +1601,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 51,
-  "elenen": 28
+  "gonderilen": 54,
+  "elenen": 29
  }
 }
