@@ -739,7 +739,8 @@
    "apartamento-t2-paredes-IDJAAnC",
    "t1-no-castelo-em-lisboa-800-euros-tudo-includo-IDJAAD9",
    "arrendamento-lumiar-t2-IDJAAGs",
-   "t1-oeiras-jardim-dos-arcos-com-parqueamento-para-arrendar-IDJj4mI"
+   "t1-oeiras-jardim-dos-arcos-com-parqueamento-para-arrendar-IDJj4mI",
+   "apartamento-t2-urb-serra-das-brancas-amadora-IDJxrKT"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1283,7 +1284,8 @@
    "apartments/1504946",
    "apartments/397294",
    "apartments/1662493",
-   "apartments/1534988"
+   "apartments/1534988",
+   "apartments/606042"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1543,14 +1545,15 @@
    "848268253707548370",
    "1310908565823707765",
    "1501661697979894270",
-   "44185223"
+   "44185223",
+   "49285946"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1569,7 +1572,7 @@
   },
   "https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.uniplaces.com/accommodation/lisbon": {
@@ -1585,7 +1588,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 44,
+  "gonderilen": 47,
   "elenen": 23
  }
 }
