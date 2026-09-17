@@ -562,7 +562,8 @@
    "t2-penha-de-franca-ID1iTb7",
    "apartamento-t1-com-vista-braco-de-prata-lisboa-ID1iTdr",
    "apartamento-t2-na-estrada-de-caselas-88-ID1iTfo",
-   "ajuda-t2-proximo-escolas-faculdades-e-instituto-ciencias-ID1iM4i"
+   "ajuda-t2-proximo-escolas-faculdades-e-instituto-ciencias-ID1iM4i",
+   "apartamento-t1-mobilado-em-entrecampos-ID1fOWn"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1194,7 +1195,11 @@
    "apartments/665939",
    "apartments/1490386",
    "apartments/1604492",
-   "apartments/1534921"
+   "apartments/1534921",
+   "apartments/450376",
+   "apartments/408834",
+   "apartments/1182081",
+   "apartments/569020"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1484,7 +1489,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-16",
-  "gonderilen": 90,
+  "gonderilen": 93,
   "elenen": 30
  }
 }
