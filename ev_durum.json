@@ -607,7 +607,10 @@
    "apartamento-t1-largo-do-intendente-ID1iTuZ",
    "apartamento-t1-para-arrendamento-ID1iTuU",
    "apartamento-t2-com-vista-para-o-rio-na-moraria-lisboa-ID1iTwt",
-   "apartamento-t2-com-vista-para-o-rio-na-mouraria-lisboa-ID1iTwt"
+   "apartamento-t2-com-vista-para-o-rio-na-mouraria-lisboa-ID1iTwt",
+   "apartamento-t3-para-arrendamento-ID1iTx8",
+   "apartamento-t3-remodelado-no-areeiro-ID1iTvo",
+   "apartamento-t4-remodelado-com-terraco-privativo-no-areeiro-ID1iTvp"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -751,7 +754,8 @@
    "um-lar-acolhedor-no-corao-de-algs-IDJABvu",
    "t1-para-arrendar-em-arroios-IDJzLt2",
    "apartamento-t1-fames-odivelas-IDJABVp",
-   "t0-mobilado-no-campo-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDJAC7a"
+   "t0-mobilado-no-campo-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDJAC7a",
+   "t1-condomnio-na-graa-lisboa-vista-frontal-de-rio-e-garagem-condomnio-arrendamento-IDJxv6B"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1298,7 +1302,8 @@
    "apartments/1534988",
    "apartments/606042",
    "apartments/1705535",
-   "apartments/379685"
+   "apartments/379685",
+   "apartments/1705544"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1463,7 +1468,8 @@
    "32314",
    "882954",
    "95201",
-   "748818"
+   "748818",
+   "636698"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1568,7 +1574,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1604,7 +1610,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 55,
-  "elenen": 31
+  "gonderilen": 57,
+  "elenen": 34
  }
 }
