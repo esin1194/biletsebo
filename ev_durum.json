@@ -738,7 +738,8 @@
    "arrendamento-de-apartamento-t1-na-rua-gualdim-pais-IDJAAm6",
    "apartamento-t2-paredes-IDJAAnC",
    "t1-no-castelo-em-lisboa-800-euros-tudo-includo-IDJAAD9",
-   "arrendamento-lumiar-t2-IDJAAGs"
+   "arrendamento-lumiar-t2-IDJAAGs",
+   "t1-oeiras-jardim-dos-arcos-com-parqueamento-para-arrendar-IDJj4mI"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1280,7 +1281,8 @@
    "apartments/1699797",
    "apartments/661393",
    "apartments/1504946",
-   "apartments/397294"
+   "apartments/397294",
+   "apartments/1662493"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1545,7 +1547,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1581,7 +1583,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 42,
+  "gonderilen": 44,
   "elenen": 21
  }
 }
