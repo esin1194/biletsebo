@@ -346,7 +346,15 @@
    "35337209",
    "35337106",
    "35336987",
-   "35337671"
+   "35337671",
+   "34684399",
+   "35337657",
+   "35337727",
+   "35327216",
+   "35291695",
+   "35337721",
+   "35337697",
+   "35337696"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -701,7 +709,8 @@
    "t3-para-arrendar-IDJAzUn",
    "t2-em-telheiras-alto-da-faia-IDJAzYR",
    "apartamento-t2-algueiro-mem-martins-IDJrulT",
-   "arrenda-se-ap-t2-IDJAyuS"
+   "arrenda-se-ap-t2-IDJAyuS",
+   "t2-em-campo-ourique-cozinha-equipada-IDJwamA"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1393,7 +1402,9 @@
    "766308",
    "890690",
    "882482",
-   "24892"
+   "24892",
+   "892980",
+   "605888"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1496,7 +1507,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1532,7 +1543,7 @@
  },
  "gunluk": {
   "tarih": "2026-09-17",
-  "gonderilen": 11,
-  "elenen": 4
+  "gonderilen": 18,
+  "elenen": 8
  }
 }
