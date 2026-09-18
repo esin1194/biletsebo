@@ -382,7 +382,9 @@
    "35340592",
    "35340877",
    "35342498",
-   "35342500"
+   "35342500",
+   "35342672",
+   "35342665"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -653,7 +655,8 @@
    "apartamento-t2-para-arrendamento-ID1iTPc",
    "apartamento-t1-para-arrendamento-ID1iTOV",
    "t1-exclusivo-no-condominio-perto-do-colombo-piscina-ginasio-2-luga-ID1iTSC",
-   "t1-em-lisboa-com-ar-condicionado-e-mobiliario-ID1iTWl"
+   "t1-em-lisboa-com-ar-condicionado-e-mobiliario-ID1iTWl",
+   "t4-benfica-ID1hsrC"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1699,8 +1702,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1741,7 +1744,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 7,
   "tekrar": 1
  },
  "imzalar": [
@@ -1771,12 +1774,16 @@
   "bc92b2bb8a0a9d3c",
   "4fdc527a49637473",
   "7c296deea554e9e2",
-  "e4706ba745391a1d"
+  "e4706ba745391a1d",
+  "517dd7a2d636d2bb",
+  "5a1814d4d2217ed9"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nT3 + garagem + carregamento elétrico junto C. C. Colombo e Metro · 2.000 € · Benfica - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/t3-garagem-carregamento-eltrico-junto-c-c-colombo-e-metro-IDJx7sg.html",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.050 €\nApartamento T1 na Rua do Terreirinho, Mouraria - Castelo, Santa Maria Maior · 1.050€/mês · T1 44 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDI…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342498/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Travessa Açougue a Benfica, Igreja de Benfica, Benfica · 1.300€/mês · T1 70 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342500/"
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Travessa Açougue a Benfica, Igreja de Benfica, Benfica · 1.300€/mês · T1 70 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342500/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T2 na Calçada do Correio Velho, Baixa, Santa Maria Maior · 1.500€/mês · T2 60 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342672/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.900 €\nApartamento T3 na Rua dos Cavaleiros, Mouraria - Castelo, Santa Maria Maior · 1.900€/mês · T3 80 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342665/"
  ],
  "son_gonderim": "2026-09-18"
 }
