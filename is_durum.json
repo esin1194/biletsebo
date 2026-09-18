@@ -72,7 +72,9 @@
    "tecnico-de-manutencao-mfx_carregado_OTS-2026-184180",
    "tecnico-de-eletrodomesticos-mfx_lisboa_OTS-2026-183733",
    "gestor-de-atendimento-fidelizacao-mfx_lisboa_OTS-2026-183972",
-   "gestor-de-desenvolvimento-de-negocio-e-projetos-mfx_lisboa_PTS-2026-184142"
+   "gestor-de-desenvolvimento-de-negocio-e-projetos-mfx_lisboa_PTS-2026-184142",
+   "network-senior-consultant_porto-lisboa-hibrido_DTS-2026-184283",
+   "network-operations-consultant_porto-lisboa-hibrido_DTS-2026-184284"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -434,17 +436,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 12,
+   "bos": 13,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -454,7 +456,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -474,14 +476,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 29,
+  "elenen": 31,
   "tekrar": 0
  }
 }
