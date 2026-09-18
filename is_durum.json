@@ -74,7 +74,11 @@
    "gestor-de-atendimento-fidelizacao-mfx_lisboa_OTS-2026-183972",
    "gestor-de-desenvolvimento-de-negocio-e-projetos-mfx_lisboa_PTS-2026-184142",
    "network-senior-consultant_porto-lisboa-hibrido_DTS-2026-184283",
-   "network-operations-consultant_porto-lisboa-hibrido_DTS-2026-184284"
+   "network-operations-consultant_porto-lisboa-hibrido_DTS-2026-184284",
+   "assistente-administrativo-mfx_mafra_PTS-2026-182965",
+   "office-manager-mfx_sintra_PTS-2026-182106",
+   "administrative-french-speaker-mfx_lisboa_PTS-2026-180386",
+   "senior-executive-personal-assistant-mfx_lisboa_PTS-2026-178722"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -436,17 +440,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 13,
+   "bos": 14,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 16,
+   "bos": 17,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 16,
+   "bos": 17,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -456,7 +460,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 16,
+   "bos": 17,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -476,14 +480,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 16,
+   "bos": 17,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 31,
+  "elenen": 35,
   "tekrar": 0
  }
 }
