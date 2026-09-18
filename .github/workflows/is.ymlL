@@ -1,0 +1,52 @@
+name: Is Ilani Takip
+
+on:
+  schedule:
+    - cron: "5,35 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: is-takip
+  cancel-in-progress: false
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Depoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bagimliliklar ve tarayici
+        run: |
+          pip install requests playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Taramayi calistir
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID_IS: ${{ secrets.CHAT_ID_IS }}
+        run: python is_takip.py
+
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          git config user.name "is-takip-bot"
+          git config user.email "actions@github.com"
+          git add is_durum.json || true
+          if git diff --staged --quiet; then
+            echo "Degisiklik yok."
+          else
+            git commit -m "is durumu guncellendi [skip ci]"
+            git pull --rebase --autostash || true
+            git push
+          fi
