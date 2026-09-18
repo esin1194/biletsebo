@@ -373,7 +373,13 @@
    "35339682",
    "35339826",
    "34412382",
-   "35338685"
+   "35338685",
+   "35339883",
+   "34685939",
+   "35302262",
+   "34973956",
+   "34685946",
+   "35340592"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -624,7 +630,8 @@
    "apartamento-t2-renovado-na-junqueira-alcantara-ID1iTAD",
    "apartamento-t1-com-sala-generosa-e-varanda-em-alvalade-ID1iTB3",
    "t1-luminoso-no-centro-de-lisboa-avenidas-novas-ID1iTBV",
-   "apartamento-t0-1-com-varanda-no-luma-lumiar-em-lisboa-ID1iTBP"
+   "apartamento-t0-1-com-varanda-no-luma-lumiar-em-lisboa-ID1iTBP",
+   "apartamento-t2-para-arrendamento-ID1iTDQ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -776,7 +783,8 @@
    "excelente-t1-nos-olivais-IDJADPB",
    "apartamento-t1-lisboa-alfama-IDHVMxp",
    "excelente-t1-santa-clara-em-frente-ao-metro-IDHKnRS",
-   "t2-parque-do-rio-IDJcCvm"
+   "t2-parque-do-rio-IDJcCvm",
+   "estdio-mini-apartamento-t0-IDJvWYF"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1640,8 +1648,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1682,7 +1690,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 47,
+  "elenen": 50,
   "tekrar": 7
  },
  "imzalar": [
@@ -1692,7 +1700,12 @@
   "136c27e0c2e5dc7d",
   "4cb49bb1022653a7",
   "24065c4266ae86f2",
-  "9a61882dfe51ae8d"
+  "9a61882dfe51ae8d",
+  "111374f556876648",
+  "0a3dd34585b7f1c0",
+  "38c388dc779f7064",
+  "74102232d29a571f",
+  "bee70640663c45af"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 22 · Apartamento ⋅ Graça · O Estúdio e a Mansão · 1 sofá-cama · 1 banheiro · $ 1.607 USD · $ 1.401 USD · Mostrar detalhamento de preço · mensal · Desconto mensal · Foto 1 de 24 · Casa ⋅ Estrela · Duplex de um quarto em São Bento · 1 quarto · $ 3.539 USD · $ 2.401 USD · …\nhttps://www.airbnb.com/rooms/1216369131469138829",
@@ -1701,7 +1714,12 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 com sala generosa e varanda em Alvalade · Rua Doutor Gama Barros, Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-sala-generosa-e-varanda-em-alvalade-ID1iTB3",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T2 na Rua Joaquim António de Aguiar, Av. da Liberdade - Marquês de Pombal, Santo António · 1.800€/mês · 3.200 € 44% · T2 112 m² área bruta 5º andar com elevador 17 horas · *TOTALMENTE MOBILIADO* *CONTRATOS DE ARRENDAMENTO DE CURTA DURAÇÃO RENT TO RENT DE 1 A 11 MESES*…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35338685/",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2 Parque do Rio · 1.750 € · Parque das Nações - Hoje às 09:45\nhttps://www.olx.pt/d/anuncio/t2-parque-do-rio-IDJcCvm.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nCHECKED · APARTMENT · FROM 20 OCT · star · 4 (5) · 2-bedroom apartment for rent in Condado, Lisbon · From 1400 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/608694"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nCHECKED · APARTMENT · FROM 20 OCT · star · 4 (5) · 2-bedroom apartment for rent in Condado, Lisbon · From 1400 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/608694",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 550 €\nApartamento T2 na Rua Cidade de Rabat, 2 b, Estrada de Benfica, São Domingos de Benfica · 550€/mês · T2 70 m² área bruta 4º andar sem elevador 6 minutos · Arrendamento temporário · Contactar · Ver telefone\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35339883/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.469 €\nApartamento T1 na Rua Basílio Teles, Praça de Espanha - Sete Rios, Campolide · 1.469€/mês · 1.679 € 13% · T1 58 m² área bruta com elevador 1 hora · Descubra este confortável apartamento de 1 quarto, totalmente mobiliado, disponível para alugar em Lisboa. O apartamento está equipa…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34685939/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.050 €\nApartamento T0 na Rua Margarida de Abreu, Casal Vistoso, Areeiro · 1.050€/mês · T0 14 m² área bruta com elevador 1 hora · Localizado na Rua Margarida de AbreuLisboa, POR, este edifício é um centro dinâmico que se estende por vários pisos, oferecendo uma experiência de vida única …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34973956/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.469 €\nApartamento T2 na Rua do Olival, Lapa, Estrela · 1.469€/mês · 1.785 € 18% · T2 60 m² área bruta sem elevador 1 hora · Este apartamento totalmente mobiliado com 2 quartos em Lisboa é perfeito para profissionais, estudantes e casais. O apartamento está equipado com máquina de lavar…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34685946/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.490 €\nApartamento T1 na Rua de Pedrouços, Pedrouços, Belém · 1.490€/mês · T1 75 m² área bruta sem elevador 1 hora · Este apartamento de 1 quarto em Lisboa oferece um espaço acolhedor para a sua estadia. Está mobilado e inclui uma máquina de lavar roupa privativa e uma cozinha equipada …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35340592/"
  ],
  "son_gonderim": ""
 }
