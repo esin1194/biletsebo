@@ -24,4 +24,4 @@ Uniplaces | https://www.uniplaces.com/accommodation/lisbon
 # --- Airbnb (aylik konaklama) ---
 # Tarihleri kendinize gore degistirin:
 #   monthly_start_date = giris tarihi (YYYY-AA-GG), monthly_length = kac ay
-Airbnb | https://www.airbnb.com/s/Lisbon--Portugal/homes?date_picker_type=monthly_stay&monthly_start_date=2026-10-01&monthly_length=3&room_types%5B%5D=Entire%20home%2Fapt
+Airbnb | https://www.airbnb.com/s/Lisbon--Portugal/homes?date_picker_type=monthly_stay&monthly_start_date=2026-11-01&monthly_length=3&room_types%5B%5D=Entire%20home%2Fapt

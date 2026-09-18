@@ -123,6 +123,28 @@ no amueblado
 
 
 # =====================================================================
+# KESIN ISTENMEYEN: sayfanin HERHANGI bir yerinde (baslik, ozellik listesi,
+# aciklama) gecerse ilan gonderilmez. Sadece hic suphe birakmayan
+# ifadeleri buraya yazin.
+# =====================================================================
+[KESIN ISTENMEYEN]
+quarto partilhado
+quarto compartilhado
+apartamento partilhado
+casa partilhada
+shared room
+shared bedroom
+shared apartment
+shared flat
+room in a shared
+private room in
+habitacion compartida
+piso compartido
+coliving
+co-living
+
+
+# =====================================================================
 # ZORUNLU: ilanda bu sartlar GECMEZSE ilan gonderilmez.
 # Her satir bir sarttir. Satirdaki / ile ayrilmis ifadelerden
 # EN AZ BIRI gecmesi yeterli. Birden fazla satir yazarsaniz HEPSI aranir.

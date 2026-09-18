@@ -26,8 +26,9 @@ import json
 import os
 import re
 import time
+import hashlib
 import unicodedata
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone, timedelta, date
 from urllib.parse import urlparse
 
 import requests
@@ -43,9 +44,24 @@ FIYAT_FILTRESI_UYGULANMAYAN = ["airbnb."]   # Airbnb fiyatlari gecelik/toplam ka
 KAYNAK_BASINA_MAKS_MESAJ = 8      # bir turda tek siteden en fazla bu kadar mesaj
 KIMLIK_SAKLAMA_LIMITI = 4000      # site basina hatirlanan ilan sayisi
 BOS_UYARI_ESIGI = 3               # kac tur ust uste bos donerse uyarilsin
-GUNLUK_OZET_SAATI = 9             # Turkiye saatiyle
 DETAY_LIMITI = 40                 # bir turda en fazla kac ilan sayfasi acilsin
 ZORUNLU_UYGULANMAYAN = ["airbnb."]   # Airbnb evleri zaten hep esyali
+
+# --- gonderim zamani ---
+ANINDA_GONDER = False             # True olursa ilanlar beklemeden gonderilir
+GONDERIM_SAATI = 19               # Turkiye saatiyle; birikenler bu saatte gelir
+KUYRUK_MAKS_MESAJ = 40            # tek seferde en fazla bu kadar ayri mesaj
+
+# --- musaitlik tarihi ---
+ISTENEN_TARIH = "2026-11-01"      # bu tarihten itibaren oturulabilir olmali
+TARIH_TOLERANS_GUN = 30           # bu kadar gun sonrasina kadarki tarihler kabul
+
+# --- buyukluk kurallari (m2 alt siniri; 0 = sinir yok) ---
+ALAN_KURALLARI = {"T0": 0, "T1": 0, "T2": 100, "T3": 100, "T4": 100, "T5": 100}
+ALAN_BILINMIYORSA_GONDER = True   # m2 yaziImyorsa ilan yine de gelsin mi
+
+# --- fotograf ---
+FOTOSUZ_ELE = True                # fotografi olmayan ilanlar gonderilmesin
 ELENENLERI_BILDIR = False         # True yapilirsa elenen ilanlar da kisaca bildirilir
 
 # Ilan sayfasinda aciklamanin bulundugu yerler (siteye gore)
@@ -128,7 +144,14 @@ JS_DETAY = r"""
   const kok = document.querySelector('main') || document.body;
   const tum = ((kok && kok.innerText) || '').slice(0, 20000);
   if (!bulundu) parca.push(tum.slice(0, 5000));
-  return { aciklama: parca.join('\n'), tum: parca.join('\n') + '\n' + tum };
+  let foto = 0;
+  for (const im of Array.from(document.images)) {
+    const en = im.naturalWidth || im.clientWidth || 0;
+    const boy = im.naturalHeight || im.clientHeight || 0;
+    if (en > 250 && boy > 150) foto++;
+  }
+  if (meta('og:image')) foto++;
+  return { aciklama: parca.join('\n'), tum: parca.join('\n') + '\n' + tum, foto: foto };
 }
 """
 
@@ -185,13 +208,14 @@ def normallestir(metin):
 
 def filtreleri_oku():
     """
-    [ISTENMEYEN] bolumu: biri gecerse ilan elenir.
+    [ISTENMEYEN] bolumu: aciklamada gecerse ilan elenir.
+    [KESIN ISTENMEYEN] bolumu: sayfanin HERHANGI bir yerinde gecerse elenir.
     [ZORUNLU] bolumu: her satir bir sarttir, satirdaki / ile ayrilmis
     seceneklerden en az biri gecmelidir. Birden fazla satir = hepsi gerekli.
     """
-    istenmeyen, zorunlu = [], []
+    istenmeyen, kesin, zorunlu = [], [], []
     if not os.path.exists(FILTRE_DOSYASI):
-        return istenmeyen, zorunlu
+        return istenmeyen, kesin, zorunlu
     bolum = "ISTENMEYEN"
     with open(FILTRE_DOSYASI, encoding="utf-8") as f:
         for satir in f:
@@ -205,9 +229,11 @@ def filtreleri_oku():
                 secenekler = [normallestir(x.strip()) for x in satir.split("/") if x.strip()]
                 if secenekler:
                     zorunlu.append(secenekler)
+            elif bolum.startswith("KESIN"):
+                kesin.append(normallestir(satir))
             else:
                 istenmeyen.append(normallestir(satir))
-    return istenmeyen, zorunlu
+    return istenmeyen, kesin, zorunlu
 
 
 def _gecer_mi(ifade, n):
@@ -229,6 +255,120 @@ def eksik_sart_bul(metin, zorunlu):
         if not any(_gecer_mi(x, n) for x in secenekler):
             return secenekler[0]
     return None
+
+
+AYLAR = {
+    "janeiro": 1, "fevereiro": 2, "marco": 3, "abril": 4, "maio": 5, "junho": 6,
+    "julho": 7, "agosto": 8, "setembro": 9, "outubro": 10, "novembro": 11, "dezembro": 12,
+    "january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6,
+    "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
+    "jan": 1, "fev": 2, "feb": 2, "mar": 3, "abr": 4, "apr": 4, "mai": 5, "jun": 6,
+    "jul": 7, "ago": 8, "aug": 8, "set": 9, "sep": 9, "out": 10, "oct": 10,
+    "nov": 11, "dez": 12, "dec": 12,
+    "enero": 1, "febrero": 2, "marzo": 3, "mayo": 5, "junio": 6, "julio": 7,
+    "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12,
+}
+
+TARIH_TETIKLERI = [
+    "disponivel a partir de", "disponivel a partir", "disponivel desde",
+    "disponivel em", "disponivel:", "disponivel ", "livre a partir de",
+    "entrada a partir de", "arrendamento a partir de",
+    "available from", "available on", "availability", "available:", "available ",
+    "move-in", "move in date", "moving in",
+    "disponible a partir de", "libre desde",
+]
+
+HEMEN_IFADELERI = ["imediato", "imediata", "ja disponivel", "desde ja",
+                   "immediately", "available now", "right now", "inmediato"]
+
+TARIH_SAYISAL = re.compile(r"(\d{1,2})[/.\-](\d{1,2})(?:[/.\-](\d{2,4}))?")
+TARIH_AYLI = re.compile(r"(\d{1,2})\s*(?:de\s*)?([a-z]{3,12})(?:\s*(?:de\s*)?(\d{4}))?")
+TARIH_AY_ONCE = re.compile(r"([a-z]{3,12})\s+(\d{1,2})(?:,?\s*(\d{4}))?")
+
+ALAN_RE = re.compile(r"(\d{2,4})(?:[.,]\d+)?\s?(?:m2|m\u00b2|metros quadrados|sqm)")
+TIP_RE = re.compile(r"(?<![a-z0-9])t([0-5])(?![0-9])")
+ODA_RE = re.compile(r"(\d)\s?(?:quartos?|bedrooms?|dormitorios?|habitaciones?)")
+
+
+def _tarih_kur(gun, ay, yil, bugun):
+    if not (1 <= ay <= 12 and 1 <= gun <= 31):
+        return None
+    if yil is None:
+        yil = bugun.year
+    elif yil < 100:
+        yil += 2000
+    try:
+        d = date(yil, ay, gun)
+    except ValueError:
+        return None
+    if d < bugun - timedelta(days=60):
+        try:
+            d = date(yil + 1, ay, gun)
+        except ValueError:
+            return None
+    return d
+
+
+def musaitlik_tarihi(metin):
+    """Ilan metnindeki 'ne zaman bosaliyor' bilgisini bulmaya calisir."""
+    n = normallestir(metin)
+    bugun = simdi().date()
+    for tetik in TARIH_TETIKLERI:
+        yer = n.find(tetik)
+        if yer < 0:
+            continue
+        parca = n[yer + len(tetik): yer + len(tetik) + 50]
+        if any(h in parca for h in HEMEN_IFADELERI):
+            return bugun
+        m = TARIH_SAYISAL.search(parca)
+        if m:
+            d = _tarih_kur(int(m.group(1)), int(m.group(2)),
+                           int(m.group(3)) if m.group(3) else None, bugun)
+            if d:
+                return d
+        m = TARIH_AYLI.search(parca)
+        if m and m.group(2) in AYLAR:
+            d = _tarih_kur(int(m.group(1)), AYLAR[m.group(2)],
+                           int(m.group(3)) if m.group(3) else None, bugun)
+            if d:
+                return d
+        m = TARIH_AY_ONCE.search(parca)
+        if m and m.group(1) in AYLAR:
+            d = _tarih_kur(int(m.group(2)), AYLAR[m.group(1)],
+                           int(m.group(3)) if m.group(3) else None, bugun)
+            if d:
+                return d
+    return None
+
+
+def tipoloji_bul(metin):
+    """T0 / T1 / T2 ... dondurur, bulamazsa None."""
+    n = normallestir(metin)
+    if re.search(r"(?<![a-z])(estudio|studio|kitnet)(?![a-z])", n):
+        return "T0"
+    m = TIP_RE.search(n)
+    if m:
+        return "T" + m.group(1)
+    m = ODA_RE.search(n)
+    if m:
+        return "T" + m.group(1)
+    return None
+
+
+def alan_bul(metin):
+    """Metindeki en buyuk makul m2 degerini dondurur."""
+    n = normallestir(metin)
+    degerler = [int(x) for x in ALAN_RE.findall(n)]
+    degerler = [d for d in degerler if 10 <= d <= 1000]
+    return max(degerler) if degerler else None
+
+
+def parmak_izi(metin, fiyat):
+    """Ayni ilan tekrar yayinlandiginda taninmasi icin ozet imza."""
+    n = normallestir(metin)
+    n = re.sub(r"[^a-z0-9 ]", " ", n)
+    n = re.sub(r"\s+", " ", n).strip()[:70]
+    return hashlib.sha1(f"{n}|{fiyat or ''}".encode()).hexdigest()[:16]
 
 
 def para(sayi):
@@ -301,6 +441,9 @@ def durum_yukle():
         d = {}
     d.setdefault("gorulen", {})
     d.setdefault("kaynaklar", {})
+    d.setdefault("imzalar", [])
+    d.setdefault("kuyruk", [])
+    d.setdefault("son_gonderim", "")
     d.setdefault("gunluk", {"tarih": simdi().strftime("%Y-%m-%d"), "gonderilen": 0})
     return d
 
@@ -308,6 +451,7 @@ def durum_yukle():
 def durum_kaydet(d):
     for alan, liste in d["gorulen"].items():
         d["gorulen"][alan] = liste[-KIMLIK_SAKLAMA_LIMITI:]
+    d["imzalar"] = d["imzalar"][-KIMLIK_SAKLAMA_LIMITI:]
     with open(DURUM_DOSYASI, "w", encoding="utf-8") as f:
         json.dump(d, f, ensure_ascii=False, indent=1)
 
@@ -400,12 +544,17 @@ def main():
         return
 
     durum = durum_yukle()
-    filtreler, zorunlular = filtreleri_oku()
-    log(f"{len(filtreler)} istenmeyen ifade, {len(zorunlular)} zorunlu sart yuklendi.")
+    filtreler, kesin_filtreler, zorunlular = filtreleri_oku()
+    log(f"{len(filtreler)} istenmeyen ifade, {len(kesin_filtreler)} kesin ifade, "
+        f"{len(zorunlular)} zorunlu sart yuklendi.")
     ilanlar_msj, ornekler, ilk_ozet, uyarilar, rapor = [], [], [], [], []
     elenen_msj = []
     elenen_sayisi = 0
+    tekrar_sayisi = 0
     detay_hakki = DETAY_LIMITI
+    imzalar = set(durum["imzalar"])
+    tarih_siniri = (datetime.strptime(ISTENEN_TARIH, "%Y-%m-%d").date()
+                    + timedelta(days=TARIH_TOLERANS_GUN))
 
     with sync_playwright() as p:
         tarayici = p.chromium.launch(headless=True)
@@ -470,7 +619,6 @@ def main():
 
             fiyat_serbest = any(x in alan for x in FIYAT_FILTRESI_UYGULANMAYAN)
             aktif_zorunlu = [] if any(x in alan for x in ZORUNLU_UYGULANMAYAN) else zorunlular
-            filtre_var = bool(filtreler or aktif_zorunlu)
             uygun = []
             for k, t in yeniler:
                 fiyat = fiyat_bul(t)
@@ -486,28 +634,61 @@ def main():
                     continue
                 link = sablon.format(id=k)
 
+                # ayni ilan daha once (belki baska bir numarayla) gelmis mi
+                izi = parmak_izi(t, f)
+                if t and izi in imzalar:
+                    tekrar_sayisi += 1
+                    log(f"  tekrar ilan, atlandi: {link}")
+                    continue
+
                 # once kart metnine bak (sayfa acmaya gerek kalmayabilir)
                 sebep = yasakli_ifade_bul(t, filtreler) if filtreler else None
                 not_ = None
-                if not sebep and filtre_var:
+                metin_hepsi = t
+                if not sebep:
                     if detay_hakki > 0:
                         detay_hakki -= 1
                         detay = detay_oku(baglam, link)
                         if detay is None:
-                            not_ = "⚠️ Açıklama okunamadı, filtreler kontrol edilemedi."
+                            not_ = "⚠️ Sayfa okunamadı, filtreler kontrol edilemedi."
                         else:
                             aciklama = detay.get("aciklama", "")
+                            metin_hepsi = t + "\n" + detay.get("tum", "")
                             sebep = yasakli_ifade_bul(aciklama, filtreler)
+                            if not sebep and kesin_filtreler:
+                                sebep = yasakli_ifade_bul(metin_hepsi, kesin_filtreler)
                             if not sebep and aktif_zorunlu:
-                                eksik = eksik_sart_bul(t + "\n" + detay.get("tum", ""), aktif_zorunlu)
+                                eksik = eksik_sart_bul(metin_hepsi, aktif_zorunlu)
                                 if eksik:
                                     sebep = f"şart yok: {eksik}"
-                            if f is None:
-                                f = fiyat_bul(aciklama) if not fiyat_serbest else None
+                            if not sebep and f is None and not fiyat_serbest:
+                                f = fiyat_bul(aciklama)
+                                izi = parmak_izi(t, f)
                                 if f and f > MAKS_FIYAT:
                                     sebep = f"fiyat {para(f)}"
+                            # fotograf
+                            if not sebep and FOTOSUZ_ELE and detay.get("foto", 0) < 1:
+                                sebep = "fotoğraf yok"
+                            # musaitlik tarihi
+                            if not sebep:
+                                tarih = musaitlik_tarihi(metin_hepsi)
+                                if tarih and tarih > tarih_siniri:
+                                    sebep = f"müsait: {tarih.strftime('%d.%m.%Y')}"
+                            # buyukluk kurali
+                            if not sebep:
+                                tip = tipoloji_bul(t) or tipoloji_bul(aciklama)
+                                alt_sinir = ALAN_KURALLARI.get(tip or "", 0)
+                                if alt_sinir:
+                                    m2 = alan_bul(metin_hepsi)
+                                    if m2 and m2 < alt_sinir:
+                                        sebep = f"{tip} ama {m2} m²"
+                                    elif not m2:
+                                        if ALAN_BILINMIYORSA_GONDER:
+                                            not_ = f"⚠️ {tip} ama m² bilgisi yok."
+                                        else:
+                                            sebep = f"{tip} ama m² yazmıyor"
                     else:
-                        not_ = "⚠️ Bu turda sayfa kontrol limiti doldu, açıklama okunmadı."
+                        not_ = "⚠️ Bu turda sayfa kontrol limiti doldu, filtreler uygulanmadı."
 
                 if sebep:
                     elenen_sayisi += 1
@@ -517,6 +698,8 @@ def main():
                             f"🚫 <b>Elendi · {esc(ad)}</b> — “{esc(sebep)}”\n{link}")
                     continue
 
+                imzalar.add(izi)
+                durum["imzalar"].append(izi)
                 ilanlar_msj.append(ilan_mesaji(ad, link, t, f, not_=not_))
                 gonderilecek += 1
 
@@ -547,31 +730,59 @@ def main():
         telegram_gonder(m, onizleme=False)
         time.sleep(1)
 
-    gonderilen = 0
-    for m in ilanlar_msj:
-        if telegram_gonder(m):
-            gonderilen += 1
-        time.sleep(1.2)
-
-    # ---- gunluk ozet
-    bugun = simdi().strftime("%Y-%m-%d")
+    # ---- yeni ilanlar: ya hemen gonder ya da aksam ozetine birak
     gunluk = durum["gunluk"]
-    gunluk["gonderilen"] = gunluk.get("gonderilen", 0) + gonderilen
     gunluk["elenen"] = gunluk.get("elenen", 0) + elenen_sayisi
-    if gunluk.get("tarih") != bugun and simdi().hour >= GUNLUK_OZET_SAATI:
-        durum_satirlari = "\n".join(
-            f"• {esc(ad)}: {'✅' if n else '⚠️'} {n} ilan görünüyor" for ad, n in rapor)
-        telegram_gonder(
-            f"☀️ <b>Günaydın, takip çalışıyor.</b>\n"
-            f"Son özetten bu yana {gunluk['gonderilen']} yeni ilan gönderildi, "
-            f"{gunluk['elenen']} ilan filtreye takılıp elendi.\n\n{durum_satirlari}",
-            onizleme=False)
-        gunluk["tarih"] = bugun
-        gunluk["gonderilen"] = 0
-        gunluk["elenen"] = 0
+    gunluk["tekrar"] = gunluk.get("tekrar", 0) + tekrar_sayisi
+    gonderilen = 0
+
+    if ANINDA_GONDER:
+        for m in ilanlar_msj:
+            if telegram_gonder(m):
+                gonderilen += 1
+            time.sleep(1.2)
+    else:
+        durum["kuyruk"].extend(ilanlar_msj)
+        log(f"{len(ilanlar_msj)} ilan kuyruga eklendi "
+            f"(kuyrukta toplam {len(durum['kuyruk'])}).")
+
+        bugun = simdi().strftime("%Y-%m-%d")
+        zamani_geldi = (simdi().hour >= GONDERIM_SAATI
+                        and durum.get("son_gonderim") != bugun)
+        if zamani_geldi and (durum["kuyruk"] or rapor):
+            kuyruk = durum["kuyruk"]
+            durum_satirlari = "\n".join(
+                f"• {esc(ad)}: {'✅' if n else '⚠️'} {n} ilan taranıyor" for ad, n in rapor)
+            telegram_gonder(
+                f"🏠 <b>Bugünün ilanları: {len(kuyruk)}</b>\n"
+                f"{gunluk['elenen']} ilan filtrelere takıldı, "
+                f"{gunluk['tekrar']} ilan daha önce gelmişti.\n\n{durum_satirlari}",
+                onizleme=False)
+            time.sleep(1)
+
+            for m in kuyruk[:KUYRUK_MAKS_MESAJ]:
+                if telegram_gonder(m):
+                    gonderilen += 1
+                time.sleep(2)
+
+            kalan = kuyruk[KUYRUK_MAKS_MESAJ:]
+            if kalan:
+                telegram_gonder(
+                    f"📦 Bugün {len(kalan)} ilan daha var, tek tek göndermedim. "
+                    f"Linkler aşağıda:", onizleme=False)
+                linkler = re.findall(r"https?://\S+", "\n".join(kalan))
+                for i in range(0, len(linkler), 15):
+                    telegram_gonder("\n".join(linkler[i:i + 15]), onizleme=False)
+                    time.sleep(2)
+
+            durum["kuyruk"] = []
+            durum["son_gonderim"] = bugun
+            gunluk["elenen"] = 0
+            gunluk["tekrar"] = 0
 
     durum_kaydet(durum)
-    log(f"Tur bitti. {gonderilen} yeni ilan gonderildi.")
+    log(f"Tur bitti. {gonderilen} mesaj gonderildi, {elenen_sayisi} elendi, "
+        f"{tekrar_sayisi} tekrar.")
 
 
 if __name__ == "__main__":
