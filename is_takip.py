@@ -38,7 +38,7 @@ SITELER_DOSYASI = "siteler_is.txt"
 FILTRE_DOSYASI = "filtreler_is.txt"
 DURUM_DOSYASI = "is_durum.json"
 
-ANINDA_GONDER = False             # True olursa ilanlar beklemeden gonderilir
+ANINDA_GONDER = True              # False olursa ilanlar GONDERIM_SAATI'ne kadar biriktirilir
 GONDERIM_SAATI = 19               # Turkiye saatiyle
 KUYRUK_MAKS_MESAJ = 40
 KAYNAK_BASINA_MAKS_MESAJ = 10
@@ -527,10 +527,17 @@ def main():
     gonderilen = 0
 
     if ANINDA_GONDER:
-        for m in ilanlar_msj:
+        # daha once biriktirilmis ilan kaldiysa once onlari gonder
+        bekleyen = durum.get("kuyruk", [])
+        if bekleyen:
+            telegram_gonder(f"📦 Daha önce biriken {len(bekleyen)} ilan gönderiliyor.",
+                            onizleme=False)
+            time.sleep(1)
+        for m in bekleyen + ilanlar_msj:
             if telegram_gonder(m):
                 gonderilen += 1
-            time.sleep(1.2)
+            time.sleep(1.5)
+        durum["kuyruk"] = []
     else:
         durum["kuyruk"].extend(ilanlar_msj)
         log(f"{len(ilanlar_msj)} ilan kuyruga eklendi "
