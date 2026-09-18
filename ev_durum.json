@@ -616,7 +616,8 @@
    "apartamento-t4-remodelado-com-terraco-privativo-no-areeiro-ID1iTvp",
    "t1-para-arrendamento-rua-professor-mira-fernandes-lisboa-ID1iTz1",
    "excelente-t1-nos-olivais-ID1iTzI",
-   "t2-arrendamento-cozinha-equipada-lugar-de-estacionamento-e-arrec-ID1iTA8"
+   "t2-arrendamento-cozinha-equipada-lugar-de-estacionamento-e-arrec-ID1iTA8",
+   "apartamento-t2-renovado-na-junqueira-alcntara-ID1iTAD"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1324,7 +1325,9 @@
    "apartments/1181357",
    "apartments/253109",
    "apartments/340371",
-   "apartments/399056"
+   "apartments/399056",
+   "apartments/1005531",
+   "apartments/1005754"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1600,7 +1603,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1637,6 +1640,6 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 74,
-  "elenen": 39
+  "elenen": 40
  }
 }
