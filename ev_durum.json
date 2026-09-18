@@ -1616,13 +1616,14 @@
    "1673914315360297275",
    "1153602685170820431",
    "12946501",
-   "1678380746796518434"
+   "1678380746796518434",
+   "1216369131469138829"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1667,7 +1668,11 @@
   "elenen": 43,
   "tekrar": 0
  },
- "imzalar": [],
- "kuyruk": [],
+ "imzalar": [
+  "f6afeff342d106a9"
+ ],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 22 · Apartamento ⋅ Graça · O Estúdio e a Mansão · 1 sofá-cama · 1 banheiro · $ 1.607 USD · $ 1.401 USD · Mostrar detalhamento de preço · mensal · Desconto mensal · Foto 1 de 24 · Casa ⋅ Estrela · Duplex de um quarto em São Bento · 1 quarto · $ 3.539 USD · $ 2.401 USD · …\nhttps://www.airbnb.com/rooms/1216369131469138829"
+ ],
  "son_gonderim": ""
 }
