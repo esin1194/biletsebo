@@ -80,7 +80,9 @@
    "administrative-french-speaker-mfx_lisboa_PTS-2026-180386",
    "senior-executive-personal-assistant-mfx_lisboa_PTS-2026-178722",
    "call-center-vagas-exclusivas-incapacidade-igual-ou-superior-a-60-mfx_portugal-continental_OTS-2025-159530",
-   "assistente-de-loja-vodafone-mfx_setubal_OTS-2026-184229"
+   "assistente-de-loja-vodafone-mfx_setubal_OTS-2026-184229",
+   "empregado-de-mesa-mf-7-agosto-servico-pontual_lisboa_OTS-2025-155198",
+   "tecnico-de-refrigeracao-mfx_lisboa_OTS-2026-184247"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -442,17 +444,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -462,7 +464,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -482,14 +484,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 37,
+  "elenen": 39,
   "tekrar": 0
  }
 }
