@@ -54,7 +54,10 @@
    "customer-support-italian-speaker-mfx_remote-portugal_OTS-2026-184002",
    "eu-auctions-promotion-agent-german-speaker-mfx_lisbon-portugal_OTS-2026-183330",
    "assistente-de-loja-vodafone-mfx_ccvasco-da-gama_OTS-2026-183153",
-   "assistente-de-loja-vodafone-fulltime-mfx-arena-shopping_torres-vedras_OTS-2026-182381"
+   "assistente-de-loja-vodafone-fulltime-mfx-arena-shopping_torres-vedras_OTS-2026-182381",
+   "travel-expenses-analyst-french-speaker-mfx_lisboa_PTS-2023-184251",
+   "comercial-mfx_lisboa_PTS-2026-183887",
+   "business-manager-mfx_lisboa_PTS-2026-183430"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -410,17 +413,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -430,7 +433,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -450,7 +453,7 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   }
  },
@@ -466,7 +469,7 @@
  ],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 13,
+  "elenen": 16,
   "tekrar": 0
  }
 }
