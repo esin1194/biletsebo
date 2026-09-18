@@ -60,7 +60,11 @@
    "business-manager-mfx_lisboa_PTS-2026-183430",
    "tecnico-de-manutencao-eletrica-mfx_castanheira-do-ribatejo_OTS-2026-171207",
    "eletricista-certificado-dgeg-mfx_lisboa_OTS-2026-183864",
-   "eletricista-mfx_porto-salvo_OTS-2026-179335"
+   "eletricista-mfx_porto-salvo_OTS-2026-179335",
+   "torneiro-mecanico-mfx_carnaxide_OTS-2026-180391",
+   "accountant_lisboa_PTS-2026-184255",
+   "fisioterapeuta_restelo_PTS-2026-184256",
+   "assistente-banca-telefonica-mfx_lisboa_OTS-2026-183199"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -413,22 +417,23 @@
   "3ce19aa795f1b06b",
   "14a2dfb3ef6522ce",
   "551adcc2690c0b2b",
-  "637300b306948466"
+  "637300b306948466",
+  "ab428a7e9a1bafca"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -438,7 +443,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -458,7 +463,7 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   }
  },
@@ -471,11 +476,12 @@
   "<b>💼 Yeni ilan · Workable</b>\nVideo Content Analyst with Czech - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/jkbjw7jJRJ2TEs9xKGC5R2",
   "<b>💼 Yeni ilan · Workable</b>\nDanish-speaking Customer Support Consultant in Torrevieja Spain · at Next Job AbroadOn-siteLisbon, Lisbon, PortugalAga LoughranFull-time · Posted 3 months ago\nhttps://jobs.workable.com/view/amcVQge4TzwgqhMSFRktLM",
   "<b>💼 Yeni ilan · Randstad</b>\nWe are looking for a dynamic and proactive EU Auctions Promotion Agent to drive growth in the German market in the automotive sector. In this role, you will be the voice of our client´s auctions, actively engaging with dealers primarily through outbound phone calls. Your main goal will be to boost a…\nhttps://www.randstad.pt/empregos/eu-auctions-promotion-agent-german-speaker-mfx_lisbon-portugal_OTS-2026-183330",
-  "<b>💼 Yeni ilan · Workable</b>\nSenior Python Data Scraping Engineer (Freelance) · at MindriftRemoteLisbon, Lisbon, PortugalWeb scrapingPart-time · Posted today\nhttps://jobs.workable.com/view/dP9mnNBSpVVf4jWdUdoCb9"
+  "<b>💼 Yeni ilan · Workable</b>\nSenior Python Data Scraping Engineer (Freelance) · at MindriftRemoteLisbon, Lisbon, PortugalWeb scrapingPart-time · Posted today\nhttps://jobs.workable.com/view/dP9mnNBSpVVf4jWdUdoCb9",
+  "<b>💼 Yeni ilan · Randstad</b>\naccountant · lisboa, lisboa · contrato · publicado em 18 setembro 2026 · Our client is a global leader in the energy sector and is recruiting an Accountant with an expected duration of 6 months to 1 year, with possible extension · ver detalhes da oferta\nhttps://www.randstad.pt/empregos/accountant_lisboa_PTS-2026-184255"
  ],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 19,
+  "elenen": 22,
   "tekrar": 0
  }
 }
