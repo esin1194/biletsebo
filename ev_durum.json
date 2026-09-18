@@ -808,7 +808,8 @@
    "apartamento-t1-marques-de-pombal-lisboa-IDJAFDY",
    "t3-duplex-150-m-2-suites-2-varandas-garagem-varge-mondar-IDJAGeg",
    "artendamento-t2-pirescoxe-IDJAGC8",
-   "apartamento-t2-pirescoxe-IDJAGC8"
+   "apartamento-t2-pirescoxe-IDJAGC8",
+   "apartamento-t0-ao-marqus-de-pombal-IDHnx68"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1689,7 +1690,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1731,7 +1732,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 1,
   "tekrar": 0
  },
  "imzalar": [
