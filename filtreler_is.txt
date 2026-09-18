@@ -59,6 +59,108 @@ unpaid position
 
 
 # =====================================================================
+# BASLIKTA ISTENMEYEN: sadece ilanin BASLIGINDA aranir.
+# Buradaki kelimeler aciklamanin icinde gecerse sorun olmaz, cunku
+# normal bir ilanda "muhendislik ekibiyle calisacaksiniz" gibi
+# cumleler gecebiliyor. Meslek adlarini buraya yazin.
+# =====================================================================
+[BASLIKTA ISTENMEYEN]
+# Muhendislik ve teknik
+engineer
+engineering
+engenheiro
+engenheira
+engenharia
+developer
+programador
+tecnico
+technician
+architect
+arquiteto
+# Saglik
+doctor
+physician
+medico
+medica
+nurse
+enfermeiro
+enfermeira
+dentista
+dentist
+farmaceutico
+veterinario
+psicologo
+fisioterapeuta
+# Diger saha meslekleri
+eletricista
+canalizador
+mecanico
+motorista
+driver
+condutor
+estafeta de
+entregador
+courier
+chauffeur
+seguranca
+cozinheiro
+empregado de mesa
+rececionista de hotel
+limpeza
+estafeta
+
+
+# =====================================================================
+# OZEL PROGRAM VE SERTIFIKA SARTI ARAYANLAR
+# Bu ifadeler ilan aciklamasinda gecerse ilan gonderilmez.
+# Cok fazla ilan elenirse buradaki satirlarin basina # koyup kapatin.
+# Not: Excel, Word ve CRM bilerek eklenmedi, neredeyse her ofis
+# ilaninda geciyor; eklenirse neredeyse hicbir ilan kalmaz.
+# =====================================================================
+[ISTENMEYEN]
+# Bilgisayar programi / kodlama bilgisi
+python
+javascript
+java
+sql
+autocad
+photoshop
+illustrator
+indesign
+sap
+oracle
+salesforce admin
+power bi
+tableau
+figma
+matlab
+solidworks
+revit
+primavera software
+html
+css
+
+# Sertifika / ruhsat sarti
+certification required
+certification is required
+certificate required
+must be certified
+certified professional
+professional certification
+certificacao obrigatoria
+certificado obrigatorio
+certificado profissional
+carteira profissional
+cedula profissional
+cap obrigatorio
+carta de conducao
+driving licence
+driving license
+drivers license
+driver's license
+
+
+# =====================================================================
 # ZORUNLU: her satirdan en az bir ifade gecmeli.
 # 1. satir: ilgilendiginiz roller. 2. satir: ilanin Ingilizce yuruyen
 # bir pozisyon oldugunu gosteren ifadeler.

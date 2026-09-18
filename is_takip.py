@@ -112,8 +112,9 @@ JS_DETAY = r"""
     const el = document.querySelector(`meta[property="${p}"], meta[name="${p}"]`);
     return el ? (el.getAttribute('content') || '') : '';
   };
-  parca.push(document.title, meta('og:title'), meta('og:description'), meta('description'));
   const h1 = document.querySelector('h1');
+  const baslik = [document.title, meta('og:title'), h1 ? h1.innerText : ''].join(' · ');
+  parca.push(document.title, meta('og:title'), meta('og:description'), meta('description'));
   if (h1) parca.push(h1.innerText);
   let bulundu = false;
   for (const s of seciciler) {
@@ -126,7 +127,8 @@ JS_DETAY = r"""
   const kok = document.querySelector('main') || document.body;
   const tum = ((kok && kok.innerText) || '').slice(0, 20000);
   if (!bulundu) parca.push(tum.slice(0, 6000));
-  return { aciklama: parca.join('\n'), tum: parca.join('\n') + '\n' + tum, bulundu: bulundu };
+  return { aciklama: parca.join('\n'), tum: parca.join('\n') + '\n' + tum,
+           baslik: baslik, bulundu: bulundu };
 }
 """
 
@@ -262,9 +264,9 @@ def siteleri_oku():
 
 
 def filtreleri_oku():
-    istenmeyen, kesin, zorunlu = [], [], []
+    istenmeyen, kesin, baslikta, zorunlu = [], [], [], []
     if not os.path.exists(FILTRE_DOSYASI):
-        return istenmeyen, kesin, zorunlu
+        return istenmeyen, kesin, baslikta, zorunlu
     bolum = "ISTENMEYEN"
     with open(FILTRE_DOSYASI, encoding="utf-8") as f:
         for satir in f:
@@ -280,9 +282,11 @@ def filtreleri_oku():
                     zorunlu.append(secenekler)
             elif bolum.startswith("KESIN"):
                 kesin.append(normallestir(satir))
+            elif bolum.startswith("BASLIK"):
+                baslikta.append(normallestir(satir))
             else:
                 istenmeyen.append(normallestir(satir))
-    return istenmeyen, kesin, zorunlu
+    return istenmeyen, kesin, baslikta, zorunlu
 
 
 def durum_yukle():
@@ -395,9 +399,9 @@ def main():
         return
 
     durum = durum_yukle()
-    filtreler, kesin_filtreler, zorunlular = filtreleri_oku()
-    log(f"{len(filtreler)} istenmeyen ifade, {len(kesin_filtreler)} kesin ifade, "
-        f"{len(zorunlular)} zorunlu sart yuklendi.")
+    filtreler, kesin_filtreler, baslik_filtreleri, zorunlular = filtreleri_oku()
+    log(f"{len(filtreler)} istenmeyen, {len(kesin_filtreler)} kesin, "
+        f"{len(baslik_filtreleri)} baslik ifadesi, {len(zorunlular)} zorunlu sart yuklendi.")
 
     ilanlar_msj, ilk_ozet, uyarilar, rapor, elenen_msj = [], [], [], [], []
     elenen_sayisi = tekrar_sayisi = 0
@@ -468,6 +472,8 @@ def main():
                     continue
 
                 sebep = yasakli_ifade_bul(t, filtreler)
+                if not sebep and baslik_filtreleri:
+                    sebep = yasakli_ifade_bul(t, baslik_filtreleri)
                 not_ = None
                 if not sebep:
                     if detay_hakki > 0:
@@ -479,6 +485,9 @@ def main():
                             aciklama = detay.get("aciklama", "")
                             hepsi = t + "\n" + detay.get("tum", "")
                             sebep = yasakli_ifade_bul(aciklama, filtreler)
+                            if not sebep and baslik_filtreleri:
+                                sebep = yasakli_ifade_bul(detay.get("baslik", ""),
+                                                          baslik_filtreleri)
                             if not sebep and kesin_filtreler:
                                 sebep = yasakli_ifade_bul(hepsi, kesin_filtreler)
                             if not sebep and zorunlular:
