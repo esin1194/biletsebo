@@ -632,7 +632,8 @@
    "t1-luminoso-no-centro-de-lisboa-avenidas-novas-ID1iTBV",
    "apartamento-t0-1-com-varanda-no-luma-lumiar-em-lisboa-ID1iTBP",
    "apartamento-t2-para-arrendamento-ID1iTDQ",
-   "apartamento-t0-junto-a-basilica-da-estrela-ID1frih"
+   "apartamento-t0-junto-a-basilica-da-estrela-ID1frih",
+   "apartamento-t1-marques-de-pombal-lisboa-ID1iTET"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1517,7 +1518,8 @@
    "787881",
    "639347",
    "228212",
-   "893105"
+   "893105",
+   "92628"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1652,7 +1654,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1694,7 +1696,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 51,
+  "elenen": 52,
   "tekrar": 7
  },
  "imzalar": [
@@ -1712,7 +1714,8 @@
   "bee70640663c45af",
   "ff5e9bcf8cf7129b",
   "e57a12febaf00f10",
-  "d8d5e79e36c2077a"
+  "d8d5e79e36c2077a",
+  "9006f01854992acf"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 22 · Apartamento ⋅ Graça · O Estúdio e a Mansão · 1 sofá-cama · 1 banheiro · $ 1.607 USD · $ 1.401 USD · Mostrar detalhamento de preço · mensal · Desconto mensal · Foto 1 de 24 · Casa ⋅ Estrela · Duplex de um quarto em São Bento · 1 quarto · $ 3.539 USD · $ 2.401 USD · …\nhttps://www.airbnb.com/rooms/1216369131469138829",
@@ -1729,7 +1732,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.490 €\nApartamento T1 na Rua de Pedrouços, Pedrouços, Belém · 1.490€/mês · T1 75 m² área bruta sem elevador 1 hora · Este apartamento de 1 quarto em Lisboa oferece um espaço acolhedor para a sua estadia. Está mobilado e inclui uma máquina de lavar roupa privativa e uma cozinha equipada …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35340592/",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · 27,08 €/m² · Apartamento/ T0 junto á Basilica da Estrela · Lapa, Estrela, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 48 m² · Andar · rés do chão · Destacado · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-junto-a-basilica-da-estrela-ID1frih",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 28 · De 9 de nov.  a  8 de fev. · 9 de nov. – 8 de fev. · Apartamento ⋅ Costa da Caparica · Perfeito para famílias: praia, animais de estimação e Lisboa · 2 quartos · 2 camas de casal · 1 banheiro · $ 2.334 USD · $ 1.256 USD · Mostrar detalhamento de preço · mensal · De…\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/1459633500384606937",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 22 · Apartamento ⋅ Lisboa · O Estúdio e a Mansão · 1 sofá-cama · 1 banheiro · $ 1.607 USD · $ 1.401 USD · Mostrar detalhamento de preço · mensal · Desconto mensal · Foto 1 de 24 · Casa ⋅ Lisboa · Duplex de um quarto em São Bento · 1 quarto · $ 3.539 USD · $ 2.401 USD · …\nhttps://www.airbnb.com/rooms/37140061"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 22 · Apartamento ⋅ Lisboa · O Estúdio e a Mansão · 1 sofá-cama · 1 banheiro · $ 1.607 USD · $ 1.401 USD · Mostrar detalhamento de preço · mensal · Desconto mensal · Foto 1 de 24 · Casa ⋅ Lisboa · Duplex de um quarto em São Bento · 1 quarto · $ 3.539 USD · $ 2.401 USD · …\nhttps://www.airbnb.com/rooms/37140061",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · 18,57 €/m² · Apartamento T1 Marques de Pombal - Lisboa · Av. da Liberdade - Marquês de Pombal, Santo António, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-marques-de-pombal-lisboa-ID1iTET"
  ],
  "son_gonderim": ""
 }
