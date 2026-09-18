@@ -1,6 +1,15 @@
 {
  "gorulen": {
-  "net-empregos.com": [],
+  "net-empregos.com": [
+   "15631491/torneiro-fresador-mecanico",
+   "16000338/tecnico-manutencao-industrial",
+   "15989950/empregado-a-de-restaurante-e-pequenos-almocos-tempo-inteiro",
+   "15983795/serralheiro-de-caixilharia-de-aluminio-braga",
+   "15968636/oficial-ajudante-de-picheleiro",
+   "15967314/arquiteto-a-vila-nova-de-famalicao",
+   "15974830/procuramos-pintor-preparador-com-ou-sem-experiencia-para-oficina-automovel",
+   "15953844/operador-a-cnc-comando-numerico-computorizado"
+  ],
   "emprego.sapo.pt": [],
   "olx.pt": [],
   "randstad.pt": [
@@ -140,7 +149,8 @@
    "djL2qNACyE3TJGVPbDoXhg",
    "qakBWGZf6AGpm7gcErkM8z",
    "j3rB4uRieZHRY7vrzXVXA5",
-   "jkbjw7jJRJ2TEs9xKGC5R2"
+   "jkbjw7jJRJ2TEs9xKGC5R2",
+   "amcVQge4TzwgqhMSFRktLM"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -381,23 +391,24 @@
   "4cf0cb855179e84f",
   "af3aefd509593a93",
   "6e013df084551eb0",
-  "3ce19aa795f1b06b"
+  "3ce19aa795f1b06b",
+  "14a2dfb3ef6522ce"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
-   "ilk": true,
-   "bos": 2,
+   "ilk": false,
+   "bos": 0,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
    "ilk": false,
@@ -406,8 +417,8 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
    "ilk": false,
@@ -426,8 +437,8 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   }
  },
  "kuyruk": [
@@ -436,7 +447,8 @@
   "<b>💼 Yeni ilan · Workable</b>\nGreek Quality Analyst - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/djL2qNACyE3TJGVPbDoXhg",
   "<b>💼 Yeni ilan · Workable</b>\nVideo Content Analyst with Russian - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/qakBWGZf6AGpm7gcErkM8z",
   "<b>💼 Yeni ilan · Workable</b>\nVideo Content Analyst with Dutch - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/j3rB4uRieZHRY7vrzXVXA5",
-  "<b>💼 Yeni ilan · Workable</b>\nVideo Content Analyst with Czech - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/jkbjw7jJRJ2TEs9xKGC5R2"
+  "<b>💼 Yeni ilan · Workable</b>\nVideo Content Analyst with Czech - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/jkbjw7jJRJ2TEs9xKGC5R2",
+  "<b>💼 Yeni ilan · Workable</b>\nDanish-speaking Customer Support Consultant in Torrevieja Spain · at Next Job AbroadOn-siteLisbon, Lisbon, PortugalAga LoughranFull-time · Posted 3 months ago\nhttps://jobs.workable.com/view/amcVQge4TzwgqhMSFRktLM"
  ],
  "son_gonderim": "",
  "sayaclar": {
