@@ -134,7 +134,13 @@
    "ja4mpp3inQEeyeFc7ocgeC",
    "bHYK42VDbX9YUapmcDfkpR",
    "1hVZDrVbtiZJ1CjSzbMxNQ",
-   "ehWwKB8yQorgyQJ6bM7rwt"
+   "ehWwKB8yQorgyQJ6bM7rwt",
+   "pKunBo26Q9kBZ7Ye5mthR1",
+   "7S4WUbL6RZAPNRd8i4accr",
+   "djL2qNACyE3TJGVPbDoXhg",
+   "qakBWGZf6AGpm7gcErkM8z",
+   "j3rB4uRieZHRY7vrzXVXA5",
+   "jkbjw7jJRJ2TEs9xKGC5R2"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -363,25 +369,34 @@
    "b2spin-digital-design-team-lead-retention-crm",
    "big-bear-vacations-owner-retention-specialist",
    "melio-customer-success-manager",
-   "coaching-com-customer-success-manager-uk"
+   "coaching-com-customer-success-manager-uk",
+   "tines-lead-customer-success-manager-west",
+   "tines-deal-desk-analyst"
   ],
   "remotive.com": []
  },
- "imzalar": [],
+ "imzalar": [
+  "a6cb4f4ff21985ff",
+  "f77ed032264d73f8",
+  "4cf0cb855179e84f",
+  "af3aefd509593a93",
+  "6e013df084551eb0",
+  "3ce19aa795f1b06b"
+ ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": true,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -391,7 +406,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -411,14 +426,21 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   }
  },
- "kuyruk": [],
+ "kuyruk": [
+  "<b>💼 Yeni ilan · Workable</b>\nSwedish Customer Support for online streaming Platform - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2 · Posted over 3 years ago\nhttps://jobs.workable.com/view/pKunBo26Q9kBZ7Ye5mthR1",
+  "<b>💼 Yeni ilan · Workable</b>\nNorwegian Quality Analyst for Online Video Platform - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/7S4WUbL6RZAPNRd8i4accr",
+  "<b>💼 Yeni ilan · Workable</b>\nGreek Quality Analyst - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/djL2qNACyE3TJGVPbDoXhg",
+  "<b>💼 Yeni ilan · Workable</b>\nVideo Content Analyst with Russian - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/qakBWGZf6AGpm7gcErkM8z",
+  "<b>💼 Yeni ilan · Workable</b>\nVideo Content Analyst with Dutch - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/j3rB4uRieZHRY7vrzXVXA5",
+  "<b>💼 Yeni ilan · Workable</b>\nVideo Content Analyst with Czech - LIS2 · at Cross Border TalentsOn-siteLisbon, Lisbon, PortugalBPO_LIS2Full-time · Posted over 3 years ago\nhttps://jobs.workable.com/view/jkbjw7jJRJ2TEs9xKGC5R2"
+ ],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 0,
+  "elenen": 2,
   "tekrar": 0
  }
 }
