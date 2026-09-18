@@ -1601,13 +1601,28 @@
    "49285946",
    "1775338122201248712",
    "1091311640476105088",
-   "1756497118433394729"
+   "1756497118433394729",
+   "1702978491970643209",
+   "1706545682129185600",
+   "1268320464632332780",
+   "24631951",
+   "33982556",
+   "1412400383460663374",
+   "1517980663772366849",
+   "12266069",
+   "762993",
+   "1419589750917065815",
+   "968839593998117921",
+   "1673914315360297275",
+   "1153602685170820431",
+   "12946501",
+   "1678380746796518434"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1639,11 +1654,20 @@
    "ilk": false,
    "bos": 0,
    "uyarildi": false
+  },
+  "https://www.airbnb.com/s/Lisbon--Portugal/homes?date_picker_type=monthly_stay&monthly_start_date=2026-11-01&monthly_length=3&room_types%5B%5D=Entire%20home%2Fapt": {
+   "ilk": false,
+   "bos": 0,
+   "uyarildi": false
   }
  },
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 43
- }
+  "elenen": 43,
+  "tekrar": 0
+ },
+ "imzalar": [],
+ "kuyruk": [],
+ "son_gonderim": ""
 }
