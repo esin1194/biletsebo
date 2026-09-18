@@ -644,7 +644,8 @@
    "apartamento-t2-lumiar-ID1iTJY",
    "apartamento-t2-para-arrendamento-ID1iTL1",
    "t1-renovado-totalmente-mobilado-e-equipado-entrada-imediata-ID1iTLu",
-   "apartamento-t2-para-arrendar-em-benfica-lisboa-ID1iTLs"
+   "apartamento-t2-para-arrendar-em-benfica-lisboa-ID1iTLs",
+   "apartamento-t1-para-arrendamento-ID1iTOd"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1546,7 +1547,8 @@
    "775922",
    "775924",
    "55390",
-   "85958"
+   "85958",
+   "648016"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1681,7 +1683,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1723,7 +1725,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 72,
+  "elenen": 74,
   "tekrar": 7
  },
  "imzalar": [
