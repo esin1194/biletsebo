@@ -1,0 +1,31 @@
+# IS ILANI TAKIBI - ARAMA LINKLERI
+#
+# Her satir:   Isim | arama linki
+# Basinda # olan satirlar kapalidir. Bir siteyi kapatmak icin basina # koyun.
+#
+# Filtre degistirmek icin: siteyi tarayicida acin, aramayi yapin,
+# adres cubugundaki linki kopyalayip ilgili satira yapistirin.
+
+# ---------------- Lizbon, Ingilizce ----------------
+Net-Empregos | https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3
+Sapo Emprego | https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa
+OLX Emprego | https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc
+Randstad | https://www.randstad.pt/empregos/lisboa/?q=english
+Landing.jobs | https://landing.jobs/jobs?location=Lisbon%2C%20Portugal
+Workable | https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal
+
+# Ilave olarak denenebilecekler (basindaki # isaretini silin)
+# Expresso Emprego | https://expressoemprego.pt/pesquisa-ofertas-emprego?distrito=lisboa&texto=english
+# Careerjet | https://www.careerjet.pt/empregos?s=english&l=Lisboa
+# Turijobs (turizm/otelcilik) | https://www.turijobs.pt/ofertas-empleo-lisboa
+# IT Jobs | https://www.itjobs.pt/emprego?location=lisboa
+
+# ---------------- Uzaktan calisma ----------------
+Remote OK | https://remoteok.com/remote-customer-support-jobs
+We Work Remotely | https://weworkremotely.com/categories/remote-customer-support-jobs
+Remotive | https://remotive.com/remote-jobs/customer-support
+
+# Uzaktan satis / pazarlama / operasyon icin ilave listeler
+# Remote OK (sales) | https://remoteok.com/remote-sales-jobs
+# Remote OK (marketing) | https://remoteok.com/remote-marketing-jobs
+# We Work Remotely (sales/marketing) | https://weworkremotely.com/categories/remote-sales-and-marketing-jobs

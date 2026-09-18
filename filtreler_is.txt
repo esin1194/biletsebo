@@ -1,0 +1,71 @@
+# IS ILANI FILTRELERI
+# Buyuk/kucuk harf ve aksan fark etmez. # ile baslayan satirlar dikkate alinmaz.
+# Tek kelime yerine kalip ifade yazin.
+
+# =====================================================================
+# ISTENMEYEN: ilan aciklamasinda gecerse ilan gonderilmez.
+# Burada Portekizce (veya baska dil) sart kosan ilanlari eliyoruz.
+# =====================================================================
+[ISTENMEYEN]
+fluent portuguese
+fluency in portuguese
+native portuguese
+portuguese native
+proficient in portuguese
+portuguese is mandatory
+portuguese speaker
+portuguese speaking
+must speak portuguese
+falar portugues
+fluente em portugues
+portugues fluente
+portugues nativo
+lingua portuguesa obrigatoria
+dominio da lingua portuguesa
+obrigatorio portugues
+bom portugues
+# Baska dil sart kosanlar (Lizbon cagri merkezlerinde cok yaygin)
+native german
+fluent german
+native french
+fluent french
+native dutch
+fluent dutch
+native italian
+fluent italian
+native spanish
+fluent spanish
+native hebrew
+fluent hebrew
+native danish
+native swedish
+native norwegian
+native finnish
+native polish
+native turkish
+# Istenmeyen calisma bicimleri
+unpaid internship
+estagio nao remunerado
+commission only
+comissao apenas
+
+
+# =====================================================================
+# KESIN ISTENMEYEN: sayfanin herhangi bir yerinde gecerse elenir.
+# =====================================================================
+[KESIN ISTENMEYEN]
+estagio curricular
+unpaid position
+
+
+# =====================================================================
+# ZORUNLU: her satirdan en az bir ifade gecmeli.
+# 1. satir: ilgilendiginiz roller. 2. satir: ilanin Ingilizce yuruyen
+# bir pozisyon oldugunu gosteren ifadeler.
+# Yeni bir sart eklemek icin alta yeni satir yazin.
+# =====================================================================
+[ZORUNLU]
+
+customer support / customer service / customer care / customer advisor / customer success / client advisor / apoio ao cliente / sales / vendas / account manager / account executive / business development / sales representative / operations / operations manager / office manager / back office / administrative / administrativo / assistant / human resources / recursos humanos / hr / talent acquisition / recruiter / marketing / communications / comunicacao / social media / content / community manager / project manager / coordinator / coordenador
+
+english / ingles / english-speaking / english speaking / fluent in english / english fluency
