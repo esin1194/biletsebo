@@ -372,7 +372,8 @@
    "35338331",
    "35339682",
    "35339826",
-   "34412382"
+   "34412382",
+   "35338685"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1632,8 +1633,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1681,13 +1682,15 @@
   "f6afeff342d106a9",
   "d8ff245bff4c9062",
   "db882d04f47bea4d",
-  "136c27e0c2e5dc7d"
+  "136c27e0c2e5dc7d",
+  "4cb49bb1022653a7"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 22 · Apartamento ⋅ Graça · O Estúdio e a Mansão · 1 sofá-cama · 1 banheiro · $ 1.607 USD · $ 1.401 USD · Mostrar detalhamento de preço · mensal · Desconto mensal · Foto 1 de 24 · Casa ⋅ Estrela · Duplex de um quarto em São Bento · 1 quarto · $ 3.539 USD · $ 2.401 USD · …\nhttps://www.airbnb.com/rooms/1216369131469138829",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · De 9 de nov.  a  29 de jan. · 9 de nov. – 29 de jan. · Apartamento ⋅ Graça · Jardim da Glória - T3 de Luxo em Condo Privado · 3 quartos · 3 camas queen · 2 banheiros · $ 4.764 USD · $ 3.932 USD · Mostrar detalhamento de preço · mensal · Desconto mensal · 5,0 de uma…\n<i>⚠️ T3 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/1614495986352846466",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 22 · De 11 de nov.  a  10 de fev. · 11 de nov. – 10 de fev. · Condomínio ⋅ Santa Maria Maior · Pausa - Apartamento da Costureira · 1 quarto · 1 cama queen · 1 banheiro e meio · $ 3.802 USD · $ 3.132 USD · Mostrar detalhamento de preço · mensal · Desconto mensal · 5,0 de…\nhttps://www.airbnb.com/rooms/1267929499043849378",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 com sala generosa e varanda em Alvalade · Rua Doutor Gama Barros, Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-sala-generosa-e-varanda-em-alvalade-ID1iTB3"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 com sala generosa e varanda em Alvalade · Rua Doutor Gama Barros, Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-sala-generosa-e-varanda-em-alvalade-ID1iTB3",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T2 na Rua Joaquim António de Aguiar, Av. da Liberdade - Marquês de Pombal, Santo António · 1.800€/mês · 3.200 € 44% · T2 112 m² área bruta 5º andar com elevador 17 horas · *TOTALMENTE MOBILIADO* *CONTRATOS DE ARRENDAMENTO DE CURTA DURAÇÃO RENT TO RENT DE 1 A 11 MESES*…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35338685/"
  ],
  "son_gonderim": ""
 }
