@@ -1,0 +1,105 @@
+{
+ "gorulen": {
+  "francetravail.fr": [
+   "214CQCW",
+   "214CHHZ",
+   "214CHGY",
+   "214BSPD",
+   "214BMVC",
+   "214BMJW",
+   "214BCTW",
+   "213ZWYS",
+   "213ZSVB",
+   "213YZVD",
+   "213YKTQ",
+   "213YKQF",
+   "213YJRP",
+   "213XSVM",
+   "213WXVW",
+   "213VTKB",
+   "213VNTQ",
+   "213VMGL",
+   "213VJPH",
+   "213VCYD"
+  ],
+  "hellowork.com": [
+   "83399370",
+   "82643661",
+   "82765690",
+   "77962003",
+   "81455562",
+   "83448928",
+   "83494897",
+   "83306641",
+   "83337396",
+   "82643954",
+   "82644018",
+   "82643822",
+   "82643731",
+   "82644056",
+   "82643691",
+   "81711878",
+   "82770910",
+   "82771832",
+   "82767409",
+   "82766351",
+   "82766969",
+   "82767418",
+   "82664074",
+   "82771690",
+   "82767024",
+   "83306529",
+   "83217143",
+   "83217120",
+   "83174858",
+   "82772665"
+  ],
+  "meteojob.com": [],
+  "jobijoba.com": [],
+  "welcometothejungle.com": []
+ },
+ "imzalar": [],
+ "kaynaklar": {
+  "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
+   "ilk": false,
+   "bos": 0,
+   "uyarildi": false
+  },
+  "https://www.hellowork.com/fr-fr/emploi/recherche.html?l=Annecy&d=20&t=0": {
+   "ilk": true,
+   "bos": 1,
+   "uyarildi": false
+  },
+  "https://www.meteojob.com/recherche/emplois?location=Annecy": {
+   "ilk": true,
+   "bos": 1,
+   "uyarildi": false
+  },
+  "https://www.jobijoba.com/fr/recherche?where=Annecy": {
+   "ilk": true,
+   "bos": 1,
+   "uyarildi": false
+  },
+  "https://www.welcometothejungle.com/fr/jobs?aroundQuery=Annecy%2C%20France": {
+   "ilk": true,
+   "bos": 1,
+   "uyarildi": false
+  },
+  "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=anglais&l=Annecy&d=20": {
+   "ilk": false,
+   "bos": 0,
+   "uyarildi": false
+  },
+  "https://www.welcometothejungle.com/fr/jobs?query=english&aroundQuery=Annecy%2C%20France": {
+   "ilk": true,
+   "bos": 1,
+   "uyarildi": false
+  }
+ },
+ "kuyruk": [],
+ "son_gonderim": "",
+ "sayaclar": {
+  "elenen": 0,
+  "tekrar": 0
+ }
+}
