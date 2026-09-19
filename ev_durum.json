@@ -668,7 +668,8 @@
    "apartamento-t1-para-arrendamento-ID1iU0r",
    "apartamento-t2-para-arrendamento-ID1iU19",
    "apartamento-t4-para-arrendamento-ID1iU1J",
-   "t-1-mobilado-equipado-alfama-lisboa-so-renda-caucao-ID1iU2C"
+   "t-1-mobilado-equipado-alfama-lisboa-so-renda-caucao-ID1iU2C",
+   "arrendamento-apartamento-na-ajuda-lisboa-ID1iU2L"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -835,7 +836,8 @@
    "amadora-casal-s-bras-IDJAKCw",
    "t2-luminoso-com-garagem-elevador-e-ptio-interno-em-telheiras-lumiar-IDJAKCg",
    "apartamento-t3-na-portela-com-garagem-IDJxEeC",
-   "t-1-mobilado-equipado-alfama-lisboa-s-renda-cauo-IDJAKV9"
+   "t-1-mobilado-equipado-alfama-lisboa-s-renda-cauo-IDJAKV9",
+   "arrendamento-apartamento-na-ajuda-lisboa-IDJAL36"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1769,7 +1771,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1811,8 +1813,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 36,
-  "tekrar": 4
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -1862,29 +1864,6 @@
   "01f4d408ad7c5d9c",
   "d2c0f696379e8701"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nT3 + garagem + carregamento elétrico junto C. C. Colombo e Metro · 2.000 € · Benfica - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/t3-garagem-carregamento-eltrico-junto-c-c-colombo-e-metro-IDJx7sg.html",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.050 €\nApartamento T1 na Rua do Terreirinho, Mouraria - Castelo, Santa Maria Maior · 1.050€/mês · T1 44 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDI…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342498/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Travessa Açougue a Benfica, Igreja de Benfica, Benfica · 1.300€/mês · T1 70 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342500/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T2 na Calçada do Correio Velho, Baixa, Santa Maria Maior · 1.500€/mês · T2 60 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342672/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.900 €\nApartamento T3 na Rua dos Cavaleiros, Mouraria - Castelo, Santa Maria Maior · 1.900€/mês · T3 80 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342665/",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.700 €\nAPARTMENT · FROM 01 NOV · star · 5 (3) · 2-bedroom flat for rent in Lisbon · 1700 €/month · UP TO 10 % OFF · 6+ month stay · savings · NO DEPOSIT · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1013258",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nCHECKED · APARTMENT · FROM 19 SEP · star · 4 (38) · 1-bedroom apartment for rent in Bairro Alto, Lisbon · From 1500 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/637774",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nCHECKED · APARTMENT · FROM 22 SEP · 1-bedroom apartment for rent, Lisbon · 1900 €/month · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472014",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nAPARTMENT · FROM 27 SEP · star · 5 (19) · 2-bedroom apartment for rent in Lisbon. · 1900 €/month · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1681026",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.550 €\nAPARTMENT · FROM 19 SEP · 1-bedroom apartment for rent in Oeiras, Lisbon · 1550 €/month · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1667839",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nAPARTMENT · FROM 19 SEP · 1-bedroom apartment for rent in Lisbon · 1750 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1630499",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.850 €\nCHECKED · APARTMENT · FROM 04 OCT · star · 5 (2) · 1-bedroom apartment for rent in Loures, Lisbon · 1850 €/month · UP TO 2 % OFF · 3+ month stay · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/996285",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nAPARTMENT · FROM 02 OCT · 2-bedroom apartment for rent in Lisbon · 1900 €/month · savings · NO DEPOSIT · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1675559",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nEstúdio T0 NOVO em Camarate/Fetais com Despesas incluídas · 800 € · Camarate, Unhos E Apelação - Hoje às 09:47\nhttps://www.olx.pt/d/anuncio/estdio-t0-novo-em-camarate-fetais-com-despesas-includas-IDJAJg3.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nLOJA +T0 (estúdio) · 1.500 € · Campo De Ourique - Hoje às 10:37\nhttps://www.olx.pt/d/anuncio/loja-t0-estdio-IDIVhiN.html",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T2 na Rua Direita de Marvila, 80, Marvila · 1.400€/mês · T2 52 m² área bruta 2º andar sem elevador 2 horas · Apartamento totalmente remodelado em Marvila, pronto para receber! Marvila é hoje uma das zonas mais interessantes e dinâmicas de Lisboa, cada vez mais procura…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35343473/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T2 na Travessa dos Mastros, 20, Cais do Sodré - Santos, Misericórdia · 1.400€/mês · T2 50 m² área bruta 3º andar sem elevador 5 horas · T2 mobilado em Santos/Madragoa Apartamento T2 acolhedor e com muito carácter, situado numa das zonas mais agradáveis de Lisboa, junt…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35343470/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T1 na Rua Fernão Mendes Pinto, 3, Pedrouços, Belém · 1.800€/mês · Garagem incluída T1 130 m² área bruta Rés do chão com elevador 14 minutos · arrendamento por períodos de 15 dias a 1 mês. · Arrendamento temporário · Contactar · Ver telefone\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35343985/",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · 23,70 €/m² · Apartamento T4 para arrendamento · Bairro Alto, Misericórdia, Lisboa, Lisboa · Tipologia · T4 · Preço por metro quadrado · 84.4 m² · Andar · 4 andar · REMAX COLLECTION VALOR · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t4-para-arrendamento-ID1iU1J",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · 16,13 €/m² · T-1 MOBILADO,Equipado.Alfama, Lisboa. Só renda+caução. · São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 62 m² · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t-1-mobilado-equipado-alfama-lisboa-so-renda-caucao-ID1iU2C",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nApartamento T3 na Portela com Garagem · 1.600 € · Lumiar - Hoje às 16:36\nhttps://www.olx.pt/d/anuncio/apartamento-t3-na-portela-com-garagem-IDJxEeC.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT-1 MOBILADO,Equipado.Alfama, Lisboa. Só renda+caução. · 1.000 € · Santa Maria Maior - Hoje às 16:33\nhttps://www.olx.pt/d/anuncio/t-1-mobilado-equipado-alfama-lisboa-s-renda-cauo-IDJAKV9.html"
- ],
- "son_gonderim": "2026-09-18"
+ "kuyruk": [],
+ "son_gonderim": "2026-09-19"
 }
