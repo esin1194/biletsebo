@@ -682,7 +682,8 @@
    "apartamento-t2-para-arrendamento-ID1iU3P",
    "t3-remodelado-com-varanda-na-av-joao-crisostomo-avenidas-novas-ID1iLL4",
    "apartamento-t2-para-arrendar-em-alcantra-ID1iU51",
-   "t1-mobilado-em-sotao-remodelado-com-muita-luz-junto-a-praca-das-flores-ID1iU42"
+   "t1-mobilado-em-sotao-remodelado-com-muita-luz-junto-a-praca-das-flores-ID1iU42",
+   "arrendar-t1-alameda-lisboa-ID1iU5w"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -852,7 +853,8 @@
    "t-1-mobilado-equipado-alfama-lisboa-s-renda-cauo-IDJAKV9",
    "arrendamento-apartamento-na-ajuda-lisboa-IDJAL36",
    "apartamento-moderno-de-dois-quartos-com-design-exclusivo-IDJxFik",
-   "apartamento-t-1-IDJAM8N"
+   "apartamento-t-1-IDJAM8N",
+   "arrendar-t1-alameda-lisboa-IDJAMhY"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1787,13 +1789,14 @@
    "949087863212537113",
    "1566599013595054649",
    "4524031",
-   "10435075"
+   "10435075",
+   "1272555377062311833"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1835,8 +1838,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
-  "tekrar": 3
+  "elenen": 8,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
