@@ -1,0 +1,41 @@
+# ANNECY IS ILANI FILTRELERI
+# Buyuk/kucuk harf ve aksan fark etmez. # ile baslayan satirlar dikkate alinmaz.
+# Su an filtreler cok gevsek: her sektorden ilan geliyor.
+# Cok fazla ilan gelirse asagidaki bolumleri doldurarak daraltin.
+
+# =====================================================================
+# ISTENMEYEN: ilan aciklamasinda gecerse gonderilmez.
+# =====================================================================
+[ISTENMEYEN]
+stage non remunere
+stage non-remunere
+benevolat
+unpaid internship
+
+# Fransizca akicilik sarti koyan ilanlari da elemek isterseniz
+# asagidaki satirlarin basindaki # isaretini silin.
+# DIKKAT: Annecy'de ilanlarin cogu Fransizca istiyor, bunlari acarsaniz
+# elinizde cok az ilan kalir.
+# francais courant
+# francais bilingue
+# parfaite maitrise du francais
+# excellente maitrise du francais
+# langue maternelle francaise
+# francais langue maternelle
+
+# =====================================================================
+# BASLIKTA ISTENMEYEN: sadece ilan basliginda aranir.
+# Istemediginiz meslekleri buraya yazin, ornegin: chauffeur
+# =====================================================================
+[BASLIKTA ISTENMEYEN]
+alternance
+apprentissage
+
+# =====================================================================
+# ZORUNLU: her satirdan en az bir ifade gecmeli.
+# Su an bos: her is geliyor. Ornegin sadece Ingilizce konusulan isler
+# isterseniz alttaki satirin basindaki # isaretini silin.
+# =====================================================================
+[ZORUNLU]
+
+# anglais / english / bilingue anglais

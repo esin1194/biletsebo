@@ -1,0 +1,23 @@
+# ANNECY (FRANSA) IS ILANI TAKIBI - ARAMA LINKLERI
+#
+# Her satir:   Isim | arama linki
+# Basinda # olan satirlar kapalidir.
+#
+# Filtre degistirmek icin: siteyi tarayicida acin, aramayi yapin,
+# adres cubugundaki linki kopyalayip ilgili satira yapistirin.
+
+# ---------------- Genel is siteleri ----------------
+France Travail | https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1
+HelloWork | https://www.hellowork.com/fr-fr/emploi/recherche.html?l=Annecy&d=20&t=0
+Meteojob | https://www.meteojob.com/recherche/emplois?location=Annecy
+Jobijoba | https://www.jobijoba.com/fr/recherche?where=Annecy
+Welcome to the Jungle | https://www.welcometothejungle.com/fr/jobs?aroundQuery=Annecy%2C%20France
+
+# ---------------- Ingilizce konusulan isler ----------------
+HelloWork (anglais) | https://www.hellowork.com/fr-fr/emploi/recherche.html?k=anglais&l=Annecy&d=20
+Welcome to the Jungle (english) | https://www.welcometothejungle.com/fr/jobs?query=english&aroundQuery=Annecy%2C%20France
+
+# ---------------- Ilave denenebilecekler ----------------
+# APEC (yonetici/uzman) | https://www.apec.fr/candidat/recherche-emploi.html/emploi?lieux=74&motsCles=
+# Indeed | https://fr.indeed.com/jobs?q=&l=Annecy+%2874%29
+# Cadremploi | https://www.cadremploi.fr/emploi/liste_offres?motscles=&localites=annecy
