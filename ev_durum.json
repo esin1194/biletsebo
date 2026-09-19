@@ -659,7 +659,8 @@
    "t4-benfica-ID1hsrC",
    "apartamento-t2-junto-a-av-de-roma-ID161Aq",
    "t2-com-93-m-suite-e-estacionamento-em-benfica-ID1iTXu",
-   "apartamento-t2-renovado-e-mobilado-para-arrendar-em-benfica-lisboa-ID1iTLs"
+   "apartamento-t2-renovado-e-mobilado-para-arrendar-em-benfica-lisboa-ID1iTLs",
+   "apartamento-t2-com-varanda-e-garagem-em-telheiras-ID1iTY8"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1747,7 +1748,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 34,
+   "bos": 35,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1789,7 +1790,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 25,
+  "elenen": 26,
   "tekrar": 3
  },
  "imzalar": [
