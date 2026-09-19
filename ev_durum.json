@@ -831,7 +831,8 @@
    "t3-garagem-carregamento-eltrico-junto-c-c-colombo-e-metro-IDJx7sg",
    "estdio-t0-novo-em-camarate-fetais-com-despesas-includas-IDJAJg3",
    "loja-t0-estdio-IDIVhiN",
-   "amadora-casal-s-bras-IDJAKCw"
+   "amadora-casal-s-bras-IDJAKCw",
+   "t2-luminoso-com-garagem-elevador-e-ptio-interno-em-telheiras-lumiar-IDJAKCg"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1765,7 +1766,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1807,7 +1808,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 35,
+  "elenen": 36,
   "tekrar": 4
  },
  "imzalar": [
