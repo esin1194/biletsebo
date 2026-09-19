@@ -656,7 +656,8 @@
    "apartamento-t1-para-arrendamento-ID1iTOV",
    "t1-exclusivo-no-condominio-perto-do-colombo-piscina-ginasio-2-luga-ID1iTSC",
    "t1-em-lisboa-com-ar-condicionado-e-mobiliario-ID1iTWl",
-   "t4-benfica-ID1hsrC"
+   "t4-benfica-ID1hsrC",
+   "apartamento-t2-junto-a-av-de-roma-ID161Aq"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1386,7 +1387,11 @@
    "apartments/641053",
    "apartments/445433",
    "apartments/872580",
-   "apartments/379687"
+   "apartments/379687",
+   "apartments/1662886",
+   "apartments/637774",
+   "apartments/1472014",
+   "apartments/1181301"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1710,7 +1715,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 12,
+   "bos": 13,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1752,7 +1757,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 11,
+  "elenen": 13,
   "tekrar": 2
  },
  "imzalar": [
@@ -1785,7 +1790,9 @@
   "e4706ba745391a1d",
   "517dd7a2d636d2bb",
   "5a1814d4d2217ed9",
-  "c0944b12e8a57f54"
+  "c0944b12e8a57f54",
+  "25a3c1a528d955c2",
+  "db1352b1730e83f2"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nT3 + garagem + carregamento elétrico junto C. C. Colombo e Metro · 2.000 € · Benfica - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/t3-garagem-carregamento-eltrico-junto-c-c-colombo-e-metro-IDJx7sg.html",
@@ -1793,7 +1800,9 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Travessa Açougue a Benfica, Igreja de Benfica, Benfica · 1.300€/mês · T1 70 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342500/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T2 na Calçada do Correio Velho, Baixa, Santa Maria Maior · 1.500€/mês · T2 60 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342672/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.900 €\nApartamento T3 na Rua dos Cavaleiros, Mouraria - Castelo, Santa Maria Maior · 1.900€/mês · T3 80 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35342665/",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.700 €\nAPARTMENT · FROM 01 NOV · star · 5 (3) · 2-bedroom flat for rent in Lisbon · 1700 €/month · UP TO 10 % OFF · 6+ month stay · savings · NO DEPOSIT · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1013258"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.700 €\nAPARTMENT · FROM 01 NOV · star · 5 (3) · 2-bedroom flat for rent in Lisbon · 1700 €/month · UP TO 10 % OFF · 6+ month stay · savings · NO DEPOSIT · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1013258",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nCHECKED · APARTMENT · FROM 19 SEP · star · 4 (38) · 1-bedroom apartment for rent in Bairro Alto, Lisbon · From 1500 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/637774",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nCHECKED · APARTMENT · FROM 22 SEP · 1-bedroom apartment for rent, Lisbon · 1900 €/month · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472014"
  ],
  "son_gonderim": "2026-09-18"
 }
