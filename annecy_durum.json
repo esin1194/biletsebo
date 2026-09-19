@@ -38,7 +38,9 @@
    "213PCXH",
    "213NVRV",
    "213MRKG",
-   "213LSZX"
+   "213LSZX",
+   "213LNTL",
+   "213LNJF"
   ],
   "hellowork.com": [
    "83399370",
@@ -108,7 +110,10 @@
   "jobijoba.com": [],
   "welcometothejungle.com": []
  },
- "imzalar": [],
+ "imzalar": [
+  "6edacdadae148614",
+  "bfe12db2149c67e6"
+ ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
    "ilk": false,
