@@ -663,7 +663,8 @@
    "t2-com-93-m-suite-e-estacionamento-em-benfica-ID1iTXu",
    "apartamento-t2-renovado-e-mobilado-para-arrendar-em-benfica-lisboa-ID1iTLs",
    "apartamento-t2-com-varanda-e-garagem-em-telheiras-ID1iTY8",
-   "apartamento-t4-para-arrendamento-ID1iTZN"
+   "apartamento-t4-para-arrendamento-ID1iTZN",
+   "apartamento-t1-para-arrendamento-ID1iU0r"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1428,7 +1429,9 @@
    "apartments/1539020",
    "apartments/1528085",
    "apartments/1675559",
-   "apartments/1678773"
+   "apartments/1678773",
+   "apartments/1535068",
+   "apartments/1416584"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1757,7 +1760,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1767,7 +1770,7 @@
   },
   "https://www.olx.pt/imoveis/apartamento-casa-a-venda/apartamentos-arrenda/lisboa/?search%5Bfilter_float_price:to%5D=2000&search%5Border%5D=created_at:desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.spotahome.com/s/lisbon/for-rent:apartments": {
@@ -1799,7 +1802,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 31,
+  "elenen": 33,
   "tekrar": 3
  },
  "imzalar": [
