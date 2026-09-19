@@ -384,7 +384,9 @@
    "35342498",
    "35342500",
    "35342672",
-   "35342665"
+   "35342665",
+   "35343473",
+   "35343470"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1424,7 +1426,8 @@
    "apartments/1278277",
    "apartments/1539020",
    "apartments/1528085",
-   "apartments/1675559"
+   "apartments/1675559",
+   "apartments/1678773"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1749,8 +1752,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 36,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1833,7 +1836,9 @@
   "47053465487e8c3c",
   "b620bc8758f54416",
   "0b887412d1da47b9",
-  "d1a33903ea0f6463"
+  "d1a33903ea0f6463",
+  "b654d1dff11fbc44",
+  "7d8401ef1f926dca"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nT3 + garagem + carregamento elétrico junto C. C. Colombo e Metro · 2.000 € · Benfica - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/t3-garagem-carregamento-eltrico-junto-c-c-colombo-e-metro-IDJx7sg.html",
@@ -1850,7 +1855,9 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.850 €\nCHECKED · APARTMENT · FROM 04 OCT · star · 5 (2) · 1-bedroom apartment for rent in Loures, Lisbon · 1850 €/month · UP TO 2 % OFF · 3+ month stay · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/996285",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nAPARTMENT · FROM 02 OCT · 2-bedroom apartment for rent in Lisbon · 1900 €/month · savings · NO DEPOSIT · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1675559",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nEstúdio T0 NOVO em Camarate/Fetais com Despesas incluídas · 800 € · Camarate, Unhos E Apelação - Hoje às 09:47\nhttps://www.olx.pt/d/anuncio/estdio-t0-novo-em-camarate-fetais-com-despesas-includas-IDJAJg3.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nLOJA +T0 (estúdio) · 1.500 € · Campo De Ourique - Hoje às 10:37\nhttps://www.olx.pt/d/anuncio/loja-t0-estdio-IDIVhiN.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nLOJA +T0 (estúdio) · 1.500 € · Campo De Ourique - Hoje às 10:37\nhttps://www.olx.pt/d/anuncio/loja-t0-estdio-IDIVhiN.html",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T2 na Rua Direita de Marvila, 80, Marvila · 1.400€/mês · T2 52 m² área bruta 2º andar sem elevador 2 horas · Apartamento totalmente remodelado em Marvila, pronto para receber! Marvila é hoje uma das zonas mais interessantes e dinâmicas de Lisboa, cada vez mais procura…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35343473/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T2 na Travessa dos Mastros, 20, Cais do Sodré - Santos, Misericórdia · 1.400€/mês · T2 50 m² área bruta 3º andar sem elevador 5 horas · T2 mobilado em Santos/Madragoa Apartamento T2 acolhedor e com muito carácter, situado numa das zonas mais agradáveis de Lisboa, junt…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35343470/"
  ],
  "son_gonderim": "2026-09-18"
 }
