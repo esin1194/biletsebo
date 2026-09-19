@@ -669,7 +669,8 @@
    "apartamento-t2-para-arrendamento-ID1iU19",
    "apartamento-t4-para-arrendamento-ID1iU1J",
    "t-1-mobilado-equipado-alfama-lisboa-so-renda-caucao-ID1iU2C",
-   "arrendamento-apartamento-na-ajuda-lisboa-ID1iU2L"
+   "arrendamento-apartamento-na-ajuda-lisboa-ID1iU2L",
+   "apartamento-t2-para-arrendamento-ID1iU3P"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1771,7 +1772,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1813,7 +1814,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 1,
   "tekrar": 0
  },
  "imzalar": [
