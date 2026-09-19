@@ -393,7 +393,10 @@
    "35344441",
    "35343688",
    "35342671",
-   "34855525"
+   "34855525",
+   "35344551",
+   "35344561",
+   "35344569"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -848,7 +851,8 @@
    "apartamento-t3-na-portela-com-garagem-IDJxEeC",
    "t-1-mobilado-equipado-alfama-lisboa-s-renda-cauo-IDJAKV9",
    "arrendamento-apartamento-na-ajuda-lisboa-IDJAL36",
-   "apartamento-moderno-de-dois-quartos-com-design-exclusivo-IDJxFik"
+   "apartamento-moderno-de-dois-quartos-com-design-exclusivo-IDJxFik",
+   "apartamento-t-1-IDJAM8N"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1787,8 +1791,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1830,7 +1834,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 6,
-  "tekrar": 1
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -1886,7 +1890,10 @@
   "5f85ba37f2ee2634",
   "fccf0989cfe51fec",
   "69478d8bc8513e72",
-  "9d3ce761590d3671"
+  "9d3ce761590d3671",
+  "4cc73335385bf76a",
+  "5abc7fd0c959b2fb",
+  "20d20a7f239eb5ae"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.140 €\nApartamento T1 na Calçada do Lavra, Pena, Arroios · 1.140€/mês · T1 60 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Data…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35344435/",
@@ -1896,7 +1903,10 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.900 €\nApartamento T3 na Rua Actor Vale, Bairro dos Actores - Barão Sabrosa, Penha de França · 1.900€/mês · T3 92 m² área bruta sem elevador 25 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34855525/",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.200 €\nCHECKED · APARTMENT · FROM 31 OCT · star · 5 (6) · Stylish 1-bedroom apartment for rent in Beato, Lisbon · From 1200 €/month · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/348558",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.211 €\nApartamento moderno de dois quartos com design exclusivo · 1.211 € · Negociável · Avenidas Novas - Hoje às 20:19\nhttps://www.olx.pt/d/anuncio/apartamento-moderno-de-dois-quartos-com-design-exclusivo-IDJxFik.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 780 €\n780 € · 17,33 €/m² · T1 mobilado em sótão remodelado com muita luz junto à Praça das Flores · Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · Andar · 3 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-em-sotao-remodelado-com-muita-luz-junto-a-praca-das-flores-ID1iU42"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 780 €\n780 € · 17,33 €/m² · T1 mobilado em sótão remodelado com muita luz junto à Praça das Flores · Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · Andar · 3 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-em-sotao-remodelado-com-muita-luz-junto-a-praca-das-flores-ID1iU42",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.150 €\nApartamento T1 na Rua Joaquim Bonifácio, Pena, Arroios · 1.150€/mês · T1 35 m² área bruta com elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Dat…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35344561/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 950 €\nApartamento T0 no Largo Primeiro-Tenente João Rodrigues de Moura, Olivais · 950€/mês · T0 20 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35344569/",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nApartamento T-1 · 600 € · Reguengo Grande - Hoje às 21:46\nhttps://www.olx.pt/d/anuncio/apartamento-t-1-IDJAM8N.html"
  ],
  "son_gonderim": "2026-09-19"
 }
