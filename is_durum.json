@@ -206,7 +206,12 @@
    "jkbjw7jJRJ2TEs9xKGC5R2",
    "amcVQge4TzwgqhMSFRktLM",
    "dP9mnNBSpVVf4jWdUdoCb9",
-   "uDSmsZ2fLy2wfSWim86KJn"
+   "uDSmsZ2fLy2wfSWim86KJn",
+   "mvWe4QqKR1ZcHXp8XpLzLb",
+   "vezfStrB7PMtxYW8uy6bHf",
+   "1TufZnrtn5fazveEf2EnDC",
+   "oTfybdLCkttfk3aVLmkKgT",
+   "bYS4p4yJXtc9fRzGxthcQ4"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -438,7 +443,8 @@
    "melio-customer-success-manager",
    "coaching-com-customer-success-manager-uk",
    "tines-lead-customer-success-manager-west",
-   "tines-deal-desk-analyst"
+   "tines-deal-desk-analyst",
+   "wrike-account-manager-l4"
   ],
   "remotive.com": []
  },
@@ -454,22 +460,27 @@
   "637300b306948466",
   "ab428a7e9a1bafca",
   "b7cb82b4dd1c003b",
-  "cb1bdde62c4367c6"
+  "cb1bdde62c4367c6",
+  "5dfcafa1923d9b56",
+  "85f5d116af0ca66a",
+  "85ea3eab8530ed75",
+  "4b2be58eb4d16ab1",
+  "30a7a8621844354a"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 20,
+   "bos": 21,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 50,
+   "bos": 51,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 50,
+   "bos": 51,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -479,7 +490,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 50,
+   "bos": 51,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -499,14 +510,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 50,
+   "bos": 51,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 54,
+  "elenen": 55,
   "tekrar": 0
  }
 }
