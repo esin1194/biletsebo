@@ -1409,7 +1409,12 @@
    "apartments/1528514",
    "apartments/1594404",
    "apartments/1251100",
-   "apartments/1674773"
+   "apartments/1674773",
+   "apartments/1679659",
+   "apartments/379402",
+   "apartments/1656789",
+   "apartments/480295",
+   "apartments/996285"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1733,7 +1738,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 17,
+   "bos": 18,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1775,7 +1780,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 17,
+  "elenen": 20,
   "tekrar": 2
  },
  "imzalar": [
@@ -1813,7 +1818,8 @@
   "db1352b1730e83f2",
   "966a8437f682d9a9",
   "c45328c0a2e74e54",
-  "08be390b83869e54"
+  "08be390b83869e54",
+  "47053465487e8c3c"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nT3 + garagem + carregamento elétrico junto C. C. Colombo e Metro · 2.000 € · Benfica - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/t3-garagem-carregamento-eltrico-junto-c-c-colombo-e-metro-IDJx7sg.html",
@@ -1826,7 +1832,8 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nCHECKED · APARTMENT · FROM 22 SEP · 1-bedroom apartment for rent, Lisbon · 1900 €/month · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472014",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nAPARTMENT · FROM 27 SEP · star · 5 (19) · 2-bedroom apartment for rent in Lisbon. · 1900 €/month · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1681026",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.550 €\nAPARTMENT · FROM 19 SEP · 1-bedroom apartment for rent in Oeiras, Lisbon · 1550 €/month · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1667839",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nAPARTMENT · FROM 19 SEP · 1-bedroom apartment for rent in Lisbon · 1750 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1630499"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nAPARTMENT · FROM 19 SEP · 1-bedroom apartment for rent in Lisbon · 1750 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1630499",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.850 €\nCHECKED · APARTMENT · FROM 04 OCT · star · 5 (2) · 1-bedroom apartment for rent in Loures, Lisbon · 1850 €/month · UP TO 2 % OFF · 3+ month stay · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/996285"
  ],
  "son_gonderim": "2026-09-18"
 }
