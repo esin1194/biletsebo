@@ -667,7 +667,8 @@
    "apartamento-t4-para-arrendamento-ID1iTZN",
    "apartamento-t1-para-arrendamento-ID1iU0r",
    "apartamento-t2-para-arrendamento-ID1iU19",
-   "apartamento-t4-para-arrendamento-ID1iU1J"
+   "apartamento-t4-para-arrendamento-ID1iU1J",
+   "t-1-mobilado-equipado-alfama-lisboa-so-renda-caucao-ID1iU2C"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -832,7 +833,9 @@
    "estdio-t0-novo-em-camarate-fetais-com-despesas-includas-IDJAJg3",
    "loja-t0-estdio-IDIVhiN",
    "amadora-casal-s-bras-IDJAKCw",
-   "t2-luminoso-com-garagem-elevador-e-ptio-interno-em-telheiras-lumiar-IDJAKCg"
+   "t2-luminoso-com-garagem-elevador-e-ptio-interno-em-telheiras-lumiar-IDJAKCg",
+   "apartamento-t3-na-portela-com-garagem-IDJxEeC",
+   "t-1-mobilado-equipado-alfama-lisboa-s-renda-cauo-IDJAKV9"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1766,7 +1769,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1854,7 +1857,10 @@
   "b654d1dff11fbc44",
   "7d8401ef1f926dca",
   "444b9ccc7dfb384c",
-  "9bd53c37331311b5"
+  "9bd53c37331311b5",
+  "427ad32e737bfb30",
+  "01f4d408ad7c5d9c",
+  "d2c0f696379e8701"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nT3 + garagem + carregamento elétrico junto C. C. Colombo e Metro · 2.000 € · Benfica - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/t3-garagem-carregamento-eltrico-junto-c-c-colombo-e-metro-IDJx7sg.html",
@@ -1875,7 +1881,10 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T2 na Rua Direita de Marvila, 80, Marvila · 1.400€/mês · T2 52 m² área bruta 2º andar sem elevador 2 horas · Apartamento totalmente remodelado em Marvila, pronto para receber! Marvila é hoje uma das zonas mais interessantes e dinâmicas de Lisboa, cada vez mais procura…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35343473/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T2 na Travessa dos Mastros, 20, Cais do Sodré - Santos, Misericórdia · 1.400€/mês · T2 50 m² área bruta 3º andar sem elevador 5 horas · T2 mobilado em Santos/Madragoa Apartamento T2 acolhedor e com muito carácter, situado numa das zonas mais agradáveis de Lisboa, junt…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35343470/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T1 na Rua Fernão Mendes Pinto, 3, Pedrouços, Belém · 1.800€/mês · Garagem incluída T1 130 m² área bruta Rés do chão com elevador 14 minutos · arrendamento por períodos de 15 dias a 1 mês. · Arrendamento temporário · Contactar · Ver telefone\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35343985/",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · 23,70 €/m² · Apartamento T4 para arrendamento · Bairro Alto, Misericórdia, Lisboa, Lisboa · Tipologia · T4 · Preço por metro quadrado · 84.4 m² · Andar · 4 andar · REMAX COLLECTION VALOR · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t4-para-arrendamento-ID1iU1J"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · 23,70 €/m² · Apartamento T4 para arrendamento · Bairro Alto, Misericórdia, Lisboa, Lisboa · Tipologia · T4 · Preço por metro quadrado · 84.4 m² · Andar · 4 andar · REMAX COLLECTION VALOR · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t4-para-arrendamento-ID1iU1J",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · 16,13 €/m² · T-1 MOBILADO,Equipado.Alfama, Lisboa. Só renda+caução. · São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 62 m² · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t-1-mobilado-equipado-alfama-lisboa-so-renda-caucao-ID1iU2C",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nApartamento T3 na Portela com Garagem · 1.600 € · Lumiar - Hoje às 16:36\nhttps://www.olx.pt/d/anuncio/apartamento-t3-na-portela-com-garagem-IDJxEeC.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT-1 MOBILADO,Equipado.Alfama, Lisboa. Só renda+caução. · 1.000 € · Santa Maria Maior - Hoje às 16:33\nhttps://www.olx.pt/d/anuncio/t-1-mobilado-equipado-alfama-lisboa-s-renda-cauo-IDJAKV9.html"
  ],
  "son_gonderim": "2026-09-18"
 }
