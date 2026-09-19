@@ -830,7 +830,8 @@
    "apartamento-t0-ao-marqus-de-pombal-IDHnx68",
    "t3-garagem-carregamento-eltrico-junto-c-c-colombo-e-metro-IDJx7sg",
    "estdio-t0-novo-em-camarate-fetais-com-despesas-includas-IDJAJg3",
-   "loja-t0-estdio-IDIVhiN"
+   "loja-t0-estdio-IDIVhiN",
+   "amadora-casal-s-bras-IDJAKCw"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1764,7 +1765,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1806,7 +1807,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 34,
+  "elenen": 35,
   "tekrar": 4
  },
  "imzalar": [
