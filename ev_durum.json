@@ -872,7 +872,8 @@
    "t2-totalmente-remodelado-em-agualva-cacm-IDJAOlx",
    "arrendamento-de-apartamento-t2-na-praa-25-de-abril-7-algs-IDJxJq5",
    "t1-lapa-lisboa-aluga-se-IDJAOub",
-   "apartamento-t2-renovado-lisboa-IDJAORl"
+   "apartamento-t2-renovado-lisboa-IDJAORl",
+   "pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1838,7 +1839,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1958,8 +1959,11 @@
   "f5969d6ece293d93",
   "baeb75d5e27c5b4e",
   "9a6d067d68f3b807",
-  "6fabb6983ce47451"
+  "6fabb6983ce47451",
+  "e005676216e2711f"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html"
+ ],
  "son_gonderim": "2026-09-20"
 }
