@@ -875,7 +875,8 @@
    "t1-lapa-lisboa-aluga-se-IDJAOub",
    "apartamento-t2-renovado-lisboa-IDJAORl",
    "pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr",
-   "arrendo-apartamento-t2-IDJAPAZ"
+   "arrendo-apartamento-t2-IDJAPAZ",
+   "estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-IDJAPDp"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1841,7 +1842,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1962,10 +1963,12 @@
   "baeb75d5e27c5b4e",
   "9a6d067d68f3b807",
   "6fabb6983ce47451",
-  "e005676216e2711f"
+  "e005676216e2711f",
+  "915975d32b3d5b29"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nEstúdio mobilado e equipado com água, luz, televisão e internet · 900 € · Sobral de Monte Agraço - Hoje às 18:35\nhttps://www.olx.pt/d/anuncio/estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-IDJAPDp.html"
  ],
  "son_gonderim": "2026-09-20"
 }
