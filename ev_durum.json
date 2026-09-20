@@ -397,7 +397,9 @@
    "35344551",
    "35344561",
    "35344569",
-   "35344869"
+   "35344869",
+   "35345339",
+   "35345312"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1503,7 +1505,9 @@
    "apartments/766891",
    "apartments/369717",
    "apartments/369729",
-   "apartments/1651688"
+   "apartments/1651688",
+   "apartments/427283",
+   "apartments/369687"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1842,7 +1846,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1885,7 +1889,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 2,
-  "tekrar": 0
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -1964,11 +1968,17 @@
   "9a6d067d68f3b807",
   "6fabb6983ce47451",
   "e005676216e2711f",
-  "915975d32b3d5b29"
+  "915975d32b3d5b29",
+  "be03ee7a1ecea423",
+  "441185d4ce4571c1",
+  "ea5d2f8ebbb5bd46"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nEstúdio mobilado e equipado com água, luz, televisão e internet · 900 € · Sobral de Monte Agraço - Hoje às 18:35\nhttps://www.olx.pt/d/anuncio/estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-IDJAPDp.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nEstúdio mobilado e equipado com água, luz, televisão e internet · 900 € · Sobral de Monte Agraço - Hoje às 18:35\nhttps://www.olx.pt/d/anuncio/estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-IDJAPDp.html",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 2.000 €\nApartamento T1 na Rua Nova do Almada, Baixa, Santa Maria Maior · 2.000€/mês · T1 55 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJA…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35345339/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.950 €\nApartamento T3 na Rua da Quinta do Jacinto, Alvito - Quinta do Jacinto, Alcântara · 1.950€/mês · T3 81 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35345312/",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · 1-bedroom apartment for rent in Estrela, Lisbon · From 1450 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/427283"
  ],
  "son_gonderim": "2026-09-20"
 }
