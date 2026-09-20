@@ -686,7 +686,8 @@
    "t1-mobilado-em-sotao-remodelado-com-muita-luz-junto-a-praca-das-flores-ID1iU42",
    "arrendar-t1-alameda-lisboa-ID1iU5w",
    "apartamento-t0-em-alvalade-com-ar-condicionado-ID1iU6X",
-   "apartamento-t1-totalmente-renovado-mobilado-e-equipado-ID1iU70"
+   "apartamento-t1-totalmente-renovado-mobilado-e-equipado-ID1iU70",
+   "t1-em-estrela-lisboa-pronto-a-habitar-ID1iU73"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1679,7 +1680,8 @@
    "162774",
    "129973",
    "714499",
-   "802427"
+   "802427",
+   "890747"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1821,7 +1823,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1863,7 +1865,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 16,
+  "elenen": 17,
   "tekrar": 4
  },
  "imzalar": [
@@ -1936,7 +1938,8 @@
   "bf086c98c92347e9",
   "c02bc10643e8f06f",
   "f4bb58cff4f10906",
-  "26cee947a969788f"
+  "26cee947a969788f",
+  "71ee6fba98584889"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.140 €\nApartamento T1 na Calçada do Lavra, Pena, Arroios · 1.140€/mês · T1 60 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Data…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35344435/",
@@ -1962,7 +1965,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nAluguel T1 VilaFrancaXira · 750 € · Vila Franca de Xira - Hoje às 10:56\nhttps://www.olx.pt/d/anuncio/aluguel-t1-vilafrancaxira-IDJAN4I.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nApartamento Arroios · 2.000 € · Arroios - Hoje às 12:46\nhttps://www.olx.pt/d/anuncio/apartamento-arroios-IDJtbqd.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · Apartamento T0 em Alvalade com Ar Condicionado · Avenida de Roma, São João de Brito, Alvalade, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 30 m² · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-em-alvalade-com-ar-condicionado-ID1iU6X",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · + taxa: 0 €/mês · Apartamento T1 totalmente renovado, mobilado e equipado · Travessa de São José, Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 38 m² · Andar · 1 andar · Destacado\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-totalmente-renovado-mobilado-e-equipado-ID1iU70"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · + taxa: 0 €/mês · Apartamento T1 totalmente renovado, mobilado e equipado · Travessa de São José, Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 38 m² · Andar · 1 andar · Destacado\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-totalmente-renovado-mobilado-e-equipado-ID1iU70",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 em Estrela, Lisboa, pronto a habitar · Rua de São Félix, Lapa, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · Andar · rés do chão · Destacado\nhttps://www.imovirtual.com/pt/anuncio/t1-em-estrela-lisboa-pronto-a-habitar-ID1iU73"
  ],
  "son_gonderim": "2026-09-19"
 }
