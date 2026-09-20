@@ -105,7 +105,18 @@
    "field-engineer-bms-comissionamento-mfx-lisboa-porto_leiao_OTS-2026-181584",
    "engenheiro-de-assistencia-tecnica-field-service-mfx_paco-de-arcos_OTS-2026-180588",
    "diretor-de-manutencao-e-gestao-comercial-associada-mfx_oeiras_OTS-2026-179337",
-   "tecnico-de-automacao-mfx_porto-salvo_OTS-2026-179343"
+   "tecnico-de-automacao-mfx_porto-salvo_OTS-2026-179343",
+   "chefe-de-sala-mfx_sintra-lisboa_OTS-2026-178508",
+   "empregado-de-bar-mfx_sintra_OTS-2026-178501",
+   "operador-de-producao-mxf_povoa-de-santo-adriao_OTS-2026-178254",
+   "operador-de-empilhador-mxf_povoa-de-santo-adriao_OTS-2026-178470",
+   "advogado-publico-e-administrativo-mfx_lisboa_PTS-2026-178150",
+   "operador-de-call-center-mfx_lisboa_OTS-2026-177449",
+   "chefe-de-cozinha-mfx_sintra_OTS-2026-176428",
+   "especialista-de-automacao-industrial-mfx_terrugem-sintra_OTS-2026-176584",
+   "empregado-de-mesa-mfx_sintra_OTS-2026-176429",
+   "tecnico-de-mecatronica_castanheira-do-ribatejo_OTS-2025-158512",
+   "operador-de-producao_castanheira-do-ribatejo_OTS-2025-156931"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -481,22 +492,24 @@
   "cd4c47dc040f70ef",
   "cdf26f8212de6f4f",
   "85246c3322871721",
-  "ed33aafefe532835"
+  "ed33aafefe532835",
+  "0c81a17b18bad349",
+  "4f5b4d8f718ecd00"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 33,
+   "bos": 34,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 127,
+   "bos": 128,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 127,
+   "bos": 128,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -506,7 +519,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 127,
+   "bos": 128,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -526,14 +539,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 127,
+   "bos": 128,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 63,
+  "elenen": 72,
   "tekrar": 0
  }
 }
