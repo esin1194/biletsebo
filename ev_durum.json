@@ -866,7 +866,8 @@
    "excelente-t3-sete-rios-praa-de-espanha-ideal-oara-estudsntes-IDJwfza",
    "t3-olivais-a-5min-metro-IDJs7mW",
    "apartamento-arroios-IDJtbqd",
-   "alugo-apartamento-t2-despesas-includas-IDJxDEg"
+   "alugo-apartamento-t2-despesas-includas-IDJxDEg",
+   "t2-totalmente-remodelado-em-agualva-cacm-IDJAOlx"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1826,7 +1827,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1868,7 +1869,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 19,
+  "elenen": 20,
   "tekrar": 5
  },
  "imzalar": [
