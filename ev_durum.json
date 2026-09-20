@@ -689,7 +689,8 @@
    "apartamento-t1-totalmente-renovado-mobilado-e-equipado-ID1iU70",
    "t1-em-estrela-lisboa-pronto-a-habitar-ID1iU73",
    "t1-lapa-lisboa-aluga-se-ID1iU7H",
-   "apartamento-t2-renovado-lisboa-ID1iU7N"
+   "apartamento-t2-renovado-lisboa-ID1iU7N",
+   "t0-com-ar-condicionado-e-mobiliario-completo-em-alvalade-ID1iU84"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -873,7 +874,8 @@
    "arrendamento-de-apartamento-t2-na-praa-25-de-abril-7-algs-IDJxJq5",
    "t1-lapa-lisboa-aluga-se-IDJAOub",
    "apartamento-t2-renovado-lisboa-IDJAORl",
-   "pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr"
+   "pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr",
+   "arrendo-apartamento-t2-IDJAPAZ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1839,8 +1841,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1881,7 +1883,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 2,
   "tekrar": 0
  },
  "imzalar": [
