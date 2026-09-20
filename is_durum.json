@@ -96,7 +96,15 @@
    "aeroporto-assistentes-de-informacoes-mfx_lisboa_OTS-2025-169702",
    "aeroporto-assistentes-de-passageiros-com-mobilidade-reduzida-mfx_lisboa_OTS-2025-165575",
    "tecnicoa-de-trafego-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2025-167294",
-   "travel-assistant-german-speaker-mfx_lisbon-hybrid_OTS-2025-169080"
+   "travel-assistant-german-speaker-mfx_lisbon-hybrid_OTS-2025-169080",
+   "supervisor-de-apoio-a-gestao-mfx_lisboa_OTS-2026-183291",
+   "b2b-customer-support-agent-payment-solutions-mfx_lisboa_OTS-2026-183285",
+   "corporate-e-ma-dd-specialist-mfx_lisboa_PTS-2026-183219",
+   "administrativo-de-logistica_castanheira-do-ribatejo_OTS-2026-182459",
+   "tecnico-de-qualidade-mfx_lisboa_OTS-2026-182350",
+   "field-engineer-bms-comissionamento-mfx-lisboa-porto_leiao_OTS-2026-181584",
+   "engenheiro-de-assistencia-tecnica-field-service-mfx_paco-de-arcos_OTS-2026-180588",
+   "diretor-de-manutencao-e-gestao-comercial-associada-mfx_oeiras_OTS-2026-179337"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -468,22 +476,24 @@
   "85ea3eab8530ed75",
   "4b2be58eb4d16ab1",
   "30a7a8621844354a",
-  "cd4c47dc040f70ef"
+  "cd4c47dc040f70ef",
+  "cdf26f8212de6f4f",
+  "85246c3322871721"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 53,
+   "bos": 54,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 83,
+   "bos": 84,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 83,
+   "bos": 84,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -493,7 +503,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 83,
+   "bos": 84,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -513,14 +523,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 83,
+   "bos": 84,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 56,
+  "elenen": 62,
   "tekrar": 0
  }
 }
