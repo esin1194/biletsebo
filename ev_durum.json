@@ -694,7 +694,8 @@
    "apartamento-t2-renovado-lisboa-ID1iU7N",
    "t0-com-ar-condicionado-e-mobiliario-completo-em-alvalade-ID1iU84",
    "apartamento-t1-benfica-para-arrendar-ID1iU8K",
-   "apartamento-t1-benfica-para-arrendar-ID1iU8O"
+   "apartamento-t1-benfica-para-arrendar-ID1iU8O",
+   "t2-em-alvalade-ideal-para-estudantes-ID1iU91"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1516,7 +1517,8 @@
    "apartments/369687",
    "apartments/1708203",
    "apartments/1287417",
-   "apartments/1669788"
+   "apartments/1669788",
+   "apartments/1493477"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1856,8 +1858,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1898,7 +1900,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 5,
   "tekrar": 1
  },
  "imzalar": [
