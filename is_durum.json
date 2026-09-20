@@ -104,7 +104,8 @@
    "tecnico-de-qualidade-mfx_lisboa_OTS-2026-182350",
    "field-engineer-bms-comissionamento-mfx-lisboa-porto_leiao_OTS-2026-181584",
    "engenheiro-de-assistencia-tecnica-field-service-mfx_paco-de-arcos_OTS-2026-180588",
-   "diretor-de-manutencao-e-gestao-comercial-associada-mfx_oeiras_OTS-2026-179337"
+   "diretor-de-manutencao-e-gestao-comercial-associada-mfx_oeiras_OTS-2026-179337",
+   "tecnico-de-automacao-mfx_porto-salvo_OTS-2026-179343"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -485,17 +486,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 103,
+   "bos": 104,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 103,
+   "bos": 104,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -505,7 +506,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 103,
+   "bos": 104,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -525,14 +526,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 103,
+   "bos": 104,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 62,
+  "elenen": 63,
   "tekrar": 0
  }
 }
