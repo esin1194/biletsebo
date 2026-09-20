@@ -399,7 +399,8 @@
    "35344569",
    "35344869",
    "35345339",
-   "35345312"
+   "35345312",
+   "35314367"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -695,7 +696,8 @@
    "t0-com-ar-condicionado-e-mobiliario-completo-em-alvalade-ID1iU84",
    "apartamento-t1-benfica-para-arrendar-ID1iU8K",
    "apartamento-t1-benfica-para-arrendar-ID1iU8O",
-   "t2-em-alvalade-ideal-para-estudantes-ID1iU91"
+   "t2-em-alvalade-ideal-para-estudantes-ID1iU91",
+   "arrendo-se-t3-em-benfica-califa-4andar-ID1iU9r"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -886,7 +888,8 @@
    "t0-em-a-dos-cunhados-IDJAQw7",
    "apartamento-t1-benfica-para-arrendar-IDJAQJ9",
    "apartamento-t1-damaia-IDJAQPB",
-   "t2-arroja-com-parqueamento-IDJARt0"
+   "t2-arroja-com-parqueamento-IDJARt0",
+   "alugo-t2-marteleira-IDJARMH"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1521,7 +1524,9 @@
    "apartments/1669788",
    "apartments/1493477",
    "apartments/1552163",
-   "apartments/1484716"
+   "apartments/1484716",
+   "apartments/369702",
+   "apartments/369723"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1861,8 +1866,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 8,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -1903,7 +1908,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 8,
   "tekrar": 1
  },
  "imzalar": [
@@ -1994,7 +1999,10 @@
   "84b5a6bd16ab2dc2",
   "ec60f00808da1d9d",
   "511abb30b474d78b",
-  "e9759297c7fe5551"
+  "e9759297c7fe5551",
+  "0346bc929c08831d",
+  "0db6cdb9e0cc378b",
+  "d6a7bdf9c9b02df4"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html",
@@ -2009,7 +2017,10 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · Apartamento T1 Benfica para arrendar · Igreja de Benfica, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-benfica-para-arrendar-ID1iU8O",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 Benfica para arrendar · 1.100 € · Benfica - Hoje às 20:43\nhttps://www.olx.pt/d/anuncio/apartamento-t1-benfica-para-arrendar-IDJAQJ9.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nApartamento t1 Damaia · 900 € · Águas Livres - Hoje às 20:54\nhttps://www.olx.pt/d/anuncio/apartamento-t1-damaia-IDJAQPB.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT2 Arroja com parqueamento. · 1.150 € · Negociável · Odivelas - Hoje às 22:21\nhttps://www.olx.pt/d/anuncio/t2-arroja-com-parqueamento-IDJARt0.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT2 Arroja com parqueamento. · 1.150 € · Negociável · Odivelas - Hoje às 22:21\nhttps://www.olx.pt/d/anuncio/t2-arroja-com-parqueamento-IDJARt0.html",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 875 €\nApartamento T0 na Rua do Benformoso, Mouraria - Castelo, Santa Maria Maior · 875€/mês · T0 40 m² área bruta sem elevador 2 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35314367/",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · 2-bedroom apartment for rent in São Bento, Lisbon · From 1600 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369702",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · Elegant 2-bedroom apartment for rent in Bairro Alto, Lisbon · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369723"
  ],
  "son_gonderim": "2026-09-20"
 }
