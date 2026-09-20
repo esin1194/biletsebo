@@ -1462,7 +1462,9 @@
    "apartments/1416584",
    "apartments/1577918",
    "apartments/348558",
-   "apartments/1707389"
+   "apartments/1707389",
+   "apartments/1591409",
+   "apartments/1650980"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1797,7 +1799,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1900,7 +1902,9 @@
   "4cc73335385bf76a",
   "5abc7fd0c959b2fb",
   "20d20a7f239eb5ae",
-  "1708ce317a4ed135"
+  "1708ce317a4ed135",
+  "6db2a239a38c671c",
+  "cacfeefed91337f3"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.140 €\nApartamento T1 na Calçada do Lavra, Pena, Arroios · 1.140€/mês · T1 60 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Data…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35344435/",
@@ -1914,7 +1918,9 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.150 €\nApartamento T1 na Rua Joaquim Bonifácio, Pena, Arroios · 1.150€/mês · T1 35 m² área bruta com elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Dat…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35344561/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 950 €\nApartamento T0 no Largo Primeiro-Tenente João Rodrigues de Moura, Olivais · 950€/mês · T0 20 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35344569/",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nApartamento T-1 · 600 € · Reguengo Grande - Hoje às 21:46\nhttps://www.olx.pt/d/anuncio/apartamento-t-1-IDJAM8N.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nAPARTMENT · FROM 19 SEP · 1-bedroom apartment for rent in Lisbon · 1800 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1707389"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nAPARTMENT · FROM 19 SEP · 1-bedroom apartment for rent in Lisbon · 1800 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1707389",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nAPARTMENT · FROM 24 SEP · 2-bedroom flat for rent in Lisbon · 1750 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1591409",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.950 €\nAPARTMENT · FROM 20 SEP · 2-bedroom apartment for rent in Lisbon · 1950 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1650980"
  ],
  "son_gonderim": "2026-09-19"
 }
