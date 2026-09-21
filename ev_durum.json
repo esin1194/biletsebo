@@ -716,7 +716,8 @@
    "t1-com-varanda-ar-condicionado-e-elevador-em-lumiar-lisboa-ID1iUdA",
    "telheiras-apartamento-arrenda-se-ID1iUe6",
    "estudio-localizado-em-castelo-lisbon-ID1iUek",
-   "t3-quinta-dos-alcoutins-lumiar-ID1iUfY"
+   "t3-quinta-dos-alcoutins-lumiar-ID1iUfY",
+   "apartamento-t1-com-1-casa-de-banho-na-estrela-ID1iUgz"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -919,7 +920,8 @@
    "apartamento-prximo-univercidades-centro-de-lisboa-IDJ7fbu",
    "t2-alugar-penha-de-frana-IDJAWMs",
    "apartamento-t2-em-pao-de-arcos-oeiras-IDJAWJA",
-   "telheiras-apartamento-arrenda-se-IDJAVyo"
+   "telheiras-apartamento-arrenda-se-IDJAVyo",
+   "arrendo-sto-t0-1-em-linda-a-velha-IDJg8lP"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1790,7 +1792,8 @@
    "883427",
    "6255",
    "882459",
-   "885400"
+   "885400",
+   "893311"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1933,7 +1936,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1953,7 +1956,7 @@
   },
   "https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.uniplaces.com/accommodation/lisbon": {
@@ -1975,7 +1978,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 45,
+  "elenen": 47,
   "tekrar": 1
  },
  "imzalar": [
@@ -2087,7 +2090,8 @@
   "80a650266f2c2e83",
   "e4bfc4882e8a7ccd",
   "69dd69ad9dc2b114",
-  "d1dc9e9fc2fb861e"
+  "d1dc9e9fc2fb861e",
+  "eac86237dacd2ee3"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html",
@@ -2123,7 +2127,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T1 na Rua do Jardim à Estrela, Lapa, Estrela · 1.000€/mês · T1 44 m² área bruta sem elevador 36 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO:…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35346080/",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · telheiras apartamento arrenda-se · Carriche - Hospital das Forças Armadas, Lumiar, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/telheiras-apartamento-arrenda-se-ID1iUe6",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\ntelheiras apartamento arrenda-se · 1.300 € · Lumiar - Hoje às 12:31\nhttps://www.olx.pt/d/anuncio/telheiras-apartamento-arrenda-se-IDJAVyo.html",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 1.200 €\nUp to 2 people • 1 bedroom · Modern 1-Bedroom Apartment in Costa da Caparica | 2 Bathrooms | Near FCT · From 21 Sep 2026 · €1,200 /month\nhttps://www.uniplaces.com/accommodation/lisbon/885400"
+  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 1.200 €\nUp to 2 people • 1 bedroom · Modern 1-Bedroom Apartment in Costa da Caparica | 2 Bathrooms | Near FCT · From 21 Sep 2026 · €1,200 /month\nhttps://www.uniplaces.com/accommodation/lisbon/885400",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrendo Sótão T0+1 em Linda a velha · 850 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Para o topo hoje às 14:28\nhttps://www.olx.pt/d/anuncio/arrendo-sto-t0-1-em-linda-a-velha-IDJg8lP.html"
  ],
  "son_gonderim": "2026-09-20"
 }
