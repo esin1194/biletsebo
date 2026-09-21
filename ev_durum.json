@@ -956,7 +956,8 @@
    "apartamento-t3-queluz-IDJAZUH",
    "t1-p-arrendar-em-moscavide-IDJB0hf",
    "apartamento-t2-quinta-das-comendadeiras-fames-IDJB0h0",
-   "arrenda-se-t2-remodelado-luminoso-zona-tranquila-1-250-ms-IDJwwAC"
+   "arrenda-se-t2-remodelado-luminoso-zona-tranquila-1-250-ms-IDJwwAC",
+   "t1-semi-mobilado-com-excelente-terrao-lisboa-IDJB1rr"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1623,7 +1624,10 @@
    "apartments/1281189",
    "apartments/449011",
    "apartments/1351367",
-   "apartments/421357"
+   "apartments/421357",
+   "apartments/1632751",
+   "apartments/279427",
+   "apartments/272544"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2001,7 +2005,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2043,7 +2047,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 12,
+  "elenen": 14,
   "tekrar": 1
  },
  "imzalar": [
@@ -2180,7 +2184,9 @@
   "704682e413eeacaf",
   "f0a96dc58fb1e503",
   "8fd256fdc2cb1818",
-  "e7ed978527ad11e8"
+  "e7ed978527ad11e8",
+  "feac932d9e78b38b",
+  "670925bd353c39a6"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrendamento T1, Prior Velho - Despesas incluídas · 1.250 € · Sacavém E Prior Velho - Hoje às 17:32\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-prior-velho-despesas-includas-IDJAZuX.html",
@@ -2201,7 +2207,9 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.850 €\nApartamento T2 na Rua do Vale de Santo António, Santa Engrácia, São Vicente · 1.850€/mês · T2 80 m² área bruta com elevador 8 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇ…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35347985/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T3 na Alameda das Linhas de Torres, Centro, Lumiar · 1.400€/mês · T3 79 m² área bruta com elevador 8 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35347908/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.650 €\nApartamento T1 na Rua do Possolo, Prazeres, Estrela · 1.650€/mês · T1 60 m² área bruta sem elevador 9 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Dat…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35347981/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.750 €\nApartamento T2 na Rua Afonso de Albuquerque, Alfama, Santa Maria Maior · 1.750€/mês · T2 64 m² área bruta sem elevador 9 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35347945/"
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.750 €\nApartamento T2 na Rua Afonso de Albuquerque, Alfama, Santa Maria Maior · 1.750€/mês · T2 64 m² área bruta sem elevador 9 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35347945/",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 Semi-Mobilado com Excelente Terraço – Lisboa · 1.100 € · Marvila - Hoje às 21:12\nhttps://www.olx.pt/d/anuncio/t1-semi-mobilado-com-excelente-terrao-lisboa-IDJB1rr.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nCHECKED · APARTMENT · FROM 11 NOV · star · 4 (74) · 1-bedroom apartment for rent in Lisbon · From 1800 €/month · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/279427"
  ],
  "son_gonderim": "2026-09-21"
 }
