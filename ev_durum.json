@@ -1537,7 +1537,9 @@
    "apartments/369726",
    "apartments/1281198",
    "apartments/639289",
-   "apartments/1535058"
+   "apartments/1535058",
+   "apartments/427281",
+   "apartments/253917"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1877,7 +1879,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1919,7 +1921,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 15,
+  "elenen": 16,
   "tekrar": 1
  },
  "imzalar": [
@@ -2016,7 +2018,8 @@
   "d6a7bdf9c9b02df4",
   "1f5d7776cb7b19d3",
   "42cd694b25898d28",
-  "d720d02bb633e5d9"
+  "d720d02bb633e5d9",
+  "177dc85210171208"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html",
@@ -2037,7 +2040,8 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · Elegant 2-bedroom apartment for rent in Bairro Alto, Lisbon · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369723",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nEstúdio mobilado e equipado, com água, luz, televisão e internet incluído · 850 € · Carnide - 20 de setembro de 2026\nhttps://www.olx.pt/d/anuncio/estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-includo-IDJAPDp.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · Chic 2-bedroom apartment for rent in Bairro Alto, Lisbon · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369726",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 01 NOV · star · 4.3 (7) · 2-bedroom apartment for rent in Lisbon. · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1281198"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 01 NOV · star · 4.3 (7) · 2-bedroom apartment for rent in Lisbon. · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1281198",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · 1-bedroom apartment for rent in Estrela, Lisbon · From 1800 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/427281"
  ],
  "son_gonderim": "2026-09-20"
 }
