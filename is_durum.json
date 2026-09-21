@@ -157,7 +157,8 @@
    "it-internal-control-consultant-mfx_lisboa_DTS-2026-181230",
    "administrativo-de-rh-mfx_porto-salvo-oeiras_OTS-2026-184312",
    "operador-de-armazem-mfx_sintra_OTS-2026-181899",
-   "operador-de-picking_povoa-de-santa-iria_OTS-2026-184343"
+   "operador-de-picking_povoa-de-santa-iria_OTS-2026-184343",
+   "assistente-suporte-tecnico-vodafone-hibrido-mfx_lisboa_OTS-2026-183754"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -554,17 +555,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 65,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 159,
+   "bos": 160,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 159,
+   "bos": 160,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -574,7 +575,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 159,
+   "bos": 160,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -594,7 +595,7 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 159,
+   "bos": 160,
    "uyarildi": true
   }
  },
@@ -602,6 +603,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 109,
-  "tekrar": 0
+  "tekrar": 1
  }
 }
