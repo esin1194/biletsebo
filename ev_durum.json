@@ -967,7 +967,8 @@
    "apartamento-t1-praia-de-carcavelos-IDJB1XL",
    "t2-mobilado-e-equipado-com-2-varandas-forte-da-casa-IDJB2l9",
    "apartamento-t1-90m2-mem-martins-IDJsBIg",
-   "t2-em-alfornelos-com-muito-sol-IDJB2qi"
+   "t2-em-alfornelos-com-muito-sol-IDJB2qi",
+   "arrenda-se-t3-pronto-a-habitar-85m2-lisboa-marvila-IDJpQPM"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1637,7 +1638,9 @@
    "apartments/421357",
    "apartments/1632751",
    "apartments/279427",
-   "apartments/272544"
+   "apartments/272544",
+   "apartments/594579",
+   "apartments/1087136"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2017,7 +2020,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2059,7 +2062,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 19,
+  "elenen": 22,
   "tekrar": 2
  },
  "imzalar": [
