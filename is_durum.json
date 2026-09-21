@@ -172,7 +172,19 @@
    "assistente-de-loja-vodafone-mfx-fulltime-almada-forum_almada_OTS-2026-184371",
    "assistente-de-loja-vodafone-mfx_cascais_OTS-2026-184372",
    "advogado-senior-direito-laboral-mfx_lisboa_PTS-2026-184375",
-   "salesforce-consultant_lisboa-porto-coimbra-braga-viseu-e-faro-hybrid_DTS-2024-157100"
+   "salesforce-consultant_lisboa-porto-coimbra-braga-viseu-e-faro-hybrid_DTS-2024-157100",
+   "middle-full-stack-developer_lisboa_ETS-2026-183412",
+   "senior-full-stack-developer_lisboa_ETS-2026-183411",
+   "administrativo-de-backoffice-marvila_lisboa_OTS-2026-183372",
+   "advogado-senior-generalista-mfx_lisboa_PTS-2026-182504",
+   "advogado-junior-generalista-mfx_lisboa_PTS-2026-182503",
+   "enfermeiro-mfx_algueiraomem-martins_PTS-2026-182457",
+   "tecnico-comercial-canal-especialista-mfx_lisboa_PTS-2026-182251",
+   "teamcenter-administrator_lisbon-hybrid_DTS-2026-181963",
+   "manager-due-diligence-comercial-cdd-internacional-m-f-x_lisboa_PTS-2026-181771",
+   "gestor-comercial-equipamentos-de-protecao-individual-mfx_lisboa_PTS-2026-181317",
+   "tecnicocomercial-especialista-de-produto-mfx_lisboa_PTS-2026-178682",
+   "tecnicoa-de-analises-clinicas-mfx_lisboa_PTS-2026-177121"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -567,22 +579,24 @@
   "783266b47fb864f4",
   "13756d9de5221f3a",
   "e049fbd8d7a4a5ce",
-  "1c80cd59a068cf44"
+  "1c80cd59a068cf44",
+  "16695d5d2ab5999a",
+  "cd6199c34ab30333"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 178,
+   "bos": 179,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 178,
+   "bos": 179,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -592,7 +606,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 178,
+   "bos": 179,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -612,14 +626,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 178,
+   "bos": 179,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 123,
-  "tekrar": 2
+  "elenen": 131,
+  "tekrar": 4
  }
 }
