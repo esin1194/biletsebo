@@ -720,7 +720,9 @@
    "apartamento-t1-com-1-casa-de-banho-na-estrela-ID1iUgz",
    "arrendamentot3-charmoso-e-mobilado-na-graca-ID1iUfX",
    "casa-historica-na-estrela-ID1iUgG",
-   "apartamento-t0-rossio-lisboa-centro-ID1iUj5"
+   "apartamento-t0-rossio-lisboa-centro-ID1iUj5",
+   "aconchegante-t2-em-arroios-lisboa-ID1iUjR",
+   "t1-de-luxo-parque-das-nacoes-mob-equipado-ID1iUjw"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -927,7 +929,8 @@
    "arrendo-sto-t0-1-em-linda-a-velha-IDJg8lP",
    "t3-em-arruda-dos-vinhos-IDJAXI2",
    "apartamento-t0-rossio-lisboa-centro-IDJAYwB",
-   "arrendamemto-de-apartamento-IDJxpMK"
+   "arrendamemto-de-apartamento-IDJxpMK",
+   "t1-de-luxo-parque-das-naes-mob-equipado-IDJAYIc"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1814,7 +1817,11 @@
    "893347",
    "893344",
    "893342",
-   "776522"
+   "776522",
+   "893360",
+   "893359",
+   "893358",
+   "893352"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1953,7 +1960,9 @@
    "1272555377062311833",
    "1704399630611013331",
    "922375206951758618",
-   "1754250473687852185"
+   "1754250473687852185",
+   "38455027",
+   "1767286829640998775"
   ]
  },
  "kaynaklar": {
@@ -2001,8 +2010,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 58,
-  "tekrar": 5
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -2119,49 +2128,9 @@
   "cfc2e0309a7b54c1",
   "4fe1c895294d0384",
   "4e06c308f0ab108a",
-  "f3ebae896084a5d2"
+  "f3ebae896084a5d2",
+  "9c3723029fd12410"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nEstúdio mobilado e equipado com água, luz, televisão e internet · 900 € · Sobral de Monte Agraço - Hoje às 18:35\nhttps://www.olx.pt/d/anuncio/estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-IDJAPDp.html",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 2.000 €\nApartamento T1 na Rua Nova do Almada, Baixa, Santa Maria Maior · 2.000€/mês · T1 55 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJA…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35345339/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.950 €\nApartamento T3 na Rua da Quinta do Jacinto, Alvito - Quinta do Jacinto, Alcântara · 1.950€/mês · T3 81 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35345312/",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · 1-bedroom apartment for rent in Estrela, Lisbon · From 1450 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/427283",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nAPARTMENT · FROM 01 NOV · 2-bedroom flat for rent in Lisbon · 1650 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1708203",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · 27,50 €/m² · Apartamento T1 Benfica para arrendar · Igreja de Benfica, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-benfica-para-arrendar-ID1iU8K",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 Benfica para arrendar · 1.100 € · Benfica - Hoje às 20:31\nhttps://www.olx.pt/d/anuncio/apartamento-t1-benfica-para-arrendar-IDJAQE5.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 500 €\nT0 em A-dos-Cunhados · 500 € · A Dos Cunhados E Maceira - Hoje às 20:15\nhttps://www.olx.pt/d/anuncio/t0-em-a-dos-cunhados-IDJAQw7.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · Apartamento T1 Benfica para arrendar · Igreja de Benfica, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-benfica-para-arrendar-ID1iU8O",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 Benfica para arrendar · 1.100 € · Benfica - Hoje às 20:43\nhttps://www.olx.pt/d/anuncio/apartamento-t1-benfica-para-arrendar-IDJAQJ9.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nApartamento t1 Damaia · 900 € · Águas Livres - Hoje às 20:54\nhttps://www.olx.pt/d/anuncio/apartamento-t1-damaia-IDJAQPB.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT2 Arroja com parqueamento. · 1.150 € · Negociável · Odivelas - Hoje às 22:21\nhttps://www.olx.pt/d/anuncio/t2-arroja-com-parqueamento-IDJARt0.html",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 875 €\nApartamento T0 na Rua do Benformoso, Mouraria - Castelo, Santa Maria Maior · 875€/mês · T0 40 m² área bruta sem elevador 2 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35314367/",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · 2-bedroom apartment for rent in São Bento, Lisbon · From 1600 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369702",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · Elegant 2-bedroom apartment for rent in Bairro Alto, Lisbon · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369723",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nEstúdio mobilado e equipado, com água, luz, televisão e internet incluído · 850 € · Carnide - 20 de setembro de 2026\nhttps://www.olx.pt/d/anuncio/estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-includo-IDJAPDp.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · Chic 2-bedroom apartment for rent in Bairro Alto, Lisbon · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369726",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 01 NOV · star · 4.3 (7) · 2-bedroom apartment for rent in Lisbon. · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1281198",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nCHECKED · APARTMENT · FROM 15 NOV · star · 4.3 (7) · 1-bedroom apartment for rent in Estrela, Lisbon · From 1800 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/427281",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nCHECKED · APARTMENT · FROM 21 SEP · star · 3.5 (46) · 1-bedroom apartment for rent in Lisbon · 1750 €/month · UP TO 5 % OFF · 11+ month stay · savings · NO DEPOSIT · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/424943",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nAPARTMENT · FROM 21 SEP · star · 4.3 (7) · 1-bedroom apartment for rent in Lisbon · 1450 €/month · savings · NO DEPOSIT · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1706640",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.700 €\nApartamento T3 na Rua Presidente Arriaga, 54, Lapa, Estrela · 1.700€/mês · T3 79 m² área bruta 3º andar sem elevador 7 minutos · Trata-te de um pequeno apartamento t2+1, na Lapa com uma deslumbrante vista rio! A casa está totalmente equipada, conta com três quartos, sendo um dele…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35345052/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.250 €\nDuplex na Rua Comandante Nunes da Silva, 1, Centro da Ajuda, Ajuda · 1.250€/mês · T2 88 m² área bruta 2º andar sem elevador 8 minutos · Duplex de design com terraço em Ajuda Bonito apartamento duplex T2, totalmente renovado, no último piso de um edifício em Ajuda, com 88 m² distr…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35344989/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T1 em Calçada da Picheleira, Beato · 1.200€/mês · T1 40 m² área bruta sem elevador 16 minutos · ** O brilhante em Beato ** _Porque eu busco um espaço estiloso e uma varanda pra botar_ ** Eu vou gostar daqui? ** Seria difícil não fazer isso. Você é um fashionista em bu…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34665375/",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nAPARTMENT · FROM 13 OCT · star · 4 (96) · 1-bedroom apartment for rent in Chiado, Lisbon · From 1575 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/429428",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nAPARTMENT · FROM 21 SEP · star · 4.3 (7) · 2-bedroom flat for rent in Lisbon · 1450 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1706780",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 750 €\nApartamento T1 na Rua Cristóvão Figueiredo, 13, Entrecampos, Avenidas Novas · 750€/mês · T1 35 m² área bruta Rés do chão sem elevador 10 minutos · Alugo apartamento T-1, perto das Faculdades de medicina e enfermagem do hospital de Santa Maria, ISCTE, FCSH da Universidade Nova, Un…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/31713744/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 900 €\nApartamento T1 na Rua da Senhora da Glória, Graça, São Vicente · 900€/mês · T1 30 m² área bruta sem elevador 35 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAME…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35346054/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 900 €\nApartamento T1 no Beco do Loureiro, Alfama, Santa Maria Maior · 900€/mês · T1 42 m² área bruta sem elevador 36 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMEN…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35346025/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T1 na Rua do Jardim à Estrela, Lapa, Estrela · 1.000€/mês · T1 44 m² área bruta sem elevador 36 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO:…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35346080/",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · telheiras apartamento arrenda-se · Carriche - Hospital das Forças Armadas, Lumiar, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/telheiras-apartamento-arrenda-se-ID1iUe6",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\ntelheiras apartamento arrenda-se · 1.300 € · Lumiar - Hoje às 12:31\nhttps://www.olx.pt/d/anuncio/telheiras-apartamento-arrenda-se-IDJAVyo.html",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 1.200 €\nUp to 2 people • 1 bedroom · Modern 1-Bedroom Apartment in Costa da Caparica | 2 Bathrooms | Near FCT · From 21 Sep 2026 · €1,200 /month\nhttps://www.uniplaces.com/accommodation/lisbon/885400",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrendo Sótão T0+1 em Linda a velha · 850 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Para o topo hoje às 14:28\nhttps://www.olx.pt/d/anuncio/arrendo-sto-t0-1-em-linda-a-velha-IDJg8lP.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.550 €\n1550 € · ArrendamentoT3 Charmoso e Mobilado na Graça · Rua Josefa de Óbidos, Graça, São Vicente, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 79 m² · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamentot3-charmoso-e-mobilado-na-graca-ID1iUfX",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.850 €\nT3 em Arruda dos Vinhos · 1.850 € · Negociável · Arruda dos Vinhos - Hoje às 14:43\nhttps://www.olx.pt/d/anuncio/t3-em-arruda-dos-vinhos-IDJAXI2.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.880 €\nAPARTMENT · FROM 13 OCT · star · 4 (96) · 1-bedroom apartment for rent in Santa Maria Maior, Lisbon · From 1880 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1351367",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T0 Rossio Lisboa Centro · 1.500 € · Santa Maria Maior - Hoje às 16:02\nhttps://www.olx.pt/d/anuncio/apartamento-t0-rossio-lisboa-centro-IDJAYwB.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 730 €\nArrendamemto de apartamento · 730 € · Falagueira-Venda Nova - Hoje às 15:52\nhttps://www.olx.pt/d/anuncio/arrendamemto-de-apartamento-IDJxpMK.html"
- ],
- "son_gonderim": "2026-09-20"
+ "kuyruk": [],
+ "son_gonderim": "2026-09-21"
 }
