@@ -711,7 +711,8 @@
    "t2-remodelado-com-estacionamento-em-condominio-privado-ID1iUaQ",
    "campolide-t2-renovado-a-estrear-ID1iUbs",
    "t2-alugar-penha-de-franca-ID1iUch",
-   "arrenda-se-apartamento-t1-na-rua-das-olarias-n-60-lisboa-ID1iUbW"
+   "arrenda-se-apartamento-t1-na-rua-das-olarias-n-60-lisboa-ID1iUbW",
+   "campolide-t3-renovado-com-varanda-e-2-casa-de-banho-ID1iUd9"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1924,7 +1925,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1966,7 +1967,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 39,
+  "elenen": 40,
   "tekrar": 1
  },
  "imzalar": [
