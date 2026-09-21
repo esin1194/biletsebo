@@ -894,7 +894,8 @@
    "alugo-t2-marteleira-IDJARMH",
    "arrendamento-de-apartamento-t2-na-rua-marques-da-silva-41-IDJcWxd",
    "arrendo-se-t3-em-benfica-califa-4andar-IDJAS0a",
-   "estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-includo-IDJAPDp"
+   "estdio-mobilado-e-equipado-com-gua-luz-televiso-e-internet-includo-IDJAPDp",
+   "t3-para-arrendamento-em-benfica-califa-4andar-IDJAS0a"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1876,7 +1877,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1918,7 +1919,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 14,
+  "elenen": 15,
   "tekrar": 1
  },
  "imzalar": [
