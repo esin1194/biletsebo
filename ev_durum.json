@@ -718,7 +718,8 @@
    "estudio-localizado-em-castelo-lisbon-ID1iUek",
    "t3-quinta-dos-alcoutins-lumiar-ID1iUfY",
    "apartamento-t1-com-1-casa-de-banho-na-estrela-ID1iUgz",
-   "arrendamentot3-charmoso-e-mobilado-na-graca-ID1iUfX"
+   "arrendamentot3-charmoso-e-mobilado-na-graca-ID1iUfX",
+   "casa-historica-na-estrela-ID1iUgG"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1803,7 +1804,10 @@
    "885400",
    "893311",
    "605789",
-   "405450"
+   "405450",
+   "893336",
+   "893333",
+   "893331"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1947,7 +1951,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1989,7 +1993,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 49,
+  "elenen": 53,
   "tekrar": 4
  },
  "imzalar": [
