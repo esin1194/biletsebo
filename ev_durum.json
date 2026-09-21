@@ -715,7 +715,8 @@
    "campolide-t3-renovado-com-varanda-e-2-casa-de-banho-ID1iUd9",
    "t1-com-varanda-ar-condicionado-e-elevador-em-lumiar-lisboa-ID1iUdA",
    "telheiras-apartamento-arrenda-se-ID1iUe6",
-   "estudio-localizado-em-castelo-lisbon-ID1iUek"
+   "estudio-localizado-em-castelo-lisbon-ID1iUek",
+   "t3-quinta-dos-alcoutins-lumiar-ID1iUfY"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1952,7 +1953,7 @@
   },
   "https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.uniplaces.com/accommodation/lisbon": {
@@ -1974,7 +1975,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 44,
+  "elenen": 45,
   "tekrar": 1
  },
  "imzalar": [
