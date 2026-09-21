@@ -698,7 +698,8 @@
    "apartamento-t1-benfica-para-arrendar-ID1iU8O",
    "t2-em-alvalade-ideal-para-estudantes-ID1iU91",
    "arrendo-se-t3-em-benfica-califa-4andar-ID1iU9r",
-   "arrendo-se-t3-em-benfica-califa-4-andar-ID1iU9r"
+   "arrendo-se-t3-em-benfica-califa-4-andar-ID1iU9r",
+   "t2-em-campolide-com-grande-terraco-privativo-garagem-e-arrecadacao-ID1iSlG"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1875,7 +1876,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1917,7 +1918,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 14,
   "tekrar": 1
  },
  "imzalar": [
