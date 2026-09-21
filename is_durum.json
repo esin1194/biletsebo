@@ -171,7 +171,8 @@
    "operador-de-maquinas_carregado_OTS-2026-179550",
    "assistente-de-loja-vodafone-mfx-fulltime-almada-forum_almada_OTS-2026-184371",
    "assistente-de-loja-vodafone-mfx_cascais_OTS-2026-184372",
-   "advogado-senior-direito-laboral-mfx_lisboa_PTS-2026-184375"
+   "advogado-senior-direito-laboral-mfx_lisboa_PTS-2026-184375",
+   "salesforce-consultant_lisboa-porto-coimbra-braga-viseu-e-faro-hybrid_DTS-2024-157100"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -571,17 +572,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 17,
+   "bos": 18,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 177,
+   "bos": 178,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 177,
+   "bos": 178,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -591,7 +592,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 177,
+   "bos": 178,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -611,14 +612,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 177,
+   "bos": 178,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 122,
+  "elenen": 123,
   "tekrar": 2
  }
 }
