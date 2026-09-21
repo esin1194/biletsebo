@@ -705,7 +705,9 @@
    "arrendo-se-t3-em-benfica-califa-4-andar-ID1iU9r",
    "t2-em-campolide-com-grande-terraco-privativo-garagem-e-arrecadacao-ID1iSlG",
    "t2-remodelado-com-estacionamento-em-condominio-privado-ID1iUaQ",
-   "campolide-t2-renovado-a-estrear-ID1iUbs"
+   "campolide-t2-renovado-a-estrear-ID1iUbs",
+   "t2-alugar-penha-de-franca-ID1iUch",
+   "arrenda-se-apartamento-t1-na-rua-das-olarias-n-60-lisboa-ID1iUbW"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -905,7 +907,9 @@
    "t2-com-elevador-central-em-benfica-praa-prof-santos-andrea-prximo-do-fonte-nova-IDJsoYc",
    "apartamento-para-nmadas-digitais-estudantes-e-para-frias-mobilado-e-equipado-no-centro-lisboa-t3-com-2-wcs-IDIHaGo",
    "apartamento-centro-de-lisboa-bairro-alto-para-frias-estudantes-e-nmadas-digitais-IDJr6rI",
-   "apartamento-prximo-univercidades-centro-de-lisboa-IDJ7fbu"
+   "apartamento-prximo-univercidades-centro-de-lisboa-IDJ7fbu",
+   "t2-alugar-penha-de-frana-IDJAWMs",
+   "apartamento-t2-em-pao-de-arcos-oeiras-IDJAWJA"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1915,7 +1919,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1957,7 +1961,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 34,
+  "elenen": 38,
   "tekrar": 1
  },
  "imzalar": [
