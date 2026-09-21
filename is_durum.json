@@ -149,7 +149,9 @@
    "operador-retratil_torres-novas_OTS-2025-161716",
    "operador-de-armazem_estoril_OTS-2026-183952",
    "regional-sales-manager-mfx_lisboa_PTS-2026-182672",
-   "tecnico-de-compliance-mfx_alges_PTS-2026-184334"
+   "tecnico-de-compliance-mfx_alges_PTS-2026-184334",
+   "teamcenter-functional-consultant_lisbon-hybrid_DTS-2026-181964",
+   "operador-de-armazem_telheiras_OTS-2025-182894"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -545,17 +547,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 59,
+   "bos": 60,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 153,
+   "bos": 154,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 153,
+   "bos": 154,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -565,7 +567,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 153,
+   "bos": 154,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -585,14 +587,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 153,
+   "bos": 154,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 102,
+  "elenen": 104,
   "tekrar": 0
  }
 }
