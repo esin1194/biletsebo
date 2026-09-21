@@ -722,7 +722,8 @@
    "casa-historica-na-estrela-ID1iUgG",
    "apartamento-t0-rossio-lisboa-centro-ID1iUj5",
    "aconchegante-t2-em-arroios-lisboa-ID1iUjR",
-   "t1-de-luxo-parque-das-nacoes-mob-equipado-ID1iUjw"
+   "t1-de-luxo-parque-das-nacoes-mob-equipado-ID1iUjw",
+   "apartamento-t4-duplex-em-alvalade-ID1iUqG"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1821,7 +1822,8 @@
    "893360",
    "893359",
    "893358",
-   "893352"
+   "893352",
+   "815615"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1968,7 +1970,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2010,7 +2012,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 2,
   "tekrar": 0
  },
  "imzalar": [
