@@ -144,7 +144,12 @@
    "copeiro-mfx_sao-domingos-de-rana_OTS-2026-182758",
    "empregado-de-limpeza-mfx_sao-domingos-de-rana_OTS-2026-182760",
    "cozinheiro-1a_estoril_OTS-2026-182072",
-   "administrativo-de-backoffice-marvila_lisboa_OTS-2026-184138"
+   "administrativo-de-backoffice-marvila_lisboa_OTS-2026-184138",
+   "tecnico-especialista-contabilidade-mfx-recrutamento-inclusivo_carnaxide_PTS-2026-181494",
+   "operador-retratil_torres-novas_OTS-2025-161716",
+   "operador-de-armazem_estoril_OTS-2026-183952",
+   "regional-sales-manager-mfx_lisboa_PTS-2026-182672",
+   "tecnico-de-compliance-mfx_alges_PTS-2026-184334"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -540,17 +545,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 58,
+   "bos": 59,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 152,
+   "bos": 153,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 152,
+   "bos": 153,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -560,7 +565,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 152,
+   "bos": 153,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -580,14 +585,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 152,
+   "bos": 153,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 97,
+  "elenen": 102,
   "tekrar": 0
  }
 }
