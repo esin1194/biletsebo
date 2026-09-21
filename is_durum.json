@@ -123,7 +123,10 @@
    "marketing-manager-mfx_lisboa_PTS-2026-181040",
    "tecnico-comercial-mfx_sintra_PTS-2026-179473",
    "vendedor-interno-especialista-de-produto-mfx_lisboa_PTS-2026-178781",
-   "back-office-specialist-italian-speaker-mfx_porto-portugal_OTS-2026-178536"
+   "back-office-specialist-italian-speaker-mfx_porto-portugal_OTS-2026-178536",
+   "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-181500",
+   "operador-de-armazem-mfx_azambuja_OTS-2026-176469",
+   "assistente-vendas-el-corte-ingles-full-time_lisboa_OTS-2026-183893"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -240,7 +243,12 @@
    "oTfybdLCkttfk3aVLmkKgT",
    "bYS4p4yJXtc9fRzGxthcQ4",
    "r1kbJqW4jphZEasvHYtmJA",
-   "2JuWsWioybkwiDEehipnNL"
+   "2JuWsWioybkwiDEehipnNL",
+   "qH24AcvrtuvpZ4WWNgwAhb",
+   "nSJ6WedqwCqk62vbAgjKvv",
+   "tuuZafDKXLfFwYnRxMQtMt",
+   "a2sXYa9fZr9Dbhdrtg8z4g",
+   "qmA7JA3BJGD9KoMDp9wpku"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -502,22 +510,25 @@
   "ed33aafefe532835",
   "0c81a17b18bad349",
   "4f5b4d8f718ecd00",
-  "524d490919a5c697"
+  "524d490919a5c697",
+  "1333db67cc078ff0",
+  "f098140fa520b71e",
+  "14f09938eba90a2f"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 52,
+   "bos": 53,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 146,
+   "bos": 147,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 146,
+   "bos": 147,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -527,7 +538,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 146,
+   "bos": 147,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -547,14 +558,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 146,
+   "bos": 147,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 78,
+  "elenen": 83,
   "tekrar": 0
  }
 }
