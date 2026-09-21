@@ -726,7 +726,8 @@
    "aconchegante-t2-em-arroios-lisboa-ID1iUjR",
    "t1-de-luxo-parque-das-nacoes-mob-equipado-ID1iUjw",
    "apartamento-t4-duplex-em-alvalade-ID1iUqG",
-   "apartamento-t1-com-varanda-e-garagem-em-alvalade-ID1iUsg"
+   "apartamento-t1-com-varanda-e-garagem-em-alvalade-ID1iUsg",
+   "t1-p-arrendar-em-moscavide-ID1iUtk"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1980,7 +1981,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2022,7 +2023,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
+  "elenen": 8,
   "tekrar": 0
  },
  "imzalar": [
