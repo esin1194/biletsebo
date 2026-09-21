@@ -127,7 +127,9 @@
    "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-181500",
    "operador-de-armazem-mfx_azambuja_OTS-2026-176469",
    "assistente-vendas-el-corte-ingles-full-time_lisboa_OTS-2026-183893",
-   "technical-customer-support-in-dutch-voiceemailchat-mfx_lisbon-oriente_OTS-2026-182461"
+   "technical-customer-support-in-dutch-voiceemailchat-mfx_lisbon-oriente_OTS-2026-182461",
+   "gestora-de-tecnologias-de-informacao-mfx_torres-vedras-lisboa-presencial_DTS-2026-183290",
+   "office-business-support-specialist-parttime_sacavem_PTS-2026-184328"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -515,22 +517,23 @@
   "1333db67cc078ff0",
   "f098140fa520b71e",
   "14f09938eba90a2f",
-  "f7823217067f6fd5"
+  "f7823217067f6fd5",
+  "d0755252346df8da"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 55,
+   "bos": 56,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 149,
+   "bos": 150,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 149,
+   "bos": 150,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -540,7 +543,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 149,
+   "bos": 150,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -560,14 +563,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 149,
+   "bos": 150,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 83,
+  "elenen": 84,
   "tekrar": 0
  }
 }
