@@ -168,7 +168,9 @@
    "tax-compliance_lisboa_PTS-2026-179009",
    "purchasing-administrator-mfx_lisboa_PTS-2026-184366",
    "operador-de-expedicao_carregado_OTS-2026-179868",
-   "operador-de-maquinas_carregado_OTS-2026-179550"
+   "operador-de-maquinas_carregado_OTS-2026-179550",
+   "assistente-de-loja-vodafone-mfx-fulltime-almada-forum_almada_OTS-2026-184371",
+   "assistente-de-loja-vodafone-mfx_cascais_OTS-2026-184372"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -568,17 +570,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 166,
+   "bos": 167,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 166,
+   "bos": 167,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -588,7 +590,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 166,
+   "bos": 167,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -608,14 +610,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 166,
+   "bos": 167,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 120,
+  "elenen": 122,
   "tekrar": 1
  }
 }
