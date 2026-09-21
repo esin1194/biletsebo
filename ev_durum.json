@@ -408,7 +408,9 @@
    "31713744",
    "35346054",
    "35346025",
-   "35346080"
+   "35346080",
+   "34916908",
+   "34921766"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -723,7 +725,8 @@
    "apartamento-t0-rossio-lisboa-centro-ID1iUj5",
    "aconchegante-t2-em-arroios-lisboa-ID1iUjR",
    "t1-de-luxo-parque-das-nacoes-mob-equipado-ID1iUjw",
-   "apartamento-t4-duplex-em-alvalade-ID1iUqG"
+   "apartamento-t4-duplex-em-alvalade-ID1iUqG",
+   "apartamento-t1-com-varanda-e-garagem-em-alvalade-ID1iUsg"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -932,7 +935,8 @@
    "apartamento-t0-rossio-lisboa-centro-IDJAYwB",
    "arrendamemto-de-apartamento-IDJxpMK",
    "t1-de-luxo-parque-das-naes-mob-equipado-IDJAYIc",
-   "arrendamento-t1-prior-velho-despesas-includas-IDJAZuX"
+   "arrendamento-t1-prior-velho-despesas-includas-IDJAZuX",
+   "apartamento-t3-queluz-IDJAZUH"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1976,7 +1980,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2018,7 +2022,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 7,
   "tekrar": 0
  },
  "imzalar": [
@@ -2138,10 +2142,16 @@
   "4e06c308f0ab108a",
   "f3ebae896084a5d2",
   "9c3723029fd12410",
-  "5e50ed70bb365b12"
+  "5e50ed70bb365b12",
+  "7689befc63b45e52",
+  "44750be49ada2149",
+  "83342d4a01c92abc"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrendamento T1, Prior Velho - Despesas incluídas · 1.250 € · Sacavém E Prior Velho - Hoje às 17:32\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-prior-velho-despesas-includas-IDJAZuX.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrendamento T1, Prior Velho - Despesas incluídas · 1.250 € · Sacavém E Prior Velho - Hoje às 17:32\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-prior-velho-despesas-includas-IDJAZuX.html",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Rua da Regueira, 1, Alfama, Santa Maria Maior · 1.300€/mês · T1 60 m² área bruta Rés do chão sem elevador 7 minutos · A partir de agora, apartamento de 1 quarto no centro de Lisboa - Alfama Adequado para 2 pessoas: ) Terá o lugar inteiro para si – Um quarto - Um…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34916908/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Rua da Regueira, 11, Alfama, Santa Maria Maior · 1.300€/mês · T1 60 m² área bruta Rés do chão sem elevador 9 minutos · Offering - Long term rental Starting now, 1 bedroom apartment in the central of lisbon - Alfama Suitable for 2 persons: ) You’ll have the entir…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34921766/",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T3 Queluz · 1.500 € · Massamá E Monte Abraão - Hoje às 18:17\nhttps://www.olx.pt/d/anuncio/apartamento-t3-queluz-IDJAZUH.html"
  ],
  "son_gonderim": "2026-09-21"
 }
