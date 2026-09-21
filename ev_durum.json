@@ -719,7 +719,8 @@
    "t3-quinta-dos-alcoutins-lumiar-ID1iUfY",
    "apartamento-t1-com-1-casa-de-banho-na-estrela-ID1iUgz",
    "arrendamentot3-charmoso-e-mobilado-na-graca-ID1iUfX",
-   "casa-historica-na-estrela-ID1iUgG"
+   "casa-historica-na-estrela-ID1iUgG",
+   "apartamento-t0-rossio-lisboa-centro-ID1iUj5"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -924,7 +925,9 @@
    "apartamento-t2-em-pao-de-arcos-oeiras-IDJAWJA",
    "telheiras-apartamento-arrenda-se-IDJAVyo",
    "arrendo-sto-t0-1-em-linda-a-velha-IDJg8lP",
-   "t3-em-arruda-dos-vinhos-IDJAXI2"
+   "t3-em-arruda-dos-vinhos-IDJAXI2",
+   "apartamento-t0-rossio-lisboa-centro-IDJAYwB",
+   "arrendamemto-de-apartamento-IDJxpMK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1807,7 +1810,11 @@
    "405450",
    "893336",
    "893333",
-   "893331"
+   "893331",
+   "893347",
+   "893344",
+   "893342",
+   "776522"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1945,13 +1952,14 @@
    "10435075",
    "1272555377062311833",
    "1704399630611013331",
-   "922375206951758618"
+   "922375206951758618",
+   "1754250473687852185"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -1993,8 +2001,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 53,
-  "tekrar": 4
+  "elenen": 58,
+  "tekrar": 5
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -2109,7 +2117,9 @@
   "eac86237dacd2ee3",
   "2f3a9eded3811ca2",
   "cfc2e0309a7b54c1",
-  "4fe1c895294d0384"
+  "4fe1c895294d0384",
+  "4e06c308f0ab108a",
+  "f3ebae896084a5d2"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nPequeno apartamento remodelado e muito confortável! · 700 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/pequeno-apartamento-remodelado-e-muito-confortvel-IDIVmRr.html",
@@ -2149,7 +2159,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrendo Sótão T0+1 em Linda a velha · 850 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Para o topo hoje às 14:28\nhttps://www.olx.pt/d/anuncio/arrendo-sto-t0-1-em-linda-a-velha-IDJg8lP.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.550 €\n1550 € · ArrendamentoT3 Charmoso e Mobilado na Graça · Rua Josefa de Óbidos, Graça, São Vicente, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 79 m² · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamentot3-charmoso-e-mobilado-na-graca-ID1iUfX",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.850 €\nT3 em Arruda dos Vinhos · 1.850 € · Negociável · Arruda dos Vinhos - Hoje às 14:43\nhttps://www.olx.pt/d/anuncio/t3-em-arruda-dos-vinhos-IDJAXI2.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.880 €\nAPARTMENT · FROM 13 OCT · star · 4 (96) · 1-bedroom apartment for rent in Santa Maria Maior, Lisbon · From 1880 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1351367"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.880 €\nAPARTMENT · FROM 13 OCT · star · 4 (96) · 1-bedroom apartment for rent in Santa Maria Maior, Lisbon · From 1880 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1351367",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T0 Rossio Lisboa Centro · 1.500 € · Santa Maria Maior - Hoje às 16:02\nhttps://www.olx.pt/d/anuncio/apartamento-t0-rossio-lisboa-centro-IDJAYwB.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 730 €\nArrendamemto de apartamento · 730 € · Falagueira-Venda Nova - Hoje às 15:52\nhttps://www.olx.pt/d/anuncio/arrendamemto-de-apartamento-IDJxpMK.html"
  ],
  "son_gonderim": "2026-09-20"
 }
