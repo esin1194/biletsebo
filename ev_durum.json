@@ -931,7 +931,8 @@
    "t3-em-arruda-dos-vinhos-IDJAXI2",
    "apartamento-t0-rossio-lisboa-centro-IDJAYwB",
    "arrendamemto-de-apartamento-IDJxpMK",
-   "t1-de-luxo-parque-das-naes-mob-equipado-IDJAYIc"
+   "t1-de-luxo-parque-das-naes-mob-equipado-IDJAYIc",
+   "arrendamento-t1-prior-velho-despesas-includas-IDJAZuX"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1823,7 +1824,11 @@
    "893359",
    "893358",
    "893352",
-   "815615"
+   "815615",
+   "877459",
+   "274827",
+   "14279",
+   "762465"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -1970,7 +1975,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2012,7 +2017,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
+  "elenen": 6,
   "tekrar": 0
  },
  "imzalar": [
@@ -2131,8 +2136,11 @@
   "4fe1c895294d0384",
   "4e06c308f0ab108a",
   "f3ebae896084a5d2",
-  "9c3723029fd12410"
+  "9c3723029fd12410",
+  "5e50ed70bb365b12"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrendamento T1, Prior Velho - Despesas incluídas · 1.250 € · Sacavém E Prior Velho - Hoje às 17:32\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-prior-velho-despesas-includas-IDJAZuX.html"
+ ],
  "son_gonderim": "2026-09-21"
 }
