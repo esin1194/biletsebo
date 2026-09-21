@@ -136,7 +136,15 @@
    "advogado-senior-imobiliario_lisboa_PTS-2026-183385",
    "gestora-de-contatos-mfx_lisboa-portugal_OTS-2026-183046",
    "assistente-de-loja-mfx_lisboa-amoreiras-shopping_OTS-2026-182583",
-   "operador-de-armazem-mfx_azambuja_OTS-2026-174481"
+   "operador-de-armazem-mfx_azambuja_OTS-2026-174481",
+   "tecnico-de-manutencao-aeronaves-mfx_lisboa_OTS-2026-183612",
+   "empregado-de-mesa-mfx_paco-de-arcos_OTS-2026-183343",
+   "ajudante-de-cozinha-mfx_paco-de-arcos_OTS-2026-183344",
+   "empregado-de-mesa-mfx_sao-domingos-de-rana_OTS-2026-182756",
+   "copeiro-mfx_sao-domingos-de-rana_OTS-2026-182758",
+   "empregado-de-limpeza-mfx_sao-domingos-de-rana_OTS-2026-182760",
+   "cozinheiro-1a_estoril_OTS-2026-182072",
+   "administrativo-de-backoffice-marvila_lisboa_OTS-2026-184138"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -532,17 +540,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 57,
+   "bos": 58,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 151,
+   "bos": 152,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 151,
+   "bos": 152,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -552,7 +560,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 151,
+   "bos": 152,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -572,14 +580,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 151,
+   "bos": 152,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 89,
+  "elenen": 97,
   "tekrar": 0
  }
 }
