@@ -184,7 +184,8 @@
    "manager-due-diligence-comercial-cdd-internacional-m-f-x_lisboa_PTS-2026-181771",
    "gestor-comercial-equipamentos-de-protecao-individual-mfx_lisboa_PTS-2026-181317",
    "tecnicocomercial-especialista-de-produto-mfx_lisboa_PTS-2026-178682",
-   "tecnicoa-de-analises-clinicas-mfx_lisboa_PTS-2026-177121"
+   "tecnicoa-de-analises-clinicas-mfx_lisboa_PTS-2026-177121",
+   "gestor-sourcing-pricing-mfx_lisboa_OTS-2026-181725"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -589,17 +590,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 35,
+   "bos": 36,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 195,
+   "bos": 196,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 195,
+   "bos": 196,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -609,7 +610,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 195,
+   "bos": 196,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -629,14 +630,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 195,
+   "bos": 196,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 134,
+  "elenen": 135,
   "tekrar": 4
  }
 }
