@@ -209,7 +209,8 @@
    "talent-development_lisboa_PTS-2026-184434",
    "accountant-mfx_lisboa_PTS-2026-176170",
    "operations-process-excellence-specialist_lisboa_PTS-2026-175447",
-   "procurement-administrator-mfx_lisboa_PTS-2026-184366"
+   "procurement-administrator-mfx_lisboa_PTS-2026-184366",
+   "talent-acquisition-partner_lisboa_PTS-2026-179528"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -617,17 +618,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 49,
+   "bos": 50,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 209,
+   "bos": 210,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 209,
+   "bos": 210,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -637,7 +638,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 209,
+   "bos": 210,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -657,14 +658,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 209,
+   "bos": 210,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 154,
+  "elenen": 155,
   "tekrar": 6
  }
 }
