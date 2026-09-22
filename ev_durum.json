@@ -782,7 +782,8 @@
    "sesimbra-apartamento-t1-arrendar-ID1iUFc",
    "apartamento-t2-com-vista-panormica-no-parque-das-nacoes-condominio-ID1iUGa",
    "apartamento-t2-em-arroios-com-terraco-lisboa-localizacao-central-e-ID1iUG2",
-   "t2-benfica-totalmente-renovado-ID1iUH3"
+   "t2-benfica-totalmente-renovado-ID1iUH3",
+   "apartamento-t4-remodelado-e-com-varandas-frente-ao-spacio-shopping-dos-ID1iUHw"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1956,7 +1957,9 @@
    "893500",
    "893499",
    "867124",
-   "391155"
+   "391155",
+   "893587",
+   "893585"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2105,7 +2108,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2147,7 +2150,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 64,
+  "elenen": 67,
   "tekrar": 4
  },
  "imzalar": [
