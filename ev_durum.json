@@ -1028,7 +1028,8 @@
    "aluga-se-apartamento-IDJwz46",
    "apartamento-t3-rinchoa-IDJBabk",
    "apartamento-t3-nas-quinta-das-palmeiras-IDJBay1",
-   "apartamento-t2-olivais-sul-com-boas-vistas-central-IDJwz2k"
+   "apartamento-t2-olivais-sul-com-boas-vistas-central-IDJwz2k",
+   "arrenda-se-apartamento-t1-mobilado-avenidas-novas-IDJmzDs"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1731,7 +1732,10 @@
    "apartments/446532",
    "apartments/1706783",
    "apartments/1534927",
-   "apartments/998173"
+   "apartments/998173",
+   "apartments/388651",
+   "apartments/1680440",
+   "apartments/1518669"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2135,7 +2139,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2358,7 +2362,9 @@
   "415d4574ac36394d",
   "6171aa2fb7758c4c",
   "a64659f5e0f97834",
-  "736310ad92f09901"
+  "736310ad92f09901",
+  "4c9f609ec85b1558",
+  "f862b8281a35baae"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
@@ -2366,7 +2372,9 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T1 Mobilado e Renovado no Beato, Lisboa · Calçada da Picheleira, Picheleira, Beato, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 35 m² · Andar · 2 andar · CENTURY 21 Colombo · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-e-renovado-no-beato-lisboa-ID1iULF",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nArrendo anexo T1 | Montelavar | Sintra · 650 € · Almargem Do Bispo, Pêro Pinheiro E Montelavar - Hoje às 17:52\nhttps://www.olx.pt/d/anuncio/arrendo-anexo-t1-montelavar-sintra-IDJBamJ.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nAluga-se apartamento · 1.600 € · Avenidas Novas - Hoje às 18:21\nhttps://www.olx.pt/d/anuncio/aluga-se-apartamento-IDJwz46.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T3 nas Quinta das Palmeiras · 1.500 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 18:16\nhttps://www.olx.pt/d/anuncio/apartamento-t3-nas-quinta-das-palmeiras-IDJBay1.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T3 nas Quinta das Palmeiras · 1.500 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 18:16\nhttps://www.olx.pt/d/anuncio/apartamento-t3-nas-quinta-das-palmeiras-IDJBay1.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nArrenda-se apartamento T1 mobilado Avenidas Novas · 1.450 € · Negociável · Avenidas Novas - Hoje às 18:46\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-mobilado-avenidas-novas-IDJmzDs.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nAPARTMENT · FROM 07 OCT · star · 4 (96) · 1-bedroom apartment for rent in Alfama, Lisbon · From 1575 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/388651"
  ],
  "son_gonderim": "2026-09-22"
 }
