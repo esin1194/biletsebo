@@ -192,7 +192,11 @@
    "operador-de-armazem-mxf-picking-reciclagem_olivais_OTS-2026-183456",
    "assistente-comercial-mfx-fulltime-alegro-alfragide_alfragide_OTS-2026-184381",
    "assistente-comercial-mfx-full-time-strada_strada-odivelas_OTS-2026-184382",
-   "empregado-de-bar-mfx_torres-vedras-arena-shopping_OTS-2026-183878"
+   "empregado-de-bar-mfx_torres-vedras-arena-shopping_OTS-2026-183878",
+   "accounts-payable_oeiras_PTS-2025-166668",
+   "enfermeiro-mfx_agualvacacem_PTS-2025-162032",
+   "enfermeiro-mfx_remoto_PTS-2024-157648",
+   "medico-de-medicina-geral-ou-medicina-interna-remoto-mfx_remoto_PTS-2024-153137"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -592,22 +596,23 @@
   "e049fbd8d7a4a5ce",
   "1c80cd59a068cf44",
   "16695d5d2ab5999a",
-  "cd6199c34ab30333"
+  "cd6199c34ab30333",
+  "0603df0a723c0935"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 39,
+   "bos": 40,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 199,
+   "bos": 200,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 199,
+   "bos": 200,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -617,7 +622,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 199,
+   "bos": 200,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -637,14 +642,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 199,
+   "bos": 200,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 142,
+  "elenen": 145,
   "tekrar": 4
  }
 }
