@@ -471,7 +471,9 @@
    "35350974",
    "35350907",
    "35350960",
-   "35350906"
+   "35350906",
+   "35350903",
+   "35350920"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1061,7 +1063,8 @@
    "arrenda-se-apartamento-t1-mobilado-avenidas-novas-IDJmzDs",
    "t3-1-para-arrendar-IDJxSv2",
    "passo-apartamento-para-arrendar-IDJBaUb",
-   "arrendamento-de-apartamento-t2-no-campo-real-turfifal-torres-vedras-IDJBbpu"
+   "arrendamento-de-apartamento-t2-no-campo-real-turfifal-torres-vedras-IDJBbpu",
+   "arrenda-se-t2-em-massama-a-5-minutos-da-estacao-IDJwzMC"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2176,7 +2179,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2218,7 +2221,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 15,
+  "elenen": 16,
   "tekrar": 2
  },
  "imzalar": [
@@ -2424,7 +2427,9 @@
   "d47d67d52eccb34f",
   "bfbf132100007a96",
   "75f26e872747c09f",
-  "169bfe8da96d9e29"
+  "169bfe8da96d9e29",
+  "080037a8fdaa7816",
+  "d740b7702da77706"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
@@ -2459,7 +2464,9 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.450 €\nApartamento T1 no Beco do Forno do Castelo, Mouraria - Castelo, Santa Maria Maior · 1.450€/mês · T1 43 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350974/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T1 no Beco do Forno do Castelo, Mouraria - Castelo, Santa Maria Maior · 1.800€/mês · T1 50 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350907/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.250 €\nApartamento T1 na Rua de Santa Cruz do Castelo, Mouraria - Castelo, Santa Maria Maior · 1.250€/mês · T1 35 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350960/",
-  "…ve <b>Idealista</b> sitesinde 1 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc"
+  "…ve <b>Idealista</b> sitesinde 1 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.600 €\nApartamento T0 na Rua Sebastião Saraiva Lima, Centro, Penha de França · 1.600€/mês · T0 25 m² área bruta sem elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE AL…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350903/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.700 €\nApartamento T2 na Rua Doutor João de Barros, Arneiros, Benfica · 1.700€/mês · T2 62 m² área bruta com elevador 1 hora · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENT…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350920/"
  ],
  "son_gonderim": "2026-09-22"
 }
