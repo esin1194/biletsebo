@@ -1640,7 +1640,8 @@
    "apartments/279427",
    "apartments/272544",
    "apartments/594579",
-   "apartments/1087136"
+   "apartments/1087136",
+   "apartments/524680"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2020,7 +2021,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
