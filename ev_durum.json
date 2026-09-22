@@ -771,7 +771,9 @@
    "apartamento-t2-para-arrendamento-ID1iUzv",
    "apartamento-t1-para-arrendamento-ID1iUzp",
    "t2-com-varanda-e-garagem-no-lumiar-lisboa-ID1iUAu",
-   "apartamento-t1-novo-com-terraco-na-rua-do-olival-santos-o-velho-arr-ID1iUBe"
+   "apartamento-t1-novo-com-terraco-na-rua-do-olival-santos-o-velho-arr-ID1iUBe",
+   "apartamento-com-1-quartos-localizado-em-arroios-lisbon-ID1iUDg",
+   "apartamento-com-1-quartos-localizado-em-lapa-lisbon-ID1iUDa"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1692,7 +1694,11 @@
    "apartments/282623",
    "apartments/1190919",
    "apartments/1660334",
-   "apartments/1485066"
+   "apartments/1485066",
+   "apartments/962581",
+   "apartments/1485086",
+   "apartments/427176",
+   "apartments/997450"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2124,7 +2130,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 50,
+  "elenen": 52,
   "tekrar": 4
  },
  "imzalar": [
