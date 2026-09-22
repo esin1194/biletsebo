@@ -777,7 +777,9 @@
    "apartamento-com-1-quartos-localizado-em-arroios-lisbon-ID1iUDg",
    "apartamento-com-1-quartos-localizado-em-lapa-lisbon-ID1iUDa",
    "apartamento-t1-para-arrendamento-ID1iUDG",
-   "confortavel-apartamento-t1-1-graca-lisboa-ID1iUDA"
+   "confortavel-apartamento-t1-1-graca-lisboa-ID1iUDA",
+   "apartamento-t1-para-arrendamento-ID1iUFL",
+   "sesimbra-apartamento-t1-arrendar-ID1iUFc"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1007,7 +1009,8 @@
    "apartamento-t3-lumiar-garagem-IDJB6O2",
    "apartamento-t2-no-centro-de-lisboa-totalmente-equipado-IDJwxmC",
    "t1-lisboa-mobilado-e-equipado-IDJjwLR",
-   "sesimbra-apartamento-t1-arrendar-IDJB8Lh"
+   "sesimbra-apartamento-t1-arrendar-IDJB8Lh",
+   "santa-iria-da-azoia-t2-boas-reas-e-muita-luz-IDJsEZ1"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1703,7 +1706,9 @@
    "apartments/962581",
    "apartments/1485086",
    "apartments/427176",
-   "apartments/997450"
+   "apartments/997450",
+   "apartments/1002471",
+   "apartments/1632759"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1945,7 +1950,8 @@
    "54173",
    "893500",
    "893499",
-   "867124"
+   "867124",
+   "391155"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2094,7 +2100,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2136,7 +2142,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 54,
+  "elenen": 59,
   "tekrar": 4
  },
  "imzalar": [
@@ -2308,7 +2314,8 @@
   "56576fd3fc9500c1",
   "c369dd9888253a44",
   "6cf72f01e27ea4cd",
-  "831265204d45cc1f"
+  "831265204d45cc1f",
+  "1bf46c59ec6c10e1"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrendamento T1, Prior Velho - Despesas incluídas · 1.250 € · Sacavém E Prior Velho - Hoje às 17:32\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-prior-velho-despesas-includas-IDJAZuX.html",
@@ -2364,7 +2371,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nDuplex na Rua do Terreirinho, 51, Mouraria - Castelo, Santa Maria Maior · 1.800€/mês · 1.900 € 5% · T2 70 m² área bruta 1º andar sem elevador 22 minutos · AVAILABLE from 01.11. 2026 Apartamento disponível totalmente mobilado e equipado. coffee machine. pronto a entrar. duplex 2 q…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/30178260/",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T1 para arrendamento · Rua de Xabregas, Xabregas, Beato, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · Andar · 4 andar · Grupo RE/MAX Latina · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iUDG",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.150 €\nApartamento T0 na Rua da Rosa, 121, Bairro Alto, Misericórdia · 1.150€/mês · T0 40 m² área bruta 2º andar sem elevador 9 minutos · Estúdio Duplex Mobilado no Vibrante Bairro Alto - Arrendamento de Média Duração Bem-vindo a este acolhedor estúdio duplex totalmente mobilado, locali…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34691411/",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nSesimbra Apartamento T1 arrendar · 800 € · Alcântara - Hoje às 14:44\nhttps://www.olx.pt/d/anuncio/sesimbra-apartamento-t1-arrendar-IDJB8Lh.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nSesimbra Apartamento T1 arrendar · 800 € · Alcântara - Hoje às 14:44\nhttps://www.olx.pt/d/anuncio/sesimbra-apartamento-t1-arrendar-IDJB8Lh.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 22 SEP · 1-bedroom apartment for rent in Lisbon · 2000 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1002471"
  ],
  "son_gonderim": "2026-09-21"
 }
