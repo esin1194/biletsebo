@@ -435,7 +435,8 @@
    "35348571",
    "35348570",
    "35348569",
-   "34908079"
+   "34908079",
+   "34743271"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -759,7 +760,8 @@
    "studio-em-campo-de-ourique-lisboa-ID1iU53",
    "apartamento-t3-lumiar-garagem-ID1iUy0",
    "apartamento-de-charme-com-exlente-localizao-ID1iUxq",
-   "apartamento-totalmente-renovado-ID1iUxo"
+   "apartamento-totalmente-renovado-ID1iUxo",
+   "aluga-se-apartamento-t2-em-alfama-ID1iUz0"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2061,7 +2063,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2103,7 +2105,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 39,
+  "elenen": 40,
   "tekrar": 4
  },
  "imzalar": [
@@ -2261,7 +2263,8 @@
   "771b9ea7796c74de",
   "d0acc6d5e2288e7e",
   "f445c4596089457b",
-  "3b1afe68fc9351c5"
+  "3b1afe68fc9351c5",
+  "ac1aaa95947216fe"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrendamento T1, Prior Velho - Despesas incluídas · 1.250 € · Sacavém E Prior Velho - Hoje às 17:32\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-prior-velho-despesas-includas-IDJAZuX.html",
@@ -2303,7 +2306,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.450 €\nApartamento T2 na Travessa dos Fiéis de Deus, Bairro Alto, Misericórdia · 1.450€/mês · T2 50 m² área bruta sem elevador 15 minutos · Bem-vindo a este encantador apartamento de 2 quartos disponível para alugar em Lisboa. O apartamento está totalmente mobilado e dispõe de uma cozin…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35348570/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.150 €\nApartamento T0 na Rua Filipe Folque, São Sebastião da Pedreira, Avenidas Novas · 1.150€/mês · T0 18 m² área bruta sem elevador 15 minutos · Estúdio para alugar em residência de cinco andares na Rua Filipe Folque. O edifício dispõe de 13 quartos e 8 estúdios, que partilham áreas c…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35348569/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.150 €\nApartamento T0 na Rua Dona Filipa de Vilhena, Campo Pequeno, Avenidas Novas · 1.150€/mês · 1.280 € 10% · T0 23 m² área bruta com elevador 15 minutos · Descubra este estúdio acolhedor localizado em Lisboa. O estúdio está totalmente mobilado e dispõe de ar condicionado individual, …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34908079/",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\n1700 € · Apartamento T3 Lumiar - Garagem · Carriche - Hospital das Forças Armadas, Lumiar, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 125 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-lumiar-garagem-ID1iUy0"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\n1700 € · Apartamento T3 Lumiar - Garagem · Carriche - Hospital das Forças Armadas, Lumiar, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 125 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-lumiar-garagem-ID1iUy0",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.950 €\nApartamento T3 na Rua Particular à Travessa de Santa Quitéria, Largo do Rato - Estrela, Campo de Ourique · 1.950€/mês · T3 75 m² área bruta 2º andar sem elevador 24 minutos · **DISPONÍVEL A PARTIR DE 1 de FEVEREIRO DE 2027** T3 duplex mobilado, renovado e totalmente equipado, no …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34743271/"
  ],
  "son_gonderim": "2026-09-21"
 }
