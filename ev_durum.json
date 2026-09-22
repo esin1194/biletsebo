@@ -785,7 +785,8 @@
    "t2-benfica-totalmente-renovado-ID1iUH3",
    "apartamento-t4-remodelado-e-com-varandas-frente-ao-spacio-shopping-dos-ID1iUHw",
    "apartamento-t1-para-arrendamento-ID1iUKq",
-   "t1-mobilado-para-arrendar-na-graca-lisboa-predio-reconstruido-ID1iUJN"
+   "t1-mobilado-para-arrendar-na-graca-lisboa-predio-reconstruido-ID1iUJN",
+   "apartamento-t1-mobilado-e-renovado-no-beato-lisboa-ID1iULF"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1970,7 +1971,9 @@
    "882618",
    "882604",
    "583292",
-   "738114"
+   "738114",
+   "883316",
+   "883317"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2162,7 +2165,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 5,
   "tekrar": 0
  },
  "imzalar": [
@@ -2339,11 +2342,13 @@
   "e25a9b87966730cd",
   "25bce14e1c4353a6",
   "8ef7c0477d8a717e",
-  "566577c79fcfa62f"
+  "566577c79fcfa62f",
+  "415d4574ac36394d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 900 €\nUp to 1 person · Beautiful studio near Barreiro-A train station · From 22 Sep 2026 · €900 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/882618"
+  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 900 €\nUp to 1 person · Beautiful studio near Barreiro-A train station · From 22 Sep 2026 · €900 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/882618",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T1 Mobilado e Renovado no Beato, Lisboa · Calçada da Picheleira, Picheleira, Beato, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 35 m² · Andar · 2 andar · CENTURY 21 Colombo · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-e-renovado-no-beato-lisboa-ID1iULF"
  ],
  "son_gonderim": "2026-09-22"
 }
