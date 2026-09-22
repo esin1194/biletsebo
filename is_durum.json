@@ -205,7 +205,10 @@
    "contabilista-certificado-junior-banca-m-f-x_lisboa_PTS-2026-184212",
    "operador-de-caixa-mfx_lourinha_OTS-2026-184171",
    "operador-de-reposicao-mfx_lourinha_OTS-2026-184172",
-   "assistente-comercial-mfx-parttime-remoto_remoto_OTS-2026-184413"
+   "assistente-comercial-mfx-parttime-remoto_remoto_OTS-2026-184413",
+   "talent-development_lisboa_PTS-2026-184434",
+   "accountant-mfx_lisboa_PTS-2026-176170",
+   "operations-process-excellence-specialist_lisboa_PTS-2026-175447"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -607,22 +610,23 @@
   "16695d5d2ab5999a",
   "cd6199c34ab30333",
   "0603df0a723c0935",
-  "486cdc14cb1f937b"
+  "486cdc14cb1f937b",
+  "1116217610f40492"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 47,
+   "bos": 48,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 207,
+   "bos": 208,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 207,
+   "bos": 208,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -632,7 +636,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 207,
+   "bos": 208,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -652,14 +656,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 207,
+   "bos": 208,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 152,
+  "elenen": 154,
   "tekrar": 5
  }
 }
