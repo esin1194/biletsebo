@@ -196,7 +196,15 @@
    "accounts-payable_oeiras_PTS-2025-166668",
    "enfermeiro-mfx_agualvacacem_PTS-2025-162032",
    "enfermeiro-mfx_remoto_PTS-2024-157648",
-   "medico-de-medicina-geral-ou-medicina-interna-remoto-mfx_remoto_PTS-2024-153137"
+   "medico-de-medicina-geral-ou-medicina-interna-remoto-mfx_remoto_PTS-2024-153137",
+   "administrativo-de-backoffice-espanhol-marvilla-mfx_lisboa_OTS-2026-184401",
+   "test-automation-engineer_lisboa_ETS-2026-180568",
+   "operador-de-armazem_telheiras_OTS-2026-182894",
+   "assistente-de-loja-vodafone-mfx_amoreiras_OTS-2026-184233",
+   "assistente-de-loja-vodafone-mfx_ccvasco-da-gama_OTS-2026-184225",
+   "contabilista-certificado-junior-banca-m-f-x_lisboa_PTS-2026-184212",
+   "operador-de-caixa-mfx_lourinha_OTS-2026-184171",
+   "operador-de-reposicao-mfx_lourinha_OTS-2026-184172"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -602,17 +610,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 40,
+   "bos": 41,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 200,
+   "bos": 201,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 200,
+   "bos": 201,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -622,7 +630,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 200,
+   "bos": 201,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -642,14 +650,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 200,
+   "bos": 201,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 145,
-  "tekrar": 4
+  "elenen": 152,
+  "tekrar": 5
  }
 }
