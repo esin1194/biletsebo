@@ -444,7 +444,20 @@
    "35348781",
    "35349040",
    "30178260",
-   "34691411"
+   "34691411",
+   "35350731",
+   "35350742",
+   "35350760",
+   "35350752",
+   "35350759",
+   "35350668",
+   "35350751",
+   "35350750",
+   "35350740",
+   "35350739",
+   "35350708",
+   "35350713",
+   "35350656"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -789,7 +802,8 @@
    "apartamento-t1-mobilado-e-renovado-no-beato-lisboa-ID1iULF",
    "charmoso-t1-1-no-coracao-da-cidade-rua-latino-coelho-ID1iUNm",
    "apartamento-t2-para-arrendamento-ID1iUMQ",
-   "apartamento-t1-para-arrendamento-ID1iUMy"
+   "apartamento-t1-para-arrendamento-ID1iUMy",
+   "apartamento-t1-para-arrendamento-ID1iUPg"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1029,7 +1043,8 @@
    "apartamento-t3-rinchoa-IDJBabk",
    "apartamento-t3-nas-quinta-das-palmeiras-IDJBay1",
    "apartamento-t2-olivais-sul-com-boas-vistas-central-IDJwz2k",
-   "arrenda-se-apartamento-t1-mobilado-avenidas-novas-IDJmzDs"
+   "arrenda-se-apartamento-t1-mobilado-avenidas-novas-IDJmzDs",
+   "t3-1-para-arrendar-IDJxSv2"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1735,7 +1750,10 @@
    "apartments/998173",
    "apartments/388651",
    "apartments/1680440",
-   "apartments/1518669"
+   "apartments/1518669",
+   "apartments/525104",
+   "apartments/442971",
+   "apartments/442974"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2133,13 +2151,14 @@
    "1767286829640998775",
    "22626238",
    "52889405",
-   "1175863719874713493"
+   "1175863719874713493",
+   "1705838961687374469"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2181,8 +2200,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
-  "tekrar": 0
+  "elenen": 14,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -2364,7 +2383,16 @@
   "a64659f5e0f97834",
   "736310ad92f09901",
   "4c9f609ec85b1558",
-  "f862b8281a35baae"
+  "f862b8281a35baae",
+  "88ad8322ae983f59",
+  "7375bc4eaba2b23b",
+  "5968a5aac2a085c6",
+  "dff85482dec13a74",
+  "f9341669c4c6d79f",
+  "8079fe74bc6ae859",
+  "74da26b5288163f6",
+  "00e449d97c54e2de",
+  "150cc328cadb501e"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
@@ -2374,7 +2402,17 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nAluga-se apartamento · 1.600 € · Avenidas Novas - Hoje às 18:21\nhttps://www.olx.pt/d/anuncio/aluga-se-apartamento-IDJwz46.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T3 nas Quinta das Palmeiras · 1.500 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 18:16\nhttps://www.olx.pt/d/anuncio/apartamento-t3-nas-quinta-das-palmeiras-IDJBay1.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nArrenda-se apartamento T1 mobilado Avenidas Novas · 1.450 € · Negociável · Avenidas Novas - Hoje às 18:46\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-mobilado-avenidas-novas-IDJmzDs.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nAPARTMENT · FROM 07 OCT · star · 4 (96) · 1-bedroom apartment for rent in Alfama, Lisbon · From 1575 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/388651"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nAPARTMENT · FROM 07 OCT · star · 4 (96) · 1-bedroom apartment for rent in Alfama, Lisbon · From 1575 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/388651",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.150 €\nApartamento T0 na Rua do Castelo Picão, Alfama, Santa Maria Maior · 1.150€/mês · T0 24 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE AL…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350731/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.550 €\nApartamento T0 na Rua dos Remédios, Alfama, Santa Maria Maior · 1.550€/mês · T0 50 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350742/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T1 na Travessa do Giestal, Alto de Alcântara, Alcântara · 1.500€/mês · T1 44 m² área bruta com elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350760/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T2 no Beco dos Aciprestes, Bica, Misericórdia · 1.500€/mês · T2 55 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350752/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.900 €\nApartamento T2 na Travessa das Mónicas, Graça, São Vicente · 1.900€/mês · T2 64 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENT…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350759/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T1 na Rua Heróis de Quionga, Centro, Penha de França · 1.500€/mês · T1 44 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350668/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.870 €\nApartamento T1 na Travessa do Olival à Graça, Santa Engrácia, São Vicente · 1.870€/mês · T1 60 m² área bruta com elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕ…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350751/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T1 na Travessa do Meio, São Vicente de Fora, São Vicente · 1.500€/mês · T1 45 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35350750/",
+  "…ve <b>Idealista</b> sitesinde 5 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1 para arrendamento · Escadinhas Oliveira, Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 46.57 m² · Andar · 3 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iUPg"
  ],
  "son_gonderim": "2026-09-22"
 }
