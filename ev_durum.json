@@ -1064,7 +1064,8 @@
    "t3-1-para-arrendar-IDJxSv2",
    "passo-apartamento-para-arrendar-IDJBaUb",
    "arrendamento-de-apartamento-t2-no-campo-real-turfifal-torres-vedras-IDJBbpu",
-   "arrenda-se-t2-em-massama-a-5-minutos-da-estacao-IDJwzMC"
+   "arrenda-se-t2-em-massama-a-5-minutos-da-estacao-IDJwzMC",
+   "t2-agualva-cacem-IDJBcNE"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2179,7 +2180,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2221,7 +2222,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 16,
+  "elenen": 17,
   "tekrar": 2
  },
  "imzalar": [
