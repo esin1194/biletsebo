@@ -189,7 +189,10 @@
    "operador-de-armazem-mxf-rececao-e-rotulagem_olivais_OTS-2026-183460",
    "operador-de-armazem-mxf-temperaturas-controladas_olivais_OTS-2026-183462",
    "operador-de-armazem-11h20h_olivais_OTS-2026-183469",
-   "operador-de-armazem-mxf-picking-reciclagem_olivais_OTS-2026-183456"
+   "operador-de-armazem-mxf-picking-reciclagem_olivais_OTS-2026-183456",
+   "assistente-comercial-mfx-fulltime-alegro-alfragide_alfragide_OTS-2026-184381",
+   "assistente-comercial-mfx-full-time-strada_strada-odivelas_OTS-2026-184382",
+   "empregado-de-bar-mfx_torres-vedras-arena-shopping_OTS-2026-183878"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -594,17 +597,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 37,
+   "bos": 38,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 197,
+   "bos": 198,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 197,
+   "bos": 198,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -614,7 +617,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 197,
+   "bos": 198,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -634,14 +637,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 197,
+   "bos": 198,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 139,
+  "elenen": 142,
   "tekrar": 4
  }
 }
