@@ -1719,7 +1719,9 @@
    "apartments/1002471",
    "apartments/1632759",
    "apartments/446536",
-   "apartments/446532"
+   "apartments/446532",
+   "apartments/1706783",
+   "apartments/1534927"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -1964,7 +1966,11 @@
    "867124",
    "391155",
    "893587",
-   "893585"
+   "893585",
+   "882618",
+   "882604",
+   "583292",
+   "738114"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2114,7 +2120,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2156,7 +2162,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -2331,8 +2337,13 @@
   "831265204d45cc1f",
   "1bf46c59ec6c10e1",
   "e25a9b87966730cd",
-  "25bce14e1c4353a6"
+  "25bce14e1c4353a6",
+  "8ef7c0477d8a717e",
+  "566577c79fcfa62f"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
+  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 900 €\nUp to 1 person · Beautiful studio near Barreiro-A train station · From 22 Sep 2026 · €900 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/882618"
+ ],
  "son_gonderim": "2026-09-22"
 }
