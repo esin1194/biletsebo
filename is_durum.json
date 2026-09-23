@@ -239,7 +239,8 @@
    "engenheiroa-civil-diretora-de-obra_lisboa_OTS-2025-184526",
    "assistente-de-apoio-ao-cliente-mfx-banca_lisboa-hibrido_OTS-2026-184537",
    "boutique-sales-associate-mfx_lisboa_OTS-2026-184538",
-   "assistente-de-loja-vodafone-mfx_setubal_OTS-2026-184544"
+   "assistente-de-loja-vodafone-mfx_setubal_OTS-2026-184544",
+   "operador-de-picking-e-retractil_azambuja_OTS-2026-172787"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -607,7 +608,8 @@
    "tines-deal-desk-analyst",
    "wrike-account-manager-l4",
    "neo-group-crm-automation-manager",
-   "vxi-global-solutions-us-remote-technical-support-advisor"
+   "vxi-global-solutions-us-remote-technical-support-advisor",
+   "porkbun-live-technical-support-representative-full-time-45-000-55-000-year-benefits-sat-sun-required"
   ],
   "remotive.com": []
  },
@@ -663,17 +665,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 102,
+   "bos": 103,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 262,
+   "bos": 263,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 262,
+   "bos": 263,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -683,7 +685,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 262,
+   "bos": 263,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -703,14 +705,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 262,
+   "bos": 263,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 179,
+  "elenen": 181,
   "tekrar": 9
  }
 }
