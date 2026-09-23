@@ -236,7 +236,9 @@
    "service-contract-management-specialist-germanyfrance_lisboa_PTS-2026-180608",
    "operador-de-producao_azambuja_OTS-2025-156932",
    "administrativo-de-backoffice-tecnico-atmt-marvila_lisboa_OTS-2026-184138",
-   "engenheiroa-civil-diretora-de-obra_lisboa_OTS-2025-184526"
+   "engenheiroa-civil-diretora-de-obra_lisboa_OTS-2025-184526",
+   "assistente-de-apoio-ao-cliente-mfx-banca_lisboa-hibrido_OTS-2026-184537",
+   "boutique-sales-associate-mfx_lisboa_OTS-2026-184538"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -649,22 +651,23 @@
   "c9ec3953645963bb",
   "ac9855326a5b6344",
   "0dbf5c300c11b797",
-  "6bb9303e3668f722"
+  "6bb9303e3668f722",
+  "ff0293714cd0bb26"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 97,
+   "bos": 98,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 257,
+   "bos": 258,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 257,
+   "bos": 258,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -674,7 +677,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 257,
+   "bos": 258,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -694,7 +697,7 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 257,
+   "bos": 258,
    "uyarildi": true
   }
  },
@@ -702,6 +705,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 177,
-  "tekrar": 8
+  "tekrar": 9
  }
 }
