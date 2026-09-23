@@ -227,7 +227,11 @@
    "tecnico-de-manutencao-eletrica-mfx_castanheira-do-ribatejo_OTS-2026-184421",
    "medico-mfx_lisboa-com-disponibilidade-para-as-deslocacoes-inerentes-a-funcao_PTS-2026-184492",
    "lead-security-engineer_lisbon-hybrid_DTS-2026-184496",
-   "apoio-ao-cliente-banca-digital-mfx_lisboa_OTS-2026-184491"
+   "apoio-ao-cliente-banca-digital-mfx_lisboa_OTS-2026-184491",
+   "gestor-de-cafetaria-mfx_malveira_OTS-2026-184506",
+   "gestor-de-cafetaria-mfx_belas_OTS-2026-184505",
+   "operador-de-caixa-mfx_alcabideche_OTS-2026-177500",
+   "operador-de-logistica-mfx_cascais_OTS-2026-176839"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -637,22 +641,23 @@
   "ace314bfe60b88d4",
   "f51b2767b3db14ae",
   "c9ec3953645963bb",
-  "ac9855326a5b6344"
+  "ac9855326a5b6344",
+  "0dbf5c300c11b797"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 90,
+   "bos": 91,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 250,
+   "bos": 251,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 250,
+   "bos": 251,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -662,7 +667,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 250,
+   "bos": 251,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -682,14 +687,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 250,
+   "bos": 251,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 170,
+  "elenen": 173,
   "tekrar": 7
  }
 }
