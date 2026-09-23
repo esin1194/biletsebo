@@ -849,7 +849,8 @@
    "estudio-localizado-em-alfama-lisbon-ID1iUYW",
    "aluguer-de-casa-t1-lisboa-lapa-ID1iW0G",
    "t1-reformado-para-arrendamento-na-bica-lisboa-ID1iW1D",
-   "t2-para-arrendamento-em-campo-de-ourique-ID1iW2n"
+   "t2-para-arrendamento-em-campo-de-ourique-ID1iW2n",
+   "apartamento-t2-para-arrendamento-ID1iW3a"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1108,7 +1109,9 @@
    "2-estdios-privados-aluguer-acesso-24-7-IDJBilV",
    "dois-estdios-privados-para-aluguer-acesso-24-7-IDJBinK",
    "t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM",
-   "apartamento-t3-luminoso-com-ac-IDJBj7l"
+   "apartamento-t3-luminoso-com-ac-IDJBj7l",
+   "apartamento-t2-em-casal-de-cambra-IDJBjhZ",
+   "apartamento-t3-estoril-rua-bento-carqueja-IDJBjgi"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1835,7 +1838,8 @@
    "apartments/1710226",
    "apartments/1709972",
    "apartments/1647107",
-   "apartments/1491920"
+   "apartments/1491920",
+   "apartments/1320685"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2262,8 +2266,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2304,7 +2308,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 57,
+  "elenen": 59,
   "tekrar": 3
  },
  "imzalar": [
@@ -2543,7 +2547,9 @@
   "cccfbb325174732c",
   "9880f08e226cc7c9",
   "37a3701647acd73e",
-  "1cff635ba3adeaa6"
+  "1cff635ba3adeaa6",
+  "44d40ea6f9a629bf",
+  "23fb36c1950bd9ec"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
@@ -2611,7 +2617,9 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · T1 reformado para arrendamento na Bica - Lisboa · Baixa, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 35 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-reformado-para-arrendamento-na-bica-lisboa-ID1iW1D",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\n2 Estúdios Privados Aluguer - ACESSO 24/7 · 750 € · Negociável · Cascais E Estoril - Hoje às 14:02\nhttps://www.olx.pt/d/anuncio/2-estdios-privados-aluguer-acesso-24-7-IDJBilV.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nDois Estúdios Privados para Aluguer - Acesso 24/7 · 1.200 € · Negociável · Cascais E Estoril - Hoje às 13:12\nhttps://www.olx.pt/d/anuncio/dois-estdios-privados-para-aluguer-acesso-24-7-IDJBinK.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nT1 reformado para arrendamento na Bica - Lisboa · 1.300 € · Misericórdia - Hoje às 14:09\nhttps://www.olx.pt/d/anuncio/t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nT1 reformado para arrendamento na Bica - Lisboa · 1.300 € · Misericórdia - Hoje às 14:09\nhttps://www.olx.pt/d/anuncio/t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nApartamento T3 Estoril - Rua Bento Carqueja · 1.750 € · Cascais E Estoril - Hoje às 15:01\nhttps://www.olx.pt/d/anuncio/apartamento-t3-estoril-rua-bento-carqueja-IDJBjgi.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 12 NOV · star · 4 (74) · 2-bedroom apartment for rent in Lisbon · From 2000 €/month · info · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1320685"
  ],
  "son_gonderim": "2026-09-22"
 }
