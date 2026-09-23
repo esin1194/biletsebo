@@ -211,7 +211,7 @@
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?l=Annecy&d=20&t=0": {
@@ -256,7 +256,7 @@
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   }
  },
