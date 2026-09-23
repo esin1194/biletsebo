@@ -233,7 +233,8 @@
    "operador-de-caixa-mfx_alcabideche_OTS-2026-177500",
    "operador-de-logistica-mfx_cascais_OTS-2026-176839",
    "assistente-comercial-pt-25h-de-2a-a-6afeira_remoto_OTS-2026-184509",
-   "service-contract-management-specialist-germanyfrance_lisboa_PTS-2026-180608"
+   "service-contract-management-specialist-germanyfrance_lisboa_PTS-2026-180608",
+   "operador-de-producao_azambuja_OTS-2025-156932"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -650,17 +651,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 94,
+   "bos": 95,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 254,
+   "bos": 255,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 254,
+   "bos": 255,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -670,7 +671,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 254,
+   "bos": 255,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -690,14 +691,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 254,
+   "bos": 255,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 174,
+  "elenen": 175,
   "tekrar": 7
  }
 }
