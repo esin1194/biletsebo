@@ -844,7 +844,8 @@
    "apartamento-t2-remodelado-ajuda-lisboa-ID1iUWZ",
    "t1-remodelado-para-arrendar-em-alcntara-ID1iUXP",
    "apartamento-renovado-t1-na-penha-de-franca-lisboa-ID1iUX3",
-   "apartamento-t2-alto-da-ajuda-lisboa-oportunidade-unica-ID1iUX0"
+   "apartamento-t2-alto-da-ajuda-lisboa-oportunidade-unica-ID1iUX0",
+   "apartamento-com-1-quartos-localizado-em-benfica-lisbon-ID1iUYN"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2238,7 +2239,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2280,7 +2281,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 45,
+  "elenen": 46,
   "tekrar": 3
  },
  "imzalar": [
