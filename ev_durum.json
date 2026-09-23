@@ -848,7 +848,8 @@
    "apartamento-com-1-quartos-localizado-em-benfica-lisbon-ID1iUYN",
    "estudio-localizado-em-alfama-lisbon-ID1iUYW",
    "aluguer-de-casa-t1-lisboa-lapa-ID1iW0G",
-   "t1-reformado-para-arrendamento-na-bica-lisboa-ID1iW1D"
+   "t1-reformado-para-arrendamento-na-bica-lisboa-ID1iW1D",
+   "t2-para-arrendamento-em-campo-de-ourique-ID1iW2n"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1106,7 +1107,8 @@
    "t2-para-arrendamento-torre-de-cima-e-capelas-vila-franca-de-xira-IDJxStb",
    "2-estdios-privados-aluguer-acesso-24-7-IDJBilV",
    "dois-estdios-privados-para-aluguer-acesso-24-7-IDJBinK",
-   "t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM"
+   "t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM",
+   "apartamento-t3-luminoso-com-ac-IDJBj7l"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2107,7 +2109,9 @@
    "881558",
    "885149",
    "285994",
-   "885251"
+   "885251",
+   "889791",
+   "53147"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2258,7 +2262,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2300,7 +2304,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 54,
+  "elenen": 57,
   "tekrar": 3
  },
  "imzalar": [
