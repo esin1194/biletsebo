@@ -174,7 +174,16 @@
    "83690025",
    "83694475",
    "83701630",
-   "83701627"
+   "83701627",
+   "82629110",
+   "82616150",
+   "82629107",
+   "82629108",
+   "53306203",
+   "82629095",
+   "74764767",
+   "82629115",
+   "82629089"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -247,7 +256,15 @@
   "8cbea17fe06e1637",
   "c22ebc9d8abbe6bb",
   "11c602a30469f2bb",
-  "4bb89bb5ee9eef85"
+  "4bb89bb5ee9eef85",
+  "1a6f12f1e8ff736c",
+  "a7b3d49a12631657",
+  "859e0e10f0268846",
+  "23066e58be7f43ef",
+  "ca10acfae0084d70",
+  "b1433d29d9f63232",
+  "704630fc20488e9c",
+  "108cd84fd8e07843"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -305,6 +322,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 0,
-  "tekrar": 4
+  "tekrar": 5
  }
 }
