@@ -1098,7 +1098,8 @@
    "pequeno-apartamento-mobilado-a-5-min-da-praia-pao-de-arcos-IDJBhvU",
    "lisboa-arroios-t1-para-arrendamento-temporrio-IDJtp1P",
    "t1-mobilado-no-campo-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDIRU3x",
-   "apartamento-mobilado-e-equipado-com-eletrodomsticos-nos-moinhos-da-funcheira-amadora-IDJBhU3"
+   "apartamento-mobilado-e-equipado-com-eletrodomsticos-nos-moinhos-da-funcheira-amadora-IDJBhU3",
+   "estdio-privado-com-booth-aluguer-acesso-24-7-IDJBinK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2091,7 +2092,8 @@
    "787300",
    "829531",
    "893682",
-   "138572"
+   "138572",
+   "893715"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2242,7 +2244,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2284,7 +2286,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 47,
+  "elenen": 48,
   "tekrar": 3
  },
  "imzalar": [
@@ -2516,7 +2518,8 @@
   "97cbb622cba993e5",
   "92e8a4c5886ea6c3",
   "cf2baec547b7b45d",
-  "ea7ce68ce53eb287"
+  "ea7ce68ce53eb287",
+  "c1da7dbcaa10c4c2"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
@@ -2577,7 +2580,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 580 €\nT1 Mobilado no Campo p/ 1 Pessoa Sózinha a 15 minutos de Lisboa · 580 € · Bucelas - Para o topo hoje às 11:38\nhttps://www.olx.pt/d/anuncio/t1-mobilado-no-campo-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDIRU3x.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 730 €\nApartamento mobilado e equipado com eletrodomésticos nos Moinhos da Funcheira-Amadora · 730 € · Mina De Água - Hoje às 12:08\nhttps://www.olx.pt/d/anuncio/apartamento-mobilado-e-equipado-com-eletrodomsticos-nos-moinhos-da-funcheira-amadora-IDJBhU3.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.200 €\nCHECKED · APARTMENT · FROM 26 SEP · 1-bedroom apt for rent in Lisbon. · 1200 €/month · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1647107",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 625 €\nUp to 1 person • 5 bedrooms · Pleasant single ensuite room in Chelas · From 01 Oct 2026 · €625 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/138572"
+  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 625 €\nUp to 1 person • 5 bedrooms · Pleasant single ensuite room in Chelas · From 01 Oct 2026 · €625 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/138572",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nEstúdio Privado com Booth - Aluguer - Acesso 24/7 · 1.200 € · Negociável · Cascais E Estoril - Hoje às 13:10\nhttps://www.olx.pt/d/anuncio/estdio-privado-com-booth-aluguer-acesso-24-7-IDJBinK.html"
  ],
  "son_gonderim": "2026-09-22"
 }
