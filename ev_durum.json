@@ -830,7 +830,8 @@
    "apartamento-t2-em-sao-domingos-de-benfica-ID16qeQ",
    "apartamento-t4-para-arrendamento-ID1iUTT",
    "apartamento-t2-para-arrendamento-ID1iUTR",
-   "benfica-aos-jardins-de-benfica-ID1iUUw"
+   "benfica-aos-jardins-de-benfica-ID1iUUw",
+   "apartamento-t3-para-arrendamento-ID1iUWp"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2063,7 +2064,10 @@
    "92627",
    "29630",
    "163522",
-   "455794"
+   "455794",
+   "625747",
+   "625748",
+   "625749"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2214,7 +2218,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2256,7 +2260,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 35,
+  "elenen": 39,
   "tekrar": 2
  },
  "imzalar": [
