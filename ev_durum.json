@@ -861,7 +861,8 @@
    "apartamento-t2-para-arrendamento-ID1iW4H",
    "t2-totalmente-remodelado-com-garagem-e-elevador-5-min-da-estacao-de-ID1iW65",
    "t1-mobilado-com-varanda-estacionamento-e-arrecadacao-no-condominio-du-ID1iW5E",
-   "apartamento-t2-para-arrendamento-ID1iW7Q"
+   "apartamento-t2-para-arrendamento-ID1iW7Q",
+   "apartamento-t1-em-frente-a-cidade-universitaria-lisboa-ID1iWab"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2133,7 +2134,13 @@
    "53147",
    "49505",
    "420564",
-   "885117"
+   "885117",
+   "890391",
+   "893752",
+   "893750",
+   "890840",
+   "890839",
+   "890832"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2284,7 +2291,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2326,7 +2333,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 1,
+  "elenen": 8,
   "tekrar": 0
  },
  "imzalar": [
