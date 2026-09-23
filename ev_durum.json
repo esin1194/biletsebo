@@ -1105,7 +1105,8 @@
    "aluguer-de-casa-t1-lisboa-lapa-IDJBixu",
    "t2-para-arrendamento-torre-de-cima-e-capelas-vila-franca-de-xira-IDJxStb",
    "2-estdios-privados-aluguer-acesso-24-7-IDJBilV",
-   "dois-estdios-privados-para-aluguer-acesso-24-7-IDJBinK"
+   "dois-estdios-privados-para-aluguer-acesso-24-7-IDJBinK",
+   "t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2102,7 +2103,11 @@
    "138572",
    "893715",
    "386002",
-   "404292"
+   "404292",
+   "881558",
+   "885149",
+   "285994",
+   "885251"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2253,7 +2258,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2295,7 +2300,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 51,
+  "elenen": 54,
   "tekrar": 3
  },
  "imzalar": [
@@ -2533,7 +2538,8 @@
   "4f80119ad9ad347c",
   "cccfbb325174732c",
   "9880f08e226cc7c9",
-  "37a3701647acd73e"
+  "37a3701647acd73e",
+  "1cff635ba3adeaa6"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
@@ -2600,7 +2606,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nAluguer de casa T1 Lisboa (Lapa) · 1.350 € · Estrela - Hoje às 13:35\nhttps://www.olx.pt/d/anuncio/aluguer-de-casa-t1-lisboa-lapa-IDJBixu.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · T1 reformado para arrendamento na Bica - Lisboa · Baixa, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 35 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-reformado-para-arrendamento-na-bica-lisboa-ID1iW1D",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\n2 Estúdios Privados Aluguer - ACESSO 24/7 · 750 € · Negociável · Cascais E Estoril - Hoje às 14:02\nhttps://www.olx.pt/d/anuncio/2-estdios-privados-aluguer-acesso-24-7-IDJBilV.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nDois Estúdios Privados para Aluguer - Acesso 24/7 · 1.200 € · Negociável · Cascais E Estoril - Hoje às 13:12\nhttps://www.olx.pt/d/anuncio/dois-estdios-privados-para-aluguer-acesso-24-7-IDJBinK.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nDois Estúdios Privados para Aluguer - Acesso 24/7 · 1.200 € · Negociável · Cascais E Estoril - Hoje às 13:12\nhttps://www.olx.pt/d/anuncio/dois-estdios-privados-para-aluguer-acesso-24-7-IDJBinK.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nT1 reformado para arrendamento na Bica - Lisboa · 1.300 € · Misericórdia - Hoje às 14:09\nhttps://www.olx.pt/d/anuncio/t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM.html"
  ],
  "son_gonderim": "2026-09-22"
 }
