@@ -1160,7 +1160,8 @@
    "suites-apartamentos-t2-apartamento-duplex-IDJBldx",
    "t3-na-damaia-localizado-a-5-min-da-estao-da-cp-santa-cruz-damaia-ou-10-min-da-estao-de-metro-IDJBldp",
    "estudio-na-ericeira-IDJBlmk",
-   "apartamento-t2-c-terrao-e-box-IDJBluy"
+   "apartamento-t2-c-terrao-e-box-IDJBluy",
+   "t2-alugar-penha-de-frana-rua-estcio-da-veiga-IDJAWMs"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2329,8 +2330,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2371,7 +2372,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 14,
+  "elenen": 15,
   "tekrar": 0
  },
  "imzalar": [
