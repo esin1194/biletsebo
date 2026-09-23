@@ -1126,7 +1126,8 @@
    "apartamento-t3-estoril-rua-bento-carqueja-IDJBjgi",
    "arrendamento-de-apartamento-IDJxdSf",
    "aluga-se-t2-nas-olaias-duplex-IDJmwgB",
-   "t1-mobilado-e-equipado-junto-a-muitos-trasnportes-IDJp3V8"
+   "t1-mobilado-e-equipado-junto-a-muitos-trasnportes-IDJp3V8",
+   "t3-mobilado-e-equipado-na-damaia-com-muitos-transportes-IDJ1Z8L"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1855,7 +1856,8 @@
    "apartments/1647107",
    "apartments/1491920",
    "apartments/1320685",
-   "apartments/1647112"
+   "apartments/1647112",
+   "apartments/597715"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2291,7 +2293,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2333,7 +2335,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 9,
   "tekrar": 0
  },
  "imzalar": [
@@ -2582,11 +2584,13 @@
   "166e060c799e99e3",
   "8c16eac2cff67ad3",
   "87ae782aeeb8f03b",
-  "1d78cc8b448ea157"
+  "1d78cc8b448ea157",
+  "46569c3104b62501"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 Mobilado E EQUIPADO Junto a muitos TRASNPORTES · 850 € · Águas Livres - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/t1-mobilado-e-equipado-junto-a-muitos-trasnportes-IDJp3V8.html",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 550 €\nUp to 2 people • 15 bedrooms · Welcoming double bedroom near the ISCTE Business School in Saldanha · From 01 Oct 2026 · €550 /month · Bills included\n<i>⚠️ T5 ama m² bilgisi yok.</i>\nhttps://www.uniplaces.com/accommodation/lisbon/885117"
+  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 550 €\nUp to 2 people • 15 bedrooms · Welcoming double bedroom near the ISCTE Business School in Saldanha · From 01 Oct 2026 · €550 /month · Bills included\n<i>⚠️ T5 ama m² bilgisi yok.</i>\nhttps://www.uniplaces.com/accommodation/lisbon/885117",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nAPARTMENT · FROM 13 NOV · star · 3.8 (205) · 2-bedroom apartment for rent in Arroios, Lisbon · From 1575 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/597715"
  ],
  "son_gonderim": "2026-09-23"
 }
