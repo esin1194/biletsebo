@@ -890,7 +890,8 @@
    "apartamento-t2-para-arrendamento-ID1iW7Q",
    "apartamento-t1-em-frente-a-cidade-universitaria-lisboa-ID1iWab",
    "2-assoalhadas-na-zona-sul-do-parque-das-nacoes-ID1iWbF",
-   "suites-apartamentos-t2-apartamento-duplex-ID1iWcX"
+   "suites-apartamentos-t2-apartamento-duplex-ID1iWcX",
+   "arrenda-se-duplex-renovado-a-2-minutos-a-pe-do-largo-de-santos-ID1iWdu"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2328,7 +2329,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2370,7 +2371,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 14,
   "tekrar": 0
  },
  "imzalar": [
