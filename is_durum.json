@@ -251,7 +251,9 @@
    "servente-mfx_vialonga_OTS-2026-179808",
    "pedreiro-mfx_vialonga_OTS-2026-179807",
    "operador-de-armazem-04h13h_vialonga_OTS-2026-178965",
-   "operador-de-contact-center-customer-centric-mfx-recrutamento-inclusivo_castanheira-do-ribatejo_PTS-2026-183541"
+   "operador-de-contact-center-customer-centric-mfx-recrutamento-inclusivo_castanheira-do-ribatejo_PTS-2026-183541",
+   "sales-engineer-mfx_lisboa_PTS-2026-183506",
+   "business-unit-manager-mfx_lisboa_PTS-2026-183563"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -671,22 +673,23 @@
   "6bb9303e3668f722",
   "ff0293714cd0bb26",
   "ce95d685f1968c2b",
-  "01b1272d234fda61"
+  "01b1272d234fda61",
+  "8b815fb4cfff0a21"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 112,
+   "bos": 113,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 272,
+   "bos": 273,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 272,
+   "bos": 273,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -696,7 +699,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 272,
+   "bos": 273,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -716,14 +719,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 272,
+   "bos": 273,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 191,
+  "elenen": 192,
   "tekrar": 10
  }
 }
