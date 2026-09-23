@@ -238,7 +238,8 @@
    "administrativo-de-backoffice-tecnico-atmt-marvila_lisboa_OTS-2026-184138",
    "engenheiroa-civil-diretora-de-obra_lisboa_OTS-2025-184526",
    "assistente-de-apoio-ao-cliente-mfx-banca_lisboa-hibrido_OTS-2026-184537",
-   "boutique-sales-associate-mfx_lisboa_OTS-2026-184538"
+   "boutique-sales-associate-mfx_lisboa_OTS-2026-184538",
+   "assistente-de-loja-vodafone-mfx_setubal_OTS-2026-184544"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -367,7 +368,8 @@
    "agMpm5YjoF9DX1tzdFQs7a",
    "aKmCv1e4Yc4BE2GyuLdMpt",
    "tLgPoCoXE5Y5bdm1FkUHqh",
-   "jiHvLHxSkdsGNfddftoqWk"
+   "jiHvLHxSkdsGNfddftoqWk",
+   "2McmvYeRNkzYPe1fZnm412"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -652,22 +654,23 @@
   "ac9855326a5b6344",
   "0dbf5c300c11b797",
   "6bb9303e3668f722",
-  "ff0293714cd0bb26"
+  "ff0293714cd0bb26",
+  "ce95d685f1968c2b"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 98,
+   "bos": 99,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 258,
+   "bos": 259,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 258,
+   "bos": 259,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -677,7 +680,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 258,
+   "bos": 259,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -697,14 +700,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 258,
+   "bos": 259,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 177,
+  "elenen": 178,
   "tekrar": 9
  }
 }
