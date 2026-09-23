@@ -219,7 +219,12 @@
    "senior-linux-system-administrator_tires-cascais_DTS-2026-184471",
    "store-manager_lisboa_OTS-2026-183405",
    "logistics-scheduler-mfx_mafra_OTS-2026-182879",
-   "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-179546"
+   "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-179546",
+   "sap-fico-consultant_porto-lisboa-braga-hibrido_DTS-2026-184489",
+   "engenheiro-civil-junior_lagoa_OTS-2026-183535",
+   "tecnico-de-mecatronica-mfx_sintra_OTS-2026-183136",
+   "eletricista-certificado-dgeg-mfx_cascais_OTS-2026-184422",
+   "tecnico-de-manutencao-eletrica-mfx_castanheira-do-ribatejo_OTS-2026-184421"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -634,17 +639,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 87,
+   "bos": 88,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 247,
+   "bos": 248,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 247,
+   "bos": 248,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -654,7 +659,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 247,
+   "bos": 248,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -674,14 +679,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 247,
+   "bos": 248,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 163,
+  "elenen": 168,
   "tekrar": 6
  }
 }
