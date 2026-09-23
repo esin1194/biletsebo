@@ -1121,7 +1121,8 @@
    "t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM",
    "apartamento-t3-luminoso-com-ac-IDJBj7l",
    "apartamento-t2-em-casal-de-cambra-IDJBjhZ",
-   "apartamento-t3-estoril-rua-bento-carqueja-IDJBjgi"
+   "apartamento-t3-estoril-rua-bento-carqueja-IDJBjgi",
+   "arrendamento-de-apartamento-IDJxdSf"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2277,7 +2278,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2319,7 +2320,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 63,
+  "elenen": 64,
   "tekrar": 5
  },
  "imzalar": [
