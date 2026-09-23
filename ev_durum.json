@@ -823,7 +823,8 @@
    "apartamento-t1-para-arrendamento-ID1iUPg",
    "apartamento-t2-totalmente-remodelado-para-arrendar-estrada-de-ben-ID1iUQt",
    "apartamento-t1-com-terraco-em-estefania-ID1i5Ss",
-   "apartamento-t1-em-lapa-ID1i3Ts"
+   "apartamento-t1-em-lapa-ID1i3Ts",
+   "lisboa-olivais-apartamento-de-3-assoalhadas-ID1iUTe"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2051,7 +2052,9 @@
    "890349",
    "889786",
    "893643",
-   "893635"
+   "893635",
+   "92627",
+   "29630"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2202,7 +2205,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2244,7 +2247,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 25,
+  "elenen": 28,
   "tekrar": 2
  },
  "imzalar": [
