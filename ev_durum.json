@@ -485,7 +485,11 @@
    "35351761",
    "35351750",
    "35351736",
-   "35348911"
+   "35348911",
+   "35352571",
+   "35352580",
+   "35352537",
+   "35352562"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -2266,8 +2270,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2309,7 +2313,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 59,
-  "tekrar": 3
+  "tekrar": 5
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -2549,7 +2553,9 @@
   "37a3701647acd73e",
   "1cff635ba3adeaa6",
   "44d40ea6f9a629bf",
-  "23fb36c1950bd9ec"
+  "23fb36c1950bd9ec",
+  "fa32ce7075fd16f9",
+  "7d307fea108ce235"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 750 €\nAmenities:chairwifiModern apartment with balcony and access to a shared pool in central Lisbon. Featuring a queen-size bedroom, bright living area, and fully equipped kitchen, it’s ideal for guests seeking comfort and a stylish long-stay experience. Located in a contemporary buil…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1534927",
@@ -2619,7 +2625,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nDois Estúdios Privados para Aluguer - Acesso 24/7 · 1.200 € · Negociável · Cascais E Estoril - Hoje às 13:12\nhttps://www.olx.pt/d/anuncio/dois-estdios-privados-para-aluguer-acesso-24-7-IDJBinK.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nT1 reformado para arrendamento na Bica - Lisboa · 1.300 € · Misericórdia - Hoje às 14:09\nhttps://www.olx.pt/d/anuncio/t1-reformado-para-arrendamento-na-bica-lisboa-IDJBiOM.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nApartamento T3 Estoril - Rua Bento Carqueja · 1.750 € · Cascais E Estoril - Hoje às 15:01\nhttps://www.olx.pt/d/anuncio/apartamento-t3-estoril-rua-bento-carqueja-IDJBjgi.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 12 NOV · star · 4 (74) · 2-bedroom apartment for rent in Lisbon · From 2000 €/month · info · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1320685"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 12 NOV · star · 4 (74) · 2-bedroom apartment for rent in Lisbon · From 2000 €/month · info · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1320685",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.570 €\nApartamento T1 na Rua Doutor Álvaro de Castro, 32, Entrecampos, Avenidas Novas · 1.570€/mês · T1 52 m² área bruta Rés do chão sem elevador 46 minutos · This modern and comfortable one-bedroom apartment is located in the heart of Lisbon, offering a welcoming and bright atmosphere,…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35352571/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.570 €\nApartamento T0 na Rua Doutor Álvaro de Castro, 32, Entrecampos, Avenidas Novas · 1.570€/mês · T0 36 m² área bruta 1º andar sem elevador 47 minutos · Enjoy a comfortable stay in this modern and welcoming studio apartment, ideally located in the heart of Lisbon. Bright, practical a…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35352562/"
  ],
  "son_gonderim": "2026-09-22"
 }
