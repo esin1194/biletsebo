@@ -1170,7 +1170,8 @@
    "apartamento-t2-graa-IDJBm8P",
    "t1-72m-guas-livres-amadora-junto-ao-comboio-elevador-garagem-box-IDJBm6s",
    "apartamento-alugar-IDJBmlK",
-   "arrendo-apartamento-t2-IDJBmnL"
+   "arrendo-apartamento-t2-IDJBmnL",
+   "arrendo-t2-venda-do-pinheiro-IDJroZw"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2359,8 +2360,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2683,7 +2684,8 @@
   "8221b7400f70e9a5",
   "c73ec590def46990",
   "9aaa369d10a0d748",
-  "fd9fdc0abb8687d5"
+  "fd9fdc0abb8687d5",
+  "337f8148643f7d41"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 Mobilado E EQUIPADO Junto a muitos TRASNPORTES · 850 € · Águas Livres - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/t1-mobilado-e-equipado-junto-a-muitos-trasnportes-IDJp3V8.html",
@@ -2722,7 +2724,8 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nCHECKED · APARTMENT · FROM 24 SEP · star · 5 (16) · 2-bedroom apartment for rent in Lisbon · From 1750 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1658021",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nT1 72m² | Águas Livres, Amadora | Junto ao Comboio | Elevador | Garagem Box · 950 € · Águas Livres - Hoje às 08:10\nhttps://www.olx.pt/d/anuncio/t1-72m-guas-livres-amadora-junto-ao-comboio-elevador-garagem-box-IDJBm6s.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.950 €\nAPARTMENT · FROM 24 SEP · 3-bedroom apartment for rent in Lisbon · 1950 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1022523",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nApartamento alugar · 900 € · Mina De Água - Hoje às 08:50\nhttps://www.olx.pt/d/anuncio/apartamento-alugar-IDJBmlK.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nApartamento alugar · 900 € · Mina De Água - Hoje às 08:50\nhttps://www.olx.pt/d/anuncio/apartamento-alugar-IDJBmlK.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.280 €\nArrendo t2 venda do pinheiro · 1.280 € · Venda Do Pinheiro E Santo Estêvão Das Galés - Hoje às 09:16\nhttps://www.olx.pt/d/anuncio/arrendo-t2-venda-do-pinheiro-IDJroZw.html"
  ],
  "son_gonderim": "2026-09-23"
 }
