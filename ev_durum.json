@@ -914,7 +914,10 @@
    "apartamento-t1-no-condominio-luma-lumiar-em-lisboa-ID1iWfy",
    "t0-em-alvalade-com-ar-condicionado-e-mobiliario-ID1iWfa",
    "apartamento-t1-para-arrendamento-ID1iWhQ",
-   "apartamento-t2-em-misericordia-de-88-00-m2-ID1iWen"
+   "apartamento-t2-em-misericordia-de-88-00-m2-ID1iWen",
+   "apartamento-t3-para-arrendamento-ID1iWjw",
+   "apartamento-t1-para-arrendamento-ID1iWju",
+   "t2-para-arrendar-na-rua-jose-estevao-lisboa-ID1iWjb"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1192,7 +1195,8 @@
    "arrendo-apartamento-t2-IDJBmnL",
    "arrendo-t2-venda-do-pinheiro-IDJroZw",
    "t1-mobilado-em-lisboa-benfica-com-quintal-e-churrasqueira-IDJwgGP",
-   "apartamento-t1-para-arrendamento-IDJBmUi"
+   "apartamento-t1-para-arrendamento-IDJBmUi",
+   "apartamento-de-luxo-t2-em-vila-franca-de-xira-IDJBmWo"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2385,8 +2389,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2427,7 +2431,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 34,
+  "elenen": 37,
   "tekrar": 3
  },
  "imzalar": [
@@ -2719,7 +2723,8 @@
   "ccdf785084f2ebf6",
   "bbfa517b0a79b8ca",
   "e5302e8d93fe6bcb",
-  "c7cf1a70cfb75feb"
+  "c7cf1a70cfb75feb",
+  "182ecbdef7830ae2"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 Mobilado E EQUIPADO Junto a muitos TRASNPORTES · 850 € · Águas Livres - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/t1-mobilado-e-equipado-junto-a-muitos-trasnportes-IDJp3V8.html",
@@ -2769,7 +2774,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T0 na Escadinhas de São Crispim, Alfama, Santa Maria Maior · 1.200€/mês · T0 50 m² área bruta sem elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35354774/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 2.000 €\nApartamento T1 na Avenida das Nações Unidas, Telheiras, Carnide · 2.000€/mês · T1 60 m² área bruta com elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJ…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35354737/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T1 na Rua dos Correeiros, Baixa, Santa Maria Maior · 1.800€/mês · T1 50 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJA…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35354734/",
-  "…ve <b>Idealista</b> sitesinde 7 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc"
+  "…ve <b>Idealista</b> sitesinde 7 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · T2 para arrendar na Rua José Estevão Lisboa · Rua José Estêvão, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 104 m² · Andar · 3 andar · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-para-arrendar-na-rua-jose-estevao-lisboa-ID1iWjb"
  ],
  "son_gonderim": "2026-09-23"
 }
