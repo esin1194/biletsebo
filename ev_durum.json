@@ -1251,7 +1251,8 @@
    "apartamento-t1-para-alugar-IDJBoVx",
    "apartamento-t3-para-arrendar-na-rua-palmira-bastos-portela-loures-IDJy4k9",
    "apartamento-t2-renovado-IDJBpod",
-   "arrendo-penthouse-t1-com-terrao-em-condomnio-fechado-IDJBpAU"
+   "arrendo-penthouse-t1-com-terrao-em-condomnio-fechado-IDJBpAU",
+   "apartamento-t2-quinta-do-marqus-oeiras-para-arrendamento-IDJy2aU"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2010,7 +2011,8 @@
    "apartments/1711523",
    "apartments/1711231",
    "apartments/1711229",
-   "apartments/1711235"
+   "apartments/1711235",
+   "apartments/1534987"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2462,7 +2464,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 10,
+   "bos": 11,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2504,7 +2506,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 9,
+  "elenen": 11,
   "tekrar": 4
  },
  "imzalar": [
