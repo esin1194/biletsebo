@@ -957,7 +957,8 @@
    "t1-mobilado-no-prata-riverside-village-ID1iWvJ",
    "apartamento-t1-para-arrendamento-ID1iWxR",
    "apartamento-t0-em-alvalade-com-ar-condicionado-ID1iWyX",
-   "apartamento-t2-graca-ID1iWzA"
+   "apartamento-t2-graca-ID1iWzA",
+   "apartamento-t1-com-garagem-e-piscina-em-lisboa-ID1iWzV"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1248,7 +1249,8 @@
    "apartamento-arrenda-se-IDJmAO2",
    "t1-avenidas-novas-IDJBoPo",
    "apartamento-t1-para-alugar-IDJBoVx",
-   "apartamento-t3-para-arrendar-na-rua-palmira-bastos-portela-loures-IDJy4k9"
+   "apartamento-t3-para-arrendar-na-rua-palmira-bastos-portela-loures-IDJy4k9",
+   "apartamento-t2-renovado-IDJBpod"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2457,7 +2459,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2499,7 +2501,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 8,
   "tekrar": 4
  },
  "imzalar": [
