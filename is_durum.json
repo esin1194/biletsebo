@@ -259,7 +259,10 @@
    "operador-de-logistica-mfx_cascais-cascais-shopping_OTS-2026-176839",
    "operador-de-producao_azambuja_OTS-2026-184585",
    "tecnico-de-rh-mfx_lisboa_PTS-2026-184589",
-   "sap-sdmm-consultant_lisboa-porto-ou-braga_DTS-2024-184610"
+   "sap-sdmm-consultant_lisboa-porto-ou-braga_DTS-2024-184610",
+   "r2r-accountant_lisboa_PTS-2026-178251",
+   "operador-de-armazem-mfx_loures_OTS-2026-176863",
+   "directora-de-people_lisboa_PTS-2026-184588"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -695,17 +698,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 144,
+   "bos": 145,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 304,
+   "bos": 305,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 304,
+   "bos": 305,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -715,7 +718,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 304,
+   "bos": 305,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -735,14 +738,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 304,
+   "bos": 305,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 202,
+  "elenen": 205,
   "tekrar": 10
  }
 }
