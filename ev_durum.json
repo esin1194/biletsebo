@@ -933,7 +933,9 @@
    "apartamento-t2-1-para-arrendamento-mobilado-na-encarnacao-ID1iWpd",
    "apartamento-t1-com-estacionamento-para-arrendar-nos-olivais-ID1iWpb",
    "apartamento-t1-para-arrendamento-ID1iWoQ",
-   "apartamento-t1-para-arrendamento-ID1iWoO"
+   "apartamento-t1-para-arrendamento-ID1iWoO",
+   "encantador-t2-de-81-5m-no-coracao-do-principe-real-ID1gD40",
+   "apartamento-t1-telheiras-ID1iWpW"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1216,7 +1218,8 @@
    "t2-em-alfama-com-vista-tejo-IDJBnqA",
    "alugo-t1-centro-de-mafra-IDJBnpa",
    "apartamento-para-alugar-IDJxvMv",
-   "alugo-t0-em-massam-entrada-imediata-IDJxXV8"
+   "alugo-t0-em-massam-entrada-imediata-IDJxXV8",
+   "apartamento-t3-santa-clara-lisboa-IDJy08A"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2416,7 +2419,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2458,7 +2461,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 49,
+  "elenen": 52,
   "tekrar": 3
  },
  "imzalar": [
