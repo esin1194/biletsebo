@@ -913,7 +913,8 @@
    "apartamento-t2-para-arrendamento-ID1iWeQ",
    "apartamento-t1-no-condominio-luma-lumiar-em-lisboa-ID1iWfy",
    "t0-em-alvalade-com-ar-condicionado-e-mobiliario-ID1iWfa",
-   "apartamento-t1-para-arrendamento-ID1iWhQ"
+   "apartamento-t1-para-arrendamento-ID1iWhQ",
+   "apartamento-t2-em-misericordia-de-88-00-m2-ID1iWen"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1190,7 +1191,8 @@
    "apartamento-alugar-IDJBmlK",
    "arrendo-apartamento-t2-IDJBmnL",
    "arrendo-t2-venda-do-pinheiro-IDJroZw",
-   "t1-mobilado-em-lisboa-benfica-com-quintal-e-churrasqueira-IDJwgGP"
+   "t1-mobilado-em-lisboa-benfica-com-quintal-e-churrasqueira-IDJwgGP",
+   "apartamento-t1-para-arrendamento-IDJBmUi"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2383,7 +2385,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2425,7 +2427,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 32,
+  "elenen": 34,
   "tekrar": 3
  },
  "imzalar": [
