@@ -531,7 +531,13 @@
    "35354743",
    "35354655",
    "35354535",
-   "33506806"
+   "33506806",
+   "35354982",
+   "35353917",
+   "35353971",
+   "35353935",
+   "35353916",
+   "35353959"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -917,7 +923,10 @@
    "apartamento-t2-em-misericordia-de-88-00-m2-ID1iWen",
    "apartamento-t3-para-arrendamento-ID1iWjw",
    "apartamento-t1-para-arrendamento-ID1iWju",
-   "t2-para-arrendar-na-rua-jose-estevao-lisboa-ID1iWjb"
+   "t2-para-arrendar-na-rua-jose-estevao-lisboa-ID1iWjb",
+   "apartamento-com-4-quartos-localizado-em-arroios-lisbon-ID1iWl2",
+   "apartamento-com-1-quartos-localizado-em-benfica-lisbon-ID1iWl0",
+   "apartamento-com-1-quartos-localizado-em-intendente-lisbon-ID1iWkY"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1945,7 +1954,9 @@
    "apartments/1633909",
    "apartments/1506115",
    "apartments/421725",
-   "apartments/584298"
+   "apartments/584298",
+   "apartments/1007711",
+   "apartments/1535010"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2235,7 +2246,8 @@
    "878463",
    "878443",
    "878446",
-   "893814"
+   "893814",
+   "882952"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2390,8 +2402,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2432,7 +2444,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 38,
+  "elenen": 42,
   "tekrar": 3
  },
  "imzalar": [
@@ -2725,7 +2737,14 @@
   "bbfa517b0a79b8ca",
   "e5302e8d93fe6bcb",
   "c7cf1a70cfb75feb",
-  "182ecbdef7830ae2"
+  "182ecbdef7830ae2",
+  "2311cce24ce39149",
+  "55b18d82637f52a5",
+  "405925a75118763d",
+  "822ce796d5d6286d",
+  "6881ac6bb0c10e61",
+  "db47cd5dc1383b20",
+  "8ef242faf80ac88f"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 Mobilado E EQUIPADO Junto a muitos TRASNPORTES · 850 € · Águas Livres - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/t1-mobilado-e-equipado-junto-a-muitos-trasnportes-IDJp3V8.html",
@@ -2776,7 +2795,14 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 2.000 €\nApartamento T1 na Avenida das Nações Unidas, Telheiras, Carnide · 2.000€/mês · T1 60 m² área bruta com elevador 10 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJ…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35354737/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T1 na Rua dos Correeiros, Baixa, Santa Maria Maior · 1.800€/mês · T1 50 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJA…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35354734/",
   "…ve <b>Idealista</b> sitesinde 7 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · T2 para arrendar na Rua José Estevão Lisboa · Rua José Estêvão, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 104 m² · Andar · 3 andar · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-para-arrendar-na-rua-jose-estevao-lisboa-ID1iWjb"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · T2 para arrendar na Rua José Estevão Lisboa · Rua José Estêvão, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 104 m² · Andar · 3 andar · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-para-arrendar-na-rua-jose-estevao-lisboa-ID1iWjb",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.700 €\nApartamento T1 na Travessa Alcaide, 19, Santa Catarina, Misericórdia · 1.700€/mês · T1 57 m² área bruta Rés do chão sem elevador 1 hora · Descubra este encantador apartamento de 57 m², totalmente renovado em 2017, ideal para quem procura um lar aconchegante ou uma excelente oport…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35354982/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Rua Conde das Antas, Centro, Campolide · 1.300€/mês · T1 42 m² área bruta sem elevador 16 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: -…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35353917/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T0 na Avenida António Augusto de Aguiar, Bairro Azul - Parque Eduardo VII, Avenidas Novas · 1.400€/mês · T0 25 m² área bruta sem elevador 16 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Ad…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35353971/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.750 €\nApartamento T1 no Largo Conde Ottolini, Estrada de Benfica, São Domingos de Benfica · 1.750€/mês · T1 42 m² área bruta sem elevador 16 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35353935/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.840 €\nApartamento T0 na Travessa do Pé-de-Ferro, Santos-o-Velho - Madragoa, Estrela · 1.840€/mês · T0 35 m² área bruta sem elevador 16 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDI…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35353916/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 950 €\nApartamento T1 no Beco João Alves, Rio Seco - Casalinho, Ajuda · 950€/mês · T1 42 m² área bruta sem elevador 16 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENT…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35353959/",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAmenities:wifiThis charming 3-bedroom apartment, accessible by elevator, offers a spacious and comfortable stay for families, co-workers and groups of friends. Strategically located, next to various services and public transportation, the very elegantly decorated property is equi…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1535010"
  ],
  "son_gonderim": "2026-09-23"
 }
