@@ -1985,7 +1985,8 @@
    "apartments/320059",
    "apartments/1711233",
    "apartments/1711523",
-   "apartments/1711231"
+   "apartments/1711231",
+   "apartments/1711229"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2433,7 +2434,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 13,
+   "bos": 14,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2785,11 +2786,13 @@
   "c07f088e31dedefb",
   "570bb78bcb8e102c",
   "2a008d1265bf3af3",
-  "0e8e842877726fec"
+  "0e8e842877726fec",
+  "b1b17d37da91a9c5"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento - Arrenda-se · 1.000 € · Porto Salvo - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/apartamento-arrenda-se-IDJmAO2.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.570 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1570 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711233"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.570 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1570 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711233",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.115 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1115 €/month · savings · NO DEPOSIT · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711229"
  ],
  "son_gonderim": "2026-09-24"
 }
