@@ -1961,7 +1961,9 @@
    "apartments/421725",
    "apartments/584298",
    "apartments/1007711",
-   "apartments/1535010"
+   "apartments/1535010",
+   "apartments/1321138",
+   "apartments/611371"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2408,7 +2410,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2753,7 +2755,8 @@
   "8ef242faf80ac88f",
   "fb6f11f455ea6c46",
   "da4cf673b3c38579",
-  "70a8ab76eb42a769"
+  "70a8ab76eb42a769",
+  "e7116f3668b34d4e"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 Mobilado E EQUIPADO Junto a muitos TRASNPORTES · 850 € · Águas Livres - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/t1-mobilado-e-equipado-junto-a-muitos-trasnportes-IDJp3V8.html",
@@ -2814,7 +2817,8 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAmenities:wifiThis charming 3-bedroom apartment, accessible by elevator, offers a spacious and comfortable stay for families, co-workers and groups of friends. Strategically located, next to various services and public transportation, the very elegantly decorated property is equi…\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1535010",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nAlugo T1 centro de Mafra · 800 € · Mafra - Hoje às 13:09\nhttps://www.olx.pt/d/anuncio/alugo-t1-centro-de-mafra-IDJBnpa.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nApartamento para alugar · 1.700 € · Arroios - Hoje às 13:34\nhttps://www.olx.pt/d/anuncio/apartamento-para-alugar-IDJxvMv.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · T2 Semi Mobilado na Graça · Beco das Beatas, Graça, São Vicente, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 46 m² · Andar · 2 andar · Zome Time Oriente · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-semi-mobilado-na-graca-ID1iWne"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · T2 Semi Mobilado na Graça · Beco das Beatas, Graça, São Vicente, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 46 m² · Andar · 2 andar · Zome Time Oriente · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-semi-mobilado-na-graca-ID1iWne",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nAPARTMENT · FROM 24 SEP · 2-bedroom apartment for rent in Almada, Lisbon · 1600 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/611371"
  ],
  "son_gonderim": "2026-09-23"
 }
