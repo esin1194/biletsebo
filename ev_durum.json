@@ -896,7 +896,8 @@
    "fantastico-t2-predio-recente-com-garagem-e-elevador-na-ajuda-lisboa-ID1awAi",
    "apartamento-em-misericordia-de-88-00-m2-ID1iWen",
    "apartamento-t2-para-arrendamento-ID1iWeQ",
-   "apartamento-t1-no-condominio-luma-lumiar-em-lisboa-ID1iWfy"
+   "apartamento-t1-no-condominio-luma-lumiar-em-lisboa-ID1iWfy",
+   "t0-em-alvalade-com-ar-condicionado-e-mobiliario-ID1iWfa"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2362,7 +2363,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2404,7 +2405,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 27,
+  "elenen": 28,
   "tekrar": 2
  },
  "imzalar": [
