@@ -253,7 +253,8 @@
    "operador-de-armazem-04h13h_vialonga_OTS-2026-178965",
    "operador-de-contact-center-customer-centric-mfx-recrutamento-inclusivo_castanheira-do-ribatejo_PTS-2026-183541",
    "sales-engineer-mfx_lisboa_PTS-2026-183506",
-   "business-unit-manager-mfx_lisboa_PTS-2026-183563"
+   "business-unit-manager-mfx_lisboa_PTS-2026-183563",
+   "enfermeiro-mfx_avenidas-novas-lisboa_PTS-2026-180018"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -384,7 +385,8 @@
    "tLgPoCoXE5Y5bdm1FkUHqh",
    "jiHvLHxSkdsGNfddftoqWk",
    "2McmvYeRNkzYPe1fZnm412",
-   "oirZ25mC1AQkUiyH96p2HN"
+   "oirZ25mC1AQkUiyH96p2HN",
+   "2W5a6xJcV5T4eZxTFHvnF1"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -679,17 +681,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 132,
+   "bos": 133,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 292,
+   "bos": 293,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 292,
+   "bos": 293,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -699,7 +701,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 292,
+   "bos": 293,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -719,14 +721,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 292,
+   "bos": 293,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 192,
+  "elenen": 194,
   "tekrar": 10
  }
 }
