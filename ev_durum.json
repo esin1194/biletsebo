@@ -537,7 +537,18 @@
    "35353971",
    "35353935",
    "35353916",
-   "35353959"
+   "35353959",
+   "35356564",
+   "35356520",
+   "35356557",
+   "35356542",
+   "35356553",
+   "35356534",
+   "35356540",
+   "35356533",
+   "35356501",
+   "35356488",
+   "35356531"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -943,7 +954,8 @@
    "espacoso-t2-em-alvalade-totalmente-renovado-mobilado-ID1iWu9",
    "t1-avenidas-novas-ID1iWx4",
    "apartamento-renovado-em-benfica-lisboa-2-quartos-por-1200EUR-ID1iWvN",
-   "t1-mobilado-no-prata-riverside-village-ID1iWvJ"
+   "t1-mobilado-no-prata-riverside-village-ID1iWvJ",
+   "apartamento-t1-para-arrendamento-ID1iWxR"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1232,7 +1244,8 @@
    "arrendamento-pronto-a-entrar-IDJBodP",
    "t3-3-remodelado-junto-ao-marqus-de-pombal-varanda-rua-rodrigues-sampaio-IDJy7XC",
    "apartamento-arrenda-se-IDJmAO2",
-   "t1-avenidas-novas-IDJBoPo"
+   "t1-avenidas-novas-IDJBoPo",
+   "apartamento-t1-para-alugar-IDJBoVx"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1990,7 +2003,8 @@
    "apartments/1711233",
    "apartments/1711523",
    "apartments/1711231",
-   "apartments/1711229"
+   "apartments/1711229",
+   "apartments/1711235"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2432,14 +2446,15 @@
    "1759514368414346945",
    "36976285",
    "1472531001221877054",
-   "1076656462137845787"
+   "1076656462137845787",
+   "1760159512559156695"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 16,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2480,8 +2495,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
-  "tekrar": 1
+  "elenen": 4,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -2793,14 +2808,35 @@
   "0e8e842877726fec",
   "b1b17d37da91a9c5",
   "a55de8d36544fa36",
-  "d4ac1735a80e23df"
+  "d4ac1735a80e23df",
+  "14d0dd3be0e54c97",
+  "6fdd72188b1a0ff3",
+  "6dc3e5b08b5d2d33",
+  "40a9570b041c670a",
+  "dd0c5794783db195",
+  "332fa237430fa579",
+  "7dee02022aab019f",
+  "30dcba2ff0e1723c",
+  "d17792eff06e5d0a",
+  "813772ba756b44a0"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento - Arrenda-se · 1.000 € · Porto Salvo - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/apartamento-arrenda-se-IDJmAO2.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.570 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1570 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711233",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.115 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1115 €/month · savings · NO DEPOSIT · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711229",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · T1 mobilado no Prata Riverside Village · Rua D ao Braço de Prata, Braço de Prata, Marvila, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 1 andar · Century 21 Nações IX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-no-prata-riverside-village-ID1iWvJ",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 990 €\nT1 Avenidas Novas · 990 € · Avenidas Novas - Hoje às 18:32\nhttps://www.olx.pt/d/anuncio/t1-avenidas-novas-IDJBoPo.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 990 €\nT1 Avenidas Novas · 990 € · Avenidas Novas - Hoje às 18:32\nhttps://www.olx.pt/d/anuncio/t1-avenidas-novas-IDJBoPo.html",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T0 na Travessa Santana da Cruz, Pena, Arroios · 1.200€/mês · T0 50 m² área bruta sem elevador 11 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356564/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T0 na Travessa dos Brunos, Lapa, Estrela · 1.200€/mês · T0 30 m² área bruta com elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356520/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T0 na Rua Antero de Quental, Anjos, Arroios · 1.000€/mês · T0 25 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356557/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.280 €\nApartamento T1 na Travessa do Rosário de Santa Clara, São Vicente de Fora, São Vicente · 1.280€/mês · T1 15 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TER…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356542/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T1 na Travessa dos Brunos, Lapa, Estrela · 1.200€/mês · T1 34 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356534/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T1 na Avenida da Igreja, Bairro de Alvalade, Alvalade · 1.000€/mês · T1 20 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE AL…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356540/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.050 €\nApartamento T0 na Travessa dos Brunos, Lapa, Estrela · 1.050€/mês · T0 31 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356533/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T1 no Beco do Loureiro, Alfama, Santa Maria Maior · 1.500€/mês · T1 60 m² área bruta sem elevador 12 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356501/",
+  "…ve <b>Idealista</b> sitesinde 2 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nApartamento T1 para alugar · 800 € · Vila Franca de Xira - Hoje às 19:01\nhttps://www.olx.pt/d/anuncio/apartamento-t1-para-alugar-IDJBoVx.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · Preferido dos hóspedes · Apartamento ⋅ Graça · Olha Tejo · 1 quarto · 2 camas · 1 banheiro · $ 2.985 USD · $ 2.170 USD · Mostrar detalhamento de preço · mensal · Desconto para estadias longas · Cancelamento gratuito · 4,92 de uma avaliação média de 5, 496 avaliaçõe…\nhttps://www.airbnb.com/rooms/1760159512559156695"
  ],
  "son_gonderim": "2026-09-24"
 }
