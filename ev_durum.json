@@ -928,7 +928,12 @@
    "apartamento-com-1-quartos-localizado-em-benfica-lisbon-ID1iWl0",
    "apartamento-com-1-quartos-localizado-em-intendente-lisbon-ID1iWkY",
    "t2-em-alfama-com-vista-tejo-ID1iWlX",
-   "t2-semi-mobilado-na-graca-ID1iWne"
+   "t2-semi-mobilado-na-graca-ID1iWne",
+   "apartamento-t1-para-arrendamento-no-prata-riverside-village-ID1iWpe",
+   "apartamento-t2-1-para-arrendamento-mobilado-na-encarnacao-ID1iWpd",
+   "apartamento-t1-com-estacionamento-para-arrendar-nos-olivais-ID1iWpb",
+   "apartamento-t1-para-arrendamento-ID1iWoQ",
+   "apartamento-t1-para-arrendamento-ID1iWoO"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1210,7 +1215,8 @@
    "apartamento-de-luxo-t2-em-vila-franca-de-xira-IDJBmWo",
    "t2-em-alfama-com-vista-tejo-IDJBnqA",
    "alugo-t1-centro-de-mafra-IDJBnpa",
-   "apartamento-para-alugar-IDJxvMv"
+   "apartamento-para-alugar-IDJxvMv",
+   "alugo-t0-em-massam-entrada-imediata-IDJxXV8"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2410,7 +2416,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2452,7 +2458,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 45,
+  "elenen": 49,
   "tekrar": 3
  },
  "imzalar": [
@@ -2756,7 +2762,9 @@
   "fb6f11f455ea6c46",
   "da4cf673b3c38579",
   "70a8ab76eb42a769",
-  "e7116f3668b34d4e"
+  "e7116f3668b34d4e",
+  "29f95f9c37d6cb8e",
+  "205bf3c93fd7b017"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 Mobilado E EQUIPADO Junto a muitos TRASNPORTES · 850 € · Águas Livres - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/t1-mobilado-e-equipado-junto-a-muitos-trasnportes-IDJp3V8.html",
@@ -2818,7 +2826,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nAlugo T1 centro de Mafra · 800 € · Mafra - Hoje às 13:09\nhttps://www.olx.pt/d/anuncio/alugo-t1-centro-de-mafra-IDJBnpa.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nApartamento para alugar · 1.700 € · Arroios - Hoje às 13:34\nhttps://www.olx.pt/d/anuncio/apartamento-para-alugar-IDJxvMv.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · T2 Semi Mobilado na Graça · Beco das Beatas, Graça, São Vicente, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 46 m² · Andar · 2 andar · Zome Time Oriente · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-semi-mobilado-na-graca-ID1iWne",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nAPARTMENT · FROM 24 SEP · 2-bedroom apartment for rent in Almada, Lisbon · 1600 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/611371"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nAPARTMENT · FROM 24 SEP · 2-bedroom apartment for rent in Almada, Lisbon · 1600 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/611371",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · Apartamento T1 com estacionamento para arrendar nos Olivais · Parque Eduardo VII, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 55.4 m² · Andar · 6 andar · Quintela + Penalva | Knight Frank · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-estacionamento-para-arrendar-nos-olivais-ID1iWpb",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 690 €\nAlugo T0 em Massamá entrada imediata · 690 € · Massamá E Monte Abraão - Hoje às 14:45\nhttps://www.olx.pt/d/anuncio/alugo-t0-em-massam-entrada-imediata-IDJxXV8.html"
  ],
  "son_gonderim": "2026-09-23"
 }
