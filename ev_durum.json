@@ -974,7 +974,8 @@
    "apartamento-t0-em-alvalade-com-ar-condicionado-ID1iWyX",
    "apartamento-t2-graca-ID1iWzA",
    "apartamento-t1-com-garagem-e-piscina-em-lisboa-ID1iWzV",
-   "t1-duplex-mobilado-na-ajuda-1-240-EUR-mes-entrada-imediata-ID1iWAE"
+   "t1-duplex-mobilado-na-ajuda-1-240-EUR-mes-entrada-imediata-ID1iWAE",
+   "t2-todo-renovado-com-vista-de-rio-ID1iWAW"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1268,7 +1269,8 @@
    "apartamento-t3-para-arrendar-na-rua-palmira-bastos-portela-loures-IDJy4k9",
    "apartamento-t2-renovado-IDJBpod",
    "arrendo-penthouse-t1-com-terrao-em-condomnio-fechado-IDJBpAU",
-   "apartamento-t2-quinta-do-marqus-oeiras-para-arrendamento-IDJy2aU"
+   "apartamento-t2-quinta-do-marqus-oeiras-para-arrendamento-IDJy2aU",
+   "t2-todo-renovado-com-vista-de-rio-IDJBpXG"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2480,7 +2482,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2522,7 +2524,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 11,
+  "elenen": 12,
   "tekrar": 5
  },
  "imzalar": [
@@ -2857,7 +2859,8 @@
   "81a696a62c2d5354",
   "9a895b3e869fe488",
   "778fdf85ffd79761",
-  "736ca1e152fad07e"
+  "736ca1e152fad07e",
+  "bf7758ceef055c8b"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento - Arrenda-se · 1.000 € · Porto Salvo - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/apartamento-arrenda-se-IDJmAO2.html",
@@ -2888,7 +2891,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.250 €\nApartamento T2 na Rua do Embaixador, Centro de Belém, Belém · 1.250€/mês · T2 94 m² área bruta sem elevador 2 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO:…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356708/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.600 €\nApartamento T2 na Calçada dos Barbadinhos, Santa Engrácia, São Vicente · 1.600€/mês · T2 63 m² área bruta sem elevador 2 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35356738/",
   "…ve <b>Idealista</b> sitesinde 6 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.240 €\nAdicionados hoje · ...\nhttps://www.imovirtual.com/pt/anuncio/t1-duplex-mobilado-na-ajuda-1-240-EUR-mes-entrada-imediata-ID1iWAE"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.240 €\nAdicionados hoje · ...\nhttps://www.imovirtual.com/pt/anuncio/t1-duplex-mobilado-na-ajuda-1-240-EUR-mes-entrada-imediata-ID1iWAE",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T2 todo renovado com vista de rio · Alto de São João - Alto do Varejão, Penha de França, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 77 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-todo-renovado-com-vista-de-rio-ID1iWAW"
  ],
  "son_gonderim": "2026-09-24"
 }
