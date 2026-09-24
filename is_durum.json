@@ -264,7 +264,8 @@
    "operador-de-armazem-mfx_loures_OTS-2026-176863",
    "directora-de-people_lisboa_PTS-2026-184588",
    "farmaceutico-adjunto-mfx-figueiros_figueiros-cadaval_PTS-2026-184618",
-   "operador-fabril-mfx_aboboda_OTS-2026-184628"
+   "operador-fabril-mfx_aboboda_OTS-2026-184628",
+   "operadores-de-producao_sobralinho-alverca-do-ribatejo_OTS-2026-184632"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -702,17 +703,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 149,
+   "bos": 150,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 309,
+   "bos": 310,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 309,
+   "bos": 310,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -722,7 +723,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 309,
+   "bos": 310,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -742,14 +743,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 309,
+   "bos": 310,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 209,
+  "elenen": 210,
   "tekrar": 10
  }
 }
