@@ -955,7 +955,8 @@
    "t1-avenidas-novas-ID1iWx4",
    "apartamento-renovado-em-benfica-lisboa-2-quartos-por-1200EUR-ID1iWvN",
    "t1-mobilado-no-prata-riverside-village-ID1iWvJ",
-   "apartamento-t1-para-arrendamento-ID1iWxR"
+   "apartamento-t1-para-arrendamento-ID1iWxR",
+   "apartamento-t0-em-alvalade-com-ar-condicionado-ID1iWyX"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2447,13 +2448,14 @@
    "36976285",
    "1472531001221877054",
    "1076656462137845787",
-   "1760159512559156695"
+   "1760159512559156695",
+   "1462338813688175435"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2495,8 +2497,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
-  "tekrar": 3
+  "elenen": 5,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
