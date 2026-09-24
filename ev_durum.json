@@ -940,7 +940,10 @@
    "t3-mobilado-em-benfica-ID1iWsL",
    "apartamento-t2-para-arrendamento-ID1iWtE",
    "apartamento-t2-para-arrendamento-ID1iWtx",
-   "espacoso-t2-em-alvalade-totalmente-renovado-mobilado-ID1iWu9"
+   "espacoso-t2-em-alvalade-totalmente-renovado-mobilado-ID1iWu9",
+   "t1-avenidas-novas-ID1iWx4",
+   "apartamento-renovado-em-benfica-lisboa-2-quartos-por-1200EUR-ID1iWvN",
+   "t1-mobilado-no-prata-riverside-village-ID1iWvJ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2434,7 +2437,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2476,7 +2479,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 1,
+  "elenen": 3,
   "tekrar": 1
  },
  "imzalar": [
@@ -2787,12 +2790,14 @@
   "570bb78bcb8e102c",
   "2a008d1265bf3af3",
   "0e8e842877726fec",
-  "b1b17d37da91a9c5"
+  "b1b17d37da91a9c5",
+  "a55de8d36544fa36"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento - Arrenda-se · 1.000 € · Porto Salvo - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/apartamento-arrenda-se-IDJmAO2.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.570 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1570 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711233",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.115 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1115 €/month · savings · NO DEPOSIT · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711229"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.115 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1115 €/month · savings · NO DEPOSIT · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711229",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · T1 mobilado no Prata Riverside Village · Rua D ao Braço de Prata, Braço de Prata, Marvila, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 1 andar · Century 21 Nações IX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-no-prata-riverside-village-ID1iWvJ"
  ],
  "son_gonderim": "2026-09-24"
 }
