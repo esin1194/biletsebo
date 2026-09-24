@@ -1227,7 +1227,8 @@
    "apartamento-t3-santa-clara-lisboa-IDJy08A",
    "apartamento-t1-telheiras-IDJBnW8",
    "arrendamento-pronto-a-entrar-IDJBodP",
-   "t3-3-remodelado-junto-ao-marqus-de-pombal-varanda-rua-rodrigues-sampaio-IDJy7XC"
+   "t3-3-remodelado-junto-ao-marqus-de-pombal-varanda-rua-rodrigues-sampaio-IDJy7XC",
+   "apartamento-arrenda-se-IDJmAO2"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -1981,7 +1982,10 @@
    "apartments/1535010",
    "apartments/1321138",
    "apartments/611371",
-   "apartments/320059"
+   "apartments/320059",
+   "apartments/1711233",
+   "apartments/1711523",
+   "apartments/1711231"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2429,7 +2433,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 12,
+   "bos": 13,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2472,7 +2476,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 1,
-  "tekrar": 0
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -2779,8 +2783,13 @@
   "29f95f9c37d6cb8e",
   "205bf3c93fd7b017",
   "c07f088e31dedefb",
-  "570bb78bcb8e102c"
+  "570bb78bcb8e102c",
+  "2a008d1265bf3af3",
+  "0e8e842877726fec"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento - Arrenda-se · 1.000 € · Porto Salvo - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/apartamento-arrenda-se-IDJmAO2.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.570 €\nAPARTMENT · FROM 03 OCT · star · 4.3 (54) · 1-bedroom apartment for rent in Lisbon · 1570 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1711233"
+ ],
  "son_gonderim": "2026-09-24"
 }
