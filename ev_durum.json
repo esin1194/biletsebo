@@ -893,7 +893,8 @@
    "suites-apartamentos-t2-apartamento-duplex-ID1iWcX",
    "arrenda-se-duplex-renovado-a-2-minutos-a-pe-do-largo-de-santos-ID1iWdu",
    "apartamento-t2-no-lumiar-junto-ao-golf-ID1iWdW",
-   "fantastico-t2-predio-recente-com-garagem-e-elevador-na-ajuda-lisboa-ID1awAi"
+   "fantastico-t2-predio-recente-com-garagem-e-elevador-na-ajuda-lisboa-ID1awAi",
+   "apartamento-em-misericordia-de-88-00-m2-ID1iWen"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2348,7 +2349,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2390,7 +2391,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 22,
+  "elenen": 23,
   "tekrar": 2
  },
  "imzalar": [
