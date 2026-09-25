@@ -1022,7 +1022,8 @@
    "t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iWUB",
    "apartamento-t2-para-arrendamento-ID1iWUj",
    "t1-na-penha-de-franca-ID1iWYp",
-   "t2-com-90-m-garagem-e-arrecadacao-a-1-minuto-do-metro-ID1iWYm"
+   "t2-com-90-m-garagem-e-arrecadacao-a-1-minuto-do-metro-ID1iWYm",
+   "arrenda-se-apartamento-t3-em-alvalade-ID1iWYt"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2560,13 +2561,14 @@
    "1643746398651400486",
    "51032255",
    "1781336317994458092",
-   "718908132532507027"
+   "718908132532507027",
+   "1395476448160148981"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2608,8 +2610,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
-  "tekrar": 2
+  "elenen": 7,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
