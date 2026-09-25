@@ -2555,13 +2555,14 @@
    "1688524747392975802",
    "1643746398651400486",
    "51032255",
-   "1781336317994458092"
+   "1781336317994458092",
+   "718908132532507027"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2604,7 +2605,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 4,
-  "tekrar": 1
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
