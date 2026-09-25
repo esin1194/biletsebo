@@ -1334,7 +1334,8 @@
    "t1-alfama-lisboa-40m-mobilado-equipado-e-no-centro-histrico-IDJ2k8G",
    "t2-para-arrendamento-em-odivelas-l-200-m-do-metro-IDJy4u1",
    "arrendo-t0-laranjeiras-IDJBu69",
-   "t2-com-90-m-garagem-e-arrecadao-a-1-minuto-do-metro-IDJBu2M"
+   "t2-com-90-m-garagem-e-arrecadao-a-1-minuto-do-metro-IDJBu2M",
+   "arrenda-se-apartamento-t3-em-alvalade-IDJBtXC"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2568,7 +2569,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2610,7 +2611,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
+  "elenen": 8,
   "tekrar": 3
  },
  "imzalar": [
