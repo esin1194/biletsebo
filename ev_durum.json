@@ -1325,7 +1325,9 @@
    "arrendo-apartamento-t3-na-ameixoeira-lumiar-IDJBsoF",
    "arrendamento-t2-IDJBtkx",
    "arrenda-apartamento-t2-IDJBtuT",
-   "arrendamento-lisboa-santa-apolnia-IDJBtAa"
+   "arrendamento-lisboa-santa-apolnia-IDJBtAa",
+   "t1-alfama-lisboa-40m-mobilado-equipado-e-no-centro-histrico-IDJ2k8G",
+   "t2-para-arrendamento-em-odivelas-l-200-m-do-metro-IDJy4u1"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2393,7 +2395,8 @@
    "883695",
    "799476",
    "727510",
-   "739614"
+   "739614",
+   "750521"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2556,7 +2559,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2598,7 +2601,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 1,
+  "elenen": 4,
   "tekrar": 1
  },
  "imzalar": [
