@@ -1020,7 +1020,9 @@
    "apartamento-t1-para-arrendamento-ID1iWRP",
    "espaco-conforto-e-uma-localizacao-que-facilita-o-dia-a-dia-ID1iWR3",
    "t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iWUB",
-   "apartamento-t2-para-arrendamento-ID1iWUj"
+   "apartamento-t2-para-arrendamento-ID1iWUj",
+   "t1-na-penha-de-franca-ID1iWYp",
+   "t2-com-90-m-garagem-e-arrecadacao-a-1-minuto-do-metro-ID1iWYm"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1329,7 +1331,9 @@
    "arrenda-apartamento-t2-IDJBtuT",
    "arrendamento-lisboa-santa-apolnia-IDJBtAa",
    "t1-alfama-lisboa-40m-mobilado-equipado-e-no-centro-histrico-IDJ2k8G",
-   "t2-para-arrendamento-em-odivelas-l-200-m-do-metro-IDJy4u1"
+   "t2-para-arrendamento-em-odivelas-l-200-m-do-metro-IDJy4u1",
+   "arrendo-t0-laranjeiras-IDJBu69",
+   "t2-com-90-m-garagem-e-arrecadao-a-1-minuto-do-metro-IDJBu2M"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2562,7 +2566,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2604,7 +2608,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 6,
   "tekrar": 2
  },
  "imzalar": [
@@ -2964,7 +2968,9 @@
   "8e9aa917d7188e0c",
   "4370420f8e1f620a",
   "7750a5e4cee24cf4",
-  "75606797c46519e1"
+  "75606797c46519e1",
+  "4edfc88c1e29b840",
+  "8e11e1ef2504fd1b"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Varanda no Parque das Nações · Praça Gago Coutinho - Parque das Nações, Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · 2 andar · Zome Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iWUB",
@@ -2981,7 +2987,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nArrenda apartamento T2 · 750 € · Águas Livres - Hoje às 19:09\nhttps://www.olx.pt/d/anuncio/arrenda-apartamento-t2-IDJBtuT.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nArrendamento Lisboa Santa Apolónia · 900 € · São Vicente - Hoje às 19:33\nhttps://www.olx.pt/d/anuncio/arrendamento-lisboa-santa-apolnia-IDJBtAa.html",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.600 €\nApartamento T1 na Rua Conde das Antas, Centro, Campolide · 1.600€/mês · T1 43 m² área bruta sem elevador 9 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35357570/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.930 €\nApartamento T3 na Rua Marques da Silva, Alameda - Praça do Chile - Almirante Reis, Arroios · 1.930€/mês · T3 70 m² área bruta sem elevador 9 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35357528/"
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.930 €\nApartamento T3 na Rua Marques da Silva, Alameda - Praça do Chile - Almirante Reis, Arroios · 1.930€/mês · T3 70 m² área bruta sem elevador 9 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35357528/",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · T1 na Penha de França · Rua Henrique Barrilaro Ruas, Alto de São João - Alto do Varejão, Penha de França, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 35 m² · COOLINAS · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-na-penha-de-franca-ID1iWYp",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nArrendo T0 Laranjeiras · 950 € · São Domingos de Benfica - Hoje às 22:35\nhttps://www.olx.pt/d/anuncio/arrendo-t0-laranjeiras-IDJBu69.html"
  ],
  "son_gonderim": "2026-09-25"
 }
