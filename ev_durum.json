@@ -994,7 +994,9 @@
    "arrendo-apartamento-t3-na-ameixoeira-lumiar-ID1iWMc",
    "apartamento-t2-renovado-com-terraco-graca-ID1iWM0",
    "espacoso-t2-com-garagem-e-arrecadacao-ID1iWNj",
-   "apartamento-t1-para-arrendamento-ID1iWOh"
+   "apartamento-t1-para-arrendamento-ID1iWOh",
+   "apartamento-t2-com-98-m-garagem-e-varandas-lumiar-lisboa-ID1iWPI",
+   "apartamento-t2-para-arrendamento-rua-portugal-durao-lisboa-ID1iWPm"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2528,7 +2530,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 28,
+   "bos": 29,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2548,7 +2550,7 @@
   },
   "https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.uniplaces.com/accommodation/lisbon": {
@@ -2570,7 +2572,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 43,
+  "elenen": 45,
   "tekrar": 8
  },
  "imzalar": [
