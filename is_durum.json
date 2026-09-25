@@ -295,7 +295,12 @@
    "encarregado-de-obra-mfx_lisboa_OTS-2026-184688",
    "operador-de-armazem-parttime-mfx-manha-06h4511h45_lisboa-povoa-de-santa-iria_OTS-2026-181350",
    "operador-de-embalagem_carregado_OTS-2026-172560",
-   "operador-logisticaempilhador_carregado_OTS-2026-172554"
+   "operador-logisticaempilhador_carregado_OTS-2026-172554",
+   "pintor-para-instalacoes-industriais_carregado_OTS-2026-177256",
+   "analista-de-laboratorio_carregado_OTS-2026-172563",
+   "embalador_carregado_OTS-2026-172557",
+   "servente-expedicoes_carregado-e-azambuja_OTS-2026-172556",
+   "operador-processo_carregado_OTS-2025-172542"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -770,17 +775,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 356,
+   "bos": 357,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 356,
+   "bos": 357,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -790,7 +795,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 356,
+   "bos": 357,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -810,14 +815,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 356,
+   "bos": 357,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 247,
+  "elenen": 252,
   "tekrar": 12
  }
 }
