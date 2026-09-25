@@ -998,7 +998,9 @@
    "apartamento-t2-com-98-m-garagem-e-varandas-lumiar-lisboa-ID1iWPI",
    "apartamento-t2-para-arrendamento-rua-portugal-durao-lisboa-ID1iWPm",
    "apartamento-t1-para-arrendamento-ID1iWRP",
-   "espaco-conforto-e-uma-localizacao-que-facilita-o-dia-a-dia-ID1iWR3"
+   "espaco-conforto-e-uma-localizacao-que-facilita-o-dia-a-dia-ID1iWR3",
+   "t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iWUB",
+   "apartamento-t2-para-arrendamento-ID1iWUj"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2533,7 +2535,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 33,
+   "bos": 34,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2921,8 +2923,13 @@
   "b6a9c12888982487",
   "44af04780779958b",
   "237ed8fb376b9f8d",
-  "eb0b1d903df0a2ac"
+  "eb0b1d903df0a2ac",
+  "6200e9821bc1bdb2",
+  "1d8d5cf3a16f8b99"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Varanda no Parque das Nações · Praça Gago Coutinho - Parque das Nações, Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · 2 andar · Zome Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iWUB",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T2 para arrendamento · 1700-003, São João de Brito, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · Andar · rés do chão · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iWUj"
+ ],
  "son_gonderim": "2026-09-25"
 }
