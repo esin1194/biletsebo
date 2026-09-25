@@ -404,7 +404,10 @@
    "9kKKfr5rw7RQossmPDb37j",
    "32CirLi78cDBbizQYHfYZQ",
    "jd9UnuXQrrqh1aF4dj8sm4",
-   "uEk7ZE5ssVQig2VFic6geB"
+   "uEk7ZE5ssVQig2VFic6geB",
+   "2u2GGDiqL3W3MXjYGNJvrP",
+   "fLSwFQwevrUyazQEhn6tEQ",
+   "qsbeeoQrprEGBBRRqoffzs"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -643,7 +646,8 @@
    "wrike-account-manager-l4",
    "neo-group-crm-automation-manager",
    "vxi-global-solutions-us-remote-technical-support-advisor",
-   "porkbun-live-technical-support-representative-full-time-45-000-55-000-year-benefits-sat-sun-required"
+   "porkbun-live-technical-support-representative-full-time-45-000-55-000-year-benefits-sat-sun-required",
+   "iterable-email-deliverability-consultant"
   ],
   "remotive.com": []
  },
@@ -698,22 +702,23 @@
   "8b815fb4cfff0a21",
   "20c0462c16aa858f",
   "8dfc29efdfdf57bd",
-  "da2b31f9e46a9043"
+  "da2b31f9e46a9043",
+  "f29639523afc56b1"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 177,
+   "bos": 178,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 337,
+   "bos": 338,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 337,
+   "bos": 338,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -723,7 +728,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 337,
+   "bos": 338,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -743,14 +748,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 337,
+   "bos": 338,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 210,
+  "elenen": 213,
   "tekrar": 10
  }
 }
