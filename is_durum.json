@@ -300,7 +300,10 @@
    "analista-de-laboratorio_carregado_OTS-2026-172563",
    "embalador_carregado_OTS-2026-172557",
    "servente-expedicoes_carregado-e-azambuja_OTS-2026-172556",
-   "operador-processo_carregado_OTS-2025-172542"
+   "operador-processo_carregado_OTS-2025-172542",
+   "customer-support-advisor-german-speaker-mfx_remote-portugal_OTS-2026-184704",
+   "operador-de-armazem-mfx_azambuja_OTS-2026-184706",
+   "operador-de-recepcao-de-mercadorias_azambuja_OTS-2026-184707"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -770,22 +773,23 @@
   "bb39c5e04b2b3b8a",
   "fc01255b0671cd43",
   "6d1c7a0e537e1206",
-  "36745c0871b01a0c"
+  "36745c0871b01a0c",
+  "d48c3b214eb4c023"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 357,
+   "bos": 358,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 357,
+   "bos": 358,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -795,7 +799,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 357,
+   "bos": 358,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -815,14 +819,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 357,
+   "bos": 358,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 252,
+  "elenen": 254,
   "tekrar": 12
  }
 }
