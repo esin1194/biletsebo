@@ -984,7 +984,9 @@
    "apartamento-t2-para-arrendamento-ID1iWFw",
    "apartamento-t2-para-arrendamento-ID1iWFo",
    "apartamento-com-2-quartos-localizado-em-bairro-alto-lisbon-ID1iWGP",
-   "apartamento-com-1-quartos-localizado-em-alcntara-lisbon-ID1iWGv"
+   "apartamento-com-1-quartos-localizado-em-alcntara-lisbon-ID1iWGv",
+   "apartamento-t2-para-arrendamento-ID1iWHY",
+   "t2-mobilado-em-telheiras-luminosidade-e-conforto-ID1iWHz"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2347,7 +2349,11 @@
    "159069",
    "159068",
    "720509",
-   "876218"
+   "876218",
+   "64822",
+   "883695",
+   "799476",
+   "727510"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2508,7 +2514,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 19,
+   "bos": 20,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2550,7 +2556,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 30,
+  "elenen": 34,
   "tekrar": 7
  },
  "imzalar": [
@@ -2891,7 +2897,8 @@
   "7652e61c498e1db9",
   "58b3a2d625bc7317",
   "3326e4fb3a7b27dd",
-  "d6febf307bc68b8a"
+  "d6febf307bc68b8a",
+  "898d1949aaef7772"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento - Arrenda-se · 1.000 € · Porto Salvo - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/apartamento-arrenda-se-IDJmAO2.html",
@@ -2928,7 +2935,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nT1 no último piso com terraço privado de 18 m², garagem e acesso a piscina e jardim — Laranjeiras · 1.700 € · São Domingos de Benfica - 24 de setembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-no-ltimo-piso-com-terrao-privado-de-18-m-garagem-e-acesso-a-piscina-e-jardim-laranjeiras-IDJBpAU.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nArrenda-se 2 quartos para casal em massama/ tercena , pelo preço de 600 euros , agua, luz,gas,internet tudo incluido na renda. · 600 € · Agualva E Mira-Sintra - Hoje às 10:52\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.olx.pt/d/anuncio/arrenda-se-2-quartos-para-casal-em-massama-tercena-pelo-preo-de-600-euros-agua-luz-gas-internet-tudo-incluido-na-renda-IDJBqAX.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\n1700 € · Apartamento T1 mobilado em Campolide · Rua Professor Sousa da Câmara, Bairro de Campolide, Campolide, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · Engel &amp; Völkers Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-em-campolide-ID1iWGb",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nT1 para arrendar Grandola · 600 € · Lisboa - Hoje às 12:09\nhttps://www.olx.pt/d/anuncio/t1-para-arrendar-grandola-IDJBqXn.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nT1 para arrendar Grandola · 600 € · Lisboa - Hoje às 12:09\nhttps://www.olx.pt/d/anuncio/t1-para-arrendar-grandola-IDJBqXn.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · T2 MOBILADO EM TELHEIRAS | LUMINOSIDADE E CONFORTO · Rua Professor Prado Coelho, Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 68 m² · Andar · 4 andar · Century21 House Market · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-mobilado-em-telheiras-luminosidade-e-conforto-ID1iWHz"
  ],
  "son_gonderim": "2026-09-24"
 }
