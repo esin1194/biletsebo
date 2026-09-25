@@ -265,7 +265,9 @@
    "directora-de-people_lisboa_PTS-2026-184588",
    "farmaceutico-adjunto-mfx-figueiros_figueiros-cadaval_PTS-2026-184618",
    "operador-fabril-mfx_aboboda_OTS-2026-184628",
-   "operadores-de-producao_sobralinho-alverca-do-ribatejo_OTS-2026-184632"
+   "operadores-de-producao_sobralinho-alverca-do-ribatejo_OTS-2026-184632",
+   "preparador-de-cozinha-mfx_lisboa_OTS-2026-184641",
+   "administrativoa-para-area-de-rh-mfx_sintra-linho_OTS-2026-184640"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -407,7 +409,9 @@
    "uEk7ZE5ssVQig2VFic6geB",
    "2u2GGDiqL3W3MXjYGNJvrP",
    "fLSwFQwevrUyazQEhn6tEQ",
-   "qsbeeoQrprEGBBRRqoffzs"
+   "qsbeeoQrprEGBBRRqoffzs",
+   "6GQgGw35MTF2FTEtMXZihV",
+   "oMJwYn5Wjmd9Brck46FmRJ"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -703,22 +707,23 @@
   "20c0462c16aa858f",
   "8dfc29efdfdf57bd",
   "da2b31f9e46a9043",
-  "f29639523afc56b1"
+  "f29639523afc56b1",
+  "e8fe2dae4071eba5"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 181,
+   "bos": 182,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 341,
+   "bos": 342,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 341,
+   "bos": 342,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -728,7 +733,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 341,
+   "bos": 342,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -748,14 +753,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 341,
+   "bos": 342,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 213,
+  "elenen": 216,
   "tekrar": 10
  }
 }
