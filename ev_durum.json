@@ -989,7 +989,10 @@
    "t2-mobilado-em-telheiras-luminosidade-e-conforto-ID1iWHz",
    "t1-remodelado-com-vista-panormica-rio-e-estacionamento-torres-do-re-ID1iWJo",
    "t1-renovado-e-mobilado-a-estrear-em-zona-historica-e-muito-tranquila-ID1iWKn",
-   "t2-renovado-e-mobilado-em-santos-o-velho-junto-ao-chiado-ID1iWKE"
+   "t2-renovado-e-mobilado-em-santos-o-velho-junto-ao-chiado-ID1iWKE",
+   "apartamento-t2-para-arrendamento-ID1iWMZ",
+   "arrendo-apartamento-t3-na-ameixoeira-lumiar-ID1iWMc",
+   "apartamento-t2-renovado-com-terraco-graca-ID1iWM0"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1290,7 +1293,8 @@
    "arrenda-se-2-quartos-para-casal-em-massama-tercena-pelo-preo-de-600-euros-agua-luz-gas-internet-tudo-incluido-na-renda-IDJBqAX",
    "arrenda-se-t2-no-sobralinho-IDJBqGC",
    "t1-para-arrendar-grandola-IDJBqXn",
-   "apartamento-t3-mobilado-em-alfragide-amadora-IDJBsg5"
+   "apartamento-t3-mobilado-em-alfragide-amadora-IDJBsg5",
+   "apartamento-t2-renovado-com-terrao-graa-IDJBsoz"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2357,7 +2361,8 @@
    "64822",
    "883695",
    "799476",
-   "727510"
+   "727510",
+   "739614"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2519,7 +2524,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 25,
+   "bos": 26,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2561,7 +2566,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 35,
+  "elenen": 40,
   "tekrar": 8
  },
  "imzalar": [
