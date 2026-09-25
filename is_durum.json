@@ -8,7 +8,15 @@
    "15968636/oficial-ajudante-de-picheleiro",
    "15967314/arquiteto-a-vila-nova-de-famalicao",
    "15974830/procuramos-pintor-preparador-com-ou-sem-experiencia-para-oficina-automovel",
-   "15953844/operador-a-cnc-comando-numerico-computorizado"
+   "15953844/operador-a-cnc-comando-numerico-computorizado",
+   "1026826/Net-Empregos-Quadrado-Mobile",
+   "1026826/Net-Empregos-Coluna-Desktop",
+   "1026826/Net-Empregos-Quadrado-All-Sizes",
+   "1026826/Net-Empregos-Quadrado-All-Sizes-1",
+   "1026826/Net-Empregos-Quadrado-All-Sizes-2",
+   "1026826/Net-Empregos-Quadrado-All-Sizes-3",
+   "1026826/Net-Empregos-Quadrado-All-Sizes-4",
+   "1026826/Net-Empregos-Quadrado-All-Sizes-5"
   ],
   "emprego.sapo.pt": [],
   "olx.pt": [],
@@ -285,7 +293,9 @@
    "assistente-de-loja_cascais-cascaishopping_OTS-2026-182587",
    "diretor-de-obra-mfx_lisboa_OTS-2026-184686",
    "encarregado-de-obra-mfx_lisboa_OTS-2026-184688",
-   "operador-de-armazem-parttime-mfx-manha-06h4511h45_lisboa-povoa-de-santa-iria_OTS-2026-181350"
+   "operador-de-armazem-parttime-mfx-manha-06h4511h45_lisboa-povoa-de-santa-iria_OTS-2026-181350",
+   "operador-de-embalagem_carregado_OTS-2026-172560",
+   "operador-logisticaempilhador_carregado_OTS-2026-172554"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -444,7 +454,9 @@
    "8NZ3jwR8YpkLTzGcAfCJwY",
    "94DBHcPhbaDCEag4Gt36iC",
    "4Wugu3NGeLPCGctHQknusL",
-   "81eiAWsArNGAi8tLLnUdhZ"
+   "81eiAWsArNGAi8tLLnUdhZ",
+   "2HUkjFnRtsRtWsuLakgSYx",
+   "4jiURSRSvytw7vEn4cxVyG"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -751,22 +763,24 @@
   "b546cf027d5aa8e1",
   "2052638fa0aff4a1",
   "bb39c5e04b2b3b8a",
-  "fc01255b0671cd43"
+  "fc01255b0671cd43",
+  "6d1c7a0e537e1206",
+  "36745c0871b01a0c"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 195,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 355,
+   "bos": 356,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 355,
+   "bos": 356,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -776,7 +790,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 355,
+   "bos": 356,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -796,14 +810,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 355,
+   "bos": 356,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 237,
+  "elenen": 247,
   "tekrar": 12
  }
 }
