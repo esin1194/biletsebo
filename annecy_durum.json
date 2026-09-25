@@ -68,7 +68,10 @@
    "214KQKZ",
    "214KSGJ",
    "214KVYX",
-   "214KTTT"
+   "214KTTT",
+   "214LCPH",
+   "214LCFM",
+   "214LCSF"
   ],
   "hellowork.com": [
    "83399370",
@@ -215,7 +218,10 @@
    "83758939",
    "83767009",
    "83767436",
-   "83778132"
+   "83778132",
+   "83779142",
+   "83779148",
+   "83779157"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -326,7 +332,12 @@
   "3b59e1729ed29c70",
   "44d763525e61f925",
   "e0ad88c6642d06e3",
-  "4b02a54358977ee9"
+  "4b02a54358977ee9",
+  "8e1d90589896a37d",
+  "6b1dca2f7f332aa3",
+  "3289ad1d26517f14",
+  "f887e79a1ce0e3d4",
+  "4d4386b55789d3ff"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -384,6 +395,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 0,
-  "tekrar": 7
+  "tekrar": 8
  }
 }
