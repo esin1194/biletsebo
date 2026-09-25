@@ -982,7 +982,9 @@
    "excelente-t3-telheiras-junto-colegio-planalto-ID1f9kd",
    "apartamento-t1-mobilado-em-campolide-ID1iWGb",
    "apartamento-t2-para-arrendamento-ID1iWFw",
-   "apartamento-t2-para-arrendamento-ID1iWFo"
+   "apartamento-t2-para-arrendamento-ID1iWFo",
+   "apartamento-com-2-quartos-localizado-em-bairro-alto-lisbon-ID1iWGP",
+   "apartamento-com-1-quartos-localizado-em-alcntara-lisbon-ID1iWGv"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2505,7 +2507,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 17,
+   "bos": 18,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2547,7 +2549,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 27,
+  "elenen": 29,
   "tekrar": 7
  },
  "imzalar": [
