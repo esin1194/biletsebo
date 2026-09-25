@@ -992,7 +992,8 @@
    "t2-renovado-e-mobilado-em-santos-o-velho-junto-ao-chiado-ID1iWKE",
    "apartamento-t2-para-arrendamento-ID1iWMZ",
    "arrendo-apartamento-t3-na-ameixoeira-lumiar-ID1iWMc",
-   "apartamento-t2-renovado-com-terraco-graca-ID1iWM0"
+   "apartamento-t2-renovado-com-terraco-graca-ID1iWM0",
+   "espacoso-t2-com-garagem-e-arrecadacao-ID1iWNj"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1294,7 +1295,9 @@
    "arrenda-se-t2-no-sobralinho-IDJBqGC",
    "t1-para-arrendar-grandola-IDJBqXn",
    "apartamento-t3-mobilado-em-alfragide-amadora-IDJBsg5",
-   "apartamento-t2-renovado-com-terrao-graa-IDJBsoz"
+   "apartamento-t2-renovado-com-terrao-graa-IDJBsoz",
+   "apartamento-t2-para-arrendar-em-fames-IDJBs7I",
+   "arrendo-apartamento-t3-na-ameixoeira-lumiar-IDJBsoF"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2524,7 +2527,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 26,
+   "bos": 27,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2566,7 +2569,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 40,
+  "elenen": 43,
   "tekrar": 8
  },
  "imzalar": [
