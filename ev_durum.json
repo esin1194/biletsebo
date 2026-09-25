@@ -1304,7 +1304,8 @@
    "apartamento-t3-mobilado-em-alfragide-amadora-IDJBsg5",
    "apartamento-t2-renovado-com-terrao-graa-IDJBsoz",
    "apartamento-t2-para-arrendar-em-fames-IDJBs7I",
-   "arrendo-apartamento-t3-na-ameixoeira-lumiar-IDJBsoF"
+   "arrendo-apartamento-t3-na-ameixoeira-lumiar-IDJBsoF",
+   "arrendamento-t2-IDJBtkx"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2535,7 +2536,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 34,
+   "bos": 35,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2577,7 +2578,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 1,
   "tekrar": 1
  },
  "imzalar": [
