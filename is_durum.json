@@ -304,7 +304,8 @@
    "customer-support-advisor-german-speaker-mfx_remote-portugal_OTS-2026-184704",
    "operador-de-armazem-mfx_azambuja_OTS-2026-184706",
    "operador-de-recepcao-de-mercadorias_azambuja_OTS-2026-184707",
-   "assistente-de-loja_amadora_OTS-2026-184713"
+   "assistente-de-loja_amadora_OTS-2026-184713",
+   "business-developer-mfx_lisboa_PTS-2026-178960"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -785,12 +786,12 @@
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 359,
+   "bos": 360,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 359,
+   "bos": 360,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -800,7 +801,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 359,
+   "bos": 360,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -820,14 +821,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 359,
+   "bos": 360,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 255,
+  "elenen": 256,
   "tekrar": 12
  }
 }
