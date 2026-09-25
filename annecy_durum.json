@@ -66,7 +66,9 @@
    "214KKSC",
    "214KKYQ",
    "214KQKZ",
-   "214KSGJ"
+   "214KSGJ",
+   "214KVYX",
+   "214KTTT"
   ],
   "hellowork.com": [
    "83399370",
@@ -321,7 +323,8 @@
   "169dc621cdc24c7a",
   "9c801264b03bc823",
   "3b59e1729ed29c70",
-  "44d763525e61f925"
+  "44d763525e61f925",
+  "e0ad88c6642d06e3"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -379,6 +382,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 0,
-  "tekrar": 6
+  "tekrar": 7
  }
 }
