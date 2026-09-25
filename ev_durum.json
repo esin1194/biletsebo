@@ -987,7 +987,8 @@
    "apartamento-com-1-quartos-localizado-em-alcntara-lisbon-ID1iWGv",
    "apartamento-t2-para-arrendamento-ID1iWHY",
    "t2-mobilado-em-telheiras-luminosidade-e-conforto-ID1iWHz",
-   "t1-remodelado-com-vista-panormica-rio-e-estacionamento-torres-do-re-ID1iWJo"
+   "t1-remodelado-com-vista-panormica-rio-e-estacionamento-torres-do-re-ID1iWJo",
+   "t1-renovado-e-mobilado-a-estrear-em-zona-historica-e-muito-tranquila-ID1iWKn"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2509,13 +2510,14 @@
    "18003099",
    "538667",
    "1688524747392975802",
-   "1643746398651400486"
+   "1643746398651400486",
+   "51032255"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 22,
+   "bos": 23,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2558,7 +2560,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 35,
-  "tekrar": 7
+  "tekrar": 8
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -2899,7 +2901,8 @@
   "58b3a2d625bc7317",
   "3326e4fb3a7b27dd",
   "d6febf307bc68b8a",
-  "898d1949aaef7772"
+  "898d1949aaef7772",
+  "b6a9c12888982487"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento - Arrenda-se · 1.000 € · Porto Salvo - Hoje às 17:45\nhttps://www.olx.pt/d/anuncio/apartamento-arrenda-se-IDJmAO2.html",
@@ -2937,7 +2940,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nArrenda-se 2 quartos para casal em massama/ tercena , pelo preço de 600 euros , agua, luz,gas,internet tudo incluido na renda. · 600 € · Agualva E Mira-Sintra - Hoje às 10:52\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.olx.pt/d/anuncio/arrenda-se-2-quartos-para-casal-em-massama-tercena-pelo-preo-de-600-euros-agua-luz-gas-internet-tudo-incluido-na-renda-IDJBqAX.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\n1700 € · Apartamento T1 mobilado em Campolide · Rua Professor Sousa da Câmara, Bairro de Campolide, Campolide, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · Engel &amp; Völkers Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-em-campolide-ID1iWGb",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nT1 para arrendar Grandola · 600 € · Lisboa - Hoje às 12:09\nhttps://www.olx.pt/d/anuncio/t1-para-arrendar-grandola-IDJBqXn.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · T2 MOBILADO EM TELHEIRAS | LUMINOSIDADE E CONFORTO · Rua Professor Prado Coelho, Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 68 m² · Andar · 4 andar · Century21 House Market · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-mobilado-em-telheiras-luminosidade-e-conforto-ID1iWHz"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · T2 MOBILADO EM TELHEIRAS | LUMINOSIDADE E CONFORTO · Rua Professor Prado Coelho, Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 68 m² · Andar · 4 andar · Century21 House Market · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-mobilado-em-telheiras-luminosidade-e-conforto-ID1iWHz",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T1 Renovado e Mobilado, a Estrear, em Zona Histórica e Muito Tranquila · Rua Marcos Marreiros, Santa Catarina, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 30 m² · Andar · rés do chão · RODOLFO NATÁRIO - Casas São Paixões · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-renovado-e-mobilado-a-estrear-em-zona-historica-e-muito-tranquila-ID1iWKn"
  ],
  "son_gonderim": "2026-09-24"
 }
