@@ -284,7 +284,8 @@
    "apoio-ao-cliente-assistencia-em-viagem-pten-mfx_lisboa_OTS-2026-184678",
    "assistente-de-loja_cascais-cascaishopping_OTS-2026-182587",
    "diretor-de-obra-mfx_lisboa_OTS-2026-184686",
-   "encarregado-de-obra-mfx_lisboa_OTS-2026-184688"
+   "encarregado-de-obra-mfx_lisboa_OTS-2026-184688",
+   "operador-de-armazem-parttime-mfx-manha-06h4511h45_lisboa-povoa-de-santa-iria_OTS-2026-181350"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -438,7 +439,12 @@
    "71ABubpGzjZVVosr5iCzuh",
    "rNPfqGpEQL5MB4iTRGAf3a",
    "9ssCMN1Q1rVBsTCKkc94aU",
-   "oDsPh3Cy6oTpU11yBJbeRg"
+   "oDsPh3Cy6oTpU11yBJbeRg",
+   "eAgpP8fDxPW4Df3q7Hs5v7",
+   "8NZ3jwR8YpkLTzGcAfCJwY",
+   "94DBHcPhbaDCEag4Gt36iC",
+   "4Wugu3NGeLPCGctHQknusL",
+   "81eiAWsArNGAi8tLLnUdhZ"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -740,22 +746,27 @@
   "f0891cf1761a3328",
   "662e1b28602b5acb",
   "84cbe94c415e3a26",
-  "f0e00d1226c31117"
+  "f0e00d1226c31117",
+  "f1453f96e95f9167",
+  "b546cf027d5aa8e1",
+  "2052638fa0aff4a1",
+  "bb39c5e04b2b3b8a",
+  "fc01255b0671cd43"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 194,
+   "bos": 195,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 354,
+   "bos": 355,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 354,
+   "bos": 355,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -765,7 +776,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 354,
+   "bos": 355,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -785,14 +796,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 354,
+   "bos": 355,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 236,
+  "elenen": 237,
   "tekrar": 12
  }
 }
