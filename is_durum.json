@@ -268,7 +268,9 @@
    "operadores-de-producao_sobralinho-alverca-do-ribatejo_OTS-2026-184632",
    "preparador-de-cozinha-mfx_lisboa_OTS-2026-184641",
    "administrativoa-para-area-de-rh-mfx_sintra-linho_OTS-2026-184640",
-   "regulatory-affairs-associate-mfx_estoril_PTS-2026-184124"
+   "regulatory-affairs-associate-mfx_estoril_PTS-2026-184124",
+   "motorista-de-ligeiros-distribuidor-de-mercadorias_alverca_OTS-2026-184649",
+   "order-management-team-lead-german_lisboa_PTS-2026-184650"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -413,7 +415,8 @@
    "qsbeeoQrprEGBBRRqoffzs",
    "6GQgGw35MTF2FTEtMXZihV",
    "oMJwYn5Wjmd9Brck46FmRJ",
-   "5Jc8xXg2U4yViHBFoLhP4P"
+   "5Jc8xXg2U4yViHBFoLhP4P",
+   "9PDy92TQGQYSHmn3ns2zEH"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -716,17 +719,17 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 183,
+   "bos": 184,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 343,
+   "bos": 344,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 343,
+   "bos": 344,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -736,7 +739,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 343,
+   "bos": 344,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -756,14 +759,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 343,
+   "bos": 344,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 217,
-  "tekrar": 10
+  "elenen": 218,
+  "tekrar": 12
  }
 }
