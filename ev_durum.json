@@ -975,7 +975,9 @@
    "apartamento-t2-graca-ID1iWzA",
    "apartamento-t1-com-garagem-e-piscina-em-lisboa-ID1iWzV",
    "t1-duplex-mobilado-na-ajuda-1-240-EUR-mes-entrada-imediata-ID1iWAE",
-   "t2-todo-renovado-com-vista-de-rio-ID1iWAW"
+   "t2-todo-renovado-com-vista-de-rio-ID1iWAW",
+   "t1-condominio-green-park-piscina-jardim-garagem-ID1iWBp",
+   "apartamento-t2-para-arrendamento-ID1iWBk"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2485,7 +2487,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2527,7 +2529,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 15,
   "tekrar": 6
  },
  "imzalar": [
