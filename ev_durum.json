@@ -1335,7 +1335,8 @@
    "t2-para-arrendamento-em-odivelas-l-200-m-do-metro-IDJy4u1",
    "arrendo-t0-laranjeiras-IDJBu69",
    "t2-com-90-m-garagem-e-arrecadao-a-1-minuto-do-metro-IDJBu2M",
-   "arrenda-se-apartamento-t3-em-alvalade-IDJBtXC"
+   "arrenda-se-apartamento-t3-em-alvalade-IDJBtXC",
+   "aluga-se-t1-com-agua-e-televisao-internet-IDJBuAy"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2587,7 +2588,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 35,
+   "bos": 36,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2629,7 +2630,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 12,
+  "elenen": 13,
   "tekrar": 3
  },
  "imzalar": [
