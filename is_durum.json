@@ -477,7 +477,8 @@
    "j7Yp8cLAhSagMkC86Mztnc",
    "73EX4Lga93RjN68NRCMtMo",
    "44o4yqASSy8jfwgh22Ab7C",
-   "dvwFEqPWueL33rcFDNM5nn"
+   "dvwFEqPWueL33rcFDNM5nn",
+   "5xbTB8rxR4KCq9BUiphfv8"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -682,7 +683,8 @@
    "remote-customer-success-manager-mexico-jumpcloud-1137406",
    "remote-software-deployment-engineer-kpi-solutions-1137408",
    "remote-people-operations-coordinator-ashby-1137412",
-   "remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431"
+   "remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
+   "remote-director-payment-integrity-siho-insurance-services-1137434"
   ],
   "weworkremotely.com": [
    "find-your-plan",
@@ -796,7 +798,8 @@
   "f14b6d45548f4891",
   "71f3a958617b88bd",
   "a0cdcd6d1e4b1cdf",
-  "d4f19e1c1152b20d"
+  "d4f19e1c1152b20d",
+  "31c710295eb113f4"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
@@ -806,12 +809,12 @@
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 402,
+   "bos": 403,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 402,
+   "bos": 403,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -821,7 +824,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 402,
+   "bos": 403,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -841,14 +844,14 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 402,
+   "bos": 403,
    "uyarildi": true
   }
  },
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 262,
+  "elenen": 263,
   "tekrar": 12
  }
 }
