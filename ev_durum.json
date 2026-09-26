@@ -1049,7 +1049,8 @@
    "apartamento-t2-para-arrendamento-ID1iWZX",
    "apartamento-t3-para-arrendamento-ID1iV1k",
    "apartamento-t2-para-arrendamento-ID1iV1b",
-   "apartamento-t2-50m2-campo-de-ourique-lisboa-ID1iV0W"
+   "apartamento-t2-50m2-campo-de-ourique-lisboa-ID1iV0W",
+   "estudio-t0-na-rua-dos-anjos-49-lisboa-ID1iV1M"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2144,7 +2145,8 @@
    "apartments/1613701",
    "apartments/281102",
    "apartments/1651233",
-   "apartments/636606"
+   "apartments/636606",
+   "apartments/1022369"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2614,13 +2616,14 @@
    "51032255",
    "1781336317994458092",
    "718908132532507027",
-   "1395476448160148981"
+   "1395476448160148981",
+   "6116227"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2662,8 +2665,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 19,
-  "tekrar": 3
+  "elenen": 20,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
