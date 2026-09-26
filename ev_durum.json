@@ -1057,7 +1057,8 @@
    "apartamento-t3-para-arrendamento-ID1iV67",
    "apartamento-t2-para-arrendamento-ID1iV62",
    "apartamento-t1-para-arrendamento-ID1iV6X",
-   "apartamento-t0-para-arrendamento-ID1iV6J"
+   "apartamento-t0-para-arrendamento-ID1iV6J",
+   "apartamento-t2-transformado-em-t1-totalmente-remodelado-em-sao-domin-ID1iV7m"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2643,7 +2644,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 25,
+   "bos": 26,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3077,11 +3078,13 @@
   "7de1f7c3216d1f98",
   "c0e119e48a3cb8dc",
   "f78956c933ad143d",
-  "89a4d286cbfcbee3"
+  "89a4d286cbfcbee3",
+  "91572a5b181ca902"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · Apartamento T1 para arrendamento · Rua Pedro Nunes, São Sebastião da Pedreira, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 38 m² · Andar · 2 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iV6X",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · Apartamento T0 para arrendamento · Rua José Anastácio da Cunha - Bairro da Serafina, Bairro da Liberdade, Campolide, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 41.66 m² · Andar · rés do chão · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-para-arrendamento-ID1iV6J"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · Apartamento T0 para arrendamento · Rua José Anastácio da Cunha - Bairro da Serafina, Bairro da Liberdade, Campolide, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 41.66 m² · Andar · rés do chão · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-para-arrendamento-ID1iV6J",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T2 transformado em T1, totalmente remodelado, em São Domin · Estrada de Benfica, Fonte Nova - Calhariz, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 72 m² · Andar · 3 andar · CENTURY21 Polo Central II · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-transformado-em-t1-totalmente-remodelado-em-sao-domin-ID1iV7m"
  ],
  "son_gonderim": "2026-09-26"
 }
