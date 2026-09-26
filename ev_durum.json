@@ -1050,7 +1050,8 @@
    "apartamento-t3-para-arrendamento-ID1iV1k",
    "apartamento-t2-para-arrendamento-ID1iV1b",
    "apartamento-t2-50m2-campo-de-ourique-lisboa-ID1iV0W",
-   "estudio-t0-na-rua-dos-anjos-49-lisboa-ID1iV1M"
+   "estudio-t0-na-rua-dos-anjos-49-lisboa-ID1iV1M",
+   "apartamento-t4-para-arrendamento-ID1iV2I"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1368,7 +1369,8 @@
    "t1-mobilado-e-com-garagem-no-seixal-lourinh-IDJBuSX",
    "apartamento-t1-na-parede-IDJ5AUg",
    "apartamento-t2-50m2-campo-de-ourique-lisboa-IDJBw9B",
-   "apartamento-t2-com-garagem-IDJ9giu"
+   "apartamento-t2-com-garagem-IDJ9giu",
+   "apartamento-t1-em-santa-brbara-IDJBwwb"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2623,7 +2625,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2665,7 +2667,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 20,
+  "elenen": 21,
   "tekrar": 4
  },
  "imzalar": [
@@ -3049,7 +3051,8 @@
   "765b213297145dac",
   "1d9b178172fd3854",
   "9e869377a47a32f4",
-  "b5dcbfcb637ccc08"
+  "b5dcbfcb637ccc08",
+  "f0b0286e6b526cfb"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Varanda no Parque das Nações · Praça Gago Coutinho - Parque das Nações, Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · 2 andar · Zome Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iWUB",
@@ -3091,7 +3094,8 @@
   "…ve <b>Idealista</b> sitesinde 13 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nT1 Mobilado e com garagem no Seixal, Lourinhã · 650 € · Lourinhã E Atalaia - Hoje às 10:43\nhttps://www.olx.pt/d/anuncio/t1-mobilado-e-com-garagem-no-seixal-lourinh-IDJBuSX.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T1 na Parede · 1.500 € · Carcavelos E Parede - Hoje às 10:44\nhttps://www.olx.pt/d/anuncio/apartamento-t1-na-parede-IDJ5AUg.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento t2 50m2 Campo de Ourique, Lisboa · Amoreiras, Campo de Ourique, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 50 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-50m2-campo-de-ourique-lisboa-ID1iV0W"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento t2 50m2 Campo de Ourique, Lisboa · Amoreiras, Campo de Ourique, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 50 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-50m2-campo-de-ourique-lisboa-ID1iV0W",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 450 €\napartamento t1 em santa bárbara · 450 € · Santa Bárbara - Hoje às 13:07\nhttps://www.olx.pt/d/anuncio/apartamento-t1-em-santa-brbara-IDJBwwb.html"
  ],
  "son_gonderim": "2026-09-25"
 }
