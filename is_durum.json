@@ -42,7 +42,37 @@
    "embalador_carregado_OTS-2026-172557",
    "servente-expedicoes_carregado-e-azambuja_OTS-2026-172556",
    "operador-processo_carregado_OTS-2025-172542",
-   "operador-de-embalagem_carregado_OTS-2026-172560"
+   "operador-de-embalagem_carregado_OTS-2026-172560",
+   "engenheiro-civilarquiteto-recemlicenciado_lisboa_OTS-2025-183656",
+   "farmaceutico-mfx_farmacia-campos-amadora_PTS-2026-183631",
+   "assistente-de-loja-mfx_seixal-riosul-shopping_OTS-2026-183450",
+   "operador-de-armazem_azambuja_OTS-2026-182884",
+   "performance-and-operations-specialist-french-speaker-mfx_remote-portugal_OTS-2026-183573",
+   "revenue-operations-business-analyst_lisboa_DTS-2025-173054",
+   "rececionista-substituicao-de-ferias_porto-salvo_OTS-2026-183313",
+   "empregado-de-bar-mfx_benfica_OTS-2026-183018",
+   "empregado-de-bar-mfx_odivelas-strada_OTS-2026-183016",
+   "head-of-financial-performance-analysis-and-consolidation_lisboa_PTS-2026-182880",
+   "assistente-de-loja-vodafone-mfx-parttime-finsdesemana_aeroporto-lisboa_OTS-2026-182826",
+   "assistente-apoio-ao-cliente-mfx_lisboa_OTS-2026-182807",
+   "encarregado-de-obra-geral_algarve-lagoa_OTS-2026-182739",
+   "hr-administrativoa-payroll_lisboa_PTS-2026-181984",
+   "tecnicoa-de-controlo-de-credito_lisboa_PTS-2026-181981",
+   "encarregado-de-obra_lisboa_OTS-2026-181751",
+   "controller-accounting_funchal_PTS-2026-181356",
+   "engenheiro-eletrotecnico-diretor-de-obra_lisboa_OTS-2025-181459",
+   "assistente-de-loja-mfx_oeiras_OTS-2026-181064",
+   "analista-financeiro-de-investimentos-mfx_lisboa_PTS-2026-181304",
+   "tecnico-de-eletrotecnica_lisboa_OTS-2026-180835",
+   "tecnico-de-eletrotecnica-caldas-da-rainha_caldas-da-rainha_OTS-2026-180839",
+   "medicoa-anestesiologista-fmx_lisboa_PTS-2026-180750",
+   "order-management-specialist-francegermany_lisboa_PTS-2026-180605",
+   "architect-project-manager-affordable-housing_lisboa_OTS-2025-180372",
+   "consultor-comercial-grandes-contas-mfx_grande-lisboa_OTS-2026-179867",
+   "assistente-loja-mfx_alfragide_OTS-2026-179924",
+   "eletromecanico-mfx_sao-joao-da-talha_OTS-2026-178715",
+   "sap-sd-consultant_lisboa_DTS-2026-178626",
+   "fisioterapeuta-mfx_parede_PTS-2026-178526"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -585,7 +615,9 @@
   "352cf69fe5eb1e22",
   "8181ecddca39c926",
   "f14b6d45548f4891",
-  "6d1c7a0e537e1206"
+  "6d1c7a0e537e1206",
+  "3eaba301b46b75d4",
+  "6bb9303e3668f722"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
@@ -652,7 +684,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 136,
+  "elenen": 164,
   "tekrar": 0
  }
 }
