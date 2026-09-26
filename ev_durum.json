@@ -1052,7 +1052,8 @@
    "apartamento-t2-50m2-campo-de-ourique-lisboa-ID1iV0W",
    "estudio-t0-na-rua-dos-anjos-49-lisboa-ID1iV1M",
    "apartamento-t4-para-arrendamento-ID1iV2I",
-   "t2-renovado-e-mobilado-em-santa-catarina-junto-ao-chiado-ID1iWKE"
+   "t2-renovado-e-mobilado-em-santa-catarina-junto-ao-chiado-ID1iWKE",
+   "apartamento-t1-para-arrendamento-ID1iV3T"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2151,7 +2152,8 @@
    "apartments/1651233",
    "apartments/636606",
    "apartments/1022369",
-   "apartments/930355"
+   "apartments/930355",
+   "apartments/638844"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2629,7 +2631,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2671,7 +2673,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 21,
+  "elenen": 22,
   "tekrar": 5
  },
  "imzalar": [
