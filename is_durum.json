@@ -473,7 +473,8 @@
    "4jiURSRSvytw7vEn4cxVyG",
    "1QzQvFwRZU1yxSB7nS8gCV",
    "jxwTDuiXQnZrup1xs7fxuV",
-   "pMRCBz8uPCQGwfsocAkjVh"
+   "pMRCBz8uPCQGwfsocAkjVh",
+   "j7Yp8cLAhSagMkC86Mztnc"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -786,7 +787,8 @@
   "d48c3b214eb4c023",
   "dc8e26c550e2da49",
   "42e3f3e17947f407",
-  "0f37796b409876c4"
+  "0f37796b409876c4",
+  "f14b6d45548f4891"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
@@ -796,12 +798,12 @@
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 381,
+   "bos": 382,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 381,
+   "bos": 382,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -811,7 +813,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 381,
+   "bos": 382,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -831,7 +833,7 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 381,
+   "bos": 382,
    "uyarildi": true
   }
  },
