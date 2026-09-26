@@ -2100,7 +2100,13 @@
    "apartments/857569",
    "apartments/523144",
    "apartments/445605",
-   "apartments/1338262"
+   "apartments/1338262",
+   "apartments/1290061",
+   "apartments/1182128",
+   "apartments/1664447",
+   "apartments/611952",
+   "apartments/421548",
+   "apartments/1632745"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2574,7 +2580,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2616,7 +2622,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 9,
+  "elenen": 11,
   "tekrar": 3
  },
  "imzalar": [
@@ -2981,7 +2987,9 @@
   "8e11e1ef2504fd1b",
   "6a71a1c913c68f39",
   "a2d14babbc39238a",
-  "f45f6ac1152bc1ee"
+  "f45f6ac1152bc1ee",
+  "876b63afd34aff89",
+  "bd2de7817c71cf46"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Varanda no Parque das Nações · Praça Gago Coutinho - Parque das Nações, Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · 2 andar · Zome Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iWUB",
@@ -3003,7 +3011,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nArrendo T0 Laranjeiras · 950 € · São Domingos de Benfica - Hoje às 22:35\nhttps://www.olx.pt/d/anuncio/arrendo-t0-laranjeiras-IDJBu69.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 27 SEP · star · 4.3 (29) · 1-Bedroom apartment for rent in Cais Do Sodré, Lisbon · From 2000 €/month · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/947492",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.895 €\nCHECKED · APARTMENT · FROM 01 OCT · star · 5 (16) · 1-bedroom apartment for rent in Lisbon. · From 1895 €/month · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/857569",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.469 €\nAPARTMENT · FROM 23 OCT · star · 3.8 (205) · 2-bedroom apartment for rent in Lisbon · From 1469 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/523144"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.469 €\nAPARTMENT · FROM 23 OCT · star · 3.8 (205) · 2-bedroom apartment for rent in Lisbon · From 1469 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/523144",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.889 €\nAPARTMENT · FROM 12 NOV · star · 3.8 (205) · 1-bedroom apartment for rent in Lisbon · From 1889 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/611952",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.679 €\nAPARTMENT · FROM 15 OCT · star · 3.8 (205) · 2-bedroom apartment for rent in Santos, Lisbon · From 1679 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/421548"
  ],
  "son_gonderim": "2026-09-25"
 }
