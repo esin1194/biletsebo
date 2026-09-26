@@ -1055,7 +1055,9 @@
    "t2-renovado-e-mobilado-em-santa-catarina-junto-ao-chiado-ID1iWKE",
    "apartamento-t1-para-arrendamento-ID1iV3T",
    "apartamento-t3-para-arrendamento-ID1iV67",
-   "apartamento-t2-para-arrendamento-ID1iV62"
+   "apartamento-t2-para-arrendamento-ID1iV62",
+   "apartamento-t1-para-arrendamento-ID1iV6X",
+   "apartamento-t0-para-arrendamento-ID1iV6J"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2634,13 +2636,14 @@
    "718908132532507027",
    "1395476448160148981",
    "6116227",
-   "1782600661919137534"
+   "1782600661919137534",
+   "1438992054342688077"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 23,
+   "bos": 24,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2682,7 +2685,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 1,
   "tekrar": 0
  },
  "imzalar": [
@@ -3072,8 +3075,13 @@
   "d7a95245ae2635e6",
   "8c08e221bb1fc6f8",
   "7de1f7c3216d1f98",
-  "c0e119e48a3cb8dc"
+  "c0e119e48a3cb8dc",
+  "f78956c933ad143d",
+  "89a4d286cbfcbee3"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · Apartamento T1 para arrendamento · Rua Pedro Nunes, São Sebastião da Pedreira, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 38 m² · Andar · 2 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iV6X",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · Apartamento T0 para arrendamento · Rua José Anastácio da Cunha - Bairro da Serafina, Bairro da Liberdade, Campolide, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 41.66 m² · Andar · rés do chão · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-para-arrendamento-ID1iV6J"
+ ],
  "son_gonderim": "2026-09-26"
 }
