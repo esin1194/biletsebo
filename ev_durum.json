@@ -1374,7 +1374,9 @@
    "apartamento-t2-com-garagem-IDJ9giu",
    "apartamento-t1-em-santa-brbara-IDJBwwb",
    "t1-para-arrendamento-imediato-IDJBwOz",
-   "t3-pontinha-apartamento-aconchegante-na-avenida-25-de-abril-IDJa0YB"
+   "t3-pontinha-apartamento-aconchegante-na-avenida-25-de-abril-IDJa0YB",
+   "t2-camarate-renovado-IDJy3IX",
+   "lindo-apartamento-familiar-IDIOnpb"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2632,7 +2634,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 17,
+   "bos": 18,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2674,7 +2676,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 23,
+  "elenen": 25,
   "tekrar": 5
  },
  "imzalar": [
