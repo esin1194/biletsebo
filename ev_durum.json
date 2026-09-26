@@ -2109,7 +2109,9 @@
    "apartments/1632745",
    "apartments/1337008",
    "apartments/1491926",
-   "apartments/1613701"
+   "apartments/1613701",
+   "apartments/281102",
+   "apartments/1651233"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2583,7 +2585,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 23,
+   "bos": 24,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2994,7 +2996,9 @@
   "876b63afd34aff89",
   "bd2de7817c71cf46",
   "29822f65d6626654",
-  "141d0eb364ad2c59"
+  "141d0eb364ad2c59",
+  "938c92b856c2accc",
+  "3428a03361d3818f"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Varanda no Parque das Nações · Praça Gago Coutinho - Parque das Nações, Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · 2 andar · Zome Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-varanda-no-parque-das-nacoes-ID1iWUB",
@@ -3020,7 +3024,9 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.889 €\nAPARTMENT · FROM 12 NOV · star · 3.8 (205) · 1-bedroom apartment for rent in Lisbon · From 1889 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/611952",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.679 €\nAPARTMENT · FROM 15 OCT · star · 3.8 (205) · 2-bedroom apartment for rent in Santos, Lisbon · From 1679 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/421548",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nCHECKED · APARTMENT · FROM 26 SEP · star · 4 (8) · 1-bedroom apartment for rent in Almada, Lisbon · 1800 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1491926",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nAPARTMENT · FROM 26 SEP · 3-bedroom apartment for rent in Lisbon · 1900 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1613701"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nAPARTMENT · FROM 26 SEP · 3-bedroom apartment for rent in Lisbon · 1900 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1613701",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.700 €\nCHECKED · APARTMENT · FROM 27 SEP · star · 5 (9) · 1-bedroom apartment for rent in Penha de França, Lisbon · 1700 €/month · UP TO 10 % OFF · 2+ month stay · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/281102",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.680 €\nAPARTMENT · FROM 02 OCT · 1-bedroom apartment for rent in Lisbon · 1680 €/month · savings · NO DEPOSIT · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1651233"
  ],
  "son_gonderim": "2026-09-25"
 }
