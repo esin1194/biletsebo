@@ -1,31 +1,32 @@
-# IS ILANI TAKIBI - ARAMA LINKLERI
+# LIZBON IS ILANI TAKIBI - ARAMA LINKLERI
 #
 # Her satir:   Isim | arama linki
-# Basinda # olan satirlar kapalidir. Bir siteyi kapatmak icin basina # koyun.
+# Basinda # olan satirlar kapalidir.
 #
-# Filtre degistirmek icin: siteyi tarayicida acin, aramayi yapin,
-# adres cubugundaki linki kopyalayip ilgili satira yapistirin.
+# Yeni arama eklemek icin: siteyi tarayicida acin, aramayi yapin,
+# adres cubugundaki linki kopyalayip yeni bir satira yapistirin.
 
-# ---------------- Lizbon, Ingilizce ----------------
-Net-Empregos | https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3
-Sapo Emprego | https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa
-OLX Emprego | https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc
+# ---------------- Lizbon, calistigi dogrulananlar ----------------
 Randstad | https://www.randstad.pt/empregos/lisboa/?q=english
-Landing.jobs | https://landing.jobs/jobs?location=Lisbon%2C%20Portugal
 Workable | https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal
+Net-Empregos | https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3
 
-# Ilave olarak denenebilecekler (basindaki # isaretini silin)
-# Expresso Emprego | https://expressoemprego.pt/pesquisa-ofertas-emprego?distrito=lisboa&texto=english
-# Careerjet | https://www.careerjet.pt/empregos?s=english&l=Lisboa
-# Turijobs (turizm/otelcilik) | https://www.turijobs.pt/ofertas-empleo-lisboa
-# IT Jobs | https://www.itjobs.pt/emprego?location=lisboa
+# ---------------- Ek Lizbon aramalari ----------------
+Workable (customer support) | https://jobs.workable.com/search?query=customer%20support&location=Lisbon%2C%20Portugal
+Workable (sales) | https://jobs.workable.com/search?query=sales&location=Lisbon%2C%20Portugal
+Randstad (customer) | https://www.randstad.pt/empregos/lisboa/?q=customer
 
-# ---------------- Uzaktan calisma ----------------
-Remote OK | https://remoteok.com/remote-customer-support-jobs
-We Work Remotely | https://weworkremotely.com/categories/remote-customer-support-jobs
-Remotive | https://remotive.com/remote-jobs/customer-support
+# ---------------- Linki tutmayanlar ----------------
+# Acmak icin siteye girip Lizbon aramasi yapin, adres cubugundaki linki
+# buraya yapistirin ve basindaki # isaretini silin.
+# Sapo Emprego | https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa
+# OLX Emprego | https://www.olx.pt/emprego/lisboa/q-english/
+# Landing.jobs | https://landing.jobs/jobs?location=Lisbon%2C%20Portugal
 
-# Uzaktan satis / pazarlama / operasyon icin ilave listeler
-# Remote OK (sales) | https://remoteok.com/remote-sales-jobs
-# Remote OK (marketing) | https://remoteok.com/remote-marketing-jobs
-# We Work Remotely (sales/marketing) | https://weworkremotely.com/categories/remote-sales-and-marketing-jobs
+# ---------------- Uzaktan calisma (SU AN KAPALI) ----------------
+# Bu siteler dunya genelinde ilan veriyor, Amerika ilanlari da geliyordu.
+# Uzaktan isleri de gormek isterseniz basindaki # isaretini silin ve
+# filtreler_is.txt icindeki [ZORUNLU] bolumunden konum satirini kaldirin.
+# Remote OK | https://remoteok.com/remote-customer-support-jobs
+# We Work Remotely | https://weworkremotely.com/categories/remote-customer-support-jobs
+# Remotive | https://remotive.com/remote-jobs/customer-support

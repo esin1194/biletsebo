@@ -691,3 +691,7 @@ driver's license
 customer support / customer service / customer care / customer advisor / customer success / client advisor / apoio ao cliente / sales / vendas / account manager / account executive / business development / sales representative / operations / operations manager / office manager / back office / administrative / administrativo / assistant / human resources / recursos humanos / hr / talent acquisition / recruiter / marketing / communications / comunicacao / social media / content / community manager / project manager / coordinator / coordenador
 
 english / ingles / english-speaking / english speaking / fluent in english / english fluency
+
+# 3. satir: isin Lizbon'da (ya da Portekiz'de) olmasi sarti.
+# Uzaktan dunya genelinde isleri de gormek isterseniz bu satiri silin.
+lisboa / lisbon / portugal / portekiz
