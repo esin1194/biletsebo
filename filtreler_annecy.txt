@@ -7,6 +7,17 @@
 # ISTENMEYEN: ilan aciklamasinda gecerse gonderilmez.
 # =====================================================================
 [ISTENMEYEN]
+# --- Teknik yazilim bilgisi isteyen ilanlar ---
+python
+javascript
+autocad
+solidworks
+catia
+revit
+matlab
+kubernetes
+sql
+
 stage non remunere
 stage non-remunere
 benevolat
@@ -531,16 +542,28 @@ falante de checo
 falantes de checo
 lingua checo
 
-# Fransizca akicilik sarti koyan ilanlari da elemek isterseniz
-# asagidaki satirlarin basindaki # isaretini silin.
-# DIKKAT: Annecy'de ilanlarin cogu Fransizca istiyor, bunlari acarsaniz
-# elinizde cok az ilan kalir.
-# francais courant
-# francais bilingue
-# parfaite maitrise du francais
-# excellente maitrise du francais
-# langue maternelle francaise
-# francais langue maternelle
+# Fransizca: orta seviye icin ulasilmaz olan sartlar elenir.
+# "francais courant" bilerek listede degil, Annecy ilanlarinin cogu
+# bunu yaziyor ve orta seviyeyle sans olabiliyor.
+francais bilingue
+bilingue francais
+parfaite maitrise du francais
+maitrise parfaite du francais
+excellente maitrise du francais
+langue maternelle francaise
+francais langue maternelle
+niveau natif en francais
+francais niveau natif
+francais c2
+
+# Ingilizce: orta seviyeyi asan sartlar
+anglais bilingue
+bilingue anglais
+anglais langue maternelle
+langue maternelle anglaise
+anglais c2
+native english
+english native
 
 # =====================================================================
 # BASLIKTA ISTENMEYEN: sadece ilan basliginda aranir.
@@ -549,6 +572,71 @@ lingua checo
 [BASLIKTA ISTENMEYEN]
 alternance
 apprentissage
+
+# --- Muhendislik, yazilim, teknik meslekler ---
+ingenieur
+ingenieure
+ingenierie
+engineer
+engineering
+developpeur
+developpeuse
+developer
+software
+informaticien
+data scientist
+data engineer
+data analyst
+devops
+cybersecurite
+cybersecurity
+administrateur systeme
+administrateur reseau
+technicien
+technicienne
+technician
+automaticien
+electronicien
+electrotechnicien
+electricien
+mecanicien
+mecanique
+chaudronnier
+soudeur
+usineur
+tourneur
+fraiseur
+plombier
+chauffagiste
+frigoriste
+menuisier
+macon
+couvreur
+carrossier
+peintre en batiment
+architecte
+dessinateur projeteur
+chimiste
+laborantin
+biologiste
+
+# --- Saglik meslekleri ---
+medecin
+pharmacien
+infirmier
+infirmiere
+dentiste
+kinesitherapeute
+veterinaire
+sage-femme
+orthophoniste
+
+# --- Agir saha / surus ---
+chauffeur
+conducteur
+livreur
+cariste
+manutentionnaire
 
 # =====================================================================
 # ZORUNLU: her satirdan en az bir ifade gecmeli.
