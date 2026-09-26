@@ -42,7 +42,10 @@ ANINDA_GONDER = True              # False olursa ilanlar GONDERIM_SAATI'ne kadar
 GONDERIM_SAATI = 19               # Turkiye saatiyle
 KUYRUK_MAKS_MESAJ = 40
 KAYNAK_BASINA_MAKS_MESAJ = 10
-DETAY_LIMITI = 45                 # bir turda en fazla kac ilan sayfasi acilsin
+DETAY_LIMITI = 80                 # bir turda en fazla kac ilan sayfasi acilsin
+ILK_TUR_GONDERSIN = True          # True: yeni eklenen kaynagin mevcut ilanlari da
+                                  # filtreden gecirilip gonderilir (ilk kurulumda
+                                  # ya da hafiza sifirlandiginda ise yarar)
 KIMLIK_SAKLAMA_LIMITI = 4000
 BOS_UYARI_ESIGI = 3
 ELE_PORTEKIZCE = True             # Portekizce yazilmis ilanlar gonderilmesin
@@ -450,7 +453,12 @@ def main():
             yeniler = [(k, t) for k, t in ilanlar.items() if k not in gorulen_kume]
             gorulen.extend(k for k, _ in yeniler)
 
-            if ks["ilk"]:
+            if ks["ilk"] and ILK_TUR_GONDERSIN:
+                ks["ilk"] = False
+                ilk_ozet.append(f"• {esc(ad)}: {len(ilanlar)} ilan taranıyor")
+                # asagidaki normal degerlendirmeye devam edilir
+
+            elif ks["ilk"]:
                 ks["ilk"] = False
                 ilk_ozet.append(f"• {esc(ad)}: {len(ilanlar)} ilan")
                 for k, t in list(ilanlar.items())[:1]:
