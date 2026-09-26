@@ -12,6 +12,525 @@ stage non-remunere
 benevolat
 unpaid internship
 
+# Baska dil sart kosanlar (Ingilizce ve Turkce disindaki diller).
+# Fransizca bilerek listeye alinmadi, Annecy'de neredeyse her ilan istiyor.
+german speaker
+german speakers
+german speaking
+german-speaking
+native german
+german native
+fluent german
+german fluent
+bilingual german
+german c1
+german c2
+german b2
+dutch speaker
+dutch speakers
+dutch speaking
+dutch-speaking
+native dutch
+dutch native
+fluent dutch
+dutch fluent
+bilingual dutch
+dutch c1
+dutch c2
+dutch b2
+italian speaker
+italian speakers
+italian speaking
+italian-speaking
+native italian
+italian native
+fluent italian
+italian fluent
+bilingual italian
+italian c1
+italian c2
+italian b2
+spanish speaker
+spanish speakers
+spanish speaking
+spanish-speaking
+native spanish
+spanish native
+fluent spanish
+spanish fluent
+bilingual spanish
+spanish c1
+spanish c2
+spanish b2
+hebrew speaker
+hebrew speakers
+hebrew speaking
+hebrew-speaking
+native hebrew
+hebrew native
+fluent hebrew
+hebrew fluent
+bilingual hebrew
+hebrew c1
+hebrew c2
+hebrew b2
+danish speaker
+danish speakers
+danish speaking
+danish-speaking
+native danish
+danish native
+fluent danish
+danish fluent
+bilingual danish
+danish c1
+danish c2
+danish b2
+swedish speaker
+swedish speakers
+swedish speaking
+swedish-speaking
+native swedish
+swedish native
+fluent swedish
+swedish fluent
+bilingual swedish
+swedish c1
+swedish c2
+swedish b2
+norwegian speaker
+norwegian speakers
+norwegian speaking
+norwegian-speaking
+native norwegian
+norwegian native
+fluent norwegian
+norwegian fluent
+bilingual norwegian
+norwegian c1
+norwegian c2
+norwegian b2
+finnish speaker
+finnish speakers
+finnish speaking
+finnish-speaking
+native finnish
+finnish native
+fluent finnish
+finnish fluent
+bilingual finnish
+finnish c1
+finnish c2
+finnish b2
+polish speaker
+polish speakers
+polish speaking
+polish-speaking
+native polish
+polish native
+fluent polish
+polish fluent
+bilingual polish
+polish c1
+polish c2
+polish b2
+czech speaker
+czech speakers
+czech speaking
+czech-speaking
+native czech
+czech native
+fluent czech
+czech fluent
+bilingual czech
+czech c1
+czech c2
+czech b2
+slovak speaker
+slovak speakers
+slovak speaking
+slovak-speaking
+native slovak
+slovak native
+fluent slovak
+slovak fluent
+bilingual slovak
+slovak c1
+slovak c2
+slovak b2
+hungarian speaker
+hungarian speakers
+hungarian speaking
+hungarian-speaking
+native hungarian
+hungarian native
+fluent hungarian
+hungarian fluent
+bilingual hungarian
+hungarian c1
+hungarian c2
+hungarian b2
+romanian speaker
+romanian speakers
+romanian speaking
+romanian-speaking
+native romanian
+romanian native
+fluent romanian
+romanian fluent
+bilingual romanian
+romanian c1
+romanian c2
+romanian b2
+bulgarian speaker
+bulgarian speakers
+bulgarian speaking
+bulgarian-speaking
+native bulgarian
+bulgarian native
+fluent bulgarian
+bulgarian fluent
+bilingual bulgarian
+bulgarian c1
+bulgarian c2
+bulgarian b2
+greek speaker
+greek speakers
+greek speaking
+greek-speaking
+native greek
+greek native
+fluent greek
+greek fluent
+bilingual greek
+greek c1
+greek c2
+greek b2
+russian speaker
+russian speakers
+russian speaking
+russian-speaking
+native russian
+russian native
+fluent russian
+russian fluent
+bilingual russian
+russian c1
+russian c2
+russian b2
+ukrainian speaker
+ukrainian speakers
+ukrainian speaking
+ukrainian-speaking
+native ukrainian
+ukrainian native
+fluent ukrainian
+ukrainian fluent
+bilingual ukrainian
+ukrainian c1
+ukrainian c2
+ukrainian b2
+arabic speaker
+arabic speakers
+arabic speaking
+arabic-speaking
+native arabic
+arabic native
+fluent arabic
+arabic fluent
+bilingual arabic
+arabic c1
+arabic c2
+arabic b2
+japanese speaker
+japanese speakers
+japanese speaking
+japanese-speaking
+native japanese
+japanese native
+fluent japanese
+japanese fluent
+bilingual japanese
+japanese c1
+japanese c2
+japanese b2
+korean speaker
+korean speakers
+korean speaking
+korean-speaking
+native korean
+korean native
+fluent korean
+korean fluent
+bilingual korean
+korean c1
+korean c2
+korean b2
+chinese speaker
+chinese speakers
+chinese speaking
+chinese-speaking
+native chinese
+chinese native
+fluent chinese
+chinese fluent
+bilingual chinese
+chinese c1
+chinese c2
+chinese b2
+mandarin speaker
+mandarin speakers
+mandarin speaking
+mandarin-speaking
+native mandarin
+mandarin native
+fluent mandarin
+mandarin fluent
+bilingual mandarin
+mandarin c1
+mandarin c2
+mandarin b2
+cantonese speaker
+cantonese speakers
+cantonese speaking
+cantonese-speaking
+native cantonese
+cantonese native
+fluent cantonese
+cantonese fluent
+bilingual cantonese
+cantonese c1
+cantonese c2
+cantonese b2
+flemish speaker
+flemish speakers
+flemish speaking
+flemish-speaking
+native flemish
+flemish native
+fluent flemish
+flemish fluent
+bilingual flemish
+flemish c1
+flemish c2
+flemish b2
+estonian speaker
+estonian speakers
+estonian speaking
+estonian-speaking
+native estonian
+estonian native
+fluent estonian
+estonian fluent
+bilingual estonian
+estonian c1
+estonian c2
+estonian b2
+latvian speaker
+latvian speakers
+latvian speaking
+latvian-speaking
+native latvian
+latvian native
+fluent latvian
+latvian fluent
+bilingual latvian
+latvian c1
+latvian c2
+latvian b2
+lithuanian speaker
+lithuanian speakers
+lithuanian speaking
+lithuanian-speaking
+native lithuanian
+lithuanian native
+fluent lithuanian
+lithuanian fluent
+bilingual lithuanian
+lithuanian c1
+lithuanian c2
+lithuanian b2
+slovenian speaker
+slovenian speakers
+slovenian speaking
+slovenian-speaking
+native slovenian
+slovenian native
+fluent slovenian
+slovenian fluent
+bilingual slovenian
+slovenian c1
+slovenian c2
+slovenian b2
+croatian speaker
+croatian speakers
+croatian speaking
+croatian-speaking
+native croatian
+croatian native
+fluent croatian
+croatian fluent
+bilingual croatian
+croatian c1
+croatian c2
+croatian b2
+serbian speaker
+serbian speakers
+serbian speaking
+serbian-speaking
+native serbian
+serbian native
+fluent serbian
+serbian fluent
+bilingual serbian
+serbian c1
+serbian c2
+serbian b2
+icelandic speaker
+icelandic speakers
+icelandic speaking
+icelandic-speaking
+native icelandic
+icelandic native
+fluent icelandic
+icelandic fluent
+bilingual icelandic
+icelandic c1
+icelandic c2
+icelandic b2
+catalan speaker
+catalan speakers
+catalan speaking
+catalan-speaking
+native catalan
+catalan native
+fluent catalan
+catalan fluent
+bilingual catalan
+catalan c1
+catalan c2
+catalan b2
+luxembourgish speaker
+luxembourgish speakers
+luxembourgish speaking
+luxembourgish-speaking
+native luxembourgish
+luxembourgish native
+fluent luxembourgish
+luxembourgish fluent
+bilingual luxembourgish
+luxembourgish c1
+luxembourgish c2
+luxembourgish b2
+alemao nativo
+alemao fluente
+fluente em alemao
+falante de alemao
+falantes de alemao
+lingua alemao
+holandes nativo
+holandes fluente
+fluente em holandes
+falante de holandes
+falantes de holandes
+lingua holandes
+italiano nativo
+italiano fluente
+fluente em italiano
+falante de italiano
+falantes de italiano
+lingua italiano
+espanhol nativo
+espanhol fluente
+fluente em espanhol
+falante de espanhol
+falantes de espanhol
+lingua espanhol
+hebraico nativo
+hebraico fluente
+fluente em hebraico
+falante de hebraico
+falantes de hebraico
+lingua hebraico
+dinamarques nativo
+dinamarques fluente
+fluente em dinamarques
+falante de dinamarques
+falantes de dinamarques
+lingua dinamarques
+sueco nativo
+sueco fluente
+fluente em sueco
+falante de sueco
+falantes de sueco
+lingua sueco
+norueges nativo
+norueges fluente
+fluente em norueges
+falante de norueges
+falantes de norueges
+lingua norueges
+finlandes nativo
+finlandes fluente
+fluente em finlandes
+falante de finlandes
+falantes de finlandes
+lingua finlandes
+polaco nativo
+polaco fluente
+fluente em polaco
+falante de polaco
+falantes de polaco
+lingua polaco
+grego nativo
+grego fluente
+fluente em grego
+falante de grego
+falantes de grego
+lingua grego
+russo nativo
+russo fluente
+fluente em russo
+falante de russo
+falantes de russo
+lingua russo
+arabe nativo
+arabe fluente
+fluente em arabe
+falante de arabe
+falantes de arabe
+lingua arabe
+japones nativo
+japones fluente
+fluente em japones
+falante de japones
+falantes de japones
+lingua japones
+chines nativo
+chines fluente
+fluente em chines
+falante de chines
+falantes de chines
+lingua chines
+romeno nativo
+romeno fluente
+fluente em romeno
+falante de romeno
+falantes de romeno
+lingua romeno
+hungaro nativo
+hungaro fluente
+fluente em hungaro
+falante de hungaro
+falantes de hungaro
+lingua hungaro
+checo nativo
+checo fluente
+fluente em checo
+falante de checo
+falantes de checo
+lingua checo
+
 # Fransizca akicilik sarti koyan ilanlari da elemek isterseniz
 # asagidaki satirlarin basindaki # isaretini silin.
 # DIKKAT: Annecy'de ilanlarin cogu Fransizca istiyor, bunlari acarsaniz
