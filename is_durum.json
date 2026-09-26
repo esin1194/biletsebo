@@ -809,12 +809,12 @@
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
-   "bos": 403,
+   "bos": 404,
    "uyarildi": true
   },
   "https://www.olx.pt/emprego/lisboa/q-english/?search%5Border%5D=created_at:desc": {
    "ilk": true,
-   "bos": 403,
+   "bos": 404,
    "uyarildi": true
   },
   "https://www.randstad.pt/empregos/lisboa/?q=english": {
@@ -824,7 +824,7 @@
   },
   "https://landing.jobs/jobs?location=Lisbon%2C%20Portugal": {
    "ilk": true,
-   "bos": 403,
+   "bos": 404,
    "uyarildi": true
   },
   "https://jobs.workable.com/search?query=english&location=Lisbon%2C%20Portugal": {
@@ -844,7 +844,7 @@
   },
   "https://remotive.com/remote-jobs/customer-support": {
    "ilk": true,
-   "bos": 403,
+   "bos": 404,
    "uyarildi": true
   }
  },
