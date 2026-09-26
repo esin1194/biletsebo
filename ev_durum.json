@@ -1386,7 +1386,8 @@
    "arrenda-se-t2-telheiras-lisboa-em-excelente-estado-IDJwNio",
    "arrenda-se-apartamento-IDJroGz",
    "arrendamento-apartamento-t1-1-IDJwNqz",
-   "apartamento-t2-na-idanha-equipado-com-electrodomsticos-IDJBxgF"
+   "apartamento-t2-na-idanha-equipado-com-electrodomsticos-IDJBxgF",
+   "viva-com-estilo-amplo-t3-em-ambiente-tranquilo-IDJ7Rfc"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2170,7 +2171,8 @@
    "apartments/847621",
    "apartments/847627",
    "apartments/848970",
-   "apartments/1506129"
+   "apartments/1506129",
+   "apartments/847603"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2650,7 +2652,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 37,
+   "bos": 38,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2692,7 +2694,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 4,
   "tekrar": 0
  },
  "imzalar": [
