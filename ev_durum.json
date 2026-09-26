@@ -1058,7 +1058,8 @@
    "apartamento-t2-para-arrendamento-ID1iV62",
    "apartamento-t1-para-arrendamento-ID1iV6X",
    "apartamento-t0-para-arrendamento-ID1iV6J",
-   "apartamento-t2-transformado-em-t1-totalmente-remodelado-em-sao-domin-ID1iV7m"
+   "apartamento-t2-transformado-em-t1-totalmente-remodelado-em-sao-domin-ID1iV7m",
+   "estudio-t0-com-alma-lisboeta-ID1iV1M"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2642,13 +2643,14 @@
    "1395476448160148981",
    "6116227",
    "1782600661919137534",
-   "1438992054342688077"
+   "1438992054342688077",
+   "52224321"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 33,
+   "bos": 34,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2690,7 +2692,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -3085,14 +3087,16 @@
   "89a4d286cbfcbee3",
   "91572a5b181ca902",
   "b55e9a5a24f086ab",
-  "ac339484b5843a8f"
+  "ac339484b5843a8f",
+  "b80a7c9125ffe987"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · Apartamento T1 para arrendamento · Rua Pedro Nunes, São Sebastião da Pedreira, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 38 m² · Andar · 2 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iV6X",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · Apartamento T0 para arrendamento · Rua José Anastácio da Cunha - Bairro da Serafina, Bairro da Liberdade, Campolide, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 41.66 m² · Andar · rés do chão · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-para-arrendamento-ID1iV6J",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T2 transformado em T1, totalmente remodelado, em São Domin · Estrada de Benfica, Fonte Nova - Calhariz, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 72 m² · Andar · 3 andar · CENTURY21 Polo Central II · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-transformado-em-t1-totalmente-remodelado-em-sao-domin-ID1iV7m",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nArrendamento apartamento T1+1 · 1.200 € · Carcavelos E Parede - Hoje às 19:19\nhttps://www.olx.pt/d/anuncio/arrendamento-apartamento-t1-1-IDJwNqz.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 30 OCT · star · 3.8 (29) · 1-bedroom apartment for rent in Lisbon. · From 2000 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1506129"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 30 OCT · star · 3.8 (29) · 1-bedroom apartment for rent in Lisbon. · From 2000 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1506129",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 17 · Apartamento ⋅ Lisboa · Studio Álvaro Castro 1C em Lisboa, da Lisbeyond · 1 quarto · 1 cama · 1 banheiro · $ 2.291 CAD · $ 2.216 CAD · Mostrar detalhamento de preço · mensal · Novo lugar para ficar · Novo · Foto 1 de 22 · Apartamento ⋅ Graça · O Estúdio e a Mansão ·…\nhttps://www.airbnb.com/rooms/52224321"
  ],
  "son_gonderim": "2026-09-26"
 }
