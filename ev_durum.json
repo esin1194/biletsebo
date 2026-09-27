@@ -1062,7 +1062,8 @@
    "estudio-t0-com-alma-lisboeta-ID1iV1M",
    "casa-terrea-ID1iV92",
    "arrendo-t2-duplex-ID1iV91",
-   "t2-com-terraco-em-campo-de-ourique-lisboa-ID1iV9a"
+   "t2-com-terraco-em-campo-de-ourique-lisboa-ID1iV9a",
+   "apartamento-t1-mobilado-ID1iV9O"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1394,7 +1395,8 @@
    "arrendo-t2-duplex-IDJBxSi",
    "casa-para-alugar-IDISD6a",
    "apartamento-t2-mobilado-em-moradia-com-entrada-privativa-cozinha-equipada-IDJygXp",
-   "t3-sete-rios-praa-de-espanha-ideal-para-estudantes-da-catolica-ou-do-polo-universitario-IDJy7KU"
+   "t3-sete-rios-praa-de-espanha-ideal-para-estudantes-da-catolica-ou-do-polo-universitario-IDJy7KU",
+   "excelente-estdio-t0-em-pao-de-arcos-remodelado-mobilado-e-com-vista-mar-rio-IDJyl9c"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2201,7 +2203,8 @@
    "apartments/666396",
    "apartments/1318255",
    "apartments/1641360",
-   "apartments/995350"
+   "apartments/995350",
+   "apartments/584977"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2683,7 +2686,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 75,
+   "bos": 76,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2725,7 +2728,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 20,
+  "elenen": 21,
   "tekrar": 0
  },
  "imzalar": [
@@ -3125,7 +3128,9 @@
   "825791d4da5c7e71",
   "3dfbfefef009fe92",
   "31c708557d120add",
-  "bf28030dd6cdac7e"
+  "bf28030dd6cdac7e",
+  "2332719eaf9d05c4",
+  "bca6ae210e451b76"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · Apartamento T1 para arrendamento · Rua Pedro Nunes, São Sebastião da Pedreira, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 38 m² · Andar · 2 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iV6X",
@@ -3137,7 +3142,9 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · Arrendo T2 duplex · Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 100 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendo-t2-duplex-ID1iV91",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nArrendo T2 duplex · 1.800 € · Negociável · Areeiro - Hoje às 23:30\nhttps://www.olx.pt/d/anuncio/arrendo-t2-duplex-IDJBxSi.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nCasa para alugar · 1.500 € · Santa Clara - Hoje às 00:18\nhttps://www.olx.pt/d/anuncio/casa-para-alugar-IDISD6a.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nCHECKED · APARTMENT · FROM 29 SEP · star · 5 (4) · 1-bedroom apartment for rent in Oeiras, Lisbon. · 1450 €/month · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1626536"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nCHECKED · APARTMENT · FROM 29 SEP · star · 5 (4) · 1-bedroom apartment for rent in Oeiras, Lisbon. · 1450 €/month · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1626536",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T1 Mobilado · Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 35 m² · Andar · 1 andar · Proposta Capital · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-ID1iV9O",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nExcelente estúdio T0 em Paço de Arcos remodelado, mobilado e com vista mar/rio! · 850 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 11:27\nhttps://www.olx.pt/d/anuncio/excelente-estdio-t0-em-pao-de-arcos-remodelado-mobilado-e-com-vista-mar-rio-IDJyl9c.html"
  ],
  "son_gonderim": "2026-09-26"
 }
