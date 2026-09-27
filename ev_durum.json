@@ -1061,7 +1061,8 @@
    "apartamento-t2-transformado-em-t1-totalmente-remodelado-em-sao-domin-ID1iV7m",
    "estudio-t0-com-alma-lisboeta-ID1iV1M",
    "casa-terrea-ID1iV92",
-   "arrendo-t2-duplex-ID1iV91"
+   "arrendo-t2-duplex-ID1iV91",
+   "t2-com-terraco-em-campo-de-ourique-lisboa-ID1iV9a"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2658,7 +2659,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 45,
+   "bos": 46,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2700,7 +2701,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 7,
   "tekrar": 0
  },
  "imzalar": [
