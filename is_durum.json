@@ -80,7 +80,9 @@
    "assistente-loja-mfx_alfragide_OTS-2026-179924",
    "eletromecanico-mfx_sao-joao-da-talha_OTS-2026-178715",
    "sap-sd-consultant_lisboa_DTS-2026-178626",
-   "fisioterapeuta-mfx_parede_PTS-2026-178526"
+   "fisioterapeuta-mfx_parede_PTS-2026-178526",
+   "accountant_lisboa_PTS-2026-177683",
+   "tax-compliance-mfx_lisboaporto_PTS-2026-177202"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -642,7 +644,8 @@
   "8ec8609b4d041fff",
   "cb42d15c78afedb4",
   "e1b430cfedc7be9b",
-  "bf5a009ea26840e2"
+  "bf5a009ea26840e2",
+  "7e1ba9c4fa681b32"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
@@ -709,7 +712,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 174,
+  "elenen": 175,
   "tekrar": 1
  }
 }
