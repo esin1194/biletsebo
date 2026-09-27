@@ -1064,7 +1064,8 @@
    "arrendo-t2-duplex-ID1iV91",
    "t2-com-terraco-em-campo-de-ourique-lisboa-ID1iV9a",
    "apartamento-t1-mobilado-ID1iV9O",
-   "apartamento-t2-para-arrendamento-ID1iVa6"
+   "apartamento-t2-para-arrendamento-ID1iVa6",
+   "arrendamento-residencial-t1-na-rua-francisco-lyon-de-castro-4-lisboa-ID1iVbz"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1404,7 +1405,10 @@
    "t2-lourinha-nadrupe-850-IDJBzLP",
    "apartamento-t2-serra-da-luz-IDJ0f3e",
    "apartamento-t1-mobilado-para-arrendar-em-odivelas-IDJBzzi",
-   "t1-em-reguengo-grande-lourinh-IDJBAD1"
+   "t1-em-reguengo-grande-lourinh-IDJBAD1",
+   "apartamento-t1-para-arrendar-em-pao-d-arcos-junto-da-praia-IDJBAEF",
+   "t3-p-arrendar-so-joo-do-estoril-torre-da-galiza-vista-mar-IDISHsp",
+   "t1-mobilado-perto-do-metro-em-zona-tranquila-odivelas-IDJBADg"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2698,7 +2702,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 95,
+   "bos": 96,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2740,7 +2744,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 2,
   "tekrar": 0
  },
  "imzalar": [
@@ -3147,11 +3151,15 @@
   "d1a817704836910c",
   "40d83c4020c8c93e",
   "f63ef1327535d8c0",
-  "90b8fae7151a88b6"
+  "90b8fae7151a88b6",
+  "653a9e7a6c76508b",
+  "c6b53121b6b1b5f7"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 mobilado para arrendar em Odivelas · 1.100 € · Odivelas - Hoje às 15:02\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-para-arrendar-em-odivelas-IDJBzzi.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 500 €\nT1, em Reguengo Grande, Lourinhã · 500 € · Reguengo Grande - Hoje às 18:21\nhttps://www.olx.pt/d/anuncio/t1-em-reguengo-grande-lourinh-IDJBAD1.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 500 €\nT1, em Reguengo Grande, Lourinhã · 500 € · Reguengo Grande - Hoje às 18:21\nhttps://www.olx.pt/d/anuncio/t1-em-reguengo-grande-lourinh-IDJBAD1.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 para Arrendar em Paço D’ Arcos, junto da praia · 1.100 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 18:26\nhttps://www.olx.pt/d/anuncio/apartamento-t1-para-arrendar-em-pao-d-arcos-junto-da-praia-IDJBAEF.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 Mobilado perto do Metro em Zona Tranquila, Odivelas · 1.100 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 18:24\nhttps://www.olx.pt/d/anuncio/t1-mobilado-perto-do-metro-em-zona-tranquila-odivelas-IDJBADg.html"
  ],
  "son_gonderim": "2026-09-27"
 }
