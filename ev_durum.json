@@ -1408,7 +1408,8 @@
    "t1-em-reguengo-grande-lourinh-IDJBAD1",
    "apartamento-t1-para-arrendar-em-pao-d-arcos-junto-da-praia-IDJBAEF",
    "t3-p-arrendar-so-joo-do-estoril-torre-da-galiza-vista-mar-IDISHsp",
-   "t1-mobilado-perto-do-metro-em-zona-tranquila-odivelas-IDJBADg"
+   "t1-mobilado-perto-do-metro-em-zona-tranquila-odivelas-IDJBADg",
+   "apartamento-t2-bem-localizado-IDJBAL7"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2696,13 +2697,14 @@
    "6116227",
    "1782600661919137534",
    "1438992054342688077",
-   "52224321"
+   "52224321",
+   "125848"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 96,
+   "bos": 97,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2722,7 +2724,7 @@
   },
   "https://housinganywhere.com/s/Lisbon--Portugal/apartment-for-rent": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.uniplaces.com/accommodation/lisbon": {
@@ -2744,7 +2746,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -3153,13 +3155,15 @@
   "f63ef1327535d8c0",
   "90b8fae7151a88b6",
   "653a9e7a6c76508b",
-  "c6b53121b6b1b5f7"
+  "c6b53121b6b1b5f7",
+  "d2c2e51bd8540a6a"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 mobilado para arrendar em Odivelas · 1.100 € · Odivelas - Hoje às 15:02\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-para-arrendar-em-odivelas-IDJBzzi.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 500 €\nT1, em Reguengo Grande, Lourinhã · 500 € · Reguengo Grande - Hoje às 18:21\nhttps://www.olx.pt/d/anuncio/t1-em-reguengo-grande-lourinh-IDJBAD1.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 para Arrendar em Paço D’ Arcos, junto da praia · 1.100 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 18:26\nhttps://www.olx.pt/d/anuncio/apartamento-t1-para-arrendar-em-pao-d-arcos-junto-da-praia-IDJBAEF.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 Mobilado perto do Metro em Zona Tranquila, Odivelas · 1.100 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 18:24\nhttps://www.olx.pt/d/anuncio/t1-mobilado-perto-do-metro-em-zona-tranquila-odivelas-IDJBADg.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 Mobilado perto do Metro em Zona Tranquila, Odivelas · 1.100 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 18:24\nhttps://www.olx.pt/d/anuncio/t1-mobilado-perto-do-metro-em-zona-tranquila-odivelas-IDJBADg.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 17 · Apartamento ⋅ Avenidas Novas · Studio Álvaro Castro 1C em Lisboa, da Lisbeyond · 1 quarto · 1 cama · $ 1.609 USD · $ 1.556 USD · Mostrar detalhamento de preço · mensal · Novo lugar para ficar · Novo · Foto 1 de 29 · Superhost · Apartamento ⋅ Penha de França · Casa …\nhttps://www.airbnb.com/rooms/125848"
  ],
  "son_gonderim": "2026-09-27"
 }
