@@ -1067,7 +1067,8 @@
    "apartamento-t2-para-arrendamento-ID1iVa6",
    "arrendamento-residencial-t1-na-rua-francisco-lyon-de-castro-4-lisboa-ID1iVbz",
    "arrendo-t0-laranjeiras-ID1iVc7",
-   "t2-renovado-e-mobilado-junto-a-praca-do-chile-ID1iVcw"
+   "t2-renovado-e-mobilado-junto-a-praca-do-chile-ID1iVcw",
+   "excelente-t3-telheiras-ID1f9kd"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2710,7 +2711,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 107,
+   "bos": 108,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2752,7 +2753,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 9,
   "tekrar": 0
  },
  "imzalar": [
