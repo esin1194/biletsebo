@@ -1414,7 +1414,8 @@
    "apartamento-t2-bem-localizado-IDJBAL7",
    "t1-oeiras-para-arrendamento-IDJBAPY",
    "t2-em-mem-martins-IDJBB5Q",
-   "estdio-em-alvide-cascais-IDJxdak"
+   "estdio-em-alvide-cascais-IDJxdak",
+   "t3-lisboa-cozinha-equipada-IDJwSOm"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2709,7 +2710,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 106,
+   "bos": 107,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2751,7 +2752,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
+  "elenen": 8,
   "tekrar": 0
  },
  "imzalar": [
