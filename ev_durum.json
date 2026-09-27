@@ -1412,7 +1412,8 @@
    "t1-mobilado-perto-do-metro-em-zona-tranquila-odivelas-IDJBADg",
    "apartamento-t2-bem-localizado-IDJBAL7",
    "t1-oeiras-para-arrendamento-IDJBAPY",
-   "t2-em-mem-martins-IDJBB5Q"
+   "t2-em-mem-martins-IDJBB5Q",
+   "estdio-em-alvide-cascais-IDJxdak"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2707,7 +2708,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 102,
+   "bos": 103,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2749,7 +2750,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
+  "elenen": 6,
   "tekrar": 0
  },
  "imzalar": [
