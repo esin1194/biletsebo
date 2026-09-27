@@ -1402,7 +1402,8 @@
    "apartamento-t1-para-arrendar-em-odivelas-IDJBzzi",
    "apartamento-de-4-ass-em-sintra-mem-martins-IDJmNTi",
    "t2-lourinha-nadrupe-850-IDJBzLP",
-   "apartamento-t2-serra-da-luz-IDJ0f3e"
+   "apartamento-t2-serra-da-luz-IDJ0f3e",
+   "apartamento-t1-mobilado-para-arrendar-em-odivelas-IDJBzzi"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2696,7 +2697,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 92,
+   "bos": 93,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3143,8 +3144,11 @@
   "bca6ae210e451b76",
   "d3b07732a237f760",
   "d1a817704836910c",
-  "40d83c4020c8c93e"
+  "40d83c4020c8c93e",
+  "f63ef1327535d8c0"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 mobilado para arrendar em Odivelas · 1.100 € · Odivelas - Hoje às 15:02\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-para-arrendar-em-odivelas-IDJBzzi.html"
+ ],
  "son_gonderim": "2026-09-27"
 }
