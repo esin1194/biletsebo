@@ -1065,7 +1065,8 @@
    "t2-com-terraco-em-campo-de-ourique-lisboa-ID1iV9a",
    "apartamento-t1-mobilado-ID1iV9O",
    "apartamento-t2-para-arrendamento-ID1iVa6",
-   "arrendamento-residencial-t1-na-rua-francisco-lyon-de-castro-4-lisboa-ID1iVbz"
+   "arrendamento-residencial-t1-na-rua-francisco-lyon-de-castro-4-lisboa-ID1iVbz",
+   "arrendo-t0-laranjeiras-ID1iVc7"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2705,7 +2706,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 98,
+   "bos": 99,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2747,7 +2748,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 4,
   "tekrar": 0
  },
  "imzalar": [
