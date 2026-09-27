@@ -1400,7 +1400,8 @@
    "excelente-estdio-t0-em-pao-de-arcos-remodelado-mobilado-e-com-vista-mar-rio-IDJyl9c",
    "t1-em-lisboa-para-temporada-a-5min-de-carro-do-colombo-IDJa5Mk",
    "apartamento-t1-para-arrendar-em-odivelas-IDJBzzi",
-   "apartamento-de-4-ass-em-sintra-mem-martins-IDJmNTi"
+   "apartamento-de-4-ass-em-sintra-mem-martins-IDJmNTi",
+   "t2-lourinha-nadrupe-850-IDJBzLP"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2694,7 +2695,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 86,
+   "bos": 87,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2736,7 +2737,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 26,
+  "elenen": 27,
   "tekrar": 0
  },
  "imzalar": [
