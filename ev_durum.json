@@ -1494,7 +1494,9 @@
    "t2-t3-agualva-cacem-IDJBDDs",
    "apartamento-t1-olaias-lisboa-IDJxcd5",
    "t2-para-arrendar-em-lisboa-campo-grande-entrecampos-totalmente-equipado-IDJBDLc",
-   "arrenda-se-apartamento-t2-t3-agualva-cacem-IDJBDDs"
+   "arrenda-se-apartamento-t2-t3-agualva-cacem-IDJBDDs",
+   "imvel-t-2-situado-em-santo-antonio-cavaleiros-paradela-IDJtqhj",
+   "aluga-se-casa-t2-IDJBDXn"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2794,13 +2796,15 @@
    "1438992054342688077",
    "52224321",
    "125848",
-   "18589969"
+   "18589969",
+   "1553795258651868796",
+   "30764428"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2842,8 +2846,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 35,
-  "tekrar": 2
+  "elenen": 36,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -3281,7 +3285,8 @@
   "2b8afff329c58396",
   "00757349b000a595",
   "afab45cbe4980409",
-  "ff0bed300e549c68"
+  "ff0bed300e549c68",
+  "8c8f046433378e77"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 mobilado para arrendar em Odivelas · 1.100 € · Odivelas - Hoje às 15:02\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-para-arrendar-em-odivelas-IDJBzzi.html",
@@ -3319,7 +3324,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nT0 com ar condicionado, mobiliário e excelente localização em Alvalade · 650 € · Alvalade - Hoje às 12:23\nhttps://www.olx.pt/d/anuncio/t0-com-ar-condicionado-mobilirio-e-excelente-localizao-em-alvalade-IDJBD94.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nT3 em Lisboa perto da Cidade Universitária · 1.350 € · Benfica - Hoje às 12:58\nhttps://www.olx.pt/d/anuncio/t3-em-lisboa-perto-da-cidade-universitria-IDJiXzz.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T3 mobilado com estacionamento, para arrendamento em Marvi · Lisboa, Bairro da Flamenga, Marvila, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 89 m² · Andar · 2 andar · Veigas Lx · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-mobilado-com-estacionamento-para-arrendamento-em-marvi-ID1iVke",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento T1, Olaias, Lisboa · 1.200 € · Negociável · Penha De França - Hoje às 14:50\nhttps://www.olx.pt/d/anuncio/apartamento-t1-olaias-lisboa-IDJxcd5.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento T1, Olaias, Lisboa · 1.200 € · Negociável · Penha De França - Hoje às 14:50\nhttps://www.olx.pt/d/anuncio/apartamento-t1-olaias-lisboa-IDJxcd5.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nAluga-se casa T2 · 1.000 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 15:21\nhttps://www.olx.pt/d/anuncio/aluga-se-casa-t2-IDJBDXn.html"
  ],
  "son_gonderim": "2026-09-27"
 }
