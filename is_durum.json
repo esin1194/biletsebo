@@ -121,7 +121,9 @@
    "sales-assistant-mfx_cascais_OTS-2026-184443",
    "assistente-comercial-mfx_lisboa-quinta-lambert_OTS-2026-184774",
    "assistente-relacionamento-a-clientes-m-f-x_lisboa_OTS-2026-183861",
-   "operador-de-armazem-parttime-mfx-manha-06h4511h45_lisboa-povoa-de-santa-iria_OTS-2026-181350"
+   "operador-de-armazem-parttime-mfx-manha-06h4511h45_lisboa-povoa-de-santa-iria_OTS-2026-181350",
+   "assistente-executivo-mfx_lisboa_PTS-2026-179513",
+   "responsavel-oficial-eletricista-mfx_lisboa_OTS-2026-179673"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -691,12 +693,13 @@
   "bf5a009ea26840e2",
   "7e1ba9c4fa681b32",
   "affc5e1008e6d224",
-  "e049fbd8d7a4a5ce"
+  "e049fbd8d7a4a5ce",
+  "de8c164fcd5979f7"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 10,
+   "bos": 11,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -758,7 +761,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 217,
+  "elenen": 218,
   "tekrar": 1
  }
 }
