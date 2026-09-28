@@ -119,7 +119,9 @@
    "store-manager_lisboa_OTS-2026-183405",
    "vendedor-interno-especialista-de-produto-mfx_lisboa_PTS-2026-178781",
    "sales-assistant-mfx_cascais_OTS-2026-184443",
-   "assistente-comercial-mfx_lisboa-quinta-lambert_OTS-2026-184774"
+   "assistente-comercial-mfx_lisboa-quinta-lambert_OTS-2026-184774",
+   "assistente-relacionamento-a-clientes-m-f-x_lisboa_OTS-2026-183861",
+   "operador-de-armazem-parttime-mfx-manha-06h4511h45_lisboa-povoa-de-santa-iria_OTS-2026-181350"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -694,7 +696,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -756,7 +758,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 215,
+  "elenen": 217,
   "tekrar": 1
  }
 }
