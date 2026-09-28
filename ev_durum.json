@@ -1502,7 +1502,8 @@
    "imvel-t-2-situado-em-santo-antonio-cavaleiros-paradela-IDJtqhj",
    "aluga-se-casa-t2-IDJBDXn",
    "t1-1-para-arrendar-c-quintal-na-rua-de-so-bento-lisboa-IDJBy2b",
-   "apartamento-t1-1-totalmente-renovado-e-mobilado-no-prncipe-real-IDISMdJ"
+   "apartamento-t1-1-totalmente-renovado-e-mobilado-no-prncipe-real-IDISMdJ",
+   "t2-1-renovado-transformado-em-t1-1-grande-centro-amadora-5-min-a-p-da-estao-IDJqEPl"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2644,7 +2645,8 @@
    "844624",
    "178761",
    "79718",
-   "158093"
+   "158093",
+   "79716"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2817,7 +2819,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 11,
+   "bos": 12,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2859,7 +2861,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 5,
   "tekrar": 0
  },
  "imzalar": [
