@@ -1134,7 +1134,8 @@
    "apartamento-t3-arrendamento-em-olivais-lisboa-ID1iVpG",
    "t1-1-para-arrendar-c-quintal-na-rua-de-sao-bento-lisboa-ID1iVqI",
    "t1-1-na-rua-da-fe-para-arrendar-metro-avenida-2-andar-ID1iVqq",
-   "t2-renovado-com-vista-rio-em-lisboa-ajuda-EUR1-200-mes-ID1iVrR"
+   "t2-renovado-com-vista-rio-em-lisboa-ajuda-EUR1-200-mes-ID1iVrR",
+   "t0-em-alvalade-com-ar-condicionado-e-elevador-ID1iVuf"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2820,7 +2821,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 13,
+   "bos": 14,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3305,10 +3306,12 @@
   "8c8f046433378e77",
   "720d094bddbb227f",
   "b2f02938a9896d8a",
-  "394a07de5f977ab5"
+  "394a07de5f977ab5",
+  "c690100503372400"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nEstudio Campolide c/ despesas incluídas · 1.100 € · Campolide - Hoje às 18:18\nhttps://www.olx.pt/d/anuncio/estudio-campolide-c-despesas-includas-IDIJbUK.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nEstudio Campolide c/ despesas incluídas · 1.100 € · Campolide - Hoje às 18:18\nhttps://www.olx.pt/d/anuncio/estudio-campolide-c-despesas-includas-IDIJbUK.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 580 €\n580 € · 23,20 €/m² · T0 em Alvalade com ar condicionado e elevador · Rua Moniz Barreto, Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 25 m² · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-em-alvalade-com-ar-condicionado-e-elevador-ID1iVuf"
  ],
  "son_gonderim": "2026-09-28"
 }
