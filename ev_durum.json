@@ -1130,7 +1130,8 @@
    "t2-nas-laranjeiras-condominio-galhardas-ID1iViz",
    "apartamento-t3-mobilado-com-estacionamento-para-arrendamento-em-marvi-ID1iVke",
    "apartamento-t2-sem-mobilia-belem-EUR1-400-mes-ID1iVkE",
-   "arrenda-se-t1-totalmente-renovado-a-2-minutos-a-pe-do-largo-de-santos-ID1iVkD"
+   "arrenda-se-t1-totalmente-renovado-a-2-minutos-a-pe-do-largo-de-santos-ID1iVkD",
+   "apartamento-t3-arrendamento-em-olivais-lisboa-ID1iVpG"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2632,7 +2633,11 @@
    "894140",
    "887512",
    "894160",
-   "894192"
+   "894192",
+   "444499",
+   "128238",
+   "844624",
+   "178761"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2805,7 +2810,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2847,7 +2852,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 36,
+  "elenen": 41,
   "tekrar": 4
  },
  "imzalar": [
