@@ -107,7 +107,8 @@
    "eletricista-mfx_porto-salvo_OTS-2026-179335",
    "operador-de-armazem-polivalente_sacavem_OTS-2026-183740",
    "identity-access-management-iam-specialist_porto-lisboa-braga-hibrido_DTS-2026-184733",
-   "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-179546"
+   "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-179546",
+   "contabilista-certificado_lisboa_PTS-2025-166911"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -681,8 +682,8 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -743,7 +744,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 202,
+  "elenen": 203,
   "tekrar": 1
  }
 }
