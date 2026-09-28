@@ -82,7 +82,14 @@
    "sap-sd-consultant_lisboa_DTS-2026-178626",
    "fisioterapeuta-mfx_parede_PTS-2026-178526",
    "accountant_lisboa_PTS-2026-177683",
-   "tax-compliance-mfx_lisboaporto_PTS-2026-177202"
+   "tax-compliance-mfx_lisboaporto_PTS-2026-177202",
+   "empregado-de-bar-mfx_lisboa-av-duque-de-avila_OTS-2026-183438",
+   "buyer-claim-support-agent-french-speaker-mfx_lisbon-hybrid_OTS-2026-183705",
+   "assistente-de-loja_lisboa_OTS-2026-183681",
+   "project-controlling_lisboa_PTS-2026-183678",
+   "conseiller-support-client-francophone-hfx_teletravail-portugal_OTS-2026-183676",
+   "empregado-de-bar-mfx_lisboa-antonio-augusto-aguiar_OTS-2026-183544",
+   "motorista-de-distribuicao_vialonga_OTS-2026-182524"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -712,7 +719,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 175,
+  "elenen": 182,
   "tekrar": 1
  }
 }
