@@ -116,7 +116,10 @@
    "motorista-executivo_lisboa_OTS-2026-184748",
    "tecnico-de-nutricao-mxf_olivais_OTS-2026-184765",
    "operador-de-armazem-mfx_fajozes-vila-do-conde_OTS-2026-184773",
-   "store-manager_lisboa_OTS-2026-183405"
+   "store-manager_lisboa_OTS-2026-183405",
+   "vendedor-interno-especialista-de-produto-mfx_lisboa_PTS-2026-178781",
+   "sales-assistant-mfx_cascais_OTS-2026-184443",
+   "assistente-comercial-mfx_lisboa-quinta-lambert_OTS-2026-184774"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -691,7 +694,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -753,7 +756,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 212,
+  "elenen": 215,
   "tekrar": 1
  }
 }
