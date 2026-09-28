@@ -653,7 +653,20 @@
    "35357156",
    "35362300",
    "35360998",
-   "35031463"
+   "35031463",
+   "35362518",
+   "35364185",
+   "35364195",
+   "35364233",
+   "35307437",
+   "34943926",
+   "35363063",
+   "35363080",
+   "35362716",
+   "35362790",
+   "35362582",
+   "35362581",
+   "35362599"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1505,7 +1518,9 @@
    "t1-1-para-arrendar-c-quintal-na-rua-de-so-bento-lisboa-IDJBy2b",
    "apartamento-t1-1-totalmente-renovado-e-mobilado-no-prncipe-real-IDISMdJ",
    "t2-1-renovado-transformado-em-t1-1-grande-centro-amadora-5-min-a-p-da-estao-IDJqEPl",
-   "estudio-campolide-c-despesas-includas-IDIJbUK"
+   "estudio-campolide-c-despesas-includas-IDIJbUK",
+   "t1-central-remodelado-semi-equipado-rua-morais-soares-lisboa-IDJtLOA",
+   "t2-para-arrendamento-IDJBFHF"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2821,8 +2836,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 14,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2863,7 +2878,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
+  "elenen": 8,
   "tekrar": 0
  },
  "imzalar": [
@@ -3307,11 +3322,30 @@
   "720d094bddbb227f",
   "b2f02938a9896d8a",
   "394a07de5f977ab5",
-  "c690100503372400"
+  "c690100503372400",
+  "6df2351486b70217",
+  "1b242883b144bc0e",
+  "23698106111d3e19",
+  "d3ded2dae06db254",
+  "ff6e600b8f356630",
+  "d167b27f118f6479",
+  "e850ed7f8d73dcc5",
+  "d37e3399aed6b6d4",
+  "68f6e0ec1f1722c2"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nEstudio Campolide c/ despesas incluídas · 1.100 € · Campolide - Hoje às 18:18\nhttps://www.olx.pt/d/anuncio/estudio-campolide-c-despesas-includas-IDIJbUK.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 580 €\n580 € · 23,20 €/m² · T0 em Alvalade com ar condicionado e elevador · Rua Moniz Barreto, Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 25 m² · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-em-alvalade-com-ar-condicionado-e-elevador-ID1iVuf"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 580 €\n580 € · 23,20 €/m² · T0 em Alvalade com ar condicionado e elevador · Rua Moniz Barreto, Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 25 m² · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-em-alvalade-com-ar-condicionado-e-elevador-ID1iVuf",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.400 €\nApartamento T2 na Calçada dos Barbadinhos, Santa Engrácia, São Vicente · 1.400€/mês · T2 62 m² área bruta sem elevador 6 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35362518/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.390 €\nApartamento T1 na Rua dos Remédios, Alfama, Santa Maria Maior · 1.390€/mês · T1 50 m² área bruta sem elevador 17 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35364185/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 870 €\nApartamento T0 no Beco João Alves, Rio Seco - Casalinho, Ajuda · 870€/mês · T0 26 m² área bruta sem elevador 17 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAME…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35364195/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 925 €\nApartamento T1 na Rua Montepio Geral, Estrada de Benfica, São Domingos de Benfica · 925€/mês · T1 44 m² área bruta sem elevador 17 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E C…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35364233/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Rua de São Nicolau, 23, Baixa, Santa Maria Maior · 1.300€/mês · T1 55 m² área bruta 5º andar com elevador 2 horas · T1 (MOBILADO) para Arrendamento - Baixa-Chiado Apartamento T1 com cerca de (ÁREA) m², situado numa zona central, com excelente proximidade a comér…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35307437/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 650 €\nApartamento T0 na Rua da Manutenção, 16, Beato · 650€/mês · T0 18 m² área bruta Rés do chão sem elevador 4 horas · Ideal para estudante ou profissional deslocado. Dentro de Lisboa Transportes públicos à porta Facilidade de estacionamento. 10 minutos aeroporto 10 minutos estação c…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34943926/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.250 €\nApartamento T1 na Rua dos Lagares, 25, Mouraria - Castelo, Santa Maria Maior · 1.250€/mês · Garagem opc. 100 €/mês T1 55 m² área bruta 1º andar sem elevador 6 horas · Apartamento disponivel a 1 de Novembro. VISITAS NO DIA 7 de Outubro. Morada: Rua dos Lagares 25 1ºESQ Apartamento…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35362716/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T3 na Rua de São Mamede, 30, Alfama, Santa Maria Maior · 1.800€/mês · T3 115 m² área bruta 1º andar sem elevador 6 horas · 3 quartos, bela vista para a Baixa, gás natural, bem decorado, água, luz e gás incluídos, estadia mínima de um mês. · Arrendamento temporário · C…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35362790/",
+  "…ve <b>Idealista</b> sitesinde 3 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 central remodelado semi equipado rua Morais Soares Lisboa · 1.100 € · Negociável · Beato - Hoje às 19:09\nhttps://www.olx.pt/d/anuncio/t1-central-remodelado-semi-equipado-rua-morais-soares-lisboa-IDJtLOA.html"
  ],
  "son_gonderim": "2026-09-28"
 }
