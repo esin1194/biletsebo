@@ -264,7 +264,11 @@
    "83870816",
    "83870787",
    "83870923",
-   "79587043"
+   "79587043",
+   "81837339",
+   "78487752",
+   "75051638",
+   "81850308"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -416,7 +420,9 @@
   "4e12159890902136",
   "e8c154066900a227",
   "9d53b576cad5e1a2",
-  "c1d1e699f6de0c0e"
+  "c1d1e699f6de0c0e",
+  "c388bf7b2d7a56e5",
+  "c66a4a2797f5d5ac"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -473,7 +479,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 2,
-  "tekrar": 13
+  "elenen": 3,
+  "tekrar": 14
  }
 }
