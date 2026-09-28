@@ -1101,7 +1101,9 @@
    "apartamento-t0-para-arrendamento-ID1iVed",
    "apartamento-t5-com-elevador-e-varanda-em-entrecampos-ID1iVeV",
    "laranjeiras-sete-rios-ID1iVeA",
-   "t1-moderno-com-varanda-elevador-e-ar-condicionado-ID1iVfk"
+   "t1-moderno-com-varanda-elevador-e-ar-condicionado-ID1iVfk",
+   "apartamento-t1-com-garagem-e-varanda-no-areeiro-ID1iVgQ",
+   "excelente-t1-com-terraco-em-s-domingos-de-benfica-ID1iVgk"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1454,7 +1456,8 @@
    "arrendamento-de-t0-IDJizGD",
    "t2-remodelado-e-equipado-IDJBCx8",
    "anuciar-um-apartamento-para-arrendamento-IDJy3bA",
-   "apartamento-t1-metro-ameixoeira-disponvel-para-outubro-IDJmXei"
+   "apartamento-t1-metro-ameixoeira-disponvel-para-outubro-IDJmXei",
+   "apartamento-t1-s-por-chamada-de-voz-IDJBCHm"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2587,7 +2590,8 @@
    "894142",
    "894141",
    "894140",
-   "887512"
+   "887512",
+   "894160"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2757,7 +2761,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2799,7 +2803,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 19,
+  "elenen": 22,
   "tekrar": 1
  },
  "imzalar": [
@@ -3224,7 +3228,8 @@
   "c2af61fdd88ed837",
   "b473fbd5a2210665",
   "42734cc184150417",
-  "811ccb9c5918a637"
+  "811ccb9c5918a637",
+  "29fd528693ee3f3a"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 mobilado para arrendar em Odivelas · 1.100 € · Odivelas - Hoje às 15:02\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-para-arrendar-em-odivelas-IDJBzzi.html",
@@ -3247,7 +3252,8 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.260 €\nAPARTMENT · FROM 02 NOV · star · 5 (2) · 1-bedroom apartment for rent in Lisbon · 1260 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1712904",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Laranjeiras / Sete Rios · Estrada das Laranjeiras, Laranjeiras, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 22 m² · Andar · rés do chão · ERA Laranjeiras · Profissional\nhttps://www.imovirtual.com/pt/anuncio/laranjeiras-sete-rios-ID1iVeA",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento T1, metro Ameixoeira disponível para Outubro · 1.150 € · Lumiar - Hoje às 10:38\nhttps://www.olx.pt/d/anuncio/apartamento-t1-metro-ameixoeira-disponvel-para-outubro-IDJmXei.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nAPARTMENT · FROM 01 OCT · 1-bedroom apartment in Almada, Lisbon · 1300 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1706113"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nAPARTMENT · FROM 01 OCT · 1-bedroom apartment in Almada, Lisbon · 1300 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1706113",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T1 ( Só por chamada de voz) · 750 € · Agualva E Mira-Sintra - Hoje às 10:53\nhttps://www.olx.pt/d/anuncio/apartamento-t1-s-por-chamada-de-voz-IDJBCHm.html"
  ],
  "son_gonderim": "2026-09-27"
 }
