@@ -1133,7 +1133,8 @@
    "arrenda-se-t1-totalmente-renovado-a-2-minutos-a-pe-do-largo-de-santos-ID1iVkD",
    "apartamento-t3-arrendamento-em-olivais-lisboa-ID1iVpG",
    "t1-1-para-arrendar-c-quintal-na-rua-de-sao-bento-lisboa-ID1iVqI",
-   "t1-1-na-rua-da-fe-para-arrendar-metro-avenida-2-andar-ID1iVqq"
+   "t1-1-na-rua-da-fe-para-arrendar-metro-avenida-2-andar-ID1iVqq",
+   "t2-renovado-com-vista-rio-em-lisboa-ajuda-EUR1-200-mes-ID1iVrR"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2641,7 +2642,9 @@
    "444499",
    "128238",
    "844624",
-   "178761"
+   "178761",
+   "79718",
+   "158093"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2814,7 +2817,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 10,
+   "bos": 11,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2856,7 +2859,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
