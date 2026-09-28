@@ -1489,7 +1489,9 @@
    "t3-em-lisboa-perto-da-cidade-universitria-IDJiXzz",
    "t1-renovado-no-prior-velho-IDJjUee",
    "t2-centro-de-odivelas-mobilado-IDJBDnD",
-   "apartamento-t2-sem-moblia-belm-1-400-ms-IDJBDvl"
+   "apartamento-t2-sem-moblia-belm-1-400-ms-IDJBDvl",
+   "t2-para-arrendar-em-lisboa-campo-grande-lumiar-totalmente-equipado-IDJBDKa",
+   "t2-t3-agualva-cacem-IDJBDDs"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2794,7 +2796,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2836,7 +2838,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 30,
+  "elenen": 32,
   "tekrar": 2
  },
  "imzalar": [
