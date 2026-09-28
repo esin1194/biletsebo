@@ -16,7 +16,11 @@
    "15941883/pintor-automovel-goios",
    "16026332/conselheiro-comercial-viaturas-usadas-guimaraes",
    "15862563/assistente-de-vendas-braga",
-   "11751581/apoio-ao-cliente-braga"
+   "11751581/apoio-ao-cliente-braga",
+   "15974830/procuramos-pintor-preparador-com-ou-sem-experiencia-para-oficina-automovel",
+   "15873722/domestica-para-cozinhar-compras-e-logistica-em-casa-particular",
+   "15941198/apoio-a-manutencao",
+   "15946758/engenheiro-civil-m-f-fiscalizacao-de-obras-guimaraes-fafe-trofa-porto"
   ],
   "emprego.sapo.pt": [],
   "olx.pt": [],
@@ -701,8 +705,8 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 15,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -763,7 +767,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 220,
+  "elenen": 224,
   "tekrar": 1
  }
 }
