@@ -1148,7 +1148,8 @@
    "t1-1-para-arrendar-c-quintal-na-rua-de-sao-bento-lisboa-ID1iVqI",
    "t1-1-na-rua-da-fe-para-arrendar-metro-avenida-2-andar-ID1iVqq",
    "t2-renovado-com-vista-rio-em-lisboa-ajuda-EUR1-200-mes-ID1iVrR",
-   "t0-em-alvalade-com-ar-condicionado-e-elevador-ID1iVuf"
+   "t0-em-alvalade-com-ar-condicionado-e-elevador-ID1iVuf",
+   "apartamento-arrendar-em-lisboa-t4-ID1iVwT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1521,7 +1522,8 @@
    "estudio-campolide-c-despesas-includas-IDIJbUK",
    "t1-central-remodelado-semi-equipado-rua-morais-soares-lisboa-IDJtLOA",
    "t2-para-arrendamento-IDJBFHF",
-   "alugo-t0-novo-sintra-IDJBFWD"
+   "alugo-t0-novo-sintra-IDJBFWD",
+   "apartamento-arrendar-em-lisboa-t4-IDJBG6W"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2837,7 +2839,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2879,7 +2881,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 9,
   "tekrar": 0
  },
  "imzalar": [
@@ -3333,7 +3335,8 @@
   "e850ed7f8d73dcc5",
   "d37e3399aed6b6d4",
   "68f6e0ec1f1722c2",
-  "82a826b84f2ce1ef"
+  "82a826b84f2ce1ef",
+  "a0ee05b5255d337a"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nEstudio Campolide c/ despesas incluídas · 1.100 € · Campolide - Hoje às 18:18\nhttps://www.olx.pt/d/anuncio/estudio-campolide-c-despesas-includas-IDIJbUK.html",
@@ -3348,7 +3351,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T3 na Rua de São Mamede, 30, Alfama, Santa Maria Maior · 1.800€/mês · T3 115 m² área bruta 1º andar sem elevador 6 horas · 3 quartos, bela vista para a Baixa, gás natural, bem decorado, água, luz e gás incluídos, estadia mínima de um mês. · Arrendamento temporário · C…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35362790/",
   "…ve <b>Idealista</b> sitesinde 3 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 central remodelado semi equipado rua Morais Soares Lisboa · 1.100 € · Negociável · Beato - Hoje às 19:09\nhttps://www.olx.pt/d/anuncio/t1-central-remodelado-semi-equipado-rua-morais-soares-lisboa-IDJtLOA.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nAlugo T0 Novo Sintra · 600 € · Sintra - Hoje às 20:03\nhttps://www.olx.pt/d/anuncio/alugo-t0-novo-sintra-IDJBFWD.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nAlugo T0 Novo Sintra · 600 € · Sintra - Hoje às 20:03\nhttps://www.olx.pt/d/anuncio/alugo-t0-novo-sintra-IDJBFWD.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nApartamento arrendar em Lisboa T4 · 1.350 € · Avenidas Novas - Hoje às 20:56\nhttps://www.olx.pt/d/anuncio/apartamento-arrendar-em-lisboa-t4-IDJBG6W.html"
  ],
  "son_gonderim": "2026-09-28"
 }
