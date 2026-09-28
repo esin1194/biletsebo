@@ -1131,7 +1131,9 @@
    "apartamento-t3-mobilado-com-estacionamento-para-arrendamento-em-marvi-ID1iVke",
    "apartamento-t2-sem-mobilia-belem-EUR1-400-mes-ID1iVkE",
    "arrenda-se-t1-totalmente-renovado-a-2-minutos-a-pe-do-largo-de-santos-ID1iVkD",
-   "apartamento-t3-arrendamento-em-olivais-lisboa-ID1iVpG"
+   "apartamento-t3-arrendamento-em-olivais-lisboa-ID1iVpG",
+   "t1-1-para-arrendar-c-quintal-na-rua-de-sao-bento-lisboa-ID1iVqI",
+   "t1-1-na-rua-da-fe-para-arrendar-metro-avenida-2-andar-ID1iVqq"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1497,7 +1499,9 @@
    "t2-para-arrendar-em-lisboa-campo-grande-entrecampos-totalmente-equipado-IDJBDLc",
    "arrenda-se-apartamento-t2-t3-agualva-cacem-IDJBDDs",
    "imvel-t-2-situado-em-santo-antonio-cavaleiros-paradela-IDJtqhj",
-   "aluga-se-casa-t2-IDJBDXn"
+   "aluga-se-casa-t2-IDJBDXn",
+   "t1-1-para-arrendar-c-quintal-na-rua-de-so-bento-lisboa-IDJBy2b",
+   "apartamento-t1-1-totalmente-renovado-e-mobilado-no-prncipe-real-IDISMdJ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2810,7 +2814,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2852,8 +2856,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 41,
-  "tekrar": 4
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -3293,47 +3297,9 @@
   "afab45cbe4980409",
   "ff0bed300e549c68",
   "8c8f046433378e77",
-  "720d094bddbb227f"
+  "720d094bddbb227f",
+  "b2f02938a9896d8a"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 mobilado para arrendar em Odivelas · 1.100 € · Odivelas - Hoje às 15:02\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-para-arrendar-em-odivelas-IDJBzzi.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 500 €\nT1, em Reguengo Grande, Lourinhã · 500 € · Reguengo Grande - Hoje às 18:21\nhttps://www.olx.pt/d/anuncio/t1-em-reguengo-grande-lourinh-IDJBAD1.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 para Arrendar em Paço D’ Arcos, junto da praia · 1.100 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 18:26\nhttps://www.olx.pt/d/anuncio/apartamento-t1-para-arrendar-em-pao-d-arcos-junto-da-praia-IDJBAEF.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 Mobilado perto do Metro em Zona Tranquila, Odivelas · 1.100 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 18:24\nhttps://www.olx.pt/d/anuncio/t1-mobilado-perto-do-metro-em-zona-tranquila-odivelas-IDJBADg.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 17 · Apartamento ⋅ Avenidas Novas · Studio Álvaro Castro 1C em Lisboa, da Lisbeyond · 1 quarto · 1 cama · $ 1.609 USD · $ 1.556 USD · Mostrar detalhamento de preço · mensal · Novo lugar para ficar · Novo · Foto 1 de 29 · Superhost · Apartamento ⋅ Penha de França · Casa …\nhttps://www.airbnb.com/rooms/125848",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nT1 Oeiras para arrendamento · 950 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 19:00\nhttps://www.olx.pt/d/anuncio/t1-oeiras-para-arrendamento-IDJBAPY.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nApartamento T4 na Venda Nova Amadora · 1.600 € · Falagueira-Venda Nova - Hoje às 22:48\nhttps://www.olx.pt/d/anuncio/apartamento-t4-na-venda-nova-amadora-IDJmQKV.html",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T2 em Campo Amoreiras, 113, Santa Clara · 1.200€/mês · T2 65 m² área bruta Rés do chão sem elevador 41 minutos · Alugo Casa Antiga em Lisboa Remodelada recentemente Trata-se do R/c de uma moradia centenária composta por: - 2 quartos com roupeiros, janelas vidro duplo …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35362069/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.100 €\nApartamento T1 na Rua Alexandre de Sá Pinto, Centro de Belém, Belém · 1.100€/mês · T1 43 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361126/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T1 na Rua Luz Soriano, Bairro Alto, Misericórdia · 1.000€/mês · T1 50 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361010/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T1 na Rua Luís Monteiro, Bairro dos Actores - Barão Sabrosa, Penha de França · 1.000€/mês · T1 44 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361038/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 900 €\nApartamento T1 na Rua de Entre Muros do Mirante, São Vicente de Fora, São Vicente · 900€/mês · T1 36 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E COND…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361046/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 895 €\nApartamento T0 na Rua República da Bolívia, Avenida do Uruguai, Benfica · 895€/mês · T0 20 m² área bruta com elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE A…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35360959/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.700 €\nApartamento T1 na Avenida de Berlim, Olivais · 1.700€/mês · T1 43 m² área bruta com elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Data de Disp…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361958/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.805 €\nApartamento T2 no Calçada dos Mestres, Centro, Campolide · 1.805€/mês · T2 80 m² área bruta com elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - …\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361940/",
-  "…ve <b>Idealista</b> sitesinde 20 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 780 €\nArrendamento de t0 · 780 € · Negociável · Cacém E São Marcos - Hoje às 01:25\nhttps://www.olx.pt/d/anuncio/arrendamento-de-t0-IDJizGD.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.260 €\nAPARTMENT · FROM 02 NOV · star · 5 (2) · 1-bedroom apartment for rent in Lisbon · 1260 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1712904",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Laranjeiras / Sete Rios · Estrada das Laranjeiras, Laranjeiras, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 22 m² · Andar · rés do chão · ERA Laranjeiras · Profissional\nhttps://www.imovirtual.com/pt/anuncio/laranjeiras-sete-rios-ID1iVeA",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento T1, metro Ameixoeira disponível para Outubro · 1.150 € · Lumiar - Hoje às 10:38\nhttps://www.olx.pt/d/anuncio/apartamento-t1-metro-ameixoeira-disponvel-para-outubro-IDJmXei.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nAPARTMENT · FROM 01 OCT · 1-bedroom apartment in Almada, Lisbon · 1300 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1706113",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T1 ( Só por chamada de voz) · 750 € · Agualva E Mira-Sintra - Hoje às 10:53\nhttps://www.olx.pt/d/anuncio/apartamento-t1-s-por-chamada-de-voz-IDJBCHm.html",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 2.000 €\nApartamento T2 na Rua Jacinta Marto, Anjos, Arroios · 2.000€/mês · T2 62 m² área bruta sem elevador 55 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Da…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361047/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.950 €\nApartamento T2 na Rua do Cabo, Santa Isabel, Campo de Ourique · 1.950€/mês · T2 75 m² área bruta sem elevador 55 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361116/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.600 €\nApartamento T2 na Rua da Beneficência, Entrecampos, Avenidas Novas · 1.600€/mês · T2 65 m² área bruta sem elevador 56 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE A…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361028/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.590 €\nApartamento T1 na Rua Lucinda Simões, Alameda - Praça do Chile - Almirante Reis, Arroios · 1.590€/mês · T1 43 m² área bruta sem elevador 56 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. T…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361037/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T2 na Rua do Passadiço, Campo de Santana - Santa Marta, Santo António · 1.500€/mês · T2 63 m² área bruta sem elevador 56 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361071/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T1 no Beco dos Ramos, Alfama, Santa Maria Maior · 1.500€/mês · T1 60 m² área bruta sem elevador 56 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMEN…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361123/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.450 €\nApartamento T0 na Calçada de Salvador Correia de Sá, Santa Catarina, Misericórdia · 1.450€/mês · T0 24 m² área bruta sem elevador 56 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361072/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.350 €\nApartamento T2 na Calçada de Sant'Ana, Pena, Arroios · 1.350€/mês · T2 63 m² área bruta sem elevador 56 minutos · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - D…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361139/",
-  "…ve <b>Idealista</b> sitesinde 12 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 650 €\n650 € · T0 com ar condicionado, mobiliário e excelente localização em Alvalade · Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 31 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-com-ar-condicionado-mobiliario-e-excelente-localizacao-em-alvalade-ID1iViV",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nT0 com ar condicionado, mobiliário e excelente localização em Alvalade · 650 € · Alvalade - Hoje às 12:23\nhttps://www.olx.pt/d/anuncio/t0-com-ar-condicionado-mobilirio-e-excelente-localizao-em-alvalade-IDJBD94.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nT3 em Lisboa perto da Cidade Universitária · 1.350 € · Benfica - Hoje às 12:58\nhttps://www.olx.pt/d/anuncio/t3-em-lisboa-perto-da-cidade-universitria-IDJiXzz.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T3 mobilado com estacionamento, para arrendamento em Marvi · Lisboa, Bairro da Flamenga, Marvila, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 89 m² · Andar · 2 andar · Veigas Lx · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-mobilado-com-estacionamento-para-arrendamento-em-marvi-ID1iVke",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento T1, Olaias, Lisboa · 1.200 € · Negociável · Penha De França - Hoje às 14:50\nhttps://www.olx.pt/d/anuncio/apartamento-t1-olaias-lisboa-IDJxcd5.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nAluga-se casa T2 · 1.000 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 15:21\nhttps://www.olx.pt/d/anuncio/aluga-se-casa-t2-IDJBDXn.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.100 €\nAPARTMENT · FROM 28 SEP · 1-bedroom apartment for rent in Almada, Lisbon. · 1100 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1714708"
- ],
- "son_gonderim": "2026-09-27"
+ "kuyruk": [],
+ "son_gonderim": "2026-09-28"
 }
