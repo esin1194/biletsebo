@@ -110,7 +110,11 @@
    "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-179546",
    "contabilista-certificado_lisboa_PTS-2025-166911",
    "gestor-comercial-equipamentos-de-protecao-individual-mfx_lisboa_PTS-2026-181317",
-   "french-customer-service-energy-sector_lisboa_OTS-2026-184599"
+   "french-customer-service-energy-sector_lisboa_OTS-2026-184599",
+   "motorista-de-distribuicao_vialonga_OTS-2026-184770",
+   "sap-mmsd-consultant_porto-lisboa-braga-hibrido_DTS-2026-184766",
+   "motorista-executivo_lisboa_OTS-2026-184748",
+   "tecnico-de-nutricao-mxf_olivais_OTS-2026-184765"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -685,7 +689,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -747,7 +751,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 206,
+  "elenen": 210,
   "tekrar": 1
  }
 }
