@@ -105,7 +105,9 @@
    "tecnio-de-eletronica-ups-mfx_lisboa_OTS-2026-182775",
    "tecnico-de-automacao-mfx_porto-salvo_OTS-2026-179343",
    "eletricista-mfx_porto-salvo_OTS-2026-179335",
-   "operador-de-armazem-polivalente_sacavem_OTS-2026-183740"
+   "operador-de-armazem-polivalente_sacavem_OTS-2026-183740",
+   "identity-access-management-iam-specialist_porto-lisboa-braga-hibrido_DTS-2026-184733",
+   "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-179546"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -679,7 +681,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -741,7 +743,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 200,
+  "elenen": 202,
   "tekrar": 1
  }
 }
