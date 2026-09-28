@@ -240,7 +240,8 @@
    "82784846",
    "82798241",
    "82788309",
-   "82798218"
+   "82798218",
+   "77284065"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -431,7 +432,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 0,
+  "elenen": 1,
   "tekrar": 9
  }
 }
