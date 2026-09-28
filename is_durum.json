@@ -123,7 +123,8 @@
    "assistente-relacionamento-a-clientes-m-f-x_lisboa_OTS-2026-183861",
    "operador-de-armazem-parttime-mfx-manha-06h4511h45_lisboa-povoa-de-santa-iria_OTS-2026-181350",
    "assistente-executivo-mfx_lisboa_PTS-2026-179513",
-   "responsavel-oficial-eletricista-mfx_lisboa_OTS-2026-179673"
+   "responsavel-oficial-eletricista-mfx_lisboa_OTS-2026-179673",
+   "operador-de-armazem-mfx_azambuja_OTS-2026-174481"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -699,7 +700,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 12,
+   "bos": 13,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -761,7 +762,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 218,
+  "elenen": 219,
   "tekrar": 1
  }
 }
