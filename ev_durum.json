@@ -1523,7 +1523,8 @@
    "t1-central-remodelado-semi-equipado-rua-morais-soares-lisboa-IDJtLOA",
    "t2-para-arrendamento-IDJBFHF",
    "alugo-t0-novo-sintra-IDJBFWD",
-   "apartamento-arrendar-em-lisboa-t4-IDJBG6W"
+   "apartamento-arrendar-em-lisboa-t4-IDJBG6W",
+   "apartamento-arrendar-em-lisboa-t4-com-opo-de-venda-IDJBG6W"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2833,13 +2834,14 @@
    "125848",
    "18589969",
    "1553795258651868796",
-   "30764428"
+   "30764428",
+   "1746406670180209896"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2882,7 +2884,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 9,
-  "tekrar": 0
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -3336,7 +3338,8 @@
   "d37e3399aed6b6d4",
   "68f6e0ec1f1722c2",
   "82a826b84f2ce1ef",
-  "a0ee05b5255d337a"
+  "a0ee05b5255d337a",
+  "a57a81b6da339143"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nEstudio Campolide c/ despesas incluídas · 1.100 € · Campolide - Hoje às 18:18\nhttps://www.olx.pt/d/anuncio/estudio-campolide-c-despesas-includas-IDIJbUK.html",
@@ -3352,7 +3355,8 @@
   "…ve <b>Idealista</b> sitesinde 3 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 central remodelado semi equipado rua Morais Soares Lisboa · 1.100 € · Negociável · Beato - Hoje às 19:09\nhttps://www.olx.pt/d/anuncio/t1-central-remodelado-semi-equipado-rua-morais-soares-lisboa-IDJtLOA.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nAlugo T0 Novo Sintra · 600 € · Sintra - Hoje às 20:03\nhttps://www.olx.pt/d/anuncio/alugo-t0-novo-sintra-IDJBFWD.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nApartamento arrendar em Lisboa T4 · 1.350 € · Avenidas Novas - Hoje às 20:56\nhttps://www.olx.pt/d/anuncio/apartamento-arrendar-em-lisboa-t4-IDJBG6W.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nApartamento arrendar em Lisboa T4 · 1.350 € · Avenidas Novas - Hoje às 20:56\nhttps://www.olx.pt/d/anuncio/apartamento-arrendar-em-lisboa-t4-IDJBG6W.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nApartamento arrendar em Lisboa T4 com opção de venda · 1.350 € · Avenidas Novas - Hoje às 20:56\nhttps://www.olx.pt/d/anuncio/apartamento-arrendar-em-lisboa-t4-com-opo-de-venda-IDJBG6W.html"
  ],
  "son_gonderim": "2026-09-28"
 }
