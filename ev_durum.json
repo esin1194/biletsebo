@@ -1165,7 +1165,9 @@
    "t1-1-perto-do-jardim-do-torel-arrendar-metro-avenida-2-andar-ID1iVqq",
    "apartamento-t1-em-campo-de-ourique-de-83-00-m2-ID1iVJ1",
    "apartamento-t1-para-arrendamento-ID1iVKL",
-   "apartamento-t2-para-arrendamento-ID1iVKs"
+   "apartamento-t2-para-arrendamento-ID1iVKs",
+   "apartamento-t1-para-arrendamento-ID1iVPt",
+   "apartamento-t1-para-arrendamento-ID1iVP4"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2374,7 +2376,8 @@
    "apartments/1684193",
    "apartments/1582895",
    "apartments/1518086",
-   "apartments/1630114"
+   "apartments/1630114",
+   "apartments/1716516"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2913,7 +2916,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 50,
+   "bos": 51,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2955,7 +2958,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 1,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
