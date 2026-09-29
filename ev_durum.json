@@ -1168,7 +1168,8 @@
    "apartamento-t2-para-arrendamento-ID1iVKs",
    "apartamento-t1-para-arrendamento-ID1iVPt",
    "apartamento-t1-para-arrendamento-ID1iVP4",
-   "arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6"
+   "arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6",
+   "apartamento-t1-com-jardim-parque-das-nacoes-lisboa-ID1iVQl"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2917,7 +2918,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 52,
+   "bos": 53,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2959,7 +2960,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 4,
   "tekrar": 0
  },
  "imzalar": [
