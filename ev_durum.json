@@ -1159,7 +1159,8 @@
    "apartamento-t0-para-arrendamento-ID1iVFW",
    "apartamento-t0-para-arrendamento-ID1iVFT",
    "apartamento-t0-para-arrendamento-ID1iVFS",
-   "apartamento-t0-para-arrendamento-ID1iVFR"
+   "apartamento-t0-para-arrendamento-ID1iVFR",
+   "t1-para-arrendamento-com-estacionamento-e-arrecadacao-ID1iVGz"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2382,7 +2383,8 @@
    "ut1662640",
    "ut1457663",
    "ut1690154",
-   "ut1663022"
+   "ut1663022",
+   "ut1682186"
   ],
   "uniplaces.com": [
    "890027",
@@ -2724,7 +2726,9 @@
    "51441",
    "164433",
    "261315",
-   "151652"
+   "151652",
+   "881383",
+   "881381"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2900,7 +2904,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 43,
+   "bos": 44,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2942,7 +2946,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 48,
+  "elenen": 51,
   "tekrar": 3
  },
  "imzalar": [
@@ -3413,7 +3417,8 @@
   "d953fcbd7541421d",
   "95b56659fe5dc1ac",
   "53ab99772b8aab4e",
-  "e2808031918917c4"
+  "e2808031918917c4",
+  "19a1574501959200"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nEstudio Campolide c/ despesas incluídas · 1.100 € · Campolide - Hoje às 18:18\nhttps://www.olx.pt/d/anuncio/estudio-campolide-c-despesas-includas-IDIJbUK.html",
@@ -3445,7 +3450,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nEspaçoso T1 em prédio de charme, Alcântara, Lisboa · 1.250 € · Alcântara - Hoje às 13:14\nhttps://www.olx.pt/d/anuncio/espaoso-t1-em-prdio-de-charme-alcntara-lisboa-IDJuw5O.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nJunto à Igreja Matriz ; Póvoa Santo Adrião · 1.800 € · Negociável · Odivelas - Hoje às 12:48\nhttps://www.olx.pt/d/anuncio/junto-igreja-matriz-pvoa-santo-adrio-IDIQPAh.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.950 €\nFantástico apartamento T2 mobilado, com vista do rio Tejo em Expo Central · 1.950 € · Negociável · Moscavide E Portela - Hoje às 13:36\nhttps://www.olx.pt/d/anuncio/fantstico-apartamento-t2-mobilado-com-vista-do-rio-tejo-em-expo-central-IDJBIi1.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nArrendo T4 nos Olivais muito soalheiro, Vista Desafogada e Localização Priveligiada · 1.750 € · Olivais - Hoje às 13:30\nhttps://www.olx.pt/d/anuncio/arrendo-t4-nos-olivais-muito-soalheiro-vista-desafogada-e-localizao-priveligiada-IDJnYCy.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nArrendo T4 nos Olivais muito soalheiro, Vista Desafogada e Localização Priveligiada · 1.750 € · Olivais - Hoje às 13:30\nhttps://www.olx.pt/d/anuncio/arrendo-t4-nos-olivais-muito-soalheiro-vista-desafogada-e-localizao-priveligiada-IDJnYCy.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 para arrendamento com estacionamento e arrecadação · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 53 m² · Andar · 1 andar · Patricia Oliveira Team · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-para-arrendamento-com-estacionamento-e-arrecadacao-ID1iVGz"
  ],
  "son_gonderim": "2026-09-28"
 }
