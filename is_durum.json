@@ -183,7 +183,9 @@
    "operador_azambuja_OTS-2026-184672",
    "operador-de-producao_azambuja_OTS-2026-184585",
    "operador-de-producao_castanheira-do-ribatejo_OTS-2025-156931",
-   "enfermeiro-mfx_lisboa_PTS-2025-184852"
+   "enfermeiro-mfx_lisboa_PTS-2025-184852",
+   "senior-lawyer-it_lisboa_PTS-2026-184863",
+   "senior-lawyer_lisboa_PTS-2026-184862"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -762,7 +764,8 @@
   "f0e00d1226c31117",
   "b2daeee1ba1e954f",
   "9742470085ee9f6d",
-  "498863b41430bb10"
+  "498863b41430bb10",
+  "5fc2bb2d4d960959"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
@@ -829,7 +832,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 275,
+  "elenen": 276,
   "tekrar": 2
  }
 }
