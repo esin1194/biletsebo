@@ -78,7 +78,9 @@
    "214LQXB",
    "214MSNW",
    "214MYTW",
-   "214NCPB"
+   "214NCPB",
+   "214NGZX",
+   "214NHDT"
   ],
   "hellowork.com": [
    "83399370",
@@ -425,12 +427,14 @@
   "c1d1e699f6de0c0e",
   "c388bf7b2d7a56e5",
   "c66a4a2797f5d5ac",
-  "fe41f65637ce5f1c"
+  "fe41f65637ce5f1c",
+  "b7878eae614d655b",
+  "083af4de416fbe74"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?l=Annecy&d=20&t=0": {
@@ -475,7 +479,7 @@
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   }
  },
