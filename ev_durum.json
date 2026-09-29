@@ -2343,7 +2343,10 @@
    "apartments/1497897",
    "apartments/1480864",
    "apartments/728607",
-   "apartments/1178916"
+   "apartments/1178916",
+   "apartments/930341",
+   "apartments/1715198",
+   "apartments/1684193"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2851,7 +2854,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 16,
+   "bos": 17,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3352,7 +3355,10 @@
   "a57a81b6da339143",
   "8035c4a6b7b2e831",
   "941e28238eaf2393",
-  "5416f9f74cb99e3d"
+  "5416f9f74cb99e3d",
+  "6a9b28f753072a38",
+  "0d6f42b70a7788f1",
+  "fe5f19ec73558263"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nEstudio Campolide c/ despesas incluídas · 1.100 € · Campolide - Hoje às 18:18\nhttps://www.olx.pt/d/anuncio/estudio-campolide-c-despesas-includas-IDIJbUK.html",
@@ -3372,7 +3378,10 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nApartamento arrendar em Lisboa T4 com opção de venda · 1.350 € · Avenidas Novas - Hoje às 20:56\nhttps://www.olx.pt/d/anuncio/apartamento-arrendar-em-lisboa-t4-com-opo-de-venda-IDJBG6W.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT1 Remodelado e Mobilado na Parede sem fiador · 1.500 € · Carcavelos E Parede - Hoje às 00:00\nhttps://www.olx.pt/d/anuncio/t1-remodelado-e-mobilado-na-parede-sem-fiador-IDJxcVS.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 02 NOV · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1497897",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.100 €\nCHECKED · APARTMENT · FROM 30 SEP · star · 5 (16) · 1-bedroom apartment for rent in Estrela, Lisbon · From 1100 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/728607"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.100 €\nCHECKED · APARTMENT · FROM 30 SEP · star · 5 (16) · 1-bedroom apartment for rent in Estrela, Lisbon · From 1100 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/728607",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 25 OCT · star · 3.8 (10) · 2-bedroom apartment for rent in Lisbon · 1500 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/930341",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.150 €\nAPARTMENT · FROM 29 SEP · 1-bedroom apartment for rent in Lisbon · 1150 €/month · lock · DEPOSIT PROTECTED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1715198",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nAPARTMENT · FROM 16 OCT · 1-bedroom apartment for rent in Lisbon · 1900 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1684193"
  ],
  "son_gonderim": "2026-09-28"
 }
