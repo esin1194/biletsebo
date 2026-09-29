@@ -164,7 +164,12 @@
    "assistente-de-loja-mfx_lisboa_OTS-2026-182591",
    "empregado-de-bar-mfx_torres-vedras-arena-shopping_OTS-2026-183878",
    "operador-de-caixa-mfx_alcabideche_OTS-2026-177500",
-   "inside-sales-account-mfx_lisboa-hibrido_OTS-2026-184825"
+   "inside-sales-account-mfx_lisboa-hibrido_OTS-2026-184825",
+   "comercial-seguros-m-fx_lisboa_PTS-2026-184827",
+   "apoio-ao-cliente-assistencia-em-viagem-pten-mfx_lisboa_OTS-2026-184678",
+   "project-manager-de-real-estate-mfx_lisboa_OTS-2026-183794",
+   "gestor-de-contacto-banca-2a-linha-mfx_lisboa_OTS-2026-184577",
+   "tecnico-de-manutencao-mfx_lisboa-alverca_OTS-2026-184830"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -738,7 +743,8 @@
   "affc5e1008e6d224",
   "e049fbd8d7a4a5ce",
   "de8c164fcd5979f7",
-  "89b9ae4bb55deed9"
+  "89b9ae4bb55deed9",
+  "f0e00d1226c31117"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
@@ -805,7 +811,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 260,
-  "tekrar": 1
+  "elenen": 263,
+  "tekrar": 2
  }
 }
