@@ -171,7 +171,8 @@
    "gestor-de-contacto-banca-2a-linha-mfx_lisboa_OTS-2026-184577",
    "tecnico-de-manutencao-mfx_lisboa-alverca_OTS-2026-184830",
    "assistente-de-loja-vodafone-mfx_oeiras_OTS-2026-184842",
-   "operador-de-logistica-e-desmontagem-mxf_torres-vedras_OTS-2026-184816"
+   "operador-de-logistica-e-desmontagem-mxf_torres-vedras_OTS-2026-184816",
+   "operadores-de-armazem-e-picking-mfx_centro-comercial-amadora_OTS-2026-183809"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -813,7 +814,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 265,
+  "elenen": 266,
   "tekrar": 2
  }
 }
