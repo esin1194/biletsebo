@@ -1527,7 +1527,8 @@
    "apartamento-arrendar-em-lisboa-t4-IDJBG6W",
    "apartamento-arrendar-em-lisboa-t4-com-opo-de-venda-IDJBG6W",
    "alugo-t2-rinchoa-IDJtMEQ",
-   "t1-remodelado-e-mobilado-na-parede-sem-fiador-IDJxcVS"
+   "t1-remodelado-e-mobilado-na-parede-sem-fiador-IDJxcVS",
+   "t2-novo-alugo-lourinh-IDJlKB5"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2858,7 +2859,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 27,
+   "bos": 28,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2900,7 +2901,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 16,
+  "elenen": 17,
   "tekrar": 2
  },
  "imzalar": [
