@@ -80,7 +80,9 @@
    "214MYTW",
    "214NCPB",
    "214NGZX",
-   "214NHDT"
+   "214NHDT",
+   "214NKGC",
+   "214NLVP"
   ],
   "hellowork.com": [
    "83399370",
@@ -431,7 +433,8 @@
   "fe41f65637ce5f1c",
   "b7878eae614d655b",
   "083af4de416fbe74",
-  "dc1ca07d3c74b351"
+  "dc1ca07d3c74b351",
+  "4b6735dd97ad76cd"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -488,7 +491,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 4,
+  "elenen": 5,
   "tekrar": 14
  }
 }
