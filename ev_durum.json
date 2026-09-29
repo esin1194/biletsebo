@@ -1160,7 +1160,9 @@
    "apartamento-t0-para-arrendamento-ID1iVFT",
    "apartamento-t0-para-arrendamento-ID1iVFS",
    "apartamento-t0-para-arrendamento-ID1iVFR",
-   "t1-para-arrendamento-com-estacionamento-e-arrecadacao-ID1iVGz"
+   "t1-para-arrendamento-com-estacionamento-e-arrecadacao-ID1iVGz",
+   "arrenda-se-t2-2-casas-de-banho-vista-rua-das-pracas-lapa-lisboa-ID1iVGY",
+   "t1-1-perto-do-jardim-do-torel-arrendar-metro-avenida-2-andar-ID1iVqq"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2728,7 +2730,10 @@
    "261315",
    "151652",
    "881383",
-   "881381"
+   "881381",
+   "515118",
+   "515115",
+   "424963"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2904,7 +2909,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 44,
+   "bos": 45,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2946,7 +2951,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 51,
+  "elenen": 56,
   "tekrar": 3
  },
  "imzalar": [
