@@ -176,7 +176,14 @@
    "assistente-de-lounge-mf_aeroporto-de-lisboa_OTS-2026-178208",
    "rececionista_lisboa_OTS-2026-184846",
    "accounting-assistant-mfx_alcantara_PTS-2026-181929",
-   "operations-process-excellence-specialist_lisboa_PTS-2026-175447"
+   "operations-process-excellence-specialist_lisboa_PTS-2026-175447",
+   "regulatory-affairs-associate-mfx_estoril_PTS-2026-184602",
+   "assistente-de-loja-vodafone-mfx_zona-de-lisboa_OTS-2026-184175",
+   "assistente-de-loja-vodafone-mfx_cascais_OTS-2026-183180",
+   "operador_azambuja_OTS-2026-184672",
+   "operador-de-producao_azambuja_OTS-2026-184585",
+   "operador-de-producao_castanheira-do-ribatejo_OTS-2025-156931",
+   "enfermeiro-mfx_lisboa_PTS-2025-184852"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -754,7 +761,8 @@
   "89b9ae4bb55deed9",
   "f0e00d1226c31117",
   "b2daeee1ba1e954f",
-  "9742470085ee9f6d"
+  "9742470085ee9f6d",
+  "498863b41430bb10"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
@@ -821,7 +829,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 269,
+  "elenen": 275,
   "tekrar": 2
  }
 }
