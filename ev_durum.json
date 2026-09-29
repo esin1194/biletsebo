@@ -1154,7 +1154,8 @@
    "apartamento-duplo-dt-esq-ID1ivZJ",
    "apartamento-t0-com-ar-condicionado-e-elevador-em-arroios-ID1iVB6",
    "estudio-localizado-em-sao-bento-lisbon-ID1iVDo",
-   "apartamento-totalmente-remodelado-elevador-ID1iVCL"
+   "apartamento-totalmente-remodelado-elevador-ID1iVCL",
+   "luminoso-apartamento-t0-com-37-m2-para-arrendar-ID1iVpn"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1539,7 +1540,9 @@
    "apartamento-t0-novo-IDJBHLi",
    "apartmento-t2-lisboa-com-espao-exterior-IDJ6e8X",
    "espaoso-t1-em-prdio-de-charme-alcntara-lisboa-IDJuw5O",
-   "junto-igreja-matriz-pvoa-santo-adrio-IDIQPAh"
+   "junto-igreja-matriz-pvoa-santo-adrio-IDIQPAh",
+   "fantstico-apartamento-t2-mobilado-com-vista-do-rio-tejo-em-expo-central-IDJBIi1",
+   "arrendo-t4-nos-olivais-muito-soalheiro-vista-desafogada-e-localizao-priveligiada-IDJnYCy"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2716,7 +2719,8 @@
    "822385",
    "51441",
    "164433",
-   "261315"
+   "261315",
+   "151652"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2892,7 +2896,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 41,
+   "bos": 42,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2934,7 +2938,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 42,
+  "elenen": 44,
   "tekrar": 3
  },
  "imzalar": [
@@ -3403,7 +3407,9 @@
   "ebcd88c48e4d7b45",
   "29dd56bfaf8ce506",
   "d953fcbd7541421d",
-  "95b56659fe5dc1ac"
+  "95b56659fe5dc1ac",
+  "53ab99772b8aab4e",
+  "e2808031918917c4"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nEstudio Campolide c/ despesas incluídas · 1.100 € · Campolide - Hoje às 18:18\nhttps://www.olx.pt/d/anuncio/estudio-campolide-c-despesas-includas-IDIJbUK.html",
@@ -3433,7 +3439,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nApartamento T0 novo · 600 € · Sintra - Hoje às 11:51\nhttps://www.olx.pt/d/anuncio/apartamento-t0-novo-IDJBHLi.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartmento T2 - Lisboa - com espaço exterior · 1.200 € · Penha De França - Hoje às 11:47\nhttps://www.olx.pt/d/anuncio/apartmento-t2-lisboa-com-espao-exterior-IDJ6e8X.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nEspaçoso T1 em prédio de charme, Alcântara, Lisboa · 1.250 € · Alcântara - Hoje às 13:14\nhttps://www.olx.pt/d/anuncio/espaoso-t1-em-prdio-de-charme-alcntara-lisboa-IDJuw5O.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nJunto à Igreja Matriz ; Póvoa Santo Adrião · 1.800 € · Negociável · Odivelas - Hoje às 12:48\nhttps://www.olx.pt/d/anuncio/junto-igreja-matriz-pvoa-santo-adrio-IDIQPAh.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nJunto à Igreja Matriz ; Póvoa Santo Adrião · 1.800 € · Negociável · Odivelas - Hoje às 12:48\nhttps://www.olx.pt/d/anuncio/junto-igreja-matriz-pvoa-santo-adrio-IDIQPAh.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.950 €\nFantástico apartamento T2 mobilado, com vista do rio Tejo em Expo Central · 1.950 € · Negociável · Moscavide E Portela - Hoje às 13:36\nhttps://www.olx.pt/d/anuncio/fantstico-apartamento-t2-mobilado-com-vista-do-rio-tejo-em-expo-central-IDJBIi1.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nArrendo T4 nos Olivais muito soalheiro, Vista Desafogada e Localização Priveligiada · 1.750 € · Olivais - Hoje às 13:30\nhttps://www.olx.pt/d/anuncio/arrendo-t4-nos-olivais-muito-soalheiro-vista-desafogada-e-localizao-priveligiada-IDJnYCy.html"
  ],
  "son_gonderim": "2026-09-28"
 }
