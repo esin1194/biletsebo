@@ -1155,7 +1155,11 @@
    "apartamento-t0-com-ar-condicionado-e-elevador-em-arroios-ID1iVB6",
    "estudio-localizado-em-sao-bento-lisbon-ID1iVDo",
    "apartamento-totalmente-remodelado-elevador-ID1iVCL",
-   "luminoso-apartamento-t0-com-37-m2-para-arrendar-ID1iVpn"
+   "luminoso-apartamento-t0-com-37-m2-para-arrendar-ID1iVpn",
+   "apartamento-t0-para-arrendamento-ID1iVFW",
+   "apartamento-t0-para-arrendamento-ID1iVFT",
+   "apartamento-t0-para-arrendamento-ID1iVFS",
+   "apartamento-t0-para-arrendamento-ID1iVFR"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2896,7 +2900,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 42,
+   "bos": 43,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2938,7 +2942,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 44,
+  "elenen": 48,
   "tekrar": 3
  },
  "imzalar": [
