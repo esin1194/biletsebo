@@ -1167,7 +1167,8 @@
    "apartamento-t1-para-arrendamento-ID1iVKL",
    "apartamento-t2-para-arrendamento-ID1iVKs",
    "apartamento-t1-para-arrendamento-ID1iVPt",
-   "apartamento-t1-para-arrendamento-ID1iVP4"
+   "apartamento-t1-para-arrendamento-ID1iVP4",
+   "arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2916,7 +2917,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 51,
+   "bos": 52,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3430,8 +3431,11 @@
   "95b56659fe5dc1ac",
   "53ab99772b8aab4e",
   "e2808031918917c4",
-  "19a1574501959200"
+  "19a1574501959200",
+  "a0f108734e68d9b1"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · 17,76 €/m² · Arrenda T2 em Condomínio Fechado, junto ao Hospital de Santa Maria, Li · Azinhaga das Galhardas, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 107 m² · Andar · 3 andar · Destacado · CENTURY21 Lusíadas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6"
+ ],
  "son_gonderim": "2026-09-29"
 }
