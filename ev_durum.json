@@ -1169,7 +1169,9 @@
    "apartamento-t1-para-arrendamento-ID1iVPt",
    "apartamento-t1-para-arrendamento-ID1iVP4",
    "arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6",
-   "apartamento-t1-com-jardim-parque-das-nacoes-lisboa-ID1iVQl"
+   "apartamento-t1-com-jardim-parque-das-nacoes-lisboa-ID1iVQl",
+   "t0-com-ar-condicionado-e-elevador-em-arroios-ID1iVQH",
+   "um-apartamento-luminoso-e-elegante-no-coracao-de-campo-de-ourique-ID1iVQq"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1556,7 +1558,9 @@
    "espaoso-t1-em-prdio-de-charme-alcntara-lisboa-IDJuw5O",
    "junto-igreja-matriz-pvoa-santo-adrio-IDIQPAh",
    "fantstico-apartamento-t2-mobilado-com-vista-do-rio-tejo-em-expo-central-IDJBIi1",
-   "arrendo-t4-nos-olivais-muito-soalheiro-vista-desafogada-e-localizao-priveligiada-IDJnYCy"
+   "arrendo-t4-nos-olivais-muito-soalheiro-vista-desafogada-e-localizao-priveligiada-IDJnYCy",
+   "apartamento-t2-baixa-lisboa-IDIQKuE",
+   "apartamento-t3-em-linda-velha-para-arrendamento-IDJym7B"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2918,7 +2922,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 53,
+   "bos": 54,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2960,7 +2964,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 6,
   "tekrar": 0
  },
  "imzalar": [
@@ -3433,10 +3437,14 @@
   "53ab99772b8aab4e",
   "e2808031918917c4",
   "19a1574501959200",
-  "a0f108734e68d9b1"
+  "a0f108734e68d9b1",
+  "9f4c408e74c16af0",
+  "7edd1c3d222b5646"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · 17,76 €/m² · Arrenda T2 em Condomínio Fechado, junto ao Hospital de Santa Maria, Li · Azinhaga das Galhardas, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 107 m² · Andar · 3 andar · Destacado · CENTURY21 Lusíadas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · 17,76 €/m² · Arrenda T2 em Condomínio Fechado, junto ao Hospital de Santa Maria, Li · Azinhaga das Galhardas, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 107 m² · Andar · 3 andar · Destacado · CENTURY21 Lusíadas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nApartamento T2 baixa Lisboa · 1.800 € · Misericórdia - Hoje às 19:10\nhttps://www.olx.pt/d/anuncio/apartamento-t2-baixa-lisboa-IDIQKuE.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T3 em Linda Velha para arrendamento · 1.500 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Hoje às 18:53\nhttps://www.olx.pt/d/anuncio/apartamento-t3-em-linda-velha-para-arrendamento-IDJym7B.html"
  ],
  "son_gonderim": "2026-09-29"
 }
