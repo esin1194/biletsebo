@@ -1152,7 +1152,9 @@
    "apartamento-arrendar-em-lisboa-t4-ID1iVwT",
    "t2-no-coracao-da-graca-rua-beatas-10-ID1iWKO",
    "apartamento-duplo-dt-esq-ID1ivZJ",
-   "apartamento-t0-com-ar-condicionado-e-elevador-em-arroios-ID1iVB6"
+   "apartamento-t0-com-ar-condicionado-e-elevador-em-arroios-ID1iVB6",
+   "estudio-localizado-em-sao-bento-lisbon-ID1iVDo",
+   "apartamento-totalmente-remodelado-elevador-ID1iVCL"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2711,7 +2713,8 @@
    "317112",
    "822385",
    "51441",
-   "164433"
+   "164433",
+   "261315"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2880,13 +2883,14 @@
    "1553795258651868796",
    "30764428",
    "1746406670180209896",
-   "34249343"
+   "34249343",
+   "7067094"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 38,
+   "bos": 39,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2928,8 +2932,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 39,
-  "tekrar": 2
+  "elenen": 42,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
