@@ -1151,7 +1151,8 @@
    "t0-em-alvalade-com-ar-condicionado-e-elevador-ID1iVuf",
    "apartamento-arrendar-em-lisboa-t4-ID1iVwT",
    "t2-no-coracao-da-graca-rua-beatas-10-ID1iWKO",
-   "apartamento-duplo-dt-esq-ID1ivZJ"
+   "apartamento-duplo-dt-esq-ID1ivZJ",
+   "apartamento-t0-com-ar-condicionado-e-elevador-em-arroios-ID1iVB6"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1530,7 +1531,8 @@
    "alugo-t2-rinchoa-IDJtMEQ",
    "t1-remodelado-e-mobilado-na-parede-sem-fiador-IDJxcVS",
    "t2-novo-alugo-lourinh-IDJlKB5",
-   "arrenda-se-apartamento-t4-IDJBH1c"
+   "arrenda-se-apartamento-t4-IDJBH1c",
+   "apartamento-temporrio-IDJBHAO"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2694,7 +2696,17 @@
    "552604",
    "552603",
    "552495",
-   "750512"
+   "750512",
+   "79719",
+   "316160",
+   "803978",
+   "803949",
+   "803983",
+   "822359",
+   "416275",
+   "822434",
+   "317112",
+   "822385"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2869,7 +2881,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 36,
+   "bos": 37,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2911,7 +2923,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 26,
+  "elenen": 36,
   "tekrar": 2
  },
  "imzalar": [
