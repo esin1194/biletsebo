@@ -221,7 +221,9 @@
    "assistente-comercial-mfx_lisboa_OTS-2026-184889",
    "operador-fabril-mfx_aboboda_OTS-2026-184628",
    "servente-mfx_lisboa_OTS-2026-178272",
-   "mecanico-mfx_benavente_OTS-2026-181713"
+   "mecanico-mfx_benavente_OTS-2026-181713",
+   "sap-successfactors-manager_lisboa-or-porto_DTS-2026-180555",
+   "assistente-pecas-auto-mfx_famoes-lisboa_OTS-2026-184902"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -498,7 +500,8 @@
    "furEQdrnazxfjxw6gQ2HAU",
    "oaXbME1GkhUmNmTyhY7kuC",
    "95S7XbscwtYdbxwGqLqKEh",
-   "kg2S8xHejk21ejkXN766Pa"
+   "kg2S8xHejk21ejkXN766Pa",
+   "qdnhmwPSsJo12uZo4Be8yb"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -815,7 +818,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -877,7 +880,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 313,
+  "elenen": 316,
   "tekrar": 2
  }
 }
