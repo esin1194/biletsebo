@@ -666,7 +666,31 @@
    "35362790",
    "35362582",
    "35362581",
-   "35362599"
+   "35362599",
+   "35365212",
+   "35365273",
+   "35364402",
+   "35364456",
+   "35367684",
+   "35367669",
+   "35367642",
+   "31186829",
+   "35367387",
+   "35367344",
+   "35367361",
+   "35367379",
+   "35367342",
+   "35367341",
+   "35367360",
+   "35367318",
+   "35365742",
+   "35365357",
+   "35365392",
+   "35365355",
+   "35365382",
+   "35365390",
+   "35365292",
+   "35365281"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1568,7 +1592,8 @@
    "arrenda-se-marteleira-IDJBKpu",
    "apartamento-t1-com-garagem-e-mobilado-IDJBKMe",
    "apartamento-forte-da-casa-IDJBKUS",
-   "t1-penha-de-frana-IDJBLdq"
+   "t1-penha-de-frana-IDJBLdq",
+   "apartamento-t1-arrendamento-so-domingos-de-rana-IDJynVy"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2943,8 +2968,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 88,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -2986,7 +3011,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 13,
-  "tekrar": 1
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -3467,7 +3492,16 @@
   "1644fcf350a89bc6",
   "31b596f88efb1252",
   "bdf992f8f7ab5c13",
-  "70621c068461399c"
+  "70621c068461399c",
+  "998a5e891d38dd36",
+  "2a7d721e4dd64c7c",
+  "0fc97f7a68a0a91f",
+  "cc3a0b5e187ffbb6",
+  "ea26f1f4bf25182e",
+  "e5dbc747262c3eeb",
+  "4d73f6a69a6a20c4",
+  "2651a43e481f7c59",
+  "fd025664824eba52"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · 17,76 €/m² · Arrenda T2 em Condomínio Fechado, junto ao Hospital de Santa Maria, Li · Azinhaga das Galhardas, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 107 m² · Andar · 3 andar · Destacado · CENTURY21 Lusíadas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6",
@@ -3479,7 +3513,17 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 500 €\nApartamento T1, com garagem e mobilado · 500 € · Porto Salvo - Hoje às 22:52\nhttps://www.olx.pt/d/anuncio/apartamento-t1-com-garagem-e-mobilado-IDJBKMe.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento Forte da Casa · 1.200 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 23:35\nhttps://www.olx.pt/d/anuncio/apartamento-forte-da-casa-IDJBKUS.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 13 NOV · star · 3.8 (29) · 1-bedroom apartment for rent in Lisbon. · From 2000 €/month · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1506122",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 11 OCT · star · 4 (74) · 2-bedroom apartment for rent in Lisbon, Portugal · From 2000 €/month · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/421715"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 11 OCT · star · 4 (74) · 2-bedroom apartment for rent in Lisbon, Portugal · From 2000 €/month · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/421715",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.995 €\nApartamento T1 na Avenida Júlio Dinis, Campo Pequeno, Avenidas Novas · 1.995€/mês · T1 60 m² área bruta com elevador 12 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE A…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35365212/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.795 €\nApartamento T1 no Largo do Leão, Estefânia, Arroios · 1.795€/mês · T1 60 m² área bruta com elevador 12 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Data…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35365273/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.450 €\nApartamento T1 na Rua do Sol a Santa Catarina, Santa Catarina, Misericórdia · 1.450€/mês · T1 30 m² área bruta sem elevador 12 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕ…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35364402/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.600 €\nApartamento T1 na Rua de Ponta Delgada, Estefânia, Arroios · 1.600€/mês · T1 35 m² área bruta sem elevador 12 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO:…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35367684/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.699 €\nApartamento T1 na Rua Delfim de Brito Guimarães, Praça de Espanha - Sete Rios, Campolide · 1.699€/mês · T1 60 m² área bruta sem elevador 12 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TER…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35367669/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.100 €\nApartamento T1 na Travessa dos Brunos, Lapa, Estrela · 1.100€/mês · T1 39 m² área bruta com elevador 12 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Dat…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35367642/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.475 €\nApartamento T0 na Avenida Luís Bívar, 8, São Sebastião da Pedreira, Avenidas Novas · 1.475€/mês · T0 60 m² área bruta 4º andar com elevador 14 horas · o valor inclui as contas de água, luz, gás, internet. · Arrendamento temporário · Contactar\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/31186829/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.750 €\nApartamento T0 na Rua Joaquim António de Aguiar, Av. da Liberdade - Marquês de Pombal, Santo António · 1.750€/mês · T0 25 m² área bruta com elevador 14 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adi…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35367344/",
+  "…ve <b>Idealista</b> sitesinde 14 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 arrendamento São Domingos de Rana · 950 € · São Domingos de Rana - Hoje às 09:31\nhttps://www.olx.pt/d/anuncio/apartamento-t1-arrendamento-so-domingos-de-rana-IDJynVy.html"
  ],
  "son_gonderim": "2026-09-29"
 }
