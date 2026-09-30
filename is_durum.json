@@ -234,7 +234,14 @@
    "assistente-de-loja-mfx-fulltime-floenesetgas_almada_OTS-2026-184373",
    "operador-logisticaempilhador_carregado_OTS-2026-172554",
    "customer-support-it-en-mfx_lisboa-portugal_OTS-2026-184933",
-   "advogado-pi-e-tmt-mfx_lisboa_PTS-2026-184935"
+   "advogado-pi-e-tmt-mfx_lisboa_PTS-2026-184935",
+   "apoio-ao-cliente-banca-digital-mfx_lisboa_OTS-2026-184491",
+   "head-of-information-security_lisbon-hybrid_DTS-2026-183908",
+   "business-controlling-m-f-x_oeiras_PTS-2025-183905",
+   "comercial-mfx_lisboa_PTS-2026-183887",
+   "empregado-de-mesa-mfx_lisboa_OTS-2026-183881",
+   "tecnico-administrativo-de-operacoes-fmx_lisboa_PTS-2026-183874",
+   "analista-de-compras-mfx-area-de-retalho_lisboa_PTS-2026-181020"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -832,7 +839,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -894,7 +901,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 328,
-  "tekrar": 2
+  "elenen": 334,
+  "tekrar": 3
  }
 }
