@@ -1628,7 +1628,8 @@
    "apartamento-t4-encarnao-lisboa-IDJycie",
    "apartamento-t0-mobilado-em-cascais-IDJBOBe",
    "t2-equipado-prximo-da-quinta-da-fonte-pao-de-arcos-IDJBOzQ",
-   "t1-para-alugar-na-pvoa-de-santo-adrio-IDJBOvU"
+   "t1-para-alugar-na-pvoa-de-santo-adrio-IDJBOvU",
+   "t0-totalmente-equipado-e-renovado-IDJeUJm"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2841,7 +2842,8 @@
    "169600",
    "797548",
    "724561",
-   "829980"
+   "829980",
+   "813816"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3019,7 +3021,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3061,7 +3063,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 1,
   "tekrar": 0
  },
  "imzalar": [
@@ -3573,8 +3575,11 @@
   "dcd60ae53a9d621a",
   "2c05d4a38bb056c5",
   "10dcaa85da017198",
-  "b269ee50fce16ba6"
+  "b269ee50fce16ba6",
+  "4f7e7519deb3c145"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0 Totalmente equipado e renovado · 800 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/t0-totalmente-equipado-e-renovado-IDJeUJm.html"
+ ],
  "son_gonderim": "2026-09-30"
 }
