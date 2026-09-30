@@ -1172,7 +1172,8 @@
    "apartamento-t1-com-jardim-parque-das-nacoes-lisboa-ID1iVQl",
    "t0-com-ar-condicionado-e-elevador-em-arroios-ID1iVQH",
    "um-apartamento-luminoso-e-elegante-no-coracao-de-campo-de-ourique-ID1iVQq",
-   "apartamento-t3-em-alvalade-ID1iOkT"
+   "apartamento-t3-em-alvalade-ID1iOkT",
+   "t1-penha-de-franca-ID1iVU6"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2941,7 +2942,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 84,
+   "bos": 85,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -2983,7 +2984,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 11,
+  "elenen": 12,
   "tekrar": 1
  },
  "imzalar": [
