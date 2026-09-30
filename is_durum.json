@@ -21,7 +21,9 @@
    "15873722/domestica-para-cozinhar-compras-e-logistica-em-casa-particular",
    "15941198/apoio-a-manutencao",
    "15946758/engenheiro-civil-m-f-fiscalizacao-de-obras-guimaraes-fafe-trofa-porto",
-   "16060224/engenherio-a-civil"
+   "16060224/engenherio-a-civil",
+   "16058922/diretor-de-producao-gestor-de-produto",
+   "15974276/farmacia-vitoria-guimaraes-pretende-admitir-profissionais-farmacia"
   ],
   "emprego.sapo.pt": [],
   "olx.pt": [],
@@ -830,8 +832,8 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 24,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -892,7 +894,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 326,
+  "elenen": 328,
   "tekrar": 2
  }
 }
