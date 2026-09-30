@@ -229,7 +229,9 @@
    "tecnico-de-manutencao-e-eletricistas_telheiras_OTS-2025-184899",
    "comercial-interno-mfx_povoa-de-santa-iria_OTS-2026-184890",
    "gestora-de-faturacao_lisboa_PTS-2026-184923",
-   "assistente-de-loja-mfx-fulltime-floenesetgas_almada_OTS-2026-184373"
+   "assistente-de-loja-mfx-fulltime-floenesetgas_almada_OTS-2026-184373",
+   "operador-logisticaempilhador_carregado_OTS-2026-172554",
+   "customer-support-it-en-mfx_lisboa-portugal_OTS-2026-184933"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -821,12 +823,13 @@
   "40c024a3db99bf3a",
   "1ab1f604c8947225",
   "dd0af6c20b60e108",
-  "e90f4c7cdae720c3"
+  "e90f4c7cdae720c3",
+  "18452cd80660129f"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -888,7 +891,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 324,
+  "elenen": 325,
   "tekrar": 2
  }
 }
