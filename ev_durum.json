@@ -1201,7 +1201,8 @@
    "t1-em-entrecampos-ID1iVWg",
    "apartamento-t1-para-arrendamento-ID1iVVX",
    "apartamento-t2-totalmente-remodelado-para-arrendamento-lapa-lisboa-ID1iVVv",
-   "apartamento-t1-junto-a-praca-de-espanha-lisboa-ID1iVXg"
+   "apartamento-t1-junto-a-praca-de-espanha-lisboa-ID1iVXg",
+   "apartamento-t1-para-arrendamento-ID1iVZv"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1599,7 +1600,11 @@
    "t1-penha-de-frana-IDJBLdq",
    "apartamento-t1-arrendamento-so-domingos-de-rana-IDJynVy",
    "aluga-se-casa-t4-em-torres-vedras-pronta-a-habitar-toda-mobilada-IDJBLSl",
-   "apartamento-t2-freiria-IDJBMe0"
+   "apartamento-t2-freiria-IDJBMe0",
+   "arrenda-se-t2-em-sintra-colares-IDJypbt",
+   "t1-junto-basilica-da-estrela-IDJvrXy",
+   "t2-ericeira-perto-campo-futebol-IDJ1g26",
+   "aluga-se-apartamento-t4-em-torres-vedras-pronto-a-habitar-mobilado-IDJBLSl"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2805,7 +2810,8 @@
    "356970",
    "388217",
    "388221",
-   "357448"
+   "357448",
+   "867085"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2982,7 +2988,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3024,7 +3030,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 22,
+  "elenen": 25,
   "tekrar": 3
  },
  "imzalar": [
@@ -3517,7 +3523,10 @@
   "2651a43e481f7c59",
   "fd025664824eba52",
   "2d5a303921e6ad82",
-  "88682367ad97239d"
+  "88682367ad97239d",
+  "50c60d5f3aa1aad9",
+  "8ce4c1b5e0cd7c4a",
+  "243e89d2efbb5211"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · 17,76 €/m² · Arrenda T2 em Condomínio Fechado, junto ao Hospital de Santa Maria, Li · Azinhaga das Galhardas, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 107 m² · Andar · 3 andar · Destacado · CENTURY21 Lusíadas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6",
@@ -3541,7 +3550,10 @@
   "…ve <b>Idealista</b> sitesinde 14 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 arrendamento São Domingos de Rana · 950 € · São Domingos de Rana - Hoje às 09:31\nhttps://www.olx.pt/d/anuncio/apartamento-t1-arrendamento-so-domingos-de-rana-IDJynVy.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.480 €\n1480 € · T1 em Entrecampos · Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 69 m² · Andar · 6 andar · Engel &amp; Völkers Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-em-entrecampos-ID1iVWg",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nAluga-se Casa T4 em Torres Vedras pronta a habitar toda mobilada · 1.000 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 10:17\nhttps://www.olx.pt/d/anuncio/aluga-se-casa-t4-em-torres-vedras-pronta-a-habitar-toda-mobilada-IDJBLSl.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nAluga-se Casa T4 em Torres Vedras pronta a habitar toda mobilada · 1.000 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 10:17\nhttps://www.olx.pt/d/anuncio/aluga-se-casa-t4-em-torres-vedras-pronta-a-habitar-toda-mobilada-IDJBLSl.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT1 Junto á Basilica da Estrela · 1.000 € · Estrela - Hoje às 11:50\nhttps://www.olx.pt/d/anuncio/t1-junto-basilica-da-estrela-IDJvrXy.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nT2 Ericeira perto campo Futebol · 1.300 € · Ericeira - Hoje às 11:30\nhttps://www.olx.pt/d/anuncio/t2-ericeira-perto-campo-futebol-IDJ1g26.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nAluga-se Apartamento T4 em Torres Vedras pronto a habitar, mobilado · 1.000 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 10:20\nhttps://www.olx.pt/d/anuncio/aluga-se-apartamento-t4-em-torres-vedras-pronto-a-habitar-mobilado-IDJBLSl.html"
  ],
  "son_gonderim": "2026-09-29"
 }
