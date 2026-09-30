@@ -1206,7 +1206,8 @@
    "estudio-localizado-em-alcntara-lisbon-ID1iX0y",
    "apartamento-com-3-quartos-localizado-em-santa-apolonia-lisbon-ID1iX11",
    "apartamento-1-quarto-lisboa-sao-bento-ID1iX0R",
-   "estudio-localizado-em-alcntara-lisbon-ID1iX0G"
+   "estudio-localizado-em-alcntara-lisbon-ID1iX0G",
+   "apartamento-t2-para-arrendamento-ID1iX23"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2445,7 +2446,8 @@
    "apartments/421715",
    "apartments/1324482",
    "apartments/1478435",
-   "apartments/421705"
+   "apartments/421705",
+   "apartments/434611"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2817,7 +2819,9 @@
    "388217",
    "388221",
    "357448",
-   "867085"
+   "867085",
+   "169600",
+   "797548"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2994,7 +2998,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3036,7 +3040,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 29,
+  "elenen": 31,
   "tekrar": 3
  },
  "imzalar": [
@@ -3534,7 +3538,9 @@
   "8ce4c1b5e0cd7c4a",
   "243e89d2efbb5211",
   "29d53afc21f29823",
-  "11662a38706e3140"
+  "11662a38706e3140",
+  "dd0387c8ceafd7de",
+  "3d813a780f715092"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · 17,76 €/m² · Arrenda T2 em Condomínio Fechado, junto ao Hospital de Santa Maria, Li · Azinhaga das Galhardas, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 107 m² · Andar · 3 andar · Destacado · CENTURY21 Lusíadas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6",
@@ -3563,7 +3569,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nT2 Ericeira perto campo Futebol · 1.300 € · Ericeira - Hoje às 11:30\nhttps://www.olx.pt/d/anuncio/t2-ericeira-perto-campo-futebol-IDJ1g26.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nAluga-se Apartamento T4 em Torres Vedras pronto a habitar, mobilado · 1.000 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 10:20\nhttps://www.olx.pt/d/anuncio/aluga-se-apartamento-t4-em-torres-vedras-pronto-a-habitar-mobilado-IDJBLSl.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.050 €\n1050 € · Apartamento, 1 quarto, Lisboa, São Bento · 1200-319 | Misericórdia, Lisboa, Rua da Paz - São Bento, Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 33 m² · Andar · rés do chão · ERA Laranjeiras · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-1-quarto-lisboa-sao-bento-ID1iX0R",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nApartamento T1 na Cidade · 600 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 12:18\nhttps://www.olx.pt/d/anuncio/apartamento-t1-na-cidade-IDJy7TZ.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nApartamento T1 na Cidade · 600 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 12:18\nhttps://www.olx.pt/d/anuncio/apartamento-t1-na-cidade-IDJy7TZ.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T2 para arrendamento · Rua Cecílio de Sousa, Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 74 m² · Andar · 3 andar · REMAX COLLECTION VALOR · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iX23",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nCHECKED · APARTMENT · FROM 02 OCT · star · 3.8 (25) · 1-bedroom apartment for rent in Lisbon · 1600 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/434611"
  ],
  "son_gonderim": "2026-09-29"
 }
