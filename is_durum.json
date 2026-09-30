@@ -213,7 +213,9 @@
    "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-181354",
    "controlador-da-qualidade-mfx_carnaxide_OTS-2026-183889",
    "senior-inhouse-lawyer-it_lisboa_PTS-2026-184863",
-   "senior-inhouse-lawyer-corporate-real-estate_lisboa_PTS-2026-184862"
+   "senior-inhouse-lawyer-corporate-real-estate_lisboa_PTS-2026-184862",
+   "balconista-pecas-auto-mfx_famoes-lisboa_OTS-2026-184892",
+   "data-analyst-mfx_lisboa_OTS-2026-181681"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -487,7 +489,8 @@
    "oPTt8RfdJYcj8HbaADEbo7",
    "uCa9ZYpXgz36b2cETqp6Hv",
    "rSaRkHDkCztK3vwJecvrtX",
-   "furEQdrnazxfjxw6gQ2HAU"
+   "furEQdrnazxfjxw6gQ2HAU",
+   "oaXbME1GkhUmNmTyhY7kuC"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -804,7 +807,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -866,7 +869,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 302,
+  "elenen": 305,
   "tekrar": 2
  }
 }
