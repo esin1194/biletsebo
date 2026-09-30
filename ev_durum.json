@@ -1594,7 +1594,8 @@
    "apartamento-t1-com-garagem-e-mobilado-IDJBKMe",
    "apartamento-forte-da-casa-IDJBKUS",
    "t1-penha-de-frana-IDJBLdq",
-   "apartamento-t1-arrendamento-so-domingos-de-rana-IDJynVy"
+   "apartamento-t1-arrendamento-so-domingos-de-rana-IDJynVy",
+   "aluga-se-casa-t4-em-torres-vedras-pronta-a-habitar-toda-mobilada-IDJBLSl"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2793,7 +2794,9 @@
    "515115",
    "424963",
    "60628",
-   "770092"
+   "770092",
+   "828826",
+   "733648"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -2970,7 +2973,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3012,7 +3015,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 14,
+  "elenen": 16,
   "tekrar": 3
  },
  "imzalar": [
@@ -3504,7 +3507,8 @@
   "4d73f6a69a6a20c4",
   "2651a43e481f7c59",
   "fd025664824eba52",
-  "2d5a303921e6ad82"
+  "2d5a303921e6ad82",
+  "88682367ad97239d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · 17,76 €/m² · Arrenda T2 em Condomínio Fechado, junto ao Hospital de Santa Maria, Li · Azinhaga das Galhardas, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 107 m² · Andar · 3 andar · Destacado · CENTURY21 Lusíadas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6",
@@ -3527,7 +3531,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.750 €\nApartamento T0 na Rua Joaquim António de Aguiar, Av. da Liberdade - Marquês de Pombal, Santo António · 1.750€/mês · T0 25 m² área bruta com elevador 14 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adi…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35367344/",
   "…ve <b>Idealista</b> sitesinde 14 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 arrendamento São Domingos de Rana · 950 € · São Domingos de Rana - Hoje às 09:31\nhttps://www.olx.pt/d/anuncio/apartamento-t1-arrendamento-so-domingos-de-rana-IDJynVy.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.480 €\n1480 € · T1 em Entrecampos · Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 69 m² · Andar · 6 andar · Engel &amp; Völkers Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-em-entrecampos-ID1iVWg"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.480 €\n1480 € · T1 em Entrecampos · Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 69 m² · Andar · 6 andar · Engel &amp; Völkers Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-em-entrecampos-ID1iVWg",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nAluga-se Casa T4 em Torres Vedras pronta a habitar toda mobilada · 1.000 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 10:17\nhttps://www.olx.pt/d/anuncio/aluga-se-casa-t4-em-torres-vedras-pronta-a-habitar-toda-mobilada-IDJBLSl.html"
  ],
  "son_gonderim": "2026-09-29"
 }
