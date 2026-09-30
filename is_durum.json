@@ -227,7 +227,8 @@
    "it-project-manager-meios-de-pagamento-issuing-acquiring_lisboa_ETS-2026-184910",
    "merchandiserpromotora-mfx_lisboamargem-sul_OTS-2026-184898",
    "tecnico-de-manutencao-e-eletricistas_telheiras_OTS-2025-184899",
-   "comercial-interno-mfx_povoa-de-santa-iria_OTS-2026-184890"
+   "comercial-interno-mfx_povoa-de-santa-iria_OTS-2026-184890",
+   "gestora-de-faturacao_lisboa_PTS-2026-184923"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -823,7 +824,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 12,
+   "bos": 13,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -885,7 +886,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 321,
+  "elenen": 322,
   "tekrar": 2
  }
 }
