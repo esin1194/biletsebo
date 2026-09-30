@@ -192,7 +192,15 @@
    "assistente-de-loja-vodafone-mfx_ccvasco-da-gama_OTS-2026-184873",
    "operador-de-armazem_lisboa-rossio_OTS-2026-184395",
    "lider-de-equipa-office-sales-mfx_lisboa_OTS-2026-184684",
-   "operador-de-armazem-mfx_sao-juliao-tojal_OTS-2026-184878"
+   "operador-de-armazem-mfx_sao-juliao-tojal_OTS-2026-184878",
+   "tecnico-administrativo-financeiro-mfx_sao-joao-da-talha_PTS-2026-183857",
+   "estagio-contabilidade-banca-m-f-x_lisboa_PTS-2026-183774",
+   "operador-de-armazem_castanheira-do-ribatejo_OTS-2026-183723",
+   "lider-de-equipa-office-sales-mfx_sacavem_OTS-2026-180254",
+   "administrative-rh-german-speaker-mfx_lisboa_PTS-2026-180387",
+   "operador-de-empilhador-c-certificado_vila-nova-da-rainha_OTS-2026-180015",
+   "tecnico-de-manutencao-e-afixacao-de-publicidade_granja_OTS-2026-177337",
+   "bartender-1a-e-2a-mfx_lisboa_OTS-2026-176979"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -777,7 +785,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -839,7 +847,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 283,
+  "elenen": 291,
   "tekrar": 2
  }
 }
