@@ -1639,7 +1639,9 @@
    "arrendamento-t2-pao-d-arcos-perto-da-praia-IDJxUNw",
    "apartamento-t2-em-lisboa-alcntara-IDJBPZ3",
    "t1-contas-includas-IDJBQue",
-   "apartamento-t1-jardim-garagem-lugar-garagem-IDJhdY5"
+   "apartamento-t1-jardim-garagem-lugar-garagem-IDJhdY5",
+   "apartamento-para-arrendar-IDJBQGT",
+   "arrendo-t1-1-mobilado-e-cozinha-equipada-IDJBQGc"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3032,7 +3034,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3074,7 +3076,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 7,
   "tekrar": 1
  },
  "imzalar": [
@@ -3592,7 +3594,8 @@
   "aae856127e461a32",
   "9998e8eb4870dc2d",
   "c5bed677321973ce",
-  "95dbea712177d7a1"
+  "95dbea712177d7a1",
+  "2e77a3f9fab4ee67"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0 Totalmente equipado e renovado · 800 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/t0-totalmente-equipado-e-renovado-IDJeUJm.html",
@@ -3600,7 +3603,8 @@
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T0 na Rua de São Nicolau, 23, Baixa, Santa Maria Maior · 1.000€/mês · T0 45 m² área bruta 5º andar com elevador 3 horas · T0 (MOBILADO) para Arrendamento - Baixa-Chiado Apartamento T0, situado numa zona central, com excelente proximidade a comércio, serviços e transpo…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35369334/",
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.250 €\nApartamento T1 na Rua do Conde de Redondo, 79, Campo de Santana - Santa Marta, Santo António · 1.250€/mês · T1 23 m² área bruta 1º andar com elevador 3 horas · Estúdio Premium privado com aproximadamente 23 m², disponível desde final de dezembro / início de janeiro até ao final d…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35369304/",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 - Contas Incluídas · 1.150 € · Pontinha E Famões - Hoje às 20:23\nhttps://www.olx.pt/d/anuncio/t1-contas-includas-IDJBQue.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T1, Jardim, Garagem, lugar garagem · 1.300 € · Ericeira - Hoje às 20:16\nhttps://www.olx.pt/d/anuncio/apartamento-t1-jardim-garagem-lugar-garagem-IDJhdY5.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T1, Jardim, Garagem, lugar garagem · 1.300 € · Ericeira - Hoje às 20:16\nhttps://www.olx.pt/d/anuncio/apartamento-t1-jardim-garagem-lugar-garagem-IDJhdY5.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nArrendo T1+1 mobilado e cozinha equipada · 1.500 € · Areeiro - Hoje às 20:54\nhttps://www.olx.pt/d/anuncio/arrendo-t1-1-mobilado-e-cozinha-equipada-IDJBQGc.html"
  ],
  "son_gonderim": "2026-09-30"
 }
