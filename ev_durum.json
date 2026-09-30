@@ -690,7 +690,15 @@
    "35365382",
    "35365390",
    "35365292",
-   "35365281"
+   "35365281",
+   "35368451",
+   "35368444",
+   "35368434",
+   "35368449",
+   "35368432",
+   "35368440",
+   "35368439",
+   "35368388"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1611,7 +1619,8 @@
    "t2-ericeira-perto-campo-futebol-IDJ1g26",
    "aluga-se-apartamento-t4-em-torres-vedras-pronto-a-habitar-mobilado-IDJBLSl",
    "apartamento-t1-na-cidade-IDJy7TZ",
-   "t2-em-oeiras-renovado-e-mobilado-IDJbSNf"
+   "t2-em-oeiras-renovado-e-mobilado-IDJbSNf",
+   "aluga-se-t0-confortvel-e-espaoso-IDJty8V"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2447,7 +2456,8 @@
    "apartments/1324482",
    "apartments/1478435",
    "apartments/421705",
-   "apartments/434611"
+   "apartments/434611",
+   "apartments/1181536"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2998,8 +3008,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 10,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -3040,8 +3050,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 31,
-  "tekrar": 3
+  "elenen": 32,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -3540,7 +3550,14 @@
   "29d53afc21f29823",
   "11662a38706e3140",
   "dd0387c8ceafd7de",
-  "3d813a780f715092"
+  "3d813a780f715092",
+  "28e2fdc027ae96ef",
+  "07c88c376388a817",
+  "17936faf60e061ef",
+  "76980051ae272b76",
+  "5770b51eecc30686",
+  "610419a9ce836e74",
+  "8fe35024f6664e84"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · 17,76 €/m² · Arrenda T2 em Condomínio Fechado, junto ao Hospital de Santa Maria, Li · Azinhaga das Galhardas, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 107 m² · Andar · 3 andar · Destacado · CENTURY21 Lusíadas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-t2-em-condominio-fechado-junto-ao-hospital-de-santa-maria-li-ID1hnY6",
@@ -3571,7 +3588,14 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.050 €\n1050 € · Apartamento, 1 quarto, Lisboa, São Bento · 1200-319 | Misericórdia, Lisboa, Rua da Paz - São Bento, Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 33 m² · Andar · rés do chão · ERA Laranjeiras · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-1-quarto-lisboa-sao-bento-ID1iX0R",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nApartamento T1 na Cidade · 600 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 12:18\nhttps://www.olx.pt/d/anuncio/apartamento-t1-na-cidade-IDJy7TZ.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T2 para arrendamento · Rua Cecílio de Sousa, Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 74 m² · Andar · 3 andar · REMAX COLLECTION VALOR · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iX23",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nCHECKED · APARTMENT · FROM 02 OCT · star · 3.8 (25) · 1-bedroom apartment for rent in Lisbon · 1600 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/434611"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nCHECKED · APARTMENT · FROM 02 OCT · star · 3.8 (25) · 1-bedroom apartment for rent in Lisbon · 1600 €/month · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/434611",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.650 €\nApartamento T1 na Rua Doutor António Cândido, São Sebastião da Pedreira, Avenidas Novas · 1.650€/mês · T1 42 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35368451/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T1 na Rua Jorge Amado, Marvila · 1.800€/mês · T1 70 m² área bruta com elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Data de Dispon…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35368444/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.850 €\nApartamento T1 na Rua Torre de Santiago, Alfama, Santa Maria Maior · 1.850€/mês · T1 30 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJ…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35368434/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Travessa do Meio, São Vicente de Fora, São Vicente · 1.300€/mês · T1 40 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE AL…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35368449/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T0 na Rua da Bela Vista à Graça, Graça, São Vicente · 1.200€/mês · T0 25 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAME…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35368440/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.150 €\nApartamento T0 na Rua da Bombarda, Anjos, Arroios · 1.150€/mês · T0 40 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕES DE ALOJAMENTO: - Data de…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35368439/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T1 na Travessa da Condessa do Rio, Santa Catarina, Misericórdia · 1.500€/mês · T1 30 m² área bruta sem elevador 3 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35368388/"
  ],
  "son_gonderim": "2026-09-29"
 }
