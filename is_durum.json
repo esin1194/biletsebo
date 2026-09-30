@@ -211,7 +211,9 @@
    "assistente-comercial-mfx-fulltime-oeiras-parque_oeiras_OTS-2026-183940",
    "assistente-comercial-mfx-fulltime-alegro-sintra_sintra_OTS-2026-183939",
    "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-181354",
-   "controlador-da-qualidade-mfx_carnaxide_OTS-2026-183889"
+   "controlador-da-qualidade-mfx_carnaxide_OTS-2026-183889",
+   "senior-inhouse-lawyer-it_lisboa_PTS-2026-184863",
+   "senior-inhouse-lawyer-corporate-real-estate_lisboa_PTS-2026-184862"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -796,12 +798,13 @@
   "5fc2bb2d4d960959",
   "40c024a3db99bf3a",
   "1ab1f604c8947225",
-  "dd0af6c20b60e108"
+  "dd0af6c20b60e108",
+  "e90f4c7cdae720c3"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -863,7 +866,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 301,
+  "elenen": 302,
   "tekrar": 2
  }
 }
