@@ -1222,7 +1222,8 @@
    "apartamento-t2-para-arrendamento-ID1iX4l",
    "t1-totalmente-remodelado-no-rio-seco-ajuda-lisboa-ID1iX7m",
    "apartamento-t3-a-estrear-junto-a-quinta-das-conchas-ID1iXdr",
-   "arrendamento-de-apartamento-em-lisboa-campo-de-ourique-ID1iXc9"
+   "arrendamento-de-apartamento-em-lisboa-campo-de-ourique-ID1iXc9",
+   "t2-com-ar-condicionado-em-lumiar-lisboa-ID1iXgf"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3035,7 +3036,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3077,7 +3078,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 9,
   "tekrar": 1
  },
  "imzalar": [
