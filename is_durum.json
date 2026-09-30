@@ -223,7 +223,11 @@
    "servente-mfx_lisboa_OTS-2026-178272",
    "mecanico-mfx_benavente_OTS-2026-181713",
    "sap-successfactors-manager_lisboa-or-porto_DTS-2026-180555",
-   "assistente-pecas-auto-mfx_famoes-lisboa_OTS-2026-184902"
+   "assistente-pecas-auto-mfx_famoes-lisboa_OTS-2026-184902",
+   "it-project-manager-meios-de-pagamento-issuing-acquiring_lisboa_ETS-2026-184910",
+   "merchandiserpromotora-mfx_lisboamargem-sul_OTS-2026-184898",
+   "tecnico-de-manutencao-e-eletricistas_telheiras_OTS-2025-184899",
+   "comercial-interno-mfx_povoa-de-santa-iria_OTS-2026-184890"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -819,7 +823,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -881,7 +885,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 317,
+  "elenen": 321,
   "tekrar": 2
  }
 }
