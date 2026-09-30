@@ -1200,7 +1200,8 @@
    "t1-penha-de-franca-ID1iVU6",
    "t1-em-entrecampos-ID1iVWg",
    "apartamento-t1-para-arrendamento-ID1iVVX",
-   "apartamento-t2-totalmente-remodelado-para-arrendamento-lapa-lisboa-ID1iVVv"
+   "apartamento-t2-totalmente-remodelado-para-arrendamento-lapa-lisboa-ID1iVVv",
+   "apartamento-t1-junto-a-praca-de-espanha-lisboa-ID1iVXg"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2981,7 +2982,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3023,7 +3024,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 21,
+  "elenen": 22,
   "tekrar": 3
  },
  "imzalar": [
