@@ -201,7 +201,12 @@
    "operador-de-empilhador-c-certificado_vila-nova-da-rainha_OTS-2026-180015",
    "tecnico-de-manutencao-e-afixacao-de-publicidade_granja_OTS-2026-177337",
    "bartender-1a-e-2a-mfx_lisboa_OTS-2026-176979",
-   "qa-engineer_lisboa-hibridoremoto_DTS-2026-184739"
+   "qa-engineer_lisboa-hibridoremoto_DTS-2026-184739",
+   "gestor-de-cafetaria-mfx_malveira_OTS-2026-184506",
+   "gestor-de-cafetaria-mfx_belas_OTS-2026-184505",
+   "empregado-de-limpeza-mfx_sao-domingos-de-rana_OTS-2026-182760",
+   "empregado-de-mesa-mfx_sao-domingos-de-rana_OTS-2026-182756",
+   "copeiro-mfx_sao-domingos-de-rana_OTS-2026-182758"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -785,12 +790,13 @@
   "498863b41430bb10",
   "5fc2bb2d4d960959",
   "40c024a3db99bf3a",
-  "1ab1f604c8947225"
+  "1ab1f604c8947225",
+  "dd0af6c20b60e108"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 22,
+   "bos": 23,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -852,7 +858,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 292,
+  "elenen": 296,
   "tekrar": 2
  }
 }
