@@ -698,7 +698,9 @@
    "35368432",
    "35368440",
    "35368439",
-   "35368388"
+   "35368388",
+   "35369334",
+   "35369304"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1218,7 +1220,9 @@
    "apartamento-t2-para-arrendamento-ID1iX23",
    "t2-arrendamento-campolide-com-varanda-ID1iX4t",
    "apartamento-t2-para-arrendamento-ID1iX4l",
-   "t1-totalmente-remodelado-no-rio-seco-ajuda-lisboa-ID1iX7m"
+   "t1-totalmente-remodelado-no-rio-seco-ajuda-lisboa-ID1iX7m",
+   "apartamento-t3-a-estrear-junto-a-quinta-das-conchas-ID1iXdr",
+   "arrendamento-de-apartamento-em-lisboa-campo-de-ourique-ID1iXc9"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3022,8 +3026,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -3064,7 +3068,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 1,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -3578,11 +3582,15 @@
   "10dcaa85da017198",
   "b269ee50fce16ba6",
   "4f7e7519deb3c145",
-  "22b519aef0cf8519"
+  "22b519aef0cf8519",
+  "aae856127e461a32",
+  "9998e8eb4870dc2d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0 Totalmente equipado e renovado · 800 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/t0-totalmente-equipado-e-renovado-IDJeUJm.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento Casa para Arrendar em Santa Cruz · 1.100 € · Mafra - Hoje às 17:47\nhttps://www.olx.pt/d/anuncio/apartamento-casa-para-arrendar-em-santa-cruz-IDJBPiA.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento Casa para Arrendar em Santa Cruz · 1.100 € · Mafra - Hoje às 17:47\nhttps://www.olx.pt/d/anuncio/apartamento-casa-para-arrendar-em-santa-cruz-IDJBPiA.html",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T0 na Rua de São Nicolau, 23, Baixa, Santa Maria Maior · 1.000€/mês · T0 45 m² área bruta 5º andar com elevador 3 horas · T0 (MOBILADO) para Arrendamento - Baixa-Chiado Apartamento T0, situado numa zona central, com excelente proximidade a comércio, serviços e transpo…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35369334/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.250 €\nApartamento T1 na Rua do Conde de Redondo, 79, Campo de Santana - Santa Marta, Santo António · 1.250€/mês · T1 23 m² área bruta 1º andar com elevador 3 horas · Estúdio Premium privado com aproximadamente 23 m², disponível desde final de dezembro / início de janeiro até ao final d…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35369304/"
  ],
  "son_gonderim": "2026-09-30"
 }
