@@ -1641,7 +1641,8 @@
    "t1-contas-includas-IDJBQue",
    "apartamento-t1-jardim-garagem-lugar-garagem-IDJhdY5",
    "apartamento-para-arrendar-IDJBQGT",
-   "arrendo-t1-1-mobilado-e-cozinha-equipada-IDJBQGc"
+   "arrendo-t1-1-mobilado-e-cozinha-equipada-IDJBQGc",
+   "apartamento-para-alugar-IDJBQWJ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3034,7 +3035,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3076,7 +3077,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
+  "elenen": 8,
   "tekrar": 1
  },
  "imzalar": [
