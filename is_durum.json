@@ -216,7 +216,12 @@
    "senior-inhouse-lawyer-corporate-real-estate_lisboa_PTS-2026-184862",
    "balconista-pecas-auto-mfx_famoes-lisboa_OTS-2026-184892",
    "data-analyst-mfx_lisboa_OTS-2026-181681",
-   "operador-de-logistica-leory-merlin-horario-part-time-05h09h-de-2a-a-6a-feirra_cascais-cascais-shopping-entrada-imediata_OTS-2026-176839"
+   "operador-de-logistica-leory-merlin-horario-part-time-05h09h-de-2a-a-6a-feirra_cascais-cascais-shopping-entrada-imediata_OTS-2026-176839",
+   "administrativo-mfx-analise-operacional-part-time19h0000h00_lisboa-povoa-de-santa-iria_OTS-2026-184900",
+   "assistente-comercial-mfx_lisboa_OTS-2026-184889",
+   "operador-fabril-mfx_aboboda_OTS-2026-184628",
+   "servente-mfx_lisboa_OTS-2026-178272",
+   "mecanico-mfx_benavente_OTS-2026-181713"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -491,7 +496,9 @@
    "uCa9ZYpXgz36b2cETqp6Hv",
    "rSaRkHDkCztK3vwJecvrtX",
    "furEQdrnazxfjxw6gQ2HAU",
-   "oaXbME1GkhUmNmTyhY7kuC"
+   "oaXbME1GkhUmNmTyhY7kuC",
+   "95S7XbscwtYdbxwGqLqKEh",
+   "kg2S8xHejk21ejkXN766Pa"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -808,7 +815,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -870,7 +877,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 306,
+  "elenen": 313,
   "tekrar": 2
  }
 }
