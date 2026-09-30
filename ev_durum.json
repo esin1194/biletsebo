@@ -1634,7 +1634,8 @@
    "t2-equipado-prximo-da-quinta-da-fonte-pao-de-arcos-IDJBOzQ",
    "t1-para-alugar-na-pvoa-de-santo-adrio-IDJBOvU",
    "t0-totalmente-equipado-e-renovado-IDJeUJm",
-   "apartamento-casa-para-arrendar-em-santa-cruz-IDJBPiA"
+   "apartamento-casa-para-arrendar-em-santa-cruz-IDJBPiA",
+   "apartamento-t2-mobilado-em-alvalade-IDJyw62"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3026,7 +3027,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3068,7 +3069,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 4,
   "tekrar": 0
  },
  "imzalar": [
