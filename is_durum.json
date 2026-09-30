@@ -231,7 +231,8 @@
    "gestora-de-faturacao_lisboa_PTS-2026-184923",
    "assistente-de-loja-mfx-fulltime-floenesetgas_almada_OTS-2026-184373",
    "operador-logisticaempilhador_carregado_OTS-2026-172554",
-   "customer-support-it-en-mfx_lisboa-portugal_OTS-2026-184933"
+   "customer-support-it-en-mfx_lisboa-portugal_OTS-2026-184933",
+   "advogado-pi-e-tmt-mfx_lisboa_PTS-2026-184935"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -829,7 +830,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 16,
+   "bos": 17,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -891,7 +892,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 325,
+  "elenen": 326,
   "tekrar": 2
  }
 }
