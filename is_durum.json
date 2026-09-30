@@ -228,7 +228,8 @@
    "merchandiserpromotora-mfx_lisboamargem-sul_OTS-2026-184898",
    "tecnico-de-manutencao-e-eletricistas_telheiras_OTS-2025-184899",
    "comercial-interno-mfx_povoa-de-santa-iria_OTS-2026-184890",
-   "gestora-de-faturacao_lisboa_PTS-2026-184923"
+   "gestora-de-faturacao_lisboa_PTS-2026-184923",
+   "assistente-de-loja-mfx-fulltime-floenesetgas_almada_OTS-2026-184373"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -507,7 +508,8 @@
    "95S7XbscwtYdbxwGqLqKEh",
    "kg2S8xHejk21ejkXN766Pa",
    "qdnhmwPSsJo12uZo4Be8yb",
-   "nwMiFaH1joYzoJ9N3AtQLj"
+   "nwMiFaH1joYzoJ9N3AtQLj",
+   "cVisWCikPymeWY5ju7RgDk"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -824,7 +826,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -886,7 +888,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 322,
+  "elenen": 324,
   "tekrar": 2
  }
 }
