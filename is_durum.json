@@ -215,7 +215,8 @@
    "senior-inhouse-lawyer-it_lisboa_PTS-2026-184863",
    "senior-inhouse-lawyer-corporate-real-estate_lisboa_PTS-2026-184862",
    "balconista-pecas-auto-mfx_famoes-lisboa_OTS-2026-184892",
-   "data-analyst-mfx_lisboa_OTS-2026-181681"
+   "data-analyst-mfx_lisboa_OTS-2026-181681",
+   "operador-de-logistica-leory-merlin-horario-part-time-05h09h-de-2a-a-6a-feirra_cascais-cascais-shopping-entrada-imediata_OTS-2026-176839"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -807,8 +808,8 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -869,7 +870,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 305,
+  "elenen": 306,
   "tekrar": 2
  }
 }
