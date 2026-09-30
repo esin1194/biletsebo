@@ -200,7 +200,8 @@
    "administrative-rh-german-speaker-mfx_lisboa_PTS-2026-180387",
    "operador-de-empilhador-c-certificado_vila-nova-da-rainha_OTS-2026-180015",
    "tecnico-de-manutencao-e-afixacao-de-publicidade_granja_OTS-2026-177337",
-   "bartender-1a-e-2a-mfx_lisboa_OTS-2026-176979"
+   "bartender-1a-e-2a-mfx_lisboa_OTS-2026-176979",
+   "qa-engineer_lisboa-hibridoremoto_DTS-2026-184739"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -473,7 +474,8 @@
    "aEHB6ae7dtqEPNXia4Qj6P",
    "oPTt8RfdJYcj8HbaADEbo7",
    "uCa9ZYpXgz36b2cETqp6Hv",
-   "rSaRkHDkCztK3vwJecvrtX"
+   "rSaRkHDkCztK3vwJecvrtX",
+   "furEQdrnazxfjxw6gQ2HAU"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -782,12 +784,13 @@
   "9742470085ee9f6d",
   "498863b41430bb10",
   "5fc2bb2d4d960959",
-  "40c024a3db99bf3a"
+  "40c024a3db99bf3a",
+  "1ab1f604c8947225"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 19,
+   "bos": 20,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -849,7 +852,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 291,
+  "elenen": 292,
   "tekrar": 2
  }
 }
