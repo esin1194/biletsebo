@@ -1245,7 +1245,9 @@
    "apartamento-t3-para-arrendamento-ID1iXuJ",
    "apartamento-t0-com-terraco-em-avenidas-novas-ID1iXuC",
    "estudio-equipado-central-1100-s-cristovao-por-6-mes-em-novembro-ID1iXwr",
-   "apartamento-t3-totalmente-mobilado-com-vista-rio-e-para-a-ponte-25-ID1iXwq"
+   "apartamento-t3-totalmente-mobilado-com-vista-rio-e-para-a-ponte-25-ID1iXwq",
+   "apartamento-t1-para-arrendamento-ID1iXvt",
+   "t1-para-arrendamento-nos-anjos-ID1iXvh"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1677,7 +1679,9 @@
    "apartamento-t0-para-arrendar-constncia-santarm-IDJBUtS",
    "t2-com-despesas-da-gua-e-eletricidade-includos-tem-boa-luminosidade-varanda-local-sossegado-e-perto-de-transportes-IDJBVdN",
    "arrenda-se-t1-1-avenida-sabia-monte-estoril-IDJyJ2n",
-   "1andar-de-moradia-t2-com-despesas-da-gua-e-eletricidade-includos-tem-boa-luminosidade-varanda-local-sossegado-e-perto-de-transportes-IDJBVdN"
+   "1andar-de-moradia-t2-com-despesas-da-gua-e-eletricidade-includos-tem-boa-luminosidade-varanda-local-sossegado-e-perto-de-transportes-IDJBVdN",
+   "t2-totalmente-remodelado-e-mobilado-em-lisboa-IDIT45L",
+   "t0-para-arrendar-na-amadora-IDJBX3w"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2564,7 +2568,13 @@
    "apartments/1429663",
    "apartments/385623",
    "apartments/1594706",
-   "apartments/1641026"
+   "apartments/1641026",
+   "apartments/1587861",
+   "apartments/1281201",
+   "apartments/1594614",
+   "apartments/1534948",
+   "apartments/1493310",
+   "apartments/426822"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2962,7 +2972,8 @@
    "29217",
    "856845",
    "856846",
-   "856606"
+   "856606",
+   "566065"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3148,7 +3159,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 50,
+   "bos": 51,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3190,8 +3201,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 62,
-  "tekrar": 6
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -3727,34 +3738,9 @@
   "c3caab4d4dc1b4d2",
   "29e79a16bd9b996c",
   "d57172b6063bfe30",
-  "a0f21fc78f60c8c0"
+  "a0f21fc78f60c8c0",
+  "29d0c4ed73b7cc78"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0 Totalmente equipado e renovado · 800 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/t0-totalmente-equipado-e-renovado-IDJeUJm.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento Casa para Arrendar em Santa Cruz · 1.100 € · Mafra - Hoje às 17:47\nhttps://www.olx.pt/d/anuncio/apartamento-casa-para-arrendar-em-santa-cruz-IDJBPiA.html",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.000 €\nApartamento T0 na Rua de São Nicolau, 23, Baixa, Santa Maria Maior · 1.000€/mês · T0 45 m² área bruta 5º andar com elevador 3 horas · T0 (MOBILADO) para Arrendamento - Baixa-Chiado Apartamento T0, situado numa zona central, com excelente proximidade a comércio, serviços e transpo…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35369334/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.250 €\nApartamento T1 na Rua do Conde de Redondo, 79, Campo de Santana - Santa Marta, Santo António · 1.250€/mês · T1 23 m² área bruta 1º andar com elevador 3 horas · Estúdio Premium privado com aproximadamente 23 m², disponível desde final de dezembro / início de janeiro até ao final d…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35369304/",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 - Contas Incluídas · 1.150 € · Pontinha E Famões - Hoje às 20:23\nhttps://www.olx.pt/d/anuncio/t1-contas-includas-IDJBQue.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T1, Jardim, Garagem, lugar garagem · 1.300 € · Ericeira - Hoje às 20:16\nhttps://www.olx.pt/d/anuncio/apartamento-t1-jardim-garagem-lugar-garagem-IDJhdY5.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nArrendo T1+1 mobilado e cozinha equipada · 1.500 € · Areeiro - Hoje às 20:54\nhttps://www.olx.pt/d/anuncio/arrendo-t1-1-mobilado-e-cozinha-equipada-IDJBQGc.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 21 · Apartamento ⋅ Avenidas Novas · Preto e branco — Entrecampos · 1 quarto · 3 camas · 1 banheiro · $ 2.122 USD · $ 1.023 USD · $ 1.023 USD mensal, preço original: $ 2.122 USD · mensal · Desconto para estadias longas · 4,76 de uma avaliação média de 5, 17 avaliações · …\nhttps://www.airbnb.com/rooms/1471795489927851153",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nAluga T2 Novo Estrear Algueirão-Mem Martins · 1.700 € · Negociável · Algueirão-Mem Martins - Hoje às 00:32\nhttps://www.olx.pt/d/anuncio/aluga-t2-novo-estrear-algueiro-mem-martins-IDIR0NL.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nStudio para arrendar em Lisboa – próximo das universidades · 1.100 € · Alcabideche - Hoje às 01:29\nhttps://www.olx.pt/d/anuncio/studio-para-arrendar-em-lisboa-prximo-das-universidades-IDJBSj5.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.628 €\nCHECKED · APARTMENT · FROM 04 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon. · From 1628 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1594642",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.881 €\nCHECKED · APARTMENT · FROM 13 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon. · From 1881 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1594618",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.785 €\nAPARTMENT · FROM 30 OCT · star · 3.8 (205) · 1-bedroom apartment for rent in Santa Cruz, Lisbon · From 1785 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/766883",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.661 €\nCHECKED · APARTMENT · FROM 06 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon, Lisbon · From 1661 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1181395",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 09 NOV · star · 4 (74) · 1-bedroom apartment for rent in Lisbon · From 2000 €/month · info · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1320671",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 02 NOV · star · 4.3 (7) · 1-bedroom apartment for rent, Oeiras, Lisbon · From 1400 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1445341",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nCHECKED · APARTMENT · FROM 14 OCT · star · 4 (13) · 1-bedroom apartment for rent in Lisbon, Lisbon · From 1300 €/month · info · UP TO 10 % OFF · 12+ month stay · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/385623",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nApartamento T0 studio para arrendar constância · 650 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Hoje às 12:28\nhttps://www.olx.pt/d/anuncio/apartamento-t0-studio-para-arrendar-constncia-IDJBUtS.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.050 €\nApartamento T1 + 1 Arrendar - Amadora · 1.050 € · Mina De Água - Hoje às 12:47\nhttps://www.olx.pt/d/anuncio/apartamento-t1-1-arrendar-amadora-IDJBWky.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · De 4 de nov.  a  3 de fev. · 4 de nov. – 3 de fev. · Apartamento ⋅ Estrela · Estiloso e brilhante T1 em Alcântara – Nova reforma! · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.575 USD · $ 1.876 USD · $ 1.876 USD mensal, preço original: $ 2.575 USD · mensal · Desc…\nhttps://www.airbnb.com/rooms/7514721",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nApartamento T0 para arrendar constância Santarém · 650 € · Constância - Hoje às 12:28\nhttps://www.olx.pt/d/anuncio/apartamento-t0-para-arrendar-constncia-santarm-IDJBUtS.html",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 450 €\nUp to 1 person • 5 bedrooms · Welcoming single bedroom near Instituto Superior Técnico in Roma-Areeiro · From 08 Oct 2026 · €450 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/29217",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nArrenda-se T1+1 - Avenida Sabóia - Monte Estoril · 1.750 € · Cascais E Estoril - Hoje às 15:17\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-1-avenida-sabia-monte-estoril-IDJyJ2n.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Estúdio, equipado/central (1100 - S. Cristóvão) por 6 mes em novembro. · São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 35 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/estudio-equipado-central-1100-s-cristovao-por-6-mes-em-novembro-ID1iXwr",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · Apartamento T3 totalmente mobilado com vista rio e para a ponte 25 ... · Rio Seco - Casalinho, Ajuda, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 90 m² · Andar · 4 andar · Exclusive Lisbon Liberdade · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-totalmente-mobilado-com-vista-rio-e-para-a-ponte-25-ID1iXwq"
- ],
- "son_gonderim": "2026-09-30"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-01"
 }
