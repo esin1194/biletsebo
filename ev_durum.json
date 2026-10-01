@@ -2485,7 +2485,21 @@
    "apartments/421705",
    "apartments/434611",
    "apartments/1181536",
-   "apartments/1349456"
+   "apartments/1349456",
+   "apartments/1594642",
+   "apartments/1594618",
+   "apartments/766883",
+   "apartments/1180059",
+   "apartments/1205146",
+   "apartments/1180391",
+   "apartments/1182741",
+   "apartments/1180596",
+   "apartments/1181395",
+   "apartments/1594679",
+   "apartments/1594685",
+   "apartments/1182101",
+   "apartments/1182634",
+   "apartments/1594673"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3047,7 +3061,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 20,
+   "bos": 21,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3611,7 +3625,11 @@
   "2e77a3f9fab4ee67",
   "140d57715f4bb572",
   "3737902dfd404902",
-  "e0b7d2ca6630e047"
+  "e0b7d2ca6630e047",
+  "9913367e0de04074",
+  "f362cd215a23497d",
+  "d6c106916b758c09",
+  "41fc2f00a466907d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0 Totalmente equipado e renovado · 800 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/t0-totalmente-equipado-e-renovado-IDJeUJm.html",
@@ -3623,7 +3641,11 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nArrendo T1+1 mobilado e cozinha equipada · 1.500 € · Areeiro - Hoje às 20:54\nhttps://www.olx.pt/d/anuncio/arrendo-t1-1-mobilado-e-cozinha-equipada-IDJBQGc.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 21 · Apartamento ⋅ Avenidas Novas · Preto e branco — Entrecampos · 1 quarto · 3 camas · 1 banheiro · $ 2.122 USD · $ 1.023 USD · $ 1.023 USD mensal, preço original: $ 2.122 USD · mensal · Desconto para estadias longas · 4,76 de uma avaliação média de 5, 17 avaliações · …\nhttps://www.airbnb.com/rooms/1471795489927851153",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nAluga T2 Novo Estrear Algueirão-Mem Martins · 1.700 € · Negociável · Algueirão-Mem Martins - Hoje às 00:32\nhttps://www.olx.pt/d/anuncio/aluga-t2-novo-estrear-algueiro-mem-martins-IDIR0NL.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nStudio para arrendar em Lisboa – próximo das universidades · 1.100 € · Alcabideche - Hoje às 01:29\nhttps://www.olx.pt/d/anuncio/studio-para-arrendar-em-lisboa-prximo-das-universidades-IDJBSj5.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nStudio para arrendar em Lisboa – próximo das universidades · 1.100 € · Alcabideche - Hoje às 01:29\nhttps://www.olx.pt/d/anuncio/studio-para-arrendar-em-lisboa-prximo-das-universidades-IDJBSj5.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.628 €\nCHECKED · APARTMENT · FROM 04 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon. · From 1628 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1594642",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.881 €\nCHECKED · APARTMENT · FROM 13 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon. · From 1881 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1594618",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.785 €\nAPARTMENT · FROM 30 OCT · star · 3.8 (205) · 1-bedroom apartment for rent in Santa Cruz, Lisbon · From 1785 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/766883",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.661 €\nCHECKED · APARTMENT · FROM 06 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon, Lisbon · From 1661 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1181395"
  ],
  "son_gonderim": "2026-09-30"
 }
