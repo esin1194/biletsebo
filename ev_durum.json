@@ -1243,7 +1243,9 @@
    "t1-em-bom-estado-estrada-de-benfica-ID1iXrg",
    "apartamento-t1-no-condominio-villa-dos-coches-belem-ID1iXw2",
    "apartamento-t3-para-arrendamento-ID1iXuJ",
-   "apartamento-t0-com-terraco-em-avenidas-novas-ID1iXuC"
+   "apartamento-t0-com-terraco-em-avenidas-novas-ID1iXuC",
+   "estudio-equipado-central-1100-s-cristovao-por-6-mes-em-novembro-ID1iXwr",
+   "apartamento-t3-totalmente-mobilado-com-vista-rio-e-para-a-ponte-25-ID1iXwq"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2957,7 +2959,10 @@
    "894750",
    "894749",
    "894748",
-   "29217"
+   "29217",
+   "856845",
+   "856846",
+   "856606"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3143,7 +3148,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 49,
+   "bos": 50,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3185,7 +3190,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 59,
+  "elenen": 62,
   "tekrar": 6
  },
  "imzalar": [
@@ -3720,7 +3725,9 @@
   "0d5fd1a8e9874a83",
   "8be7ee782f750f53",
   "c3caab4d4dc1b4d2",
-  "29e79a16bd9b996c"
+  "29e79a16bd9b996c",
+  "d57172b6063bfe30",
+  "a0f21fc78f60c8c0"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0 Totalmente equipado e renovado · 800 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/t0-totalmente-equipado-e-renovado-IDJeUJm.html",
@@ -3745,7 +3752,9 @@
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · De 4 de nov.  a  3 de fev. · 4 de nov. – 3 de fev. · Apartamento ⋅ Estrela · Estiloso e brilhante T1 em Alcântara – Nova reforma! · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.575 USD · $ 1.876 USD · $ 1.876 USD mensal, preço original: $ 2.575 USD · mensal · Desc…\nhttps://www.airbnb.com/rooms/7514721",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nApartamento T0 para arrendar constância Santarém · 650 € · Constância - Hoje às 12:28\nhttps://www.olx.pt/d/anuncio/apartamento-t0-para-arrendar-constncia-santarm-IDJBUtS.html",
   "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 450 €\nUp to 1 person • 5 bedrooms · Welcoming single bedroom near Instituto Superior Técnico in Roma-Areeiro · From 08 Oct 2026 · €450 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/29217",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nArrenda-se T1+1 - Avenida Sabóia - Monte Estoril · 1.750 € · Cascais E Estoril - Hoje às 15:17\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-1-avenida-sabia-monte-estoril-IDJyJ2n.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nArrenda-se T1+1 - Avenida Sabóia - Monte Estoril · 1.750 € · Cascais E Estoril - Hoje às 15:17\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-1-avenida-sabia-monte-estoril-IDJyJ2n.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Estúdio, equipado/central (1100 - S. Cristóvão) por 6 mes em novembro. · São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 35 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/estudio-equipado-central-1100-s-cristovao-por-6-mes-em-novembro-ID1iXwr",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · Apartamento T3 totalmente mobilado com vista rio e para a ponte 25 ... · Rio Seco - Casalinho, Ajuda, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 90 m² · Andar · 4 andar · Exclusive Lisbon Liberdade · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-totalmente-mobilado-com-vista-rio-e-para-a-ponte-25-ID1iXwq"
  ],
  "son_gonderim": "2026-09-30"
 }
