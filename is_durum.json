@@ -250,7 +250,9 @@
    "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-181882",
    "gestora-de-projetos-pmes-mfx_lisboa-ou-porto_OTS-2026-183798",
    "consultor-comercial-field-mfx_lisboa_OTS-2026-184946",
-   "mecanico-industrial-estagio-profissional-mfx_mem-martins_OTS-2026-184969"
+   "mecanico-industrial-estagio-profissional-mfx_mem-martins_OTS-2026-184969",
+   "motorista-de-ligeiros-mxf_olivais_OTS-2026-184977",
+   "eletricista-mxf_olivais_OTS-2026-184259"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -565,7 +567,9 @@
    "c1LcabUaiDhuunASzpA5Kb",
    "iWcfPB2HARnJwkwxV8gtic",
    "9zVqTDLMnf22jEj2g5x1Q3",
-   "rwe74EXDXLuY2WhP2GSSvc"
+   "rwe74EXDXLuY2WhP2GSSvc",
+   "nXeM3wmM4Zk1egYBGEBxN9",
+   "g8WN11TrxttCGJPCAXTvqL"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -891,12 +895,14 @@
   "c3e08ba97dd4c29a",
   "e62e5c3347f3ec3c",
   "78327e8b49678431",
-  "a99119204dc15ed5"
+  "a99119204dc15ed5",
+  "2f168313a9843b71",
+  "1973ce8144e746a0"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 32,
+   "bos": 33,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -958,7 +964,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 348,
+  "elenen": 350,
   "tekrar": 5
  }
 }
