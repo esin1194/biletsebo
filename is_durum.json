@@ -248,7 +248,8 @@
    "assistente-de-loja-mfx_alverca_OTS-2026-182575",
    "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-184197",
    "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-181882",
-   "gestora-de-projetos-pmes-mfx_lisboa-ou-porto_OTS-2026-183798"
+   "gestora-de-projetos-pmes-mfx_lisboa-ou-porto_OTS-2026-183798",
+   "consultor-comercial-field-mfx_lisboa_OTS-2026-184946"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -894,7 +895,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 25,
+   "bos": 26,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -956,7 +957,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 346,
+  "elenen": 347,
   "tekrar": 5
  }
 }
