@@ -2583,7 +2583,8 @@
    "apartments/1594614",
    "apartments/1534948",
    "apartments/1493310",
-   "apartments/426822"
+   "apartments/426822",
+   "apartments/652860"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3170,7 +3171,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 54,
+   "bos": 55,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3754,13 +3755,15 @@
   "fbe3fea04cea3179",
   "520546e39df73d83",
   "031903c130dfcefb",
-  "de787bd1dffb00e7"
+  "de787bd1dffb00e7",
+  "7f620012620478dc"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 - Lisboa - Mobilado e Equipado · 850 € · Santa Clara - Hoje às 17:11\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-e-equipado-IDJyLK5.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.650 €\nT3 - Laranjeiras | Garagem e Varanda · 1.650 € · São Domingos de Benfica - Hoje às 17:49\nhttps://www.olx.pt/d/anuncio/t3-laranjeiras-garagem-e-varanda-IDJBXvN.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T2 para arrendamento · Rua Cardal A São José, Campo de Santana - Santa Marta, Santo António, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 80 m² · Reoriente, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iXzi",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nArrenda-se T1 na serra das minas · 800 € · Rio de Mouro - Hoje às 18:04\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-na-serra-das-minas-IDJBXFs.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nArrenda-se T1 na serra das minas · 800 € · Rio de Mouro - Hoje às 18:04\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-na-serra-das-minas-IDJBXFs.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.679 €\nAPARTMENT · FROM 12 OCT · star · 3.8 (205) · 2-Bedroom Apartment for rent in Santo António, Lisbon · From 1679 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/652860"
  ],
  "son_gonderim": "2026-10-01"
 }
