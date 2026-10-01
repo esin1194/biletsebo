@@ -1247,7 +1247,9 @@
    "estudio-equipado-central-1100-s-cristovao-por-6-mes-em-novembro-ID1iXwr",
    "apartamento-t3-totalmente-mobilado-com-vista-rio-e-para-a-ponte-25-ID1iXwq",
    "apartamento-t1-para-arrendamento-ID1iXvt",
-   "t1-para-arrendamento-nos-anjos-ID1iXvh"
+   "t1-para-arrendamento-nos-anjos-ID1iXvh",
+   "apartamento-em-cave-no-principe-real-tipologia-t3-ID1iXxG",
+   "t2-renovado-olivais-ao-parque-do-vale-do-silencio-ID1iXxF"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1681,7 +1683,9 @@
    "arrenda-se-t1-1-avenida-sabia-monte-estoril-IDJyJ2n",
    "1andar-de-moradia-t2-com-despesas-da-gua-e-eletricidade-includos-tem-boa-luminosidade-varanda-local-sossegado-e-perto-de-transportes-IDJBVdN",
    "t2-totalmente-remodelado-e-mobilado-em-lisboa-IDIT45L",
-   "t0-para-arrendar-na-amadora-IDJBX3w"
+   "t0-para-arrendar-na-amadora-IDJBX3w",
+   "apartamento-em-cave-no-prncipe-real-tipologia-t3-IDJBXeK",
+   "t1-lisboa-mobilado-e-equipado-IDJyLK5"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3159,7 +3163,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 51,
+   "bos": 52,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3201,7 +3205,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -3739,8 +3743,11 @@
   "29e79a16bd9b996c",
   "d57172b6063bfe30",
   "a0f21fc78f60c8c0",
-  "29d0c4ed73b7cc78"
+  "29d0c4ed73b7cc78",
+  "fbe3fea04cea3179"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 - Lisboa - Mobilado e Equipado · 850 € · Santa Clara - Hoje às 17:11\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-e-equipado-IDJyLK5.html"
+ ],
  "son_gonderim": "2026-10-01"
 }
