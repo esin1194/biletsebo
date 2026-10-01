@@ -244,7 +244,8 @@
    "analista-de-compras-mfx-area-de-retalho_lisboa_PTS-2026-181020",
    "germanspeaking-technical-support-specialist-mfx_porto-or-lisbon_OTS-2026-183576",
    "eu-auctions-promotion-agent-german-speaker-mfx_lisbon-portugal_OTS-2026-183330",
-   "empregado-de-bar-mfx_lisboa_OTS-2026-182596"
+   "empregado-de-bar-mfx_lisboa_OTS-2026-182596",
+   "assistente-de-loja-mfx_alverca_OTS-2026-182575"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -557,7 +558,9 @@
    "nAJjKa3znZCL38XQMYXUg3",
    "3negE3j9qvzgjw1iLMBMxC",
    "c1LcabUaiDhuunASzpA5Kb",
-   "iWcfPB2HARnJwkwxV8gtic"
+   "iWcfPB2HARnJwkwxV8gtic",
+   "9zVqTDLMnf22jEj2g5x1Q3",
+   "rwe74EXDXLuY2WhP2GSSvc"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -887,7 +890,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 21,
+   "bos": 22,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -949,7 +952,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 342,
+  "elenen": 345,
   "tekrar": 4
  }
 }
