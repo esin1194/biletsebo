@@ -1228,7 +1228,8 @@
    "apartamento-t0-nas-avenidas-novas-lisboa-ID1iXhm",
    "arrendamento-de-t3-em-marvila-lisboa-ID1iXhU",
    "benfica-aos-jardins-de-benfica-ID1iXiG",
-   "apartamento-t2-para-arrendamento-ID1iXiz"
+   "apartamento-t2-para-arrendamento-ID1iXiz",
+   "t2-duplex-em-campo-de-ourique-com-varanda-e-muita-luz-ID1iVzN"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2538,7 +2539,8 @@
    "apartments/432773",
    "apartments/604117",
    "apartments/1429663",
-   "apartments/385623"
+   "apartments/385623",
+   "apartments/1594706"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3106,7 +3108,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 37,
+   "bos": 38,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3148,7 +3150,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 32,
+  "elenen": 33,
   "tekrar": 4
  },
  "imzalar": [
