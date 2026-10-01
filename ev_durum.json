@@ -1702,7 +1702,8 @@
    "arrendo-apartamento-benfica-IDJygcE",
    "arrenda-se-t2-1-no-centro-da-malveira-IDJBYjA",
    "sintra-city-centre-spacious-t3-appartment-with-big-terrace-60-m2-IDJBZ6C",
-   "arrenda-se-apartamento-t3-mem-martins-IDJkepB"
+   "arrenda-se-apartamento-t3-mem-martins-IDJkepB",
+   "t2-paco-de-arcos-IDJyRem"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3183,13 +3184,14 @@
    "1395500568700704215",
    "7514721",
    "1785636428697482752",
-   "904288598237627975"
+   "904288598237627975",
+   "1510760118827592185"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 64,
+   "bos": 65,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3231,7 +3233,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 14,
+  "elenen": 15,
   "tekrar": 1
  },
  "imzalar": [
@@ -3777,7 +3779,8 @@
   "7f620012620478dc",
   "f361914b6bc21a0d",
   "05385f06ed0167e2",
-  "3ecffb8c1f851efc"
+  "3ecffb8c1f851efc",
+  "ced335f13768d160"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 - Lisboa - Mobilado e Equipado · 850 € · Santa Clara - Hoje às 17:11\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-e-equipado-IDJyLK5.html",
@@ -3787,7 +3790,8 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.679 €\nAPARTMENT · FROM 12 OCT · star · 3.8 (205) · 2-Bedroom Apartment for rent in Santo António, Lisbon · From 1679 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/652860",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · T2 mobilado espaçoso com varanda em São Domingos de Benfica, Lisboa · Rua Cecília Meireles, Estrada de Benfica, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 85 m² · Andar · 3 andar · CENTURY 21 Colombo · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-mobilado-espacoso-com-varanda-em-sao-domingos-de-benfica-lisboa-ID1iXD7",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nSintra city centre - Spacious T3 appartment with big terrace (60 m2) · 1.750 € · Sintra (Santa Maria E São Miguel, São Martinho E São Pedro De Penaferrim) - Hoje às 21:17\nhttps://www.olx.pt/d/anuncio/sintra-city-centre-spacious-t3-appartment-with-big-terrace-60-m2-IDJBZ6C.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrenda-se apartamento T3 – Mem Martins · 1.250 € · Negociável · Algueirão-Mem Martins - Hoje às 22:25\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t3-mem-martins-IDJkepB.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrenda-se apartamento T3 – Mem Martins · 1.250 € · Negociável · Algueirão-Mem Martins - Hoje às 22:25\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t3-mem-martins-IDJkepB.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · Apartamento ⋅ Misericórdia · Flor do Bairro IV by LovelyStay · 2 quartos · 2 camas · 1 banheiro · $ 2.439 USD · $ 2.359 USD · $ 2.359 USD mensal, preço original: $ 2.439 USD · mensal · Foto 1 de 22 · Apartamento ⋅ Graça · O Estúdio e a Mansão · 1 sofá-cama · $ 1.58…\nhttps://www.airbnb.com/rooms/1510760118827592185"
  ],
  "son_gonderim": "2026-10-01"
 }
