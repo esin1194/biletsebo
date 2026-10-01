@@ -1237,7 +1237,8 @@
    "t1-alfama-junto-ao-museu-do-fado-para-arrendamento-ID1iXmH",
    "apartamento-t2-para-arrendamento-ID1iXpc",
    "estudio-localizado-em-alcntara-lisbon-ID1iXoD",
-   "t4-remodelado-e-luminoso-com-2-varandas-no-coracao-de-alvalade-ID1iXoo"
+   "t4-remodelado-e-luminoso-com-2-varandas-no-coracao-de-alvalade-ID1iXoo",
+   "t2-renovado-com-terraco-privativo-de-50-m-garagem-e-arrecadacao-ID1iXpu"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2941,7 +2942,11 @@
    "894728",
    "809215",
    "558142",
-   "869924"
+   "869924",
+   "894751",
+   "894750",
+   "894749",
+   "894748"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3119,13 +3124,14 @@
    "1464403994838920933",
    "3838590",
    "1781819207079514791",
-   "1395500568700704215"
+   "1395500568700704215",
+   "7514721"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 43,
+   "bos": 44,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3167,7 +3173,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 47,
+  "elenen": 52,
   "tekrar": 5
  },
  "imzalar": [
@@ -3698,7 +3704,8 @@
   "67becd9969b87a66",
   "8ede623c08774cb7",
   "232e44ecb2f010ef",
-  "b374f4a16bf54f61"
+  "b374f4a16bf54f61",
+  "0d5fd1a8e9874a83"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0 Totalmente equipado e renovado · 800 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/t0-totalmente-equipado-e-renovado-IDJeUJm.html",
@@ -3719,7 +3726,8 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 02 NOV · star · 4.3 (7) · 1-bedroom apartment for rent, Oeiras, Lisbon · From 1400 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1445341",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nCHECKED · APARTMENT · FROM 14 OCT · star · 4 (13) · 1-bedroom apartment for rent in Lisbon, Lisbon · From 1300 €/month · info · UP TO 10 % OFF · 12+ month stay · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/385623",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nApartamento T0 studio para arrendar constância · 650 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Hoje às 12:28\nhttps://www.olx.pt/d/anuncio/apartamento-t0-studio-para-arrendar-constncia-IDJBUtS.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.050 €\nApartamento T1 + 1 Arrendar - Amadora · 1.050 € · Mina De Água - Hoje às 12:47\nhttps://www.olx.pt/d/anuncio/apartamento-t1-1-arrendar-amadora-IDJBWky.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.050 €\nApartamento T1 + 1 Arrendar - Amadora · 1.050 € · Mina De Água - Hoje às 12:47\nhttps://www.olx.pt/d/anuncio/apartamento-t1-1-arrendar-amadora-IDJBWky.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · De 4 de nov.  a  3 de fev. · 4 de nov. – 3 de fev. · Apartamento ⋅ Estrela · Estiloso e brilhante T1 em Alcântara – Nova reforma! · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.575 USD · $ 1.876 USD · $ 1.876 USD mensal, preço original: $ 2.575 USD · mensal · Desc…\nhttps://www.airbnb.com/rooms/7514721"
  ],
  "son_gonderim": "2026-09-30"
 }
