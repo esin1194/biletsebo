@@ -252,7 +252,8 @@
    "consultor-comercial-field-mfx_lisboa_OTS-2026-184946",
    "mecanico-industrial-estagio-profissional-mfx_mem-martins_OTS-2026-184969",
    "motorista-de-ligeiros-mxf_olivais_OTS-2026-184977",
-   "eletricista-mxf_olivais_OTS-2026-184259"
+   "eletricista-mxf_olivais_OTS-2026-184259",
+   "churrasqueiro-mfx_rio-de-mouro_OTS-2026-184985"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -569,7 +570,10 @@
    "9zVqTDLMnf22jEj2g5x1Q3",
    "rwe74EXDXLuY2WhP2GSSvc",
    "nXeM3wmM4Zk1egYBGEBxN9",
-   "g8WN11TrxttCGJPCAXTvqL"
+   "g8WN11TrxttCGJPCAXTvqL",
+   "nS2DznVe4ZLPgrfMkFY6w6",
+   "7MjiM6zQBxXmk9S4K8C3cY",
+   "p2TpPnhnfrnJ83Hbni9Axh"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -897,12 +901,15 @@
   "78327e8b49678431",
   "a99119204dc15ed5",
   "2f168313a9843b71",
-  "1973ce8144e746a0"
+  "1973ce8144e746a0",
+  "8db371409a7f31d5",
+  "abf78c81d2728201",
+  "00797a198161bd38"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 33,
+   "bos": 34,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -964,7 +971,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 350,
+  "elenen": 351,
   "tekrar": 5
  }
 }
