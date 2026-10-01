@@ -1249,7 +1249,10 @@
    "apartamento-t1-para-arrendamento-ID1iXvt",
    "t1-para-arrendamento-nos-anjos-ID1iXvh",
    "apartamento-em-cave-no-principe-real-tipologia-t3-ID1iXxG",
-   "t2-renovado-olivais-ao-parque-do-vale-do-silencio-ID1iXxF"
+   "t2-renovado-olivais-ao-parque-do-vale-do-silencio-ID1iXxF",
+   "t2-1-c-terraco-22m2-na-penha-de-franca-ID1iXAn",
+   "apartamento-t2-para-arrendamento-ID1iXzK",
+   "apartamento-t2-para-arrendamento-ID1iXzi"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1686,7 +1689,8 @@
    "t0-para-arrendar-na-amadora-IDJBX3w",
    "apartamento-em-cave-no-prncipe-real-tipologia-t3-IDJBXeK",
    "t1-lisboa-mobilado-e-equipado-IDJyLK5",
-   "t3-laranjeiras-garagem-e-varanda-IDJBXvN"
+   "t3-laranjeiras-garagem-e-varanda-IDJBXvN",
+   "arrenda-se-t1-na-serra-das-minas-IDJBXFs"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2978,7 +2982,8 @@
    "856845",
    "856846",
    "856606",
-   "566065"
+   "566065",
+   "814242"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3158,13 +3163,14 @@
    "1781819207079514791",
    "1395500568700704215",
    "7514721",
-   "1785636428697482752"
+   "1785636428697482752",
+   "904288598237627975"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 53,
+   "bos": 54,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3206,8 +3212,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
-  "tekrar": 0
+  "elenen": 5,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -3746,11 +3752,15 @@
   "a0f21fc78f60c8c0",
   "29d0c4ed73b7cc78",
   "fbe3fea04cea3179",
-  "520546e39df73d83"
+  "520546e39df73d83",
+  "031903c130dfcefb",
+  "de787bd1dffb00e7"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 - Lisboa - Mobilado e Equipado · 850 € · Santa Clara - Hoje às 17:11\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-e-equipado-IDJyLK5.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.650 €\nT3 - Laranjeiras | Garagem e Varanda · 1.650 € · São Domingos de Benfica - Hoje às 17:49\nhttps://www.olx.pt/d/anuncio/t3-laranjeiras-garagem-e-varanda-IDJBXvN.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.650 €\nT3 - Laranjeiras | Garagem e Varanda · 1.650 € · São Domingos de Benfica - Hoje às 17:49\nhttps://www.olx.pt/d/anuncio/t3-laranjeiras-garagem-e-varanda-IDJBXvN.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T2 para arrendamento · Rua Cardal A São José, Campo de Santana - Santa Marta, Santo António, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 80 m² · Reoriente, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iXzi",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nArrenda-se T1 na serra das minas · 800 € · Rio de Mouro - Hoje às 18:04\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-na-serra-das-minas-IDJBXFs.html"
  ],
  "son_gonderim": "2026-10-01"
 }
