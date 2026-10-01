@@ -1696,7 +1696,8 @@
    "t3-laranjeiras-garagem-e-varanda-IDJBXvN",
    "arrenda-se-t1-na-serra-das-minas-IDJBXFs",
    "arrenda-se-t2-1-no-centro-da-malveira-mafra-IDJBYjA",
-   "arrendo-apartamento-benfica-IDJygcE"
+   "arrendo-apartamento-benfica-IDJygcE",
+   "arrenda-se-t2-1-no-centro-da-malveira-IDJBYjA"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3182,7 +3183,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 60,
+   "bos": 61,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3224,7 +3225,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 10,
+  "elenen": 11,
   "tekrar": 1
  },
  "imzalar": [
