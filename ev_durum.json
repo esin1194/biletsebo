@@ -2500,7 +2500,29 @@
    "apartments/1182101",
    "apartments/1182634",
    "apartments/1594673",
-   "apartments/1183070"
+   "apartments/1183070",
+   "apartments/1320671",
+   "apartments/939912",
+   "apartments/1477794",
+   "apartments/253075",
+   "apartments/1348566",
+   "apartments/1084237",
+   "apartments/1205259",
+   "apartments/1182921",
+   "apartments/1335162",
+   "apartments/1594638",
+   "apartments/1594592",
+   "apartments/1182774",
+   "apartments/593290",
+   "apartments/1182971",
+   "apartments/1594694",
+   "apartments/1183008",
+   "apartments/1183039",
+   "apartments/1594636",
+   "apartments/1181206",
+   "apartments/1182759",
+   "apartments/1182084",
+   "apartments/1445341"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2516,7 +2538,8 @@
    "ut1690154",
    "ut1663022",
    "ut1682186",
-   "ut1714534"
+   "ut1714534",
+   "ut1515859"
   ],
   "uniplaces.com": [
    "890027",
@@ -3062,7 +3085,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 22,
+   "bos": 23,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3104,7 +3127,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 14,
+  "elenen": 18,
   "tekrar": 4
  },
  "imzalar": [
@@ -3630,7 +3653,9 @@
   "9913367e0de04074",
   "f362cd215a23497d",
   "d6c106916b758c09",
-  "41fc2f00a466907d"
+  "41fc2f00a466907d",
+  "971bd71d4d20d648",
+  "67becd9969b87a66"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0 Totalmente equipado e renovado · 800 € · Póvoa De Santo Adrião E Olival Basto - Hoje às 17:27\nhttps://www.olx.pt/d/anuncio/t0-totalmente-equipado-e-renovado-IDJeUJm.html",
@@ -3646,7 +3671,9 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.628 €\nCHECKED · APARTMENT · FROM 04 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon. · From 1628 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1594642",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.881 €\nCHECKED · APARTMENT · FROM 13 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon. · From 1881 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1594618",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.785 €\nAPARTMENT · FROM 30 OCT · star · 3.8 (205) · 1-bedroom apartment for rent in Santa Cruz, Lisbon · From 1785 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/766883",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.661 €\nCHECKED · APARTMENT · FROM 06 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon, Lisbon · From 1661 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1181395"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.661 €\nCHECKED · APARTMENT · FROM 06 NOV · star · 4 (8) · 1-bedroom apartment for rent in Lisbon, Lisbon · From 1661 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1181395",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 09 NOV · star · 4 (74) · 1-bedroom apartment for rent in Lisbon · From 2000 €/month · info · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1320671",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 02 NOV · star · 4.3 (7) · 1-bedroom apartment for rent, Oeiras, Lisbon · From 1400 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1445341"
  ],
  "son_gonderim": "2026-09-30"
 }
