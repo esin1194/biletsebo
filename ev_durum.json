@@ -1258,7 +1258,8 @@
    "apartamento-t2-para-arrendamento-ID1iXCT",
    "t2-mobilado-espacoso-com-varanda-em-sao-domingos-de-benfica-lisboa-ID1iXD7",
    "apartamento-p-arrendar-t2-duplex-olivais-ID1iVhp",
-   "t2-em-sao-domingos-de-benfica-pronto-a-habitar-e-optima-localizacao-ID1iXDl"
+   "t2-em-sao-domingos-de-benfica-pronto-a-habitar-e-optima-localizacao-ID1iXDl",
+   "apartamento-t2-renovado-na-quinta-das-conchas-ID1iXDV"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3186,7 +3187,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 62,
+   "bos": 63,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3228,7 +3229,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 14,
   "tekrar": 1
  },
  "imzalar": [
