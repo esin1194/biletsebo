@@ -1254,7 +1254,8 @@
    "apartamento-t2-para-arrendamento-ID1iXzK",
    "apartamento-t2-para-arrendamento-ID1iXzi",
    "apartamento-t2-para-arrendamento-ID1iXBF",
-   "t2-com-garagem-varanda-e-ar-condicionado-em-marvila-ID1iXCh"
+   "t2-com-garagem-varanda-e-ar-condicionado-em-marvila-ID1iXCh",
+   "apartamento-t2-para-arrendamento-ID1iXCT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3174,7 +3175,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 57,
+   "bos": 58,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3216,7 +3217,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 9,
   "tekrar": 1
  },
  "imzalar": [
