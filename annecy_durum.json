@@ -309,7 +309,8 @@
    "83967516",
    "83967724",
    "83967749",
-   "83968208"
+   "83968208",
+   "83979958"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -492,12 +493,13 @@
   "ab787a2542eb9dcd",
   "a1f6aa776234bcc7",
   "d782980ba4d2a14c",
-  "a4d482c5ac6f8824"
+  "a4d482c5ac6f8824",
+  "746d6a298a5daf02"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?l=Annecy&d=20&t=0": {
@@ -542,7 +544,7 @@
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   }
  },
