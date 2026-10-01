@@ -241,7 +241,9 @@
    "comercial-mfx_lisboa_PTS-2026-183887",
    "empregado-de-mesa-mfx_lisboa_OTS-2026-183881",
    "tecnico-administrativo-de-operacoes-fmx_lisboa_PTS-2026-183874",
-   "analista-de-compras-mfx-area-de-retalho_lisboa_PTS-2026-181020"
+   "analista-de-compras-mfx-area-de-retalho_lisboa_PTS-2026-181020",
+   "germanspeaking-technical-support-specialist-mfx_porto-or-lisbon_OTS-2026-183576",
+   "eu-auctions-promotion-agent-german-speaker-mfx_lisbon-portugal_OTS-2026-183330"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -525,7 +527,36 @@
    "mV9gsJrSMqc98M8GdGzbk9",
    "9L92TdAYHzx4aNsZCfqLHY",
    "5XMcspwErooysfjTvq1xhX",
-   "7p6hQDfxA4XLD6mUyZvfDW"
+   "7p6hQDfxA4XLD6mUyZvfDW",
+   "64FWwsDa5NEBuopdSZy5U1",
+   "3VxzsQevHf1fEfXm4Y87i3",
+   "89ff6dfAaqXeYuNZtUp5je",
+   "hD784tKNd7ndzZFvFo1F1a",
+   "s9dQkgySowbtmUMXtMGvgM",
+   "tGuRiYMYimvsEQ1o5VnpF3",
+   "vepow7UHrZJihjwApTfWmK",
+   "xkGCKbtSf99jk9kKovYgv3",
+   "6zWVwm866YKiaweyNGCoSL",
+   "j9QtkwKoj7emhZCK7ZGMVo",
+   "r2nFyEUU9VTCmz6QQmSk7F",
+   "xkVPNZSLsvPiLmVxY6mF26",
+   "okWU2dVsiJdwFJVVw6GzBY",
+   "18jAZiC7geG3sG1eUTmj4L",
+   "9mHB7qazFdLsZ596fgnLhu",
+   "aFBN1VVrfkr9WiKvTJeKWG",
+   "qTbbRNL8nFLShAuCienhVt",
+   "kkdodxK2b9np3c4sBvWzCk",
+   "oVudbcXVJAzaWvnLrU3Tdi",
+   "4bifJ1zgqfnCEZRSi7BL5f",
+   "92shDnzkPV7fx4ZQzxCZJf",
+   "qPtiyQZskYmWoyb68NdZLz",
+   "dSwUwyk2iVyhrM3GJQ9XMX",
+   "x7WwT4uyhnS6zt96qjMHLm",
+   "m7cy1DZxHzw2hsDsEp8axz",
+   "nAJjKa3znZCL38XQMYXUg3",
+   "3negE3j9qvzgjw1iLMBMxC",
+   "c1LcabUaiDhuunASzpA5Kb",
+   "iWcfPB2HARnJwkwxV8gtic"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -838,12 +869,24 @@
   "1ab1f604c8947225",
   "dd0af6c20b60e108",
   "e90f4c7cdae720c3",
-  "18452cd80660129f"
+  "18452cd80660129f",
+  "5671aee15464fd50",
+  "868158c999aa1c72",
+  "fbd01a732d8f3f23",
+  "c74d8cd9fdb5b52c",
+  "664e49f9d4efba2e",
+  "69097a2b601ec238",
+  "a509ea0aa5ea65e5",
+  "650d692c34dd7f79",
+  "b0a78a63844b2c8e",
+  "c3e08ba97dd4c29a",
+  "e62e5c3347f3ec3c",
+  "78327e8b49678431"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -905,7 +948,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 338,
-  "tekrar": 3
+  "elenen": 341,
+  "tekrar": 4
  }
 }
