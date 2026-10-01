@@ -1229,7 +1229,9 @@
    "arrendamento-de-t3-em-marvila-lisboa-ID1iXhU",
    "benfica-aos-jardins-de-benfica-ID1iXiG",
    "apartamento-t2-para-arrendamento-ID1iXiz",
-   "t2-duplex-em-campo-de-ourique-com-varanda-e-muita-luz-ID1iVzN"
+   "t2-duplex-em-campo-de-ourique-com-varanda-e-muita-luz-ID1iVzN",
+   "t1-com-varanda-e-elevador-arroios-ID1iXjM",
+   "t2-com-varanda-e-elevador-em-campo-de-ourique-ID1iXdT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1654,7 +1656,8 @@
    "anexo-t1-para-arrendamento-820-euros-gua-includo-na-renda-IDJBRGR",
    "aluga-t2-novo-estrear-algueiro-mem-martins-IDIR0NL",
    "studio-para-arrendar-em-lisboa-prximo-das-universidades-IDJBSj5",
-   "alugo-apartamento-IDJBTBz"
+   "alugo-apartamento-IDJBTBz",
+   "alugo-apartamento-t2-lourel-sintra-IDJBUnb"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2925,7 +2928,10 @@
    "48366",
    "678407",
    "841866",
-   "463881"
+   "463881",
+   "894729",
+   "894728",
+   "809215"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3108,7 +3114,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 38,
+   "bos": 39,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3150,7 +3156,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 33,
+  "elenen": 39,
   "tekrar": 4
  },
  "imzalar": [
