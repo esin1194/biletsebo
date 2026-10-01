@@ -1225,7 +1225,8 @@
    "arrendamento-de-apartamento-em-lisboa-campo-de-ourique-ID1iXc9",
    "t2-com-ar-condicionado-em-lumiar-lisboa-ID1iXgf",
    "apartamento-t1-em-alvalade-de-60-00-m2-ID1iXh9",
-   "apartamento-t0-nas-avenidas-novas-lisboa-ID1iXhm"
+   "apartamento-t0-nas-avenidas-novas-lisboa-ID1iXhm",
+   "arrendamento-de-t3-em-marvila-lisboa-ID1iXhU"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3101,7 +3102,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 35,
+   "bos": 36,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3143,7 +3144,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 28,
+  "elenen": 29,
   "tekrar": 4
  },
  "imzalar": [
