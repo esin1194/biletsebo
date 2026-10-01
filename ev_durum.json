@@ -1231,7 +1231,9 @@
    "apartamento-t2-para-arrendamento-ID1iXiz",
    "t2-duplex-em-campo-de-ourique-com-varanda-e-muita-luz-ID1iVzN",
    "t1-com-varanda-e-elevador-arroios-ID1iXjM",
-   "t2-com-varanda-e-elevador-em-campo-de-ourique-ID1iXdT"
+   "t2-com-varanda-e-elevador-em-campo-de-ourique-ID1iXdT",
+   "t1-1-nas-torres-do-restelo-luminosidade-vista-rio-e-parqueamento-ID1iXlw",
+   "apartamento-t1-para-arrendamento-ID1iXld"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3114,7 +3116,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 39,
+   "bos": 40,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3156,7 +3158,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 39,
+  "elenen": 41,
   "tekrar": 4
  },
  "imzalar": [
