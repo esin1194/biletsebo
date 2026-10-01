@@ -1685,7 +1685,8 @@
    "t2-totalmente-remodelado-e-mobilado-em-lisboa-IDIT45L",
    "t0-para-arrendar-na-amadora-IDJBX3w",
    "apartamento-em-cave-no-prncipe-real-tipologia-t3-IDJBXeK",
-   "t1-lisboa-mobilado-e-equipado-IDJyLK5"
+   "t1-lisboa-mobilado-e-equipado-IDJyLK5",
+   "t3-laranjeiras-garagem-e-varanda-IDJBXvN"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3163,7 +3164,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 52,
+   "bos": 53,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3744,10 +3745,12 @@
   "d57172b6063bfe30",
   "a0f21fc78f60c8c0",
   "29d0c4ed73b7cc78",
-  "fbe3fea04cea3179"
+  "fbe3fea04cea3179",
+  "520546e39df73d83"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 - Lisboa - Mobilado e Equipado · 850 € · Santa Clara - Hoje às 17:11\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-e-equipado-IDJyLK5.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 - Lisboa - Mobilado e Equipado · 850 € · Santa Clara - Hoje às 17:11\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-e-equipado-IDJyLK5.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.650 €\nT3 - Laranjeiras | Garagem e Varanda · 1.650 € · São Domingos de Benfica - Hoje às 17:49\nhttps://www.olx.pt/d/anuncio/t3-laranjeiras-garagem-e-varanda-IDJBXvN.html"
  ],
  "son_gonderim": "2026-10-01"
 }
