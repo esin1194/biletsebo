@@ -243,7 +243,8 @@
    "tecnico-administrativo-de-operacoes-fmx_lisboa_PTS-2026-183874",
    "analista-de-compras-mfx-area-de-retalho_lisboa_PTS-2026-181020",
    "germanspeaking-technical-support-specialist-mfx_porto-or-lisbon_OTS-2026-183576",
-   "eu-auctions-promotion-agent-german-speaker-mfx_lisbon-portugal_OTS-2026-183330"
+   "eu-auctions-promotion-agent-german-speaker-mfx_lisbon-portugal_OTS-2026-183330",
+   "empregado-de-bar-mfx_lisboa_OTS-2026-182596"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -886,7 +887,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 20,
+   "bos": 21,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -948,7 +949,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 341,
+  "elenen": 342,
   "tekrar": 4
  }
 }
