@@ -247,7 +247,8 @@
    "empregado-de-bar-mfx_lisboa_OTS-2026-182596",
    "assistente-de-loja-mfx_alverca_OTS-2026-182575",
    "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-184197",
-   "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-181882"
+   "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-181882",
+   "gestora-de-projetos-pmes-mfx_lisboa-ou-porto_OTS-2026-183798"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -893,7 +894,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 24,
+   "bos": 25,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -955,7 +956,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 345,
+  "elenen": 346,
   "tekrar": 5
  }
 }
