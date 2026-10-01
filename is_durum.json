@@ -245,7 +245,9 @@
    "germanspeaking-technical-support-specialist-mfx_porto-or-lisbon_OTS-2026-183576",
    "eu-auctions-promotion-agent-german-speaker-mfx_lisbon-portugal_OTS-2026-183330",
    "empregado-de-bar-mfx_lisboa_OTS-2026-182596",
-   "assistente-de-loja-mfx_alverca_OTS-2026-182575"
+   "assistente-de-loja-mfx_alverca_OTS-2026-182575",
+   "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-184197",
+   "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-181882"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -885,12 +887,13 @@
   "b0a78a63844b2c8e",
   "c3e08ba97dd4c29a",
   "e62e5c3347f3ec3c",
-  "78327e8b49678431"
+  "78327e8b49678431",
+  "a99119204dc15ed5"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 23,
+   "bos": 24,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -953,6 +956,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 345,
-  "tekrar": 4
+  "tekrar": 5
  }
 }
