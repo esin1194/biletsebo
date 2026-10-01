@@ -1252,7 +1252,8 @@
    "t2-renovado-olivais-ao-parque-do-vale-do-silencio-ID1iXxF",
    "t2-1-c-terraco-22m2-na-penha-de-franca-ID1iXAn",
    "apartamento-t2-para-arrendamento-ID1iXzK",
-   "apartamento-t2-para-arrendamento-ID1iXzi"
+   "apartamento-t2-para-arrendamento-ID1iXzi",
+   "apartamento-t2-para-arrendamento-ID1iXBF"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3171,7 +3172,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 55,
+   "bos": 56,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3213,7 +3214,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
+  "elenen": 6,
   "tekrar": 1
  },
  "imzalar": [
