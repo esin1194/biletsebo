@@ -1780,7 +1780,8 @@
    "arrendamento-t2-av-almirante-reis-99-IDJysF4",
    "arrenda-se-t1-lugar-garagem-como-novo-excelente-localizao-IDJr4Hs",
    "t2-totalmente-remodelado-a-estrear-centro-de-fanhes-IDJC9ep",
-   "t2-renovado-vista-mar-golfe-9-andar-junto-ao-taguspark-IDJhsUi"
+   "t2-renovado-vista-mar-golfe-9-andar-junto-ao-taguspark-IDJhsUi",
+   "t2-mobiliado-em-matarraque-IDJwieH"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3302,7 +3303,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3344,7 +3345,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 14,
   "tekrar": 0
  },
  "imzalar": [
