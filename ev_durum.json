@@ -1291,7 +1291,8 @@
    "apartamento-disponivel-em-lumiar-ID1iXIp",
    "apartamento-t4-sujeito-a-propostas-ID1iXIa",
    "t0-mobilado-e-equipado-em-sao-vicente-ID1iXJD",
-   "apartamento-t1-lisboa-ID1iXLs"
+   "apartamento-t1-lisboa-ID1iXLs",
+   "apartamento-t1-lisboa-ID1iXLT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1745,7 +1746,8 @@
    "apartamento-t4-sujeito-a-propostas-IDJBUCm",
    "arrendamento-longa-durao-t0-50m2-alfama-IDJC3P7",
    "arrenda-se-t3-totalmente-remodelado-IDJC3JO",
-   "t3-serra-da-luz-pontinha-IDJC362"
+   "t3-serra-da-luz-pontinha-IDJC362",
+   "t1-1-carnaxide-IDJC4QK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3239,7 +3241,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 20,
+   "bos": 21,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3281,7 +3283,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 25,
+  "elenen": 26,
   "tekrar": 2
  },
  "imzalar": [
@@ -3846,7 +3848,8 @@
   "4c6627d5a959633b",
   "73c81ef5b0dd8092",
   "56edd794e31e1be3",
-  "85f0c50e7bcbc7b1"
+  "85f0c50e7bcbc7b1",
+  "65ac6df47e2d4c18"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 - Lisboa - Mobilado e Equipado · 850 € · Santa Clara - Hoje às 17:11\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-e-equipado-IDJyLK5.html",
@@ -3876,7 +3879,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nArrendamento longa duração T0 50m2 Alfama · 1.100 € · Santa Maria Maior - Hoje às 11:09\nhttps://www.olx.pt/d/anuncio/arrendamento-longa-durao-t0-50m2-alfama-IDJC3P7.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nArrenda se t3 totalmente remodelado · 1.400 € · Rio de Mouro - Hoje às 11:02\nhttps://www.olx.pt/d/anuncio/arrenda-se-t3-totalmente-remodelado-IDJC3JO.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 25 · Superhost · Apartamento ⋅ Arroios · Apart. 3D, Coração da cidade, a 250m do Rossio, · 1 quarto · 1 cama · 1 banheiro · $ 3.105 USD · $ 1.532 USD · $ 1.532 USD mensal, preço original: $ 3.105 USD · mensal · Desconto mensal · 4,55 de uma avaliação média de 5, 105 ava…\nhttps://www.airbnb.com/rooms/11180616",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T0 Mobilado e Equipado em São Vicente · Rua da Verónica, São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 44 m² · KW Ábaco · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-e-equipado-em-sao-vicente-ID1iXJD"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T0 Mobilado e Equipado em São Vicente · Rua da Verónica, São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 44 m² · KW Ábaco · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-e-equipado-em-sao-vicente-ID1iXJD",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 + 1 carnaxide · 1.100 € · Carnaxide E Queijas - Hoje às 12:57\nhttps://www.olx.pt/d/anuncio/t1-1-carnaxide-IDJC4QK.html"
  ],
  "son_gonderim": "2026-10-01"
 }
