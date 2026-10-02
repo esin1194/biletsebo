@@ -261,7 +261,9 @@
    "operador-retratil_torres-novas_OTS-2025-161716",
    "operador-de-empilhador-mxf_povoa-de-santo-adriao_OTS-2026-178470",
    "operador-de-armazem-mfx_azambuja_OTS-2026-176469",
-   "key-account-manager-hunter-mfx_lisboa_OTS-2026-180342"
+   "key-account-manager-hunter-mfx_lisboa_OTS-2026-180342",
+   "operador-fabril-injeccao-mfx_terrugem-sintra_OTS-2026-184038",
+   "operador-fabril-lacagem-mfx_sintra_OTS-2026-184036"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -923,7 +925,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 23,
+   "bos": 24,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -985,7 +987,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 365,
+  "elenen": 367,
   "tekrar": 5
  }
 }
