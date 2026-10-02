@@ -301,7 +301,12 @@
    "network-security-engineer_lisboa_DTS-2024-185040",
    "assistente-de-loja-mfx-eredes_sintra_OTS-2026-184916",
    "assistente-de-relacionamento-ao-cliente-mfx_lisboa_OTS-2026-184075",
-   "administradora-de-sistemas-cloud_lisboa_DTS-2024-185040"
+   "administradora-de-sistemas-cloud_lisboa_DTS-2024-185040",
+   "embalador-alimentar_vialonga_OTS-2026-184568",
+   "assistente-vendas-el-corte-ingles-full-time_lisboa_OTS-2026-183893",
+   "supervisor-de-apoio-a-gestao-mfx_lisboa_OTS-2026-183291",
+   "account-manager-telesales-mfx_lisboa_OTS-2026-179901",
+   "rececao-e-office-management_lisboa_OTS-2026-185037"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -629,7 +634,9 @@
    "o7YnzxWvXM1E5hykoixdRX",
    "fuQU5LkmU8HuBDMSKrwmc2",
    "fWThyoB3YvZGkABUX9Wyqj",
-   "86kjP54TsVF1oLYknS2uWg"
+   "86kjP54TsVF1oLYknS2uWg",
+   "cZNdwgVNNBR18oRuVUnXir",
+   "tXTjFrznndwiMtaG6jqHjP"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -962,12 +969,14 @@
   "abf78c81d2728201",
   "00797a198161bd38",
   "f80abb7457695382",
-  "9a73326e966dec35"
+  "9a73326e966dec35",
+  "cdf26f8212de6f4f",
+  "fd24e32fb2c628fd"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 35,
+   "bos": 36,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1029,7 +1038,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 402,
+  "elenen": 407,
   "tekrar": 8
  }
 }
