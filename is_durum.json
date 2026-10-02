@@ -281,7 +281,14 @@
    "tecnicoa-de-trafego-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2025-167294",
    "operadora-de-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2025-167295",
    "recepcionista-clinica-mfx_restelo_PTS-2026-174387",
-   "business-development-project-consultant_portugal_PTS-2026-184961"
+   "business-development-project-consultant_portugal_PTS-2026-184961",
+   "assistente-de-loja-vodafone-mfx_cascais_OTS-2026-184214",
+   "assistente-de-loja-vodafone-fulltime-mfx_colombo_OTS-2026-183152",
+   "assistente-de-loja-vodafone-mfx_setubal_OTS-2026-184544",
+   "assistente-de-loja-vodafone-mfx-fulltime-almada-forum_almada_OTS-2026-184371",
+   "assistente-de-loja-vodafone-mfx_cascais_OTS-2026-184372",
+   "assistente-de-loja-vodafone-mfx_setubal_OTS-2026-184229",
+   "assistente-de-loja-vodafone-mfx_amoreiras_OTS-2026-184233"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -607,7 +614,8 @@
    "i4x8HnYYNiodZMmBCLwAJe",
    "umtHvL1mtogg3j72PmdCF7",
    "o7YnzxWvXM1E5hykoixdRX",
-   "fuQU5LkmU8HuBDMSKrwmc2"
+   "fuQU5LkmU8HuBDMSKrwmc2",
+   "fWThyoB3YvZGkABUX9Wyqj"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -938,12 +946,13 @@
   "1973ce8144e746a0",
   "8db371409a7f31d5",
   "abf78c81d2728201",
-  "00797a198161bd38"
+  "00797a198161bd38",
+  "f80abb7457695382"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 30,
+   "bos": 31,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1005,7 +1014,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 384,
+  "elenen": 391,
   "tekrar": 6
  }
 }
