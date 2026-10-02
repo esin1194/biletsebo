@@ -316,7 +316,13 @@
    "operadores-de-producao_sobralinho-alverca-do-ribatejo_OTS-2026-184632",
    "pedreiro-mfx_vialonga_OTS-2026-179807",
    "eletricista-mfx_vialonga_OTS-2026-179806",
-   "servente-mfx_vialonga_OTS-2026-179808"
+   "servente-mfx_vialonga_OTS-2026-179808",
+   "buyer-support-agent-german-speaker-mfx_lisbon-hybrid_OTS-2026-185073",
+   "advogado-coordenador-bancario-financeiro_lisboa_PTS-2026-184957",
+   "buyer-support-agent-dutch-speaker-mfx_lisbon-hybrid_OTS-2026-185074",
+   "responsavel-de-armazem_lisboa_OTS-2026-185062",
+   "advogado-ip_lisboa-ou-porto_PTS-2026-184955",
+   "tecnico-de-telecomunicacoes-mfx_vialonga_OTS-2026-179809"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -986,7 +992,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 40,
+   "bos": 41,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1048,7 +1054,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 417,
+  "elenen": 423,
   "tekrar": 8
  }
 }
