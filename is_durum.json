@@ -295,7 +295,11 @@
    "assistente-comercial-mfx-fulltime-ubbo_amadora_OTS-2026-181497",
    "network-security-engineer_lisboa_DTS-2024-155309",
    "junior-services-ordering-and-invoicing-officer_lisboa_PTS-2026-184193",
-   "assistente-de-loja-mfx-edp-comercial_cascais_OTS-2026-181411"
+   "assistente-de-loja-mfx-edp-comercial_cascais_OTS-2026-181411",
+   "assistente-banca-telefonica-mfx_lisboa_OTS-2026-185043",
+   "operador-de-armazem-mxf-folgas-fixas-ao-fim-de-semana_olivais_OTS-2026-183014",
+   "network-security-engineer_lisboa_DTS-2024-185040",
+   "assistente-de-loja-mfx-eredes_sintra_OTS-2026-184916"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -622,7 +626,8 @@
    "umtHvL1mtogg3j72PmdCF7",
    "o7YnzxWvXM1E5hykoixdRX",
    "fuQU5LkmU8HuBDMSKrwmc2",
-   "fWThyoB3YvZGkABUX9Wyqj"
+   "fWThyoB3YvZGkABUX9Wyqj",
+   "86kjP54TsVF1oLYknS2uWg"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -954,12 +959,13 @@
   "8db371409a7f31d5",
   "abf78c81d2728201",
   "00797a198161bd38",
-  "f80abb7457695382"
+  "f80abb7457695382",
+  "9a73326e966dec35"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 33,
+   "bos": 34,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1021,7 +1027,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 398,
-  "tekrar": 6
+  "elenen": 401,
+  "tekrar": 7
  }
 }
