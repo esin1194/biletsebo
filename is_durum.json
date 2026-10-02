@@ -307,7 +307,12 @@
    "supervisor-de-apoio-a-gestao-mfx_lisboa_OTS-2026-183291",
    "account-manager-telesales-mfx_lisboa_OTS-2026-179901",
    "rececao-e-office-management_lisboa_OTS-2026-185037",
-   "eletricista-mfx_lisboa_OTS-2026-185056"
+   "eletricista-mfx_lisboa_OTS-2026-185056",
+   "operador-de-armazem-fulltime-e-parttime_famoes_OTS-2026-183436",
+   "operador-de-expedicao_carregado_OTS-2026-179868",
+   "operador-de-maquinas_carregado_OTS-2026-179550",
+   "operador-de-armazem-04h13h_vialonga_OTS-2026-178965",
+   "operador-de-picking-e-retractil_azambuja_OTS-2026-172787"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -977,7 +982,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 38,
+   "bos": 39,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1039,7 +1044,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 408,
+  "elenen": 413,
   "tekrar": 8
  }
 }
