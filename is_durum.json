@@ -292,7 +292,10 @@
    "assistente-comercial-mfx-fulltime-cascaishopping_cascais_OTS-2026-184903",
    "assistente-comercial-mfx-full-time-strada_strada-odivelas_OTS-2026-184382",
    "assistente-comercial-mfx-fulltime-alegro-alfragide_alfragide_OTS-2026-184381",
-   "assistente-comercial-mfx-fulltime-ubbo_amadora_OTS-2026-181497"
+   "assistente-comercial-mfx-fulltime-ubbo_amadora_OTS-2026-181497",
+   "network-security-engineer_lisboa_DTS-2024-155309",
+   "junior-services-ordering-and-invoicing-officer_lisboa_PTS-2026-184193",
+   "assistente-de-loja-mfx-edp-comercial_cascais_OTS-2026-181411"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -956,7 +959,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 32,
+   "bos": 33,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1018,7 +1021,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 395,
+  "elenen": 398,
   "tekrar": 6
  }
 }
