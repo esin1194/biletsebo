@@ -322,7 +322,9 @@
    "buyer-support-agent-dutch-speaker-mfx_lisbon-hybrid_OTS-2026-185074",
    "responsavel-de-armazem_lisboa_OTS-2026-185062",
    "advogado-ip_lisboa-ou-porto_PTS-2026-184955",
-   "tecnico-de-telecomunicacoes-mfx_vialonga_OTS-2026-179809"
+   "tecnico-de-telecomunicacoes-mfx_vialonga_OTS-2026-179809",
+   "temporary-data-entry-operator-english-mfx_lisbon-portugal_OTS-2026-185076",
+   "pricing-specialist-english-speaker-mfx_lisbon-hybrid_OTS-2026-185078"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -992,7 +994,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 41,
+   "bos": 42,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1054,7 +1056,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 423,
+  "elenen": 425,
   "tekrar": 8
  }
 }
