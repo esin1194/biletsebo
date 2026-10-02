@@ -306,7 +306,8 @@
    "assistente-vendas-el-corte-ingles-full-time_lisboa_OTS-2026-183893",
    "supervisor-de-apoio-a-gestao-mfx_lisboa_OTS-2026-183291",
    "account-manager-telesales-mfx_lisboa_OTS-2026-179901",
-   "rececao-e-office-management_lisboa_OTS-2026-185037"
+   "rececao-e-office-management_lisboa_OTS-2026-185037",
+   "eletricista-mfx_lisboa_OTS-2026-185056"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -976,7 +977,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 37,
+   "bos": 38,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1038,7 +1039,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 407,
+  "elenen": 408,
   "tekrar": 8
  }
 }
