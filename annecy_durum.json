@@ -328,7 +328,11 @@
    "84004310",
    "84028690",
    "84029588",
-   "84030792"
+   "84030792",
+   "84044213",
+   "84044231",
+   "84044201",
+   "84044185"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -523,7 +527,8 @@
   "313fb7d48f6831d9",
   "2231ee968ec9124f",
   "a1289a89764e7667",
-  "31d8d266c89ab17a"
+  "31d8d266c89ab17a",
+  "0a661c1588be1088"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -581,6 +586,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 14,
-  "tekrar": 22
+  "tekrar": 25
  }
 }
