@@ -312,7 +312,11 @@
    "operador-de-expedicao_carregado_OTS-2026-179868",
    "operador-de-maquinas_carregado_OTS-2026-179550",
    "operador-de-armazem-04h13h_vialonga_OTS-2026-178965",
-   "operador-de-picking-e-retractil_azambuja_OTS-2026-172787"
+   "operador-de-picking-e-retractil_azambuja_OTS-2026-172787",
+   "operadores-de-producao_sobralinho-alverca-do-ribatejo_OTS-2026-184632",
+   "pedreiro-mfx_vialonga_OTS-2026-179807",
+   "eletricista-mfx_vialonga_OTS-2026-179806",
+   "servente-mfx_vialonga_OTS-2026-179808"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -982,7 +986,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 39,
+   "bos": 40,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1044,7 +1048,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 413,
+  "elenen": 417,
   "tekrar": 8
  }
 }
