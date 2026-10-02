@@ -324,7 +324,9 @@
    "advogado-ip_lisboa-ou-porto_PTS-2026-184955",
    "tecnico-de-telecomunicacoes-mfx_vialonga_OTS-2026-179809",
    "temporary-data-entry-operator-english-mfx_lisbon-portugal_OTS-2026-185076",
-   "pricing-specialist-english-speaker-mfx_lisbon-hybrid_OTS-2026-185078"
+   "pricing-specialist-english-speaker-mfx_lisbon-hybrid_OTS-2026-185078",
+   "empregado-de-mesa-mfx-1a2a_estoril_OTS-2026-176300",
+   "empregada-de-andares-mf_lisboa_OTS-2025-164146"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -996,7 +998,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1058,7 +1060,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 425,
+  "elenen": 427,
   "tekrar": 8
  }
 }
