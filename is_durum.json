@@ -260,7 +260,8 @@
    "churrasqueiro-mfx_rio-de-mouro_OTS-2026-184985",
    "operador-retratil_torres-novas_OTS-2025-161716",
    "operador-de-empilhador-mxf_povoa-de-santo-adriao_OTS-2026-178470",
-   "operador-de-armazem-mfx_azambuja_OTS-2026-176469"
+   "operador-de-armazem-mfx_azambuja_OTS-2026-176469",
+   "key-account-manager-hunter-mfx_lisboa_OTS-2026-180342"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -922,7 +923,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 22,
+   "bos": 23,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -984,7 +985,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 364,
+  "elenen": 365,
   "tekrar": 5
  }
 }
