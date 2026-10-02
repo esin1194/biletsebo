@@ -268,7 +268,18 @@
    "tecnicoa-de-trafego-assistencia-em-escala_aeroporto-de-lisboa_OTS-2026-177113",
    "aeroporto-assistentes-de-informacoes-mfx_lisboa_OTS-2025-169702",
    "aeroporto-assistentes-de-passageiros-com-mobilidade-reduzida-mfx_lisboa_OTS-2025-165575",
-   "apoio-ao-cliente-gestao-de-sinistros-assistencia-mfx_lisboa-amadora_OTS-2026-185015"
+   "apoio-ao-cliente-gestao-de-sinistros-assistencia-mfx_lisboa-amadora_OTS-2026-185015",
+   "assistente-de-loja-vodafone-fulltime-mfx_arena-shopping-torres-vedras_OTS-2026-185025",
+   "comercial-projeto-de-inovacao-em-saude-mfx_lisboa_PTS-2026-185026",
+   "fresador-mecanico-mfx_carnaxide_OTS-2026-183317",
+   "torneiro-mecanico-mfx_carnaxide_OTS-2026-180391",
+   "securities-settlements-analyst_lisboa_PTS-2026-185020",
+   "assistente-de-loja-vodafone-mfx_cascais_OTS-2026-185023",
+   "assistente-de-loja-vodafone-fulltime-mfx_arena-shopping-torres-vedras_OTS-2026-185024",
+   "aeroporto-assistentes-de-carros-de-bagagens-mf_lisboa_OTS-2026-177720",
+   "operadora-de-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2026-177451",
+   "tecnicoa-de-trafego-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2025-167294",
+   "operadora-de-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2025-167295"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -930,7 +941,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 27,
+   "bos": 28,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -992,7 +1003,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 371,
+  "elenen": 382,
   "tekrar": 6
  }
 }
