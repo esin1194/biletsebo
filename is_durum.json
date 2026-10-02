@@ -279,7 +279,9 @@
    "aeroporto-assistentes-de-carros-de-bagagens-mf_lisboa_OTS-2026-177720",
    "operadora-de-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2026-177451",
    "tecnicoa-de-trafego-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2025-167294",
-   "operadora-de-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2025-167295"
+   "operadora-de-assistencia-em-escala-carga_aeroporto-de-lisboa_OTS-2025-167295",
+   "recepcionista-clinica-mfx_restelo_PTS-2026-174387",
+   "business-development-project-consultant_portugal_PTS-2026-184961"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -941,7 +943,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 29,
+   "bos": 30,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1003,7 +1005,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 382,
+  "elenen": 384,
   "tekrar": 6
  }
 }
