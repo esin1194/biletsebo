@@ -1292,7 +1292,9 @@
    "apartamento-t4-sujeito-a-propostas-ID1iXIa",
    "t0-mobilado-e-equipado-em-sao-vicente-ID1iXJD",
    "apartamento-t1-lisboa-ID1iXLs",
-   "apartamento-t1-lisboa-ID1iXLT"
+   "apartamento-t1-lisboa-ID1iXLT",
+   "excelente-t1-c-terraco-e-anexo-sito-entre-a-av-eua-e-av-roma-ID1iXNV",
+   "aluga-se-t1-costa-caparica-ID1iXNh"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1747,7 +1749,8 @@
    "arrendamento-longa-durao-t0-50m2-alfama-IDJC3P7",
    "arrenda-se-t3-totalmente-remodelado-IDJC3JO",
    "t3-serra-da-luz-pontinha-IDJC362",
-   "t1-1-carnaxide-IDJC4QK"
+   "t1-1-carnaxide-IDJC4QK",
+   "alugo-apartamento-t2-olaias-lisboa-IDJC5sK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3063,7 +3066,8 @@
    "805395",
    "805396",
    "705969",
-   "165337"
+   "165337",
+   "773311"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3254,7 +3258,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 23,
+   "bos": 24,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3296,7 +3300,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 38,
+  "elenen": 42,
   "tekrar": 3
  },
  "imzalar": [
