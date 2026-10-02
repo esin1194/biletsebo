@@ -1734,7 +1734,8 @@
    "arrenda-se-t3-lumiar-IDJ21Li",
    "apartamento-bem-localizado-IDJC0NM",
    "arrendamento-de-apartamento-t3-totalmente-renovado-na-pvoa-santo-adrio-IDJC31f",
-   "alugo-t2-odivelas-IDJC2UB"
+   "alugo-t2-odivelas-IDJC2UB",
+   "apartamento-para-alugar-IDJC3cs"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3227,7 +3228,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3269,7 +3270,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 20,
+  "elenen": 21,
   "tekrar": 2
  },
  "imzalar": [
