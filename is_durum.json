@@ -263,7 +263,8 @@
    "operador-de-armazem-mfx_azambuja_OTS-2026-176469",
    "key-account-manager-hunter-mfx_lisboa_OTS-2026-180342",
    "operador-fabril-injeccao-mfx_terrugem-sintra_OTS-2026-184038",
-   "operador-fabril-lacagem-mfx_sintra_OTS-2026-184036"
+   "operador-fabril-lacagem-mfx_sintra_OTS-2026-184036",
+   "continuous-improvement-finance_lisboa_PTS-2026-185009"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -925,7 +926,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 25,
+   "bos": 26,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -987,7 +988,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 367,
+  "elenen": 368,
   "tekrar": 5
  }
 }
