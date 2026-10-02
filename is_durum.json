@@ -299,7 +299,9 @@
    "assistente-banca-telefonica-mfx_lisboa_OTS-2026-185043",
    "operador-de-armazem-mxf-folgas-fixas-ao-fim-de-semana_olivais_OTS-2026-183014",
    "network-security-engineer_lisboa_DTS-2024-185040",
-   "assistente-de-loja-mfx-eredes_sintra_OTS-2026-184916"
+   "assistente-de-loja-mfx-eredes_sintra_OTS-2026-184916",
+   "assistente-de-relacionamento-ao-cliente-mfx_lisboa_OTS-2026-184075",
+   "administradora-de-sistemas-cloud_lisboa_DTS-2024-185040"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -965,7 +967,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 34,
+   "bos": 35,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1027,7 +1029,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 401,
-  "tekrar": 7
+  "elenen": 402,
+  "tekrar": 8
  }
 }
