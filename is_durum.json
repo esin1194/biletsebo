@@ -288,7 +288,11 @@
    "assistente-de-loja-vodafone-mfx-fulltime-almada-forum_almada_OTS-2026-184371",
    "assistente-de-loja-vodafone-mfx_cascais_OTS-2026-184372",
    "assistente-de-loja-vodafone-mfx_setubal_OTS-2026-184229",
-   "assistente-de-loja-vodafone-mfx_amoreiras_OTS-2026-184233"
+   "assistente-de-loja-vodafone-mfx_amoreiras_OTS-2026-184233",
+   "assistente-comercial-mfx-fulltime-cascaishopping_cascais_OTS-2026-184903",
+   "assistente-comercial-mfx-full-time-strada_strada-odivelas_OTS-2026-184382",
+   "assistente-comercial-mfx-fulltime-alegro-alfragide_alfragide_OTS-2026-184381",
+   "assistente-comercial-mfx-fulltime-ubbo_amadora_OTS-2026-181497"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -952,7 +956,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 31,
+   "bos": 32,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1014,7 +1018,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 391,
+  "elenen": 395,
   "tekrar": 6
  }
 }
