@@ -726,7 +726,16 @@
    "35373895",
    "35373917",
    "34233746",
-   "35372175"
+   "35372175",
+   "35375851",
+   "30953982",
+   "35375367",
+   "35374988",
+   "35374937",
+   "34932042",
+   "35181213",
+   "35374767",
+   "35361844"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -3258,8 +3267,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 24,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -3301,7 +3310,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 42,
-  "tekrar": 3
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -3866,7 +3875,15 @@
   "73c81ef5b0dd8092",
   "56edd794e31e1be3",
   "85f0c50e7bcbc7b1",
-  "65ac6df47e2d4c18"
+  "65ac6df47e2d4c18",
+  "b9488517d30a416d",
+  "4d6ccc8da5f9ea93",
+  "451bfdb7413f861a",
+  "55f10fdfaa6b00a6",
+  "504b966cf66354f0",
+  "b7038dbbf7c10320",
+  "931c6a296c8d2533",
+  "bead4629bd5b44d9"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 - Lisboa - Mobilado e Equipado · 850 € · Santa Clara - Hoje às 17:11\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-e-equipado-IDJyLK5.html",
@@ -3897,7 +3914,15 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nArrenda se t3 totalmente remodelado · 1.400 € · Rio de Mouro - Hoje às 11:02\nhttps://www.olx.pt/d/anuncio/arrenda-se-t3-totalmente-remodelado-IDJC3JO.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 25 · Superhost · Apartamento ⋅ Arroios · Apart. 3D, Coração da cidade, a 250m do Rossio, · 1 quarto · 1 cama · 1 banheiro · $ 3.105 USD · $ 1.532 USD · $ 1.532 USD mensal, preço original: $ 3.105 USD · mensal · Desconto mensal · 4,55 de uma avaliação média de 5, 105 ava…\nhttps://www.airbnb.com/rooms/11180616",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T0 Mobilado e Equipado em São Vicente · Rua da Verónica, São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 44 m² · KW Ábaco · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-e-equipado-em-sao-vicente-ID1iXJD",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 + 1 carnaxide · 1.100 € · Carnaxide E Queijas - Hoje às 12:57\nhttps://www.olx.pt/d/anuncio/t1-1-carnaxide-IDJC4QK.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 + 1 carnaxide · 1.100 € · Carnaxide E Queijas - Hoje às 12:57\nhttps://www.olx.pt/d/anuncio/t1-1-carnaxide-IDJC4QK.html",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.100 €\nApartamento T0 na Rua da Atalaia, 80, Bairro Alto, Misericórdia · 1.100€/mês · 1.200 € 8% · T0 49 m² área bruta 2º andar sem elevador 1 hora · Apartamento studio (amplo) com 49m2, 3o andar, muito luminoso, localizado no centro de Lisboa, Rua da Atalaia 80 - Bairro Alto. Zona priv…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/30953982/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T2 na Rua Maria da Fonte, 66 b, Graça, São Vicente · 1.300€/mês · T2 50 m² área bruta 3º andar sem elevador 2 horas · Arrendamento temporário · Contactar · Ver telefone\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35375367/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.100 €\nApartamento T0 na Rua do Vale de Santo António, Santa Engrácia, São Vicente · 1.100€/mês · T0 45 m² área bruta sem elevador 4 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CONDIÇÕE…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35374988/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.250 €\nApartamento T0 na Alameda Dom Afonso Henriques, Alameda - Praça do Chile - Almirante Reis, Arroios · 1.250€/mês · T0 18 m² área bruta sem elevador 4 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicio…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35374937/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T0 na Rua Cândido de Oliveira, Olivais · 1.200€/mês · T0 44 m² área bruta sem elevador 5 horas · Procura um espaço acolhedor em Lisboa? Este estúdio totalmente mobilado oferece um ambiente confortável com todas as comodidades modernas. A cozinha equipada inclui eletro…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34932042/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.575 €\nApartamento T1 na Rua Arminda Correia, Alto do Lumiar - Quinta das Conchas - Quinta do Lambert, Lumiar · 1.575€/mês · T1 64 m² área bruta com elevador 5 horas · Descubra a vida moderna neste apartamento de 1 quarto totalmente mobiliado, localizado em Lisboa. O imóvel inclui todas…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35181213/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.200 €\nApartamento T0 na Rua Filipe Folque, São Sebastião da Pedreira, Avenidas Novas · 1.200€/mês · T0 20 m² área bruta sem elevador 5 horas · Estúdio para alugar em residência de cinco andares na Rua Filipe Folque. O edifício dispõe de 13 quartos e 8 estúdios, que partilham áreas comu…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35374767/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T0 no Príncipe Real - São Bento, Misericórdia · 1.500€/mês · T0 30 m² área bruta Rés do chão sem elevador 5 horas · Um estúdio encantador no belo bairro de São Bento. Numa rua residencial tranquila, mas perto de tudo. Este apartamento, recentemente totalmente mobilado…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35361844/"
  ],
  "son_gonderim": "2026-10-01"
 }
