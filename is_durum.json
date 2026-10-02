@@ -259,7 +259,8 @@
    "eletricista-mxf_olivais_OTS-2026-184259",
    "churrasqueiro-mfx_rio-de-mouro_OTS-2026-184985",
    "operador-retratil_torres-novas_OTS-2025-161716",
-   "operador-de-empilhador-mxf_povoa-de-santo-adriao_OTS-2026-178470"
+   "operador-de-empilhador-mxf_povoa-de-santo-adriao_OTS-2026-178470",
+   "operador-de-armazem-mfx_azambuja_OTS-2026-176469"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -921,7 +922,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 21,
+   "bos": 22,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -983,7 +984,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 363,
+  "elenen": 364,
   "tekrar": 5
  }
 }
