@@ -1306,7 +1306,11 @@
    "aluga-se-t1-costa-caparica-ID1iXNh",
    "apartamento-t3-para-arrendamento-ID1iXTF",
    "estudio-t0-benfica-ID1iXSZ",
-   "t1-renovado-com-patio-interior-de-10-m-picheleira-1-000-EUR-mes-ID1iXSR"
+   "t1-renovado-com-patio-interior-de-10-m-picheleira-1-000-EUR-mes-ID1iXSR",
+   "apartamento-t0-1-com-varanda-em-santos-lisboa-ID1iXWn",
+   "apartamento-t2-no-beato-quarter-em-marvila-lisboa-ID1iXW9",
+   "apartamento-t2-praca-campo-pequeno-c-elevador-mobilado-e-equipado-ID1iXU5",
+   "apartamento-t2-em-sao-domingos-de-benfica-lisboa-ID1iXU3"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1764,7 +1768,10 @@
    "t1-1-carnaxide-IDJC4QK",
    "alugo-apartamento-t2-olaias-lisboa-IDJC5sK",
    "estudio-t0-benfica-IDJC5Mn",
-   "t1-renovado-com-ptio-interior-de-10-m-picheleira-1-000-ms-IDJC6Sn"
+   "t1-renovado-com-ptio-interior-de-10-m-picheleira-1-000-ms-IDJC6Sn",
+   "t2-para-alugar-na-zona-de-prior-velho-sacavem-IDJC7hV",
+   "apartamento-t2-praa-campo-pequeno-c-elevador-mobilado-e-equipado-IDJzg2b",
+   "t2-renovado-para-arrendar-IDJvrJ0"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3094,7 +3101,8 @@
    "749554",
    "749553",
    "813725",
-   "813727"
+   "813727",
+   "754568"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3285,7 +3293,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3327,7 +3335,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 6,
   "tekrar": 0
  },
  "imzalar": [
@@ -3902,8 +3910,13 @@
   "b7038dbbf7c10320",
   "931c6a296c8d2533",
   "bead4629bd5b44d9",
-  "4c17ab793966ff54"
+  "4c17ab793966ff54",
+  "1bf3a9c510f137de",
+  "73ce3d191f5f35cb"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T0+1 com varanda, em Santos, Lisboa · Conde Barão, Misericórdia, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 43 m² · Andar · 1 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-1-com-varanda-em-santos-lisboa-ID1iXWn",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.550 €\n1550 € · Apartamento T2 Praça Campo Pequeno c/Elevador Mobilado e Equipado. · Centro, Areeiro, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-praca-campo-pequeno-c-elevador-mobilado-e-equipado-ID1iXU5"
+ ],
  "son_gonderim": "2026-10-02"
 }
