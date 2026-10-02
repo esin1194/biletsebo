@@ -1310,7 +1310,8 @@
    "apartamento-t0-1-com-varanda-em-santos-lisboa-ID1iXWn",
    "apartamento-t2-no-beato-quarter-em-marvila-lisboa-ID1iXW9",
    "apartamento-t2-praca-campo-pequeno-c-elevador-mobilado-e-equipado-ID1iXU5",
-   "apartamento-t2-em-sao-domingos-de-benfica-lisboa-ID1iXU3"
+   "apartamento-t2-em-sao-domingos-de-benfica-lisboa-ID1iXU3",
+   "apartamento-t1-para-arrendamento-ID1iXVt"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1771,7 +1772,8 @@
    "t1-renovado-com-ptio-interior-de-10-m-picheleira-1-000-ms-IDJC6Sn",
    "t2-para-alugar-na-zona-de-prior-velho-sacavem-IDJC7hV",
    "apartamento-t2-praa-campo-pequeno-c-elevador-mobilado-e-equipado-IDJzg2b",
-   "t2-renovado-para-arrendar-IDJvrJ0"
+   "t2-renovado-para-arrendar-IDJvrJ0",
+   "aluga-se-apartamento-t-2-IDJz5PI"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3293,7 +3295,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3335,7 +3337,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 8,
   "tekrar": 0
  },
  "imzalar": [
