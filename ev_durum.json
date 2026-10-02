@@ -1290,7 +1290,8 @@
    "arrendamento-longa-duracao-t0-50m2-alfama-ID1iXHS",
    "apartamento-disponivel-em-lumiar-ID1iXIp",
    "apartamento-t4-sujeito-a-propostas-ID1iXIa",
-   "t0-mobilado-e-equipado-em-sao-vicente-ID1iXJD"
+   "t0-mobilado-e-equipado-em-sao-vicente-ID1iXJD",
+   "apartamento-t1-lisboa-ID1iXLs"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3238,7 +3239,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 19,
+   "bos": 20,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3280,7 +3281,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 24,
+  "elenen": 25,
   "tekrar": 2
  },
  "imzalar": [
