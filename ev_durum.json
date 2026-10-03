@@ -1317,7 +1317,8 @@
    "apartamento-t2-remodelado-com-lugar-de-garagem-ID1iCI2",
    "apartamento-aconchegante-no-coracao-de-lisboa-ID1iSes",
    "t2-na-expo-sul-a-100metros-do-hospital-da-cuf-ID1iLq6",
-   "t0-com-garagem-ar-condicionado-e-elevador-em-lisboa-parque-das-nacoes-ID1iY34"
+   "t0-com-garagem-ar-condicionado-e-elevador-em-lisboa-parque-das-nacoes-ID1iY34",
+   "apartamento-t1-para-arrendamento-ID1iY3Y"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1785,7 +1786,9 @@
    "arrenda-se-t1-lugar-garagem-como-novo-excelente-localizao-IDJr4Hs",
    "t2-totalmente-remodelado-a-estrear-centro-de-fanhes-IDJC9ep",
    "t2-renovado-vista-mar-golfe-9-andar-junto-ao-taguspark-IDJhsUi",
-   "t2-mobiliado-em-matarraque-IDJwieH"
+   "t2-mobiliado-em-matarraque-IDJwieH",
+   "t2-novo-com-elevador-90-m-centro-histrico-de-lisboa-1-950-ms-IDJufyJ",
+   "apartamento-t1-pao-de-arcos-IDJCdML"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3319,7 +3322,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 47,
+   "bos": 48,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3361,7 +3364,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 21,
+  "elenen": 22,
   "tekrar": 1
  },
  "imzalar": [
@@ -3944,7 +3947,9 @@
   "d4525c26c850c1b7",
   "58a8082b705ccd38",
   "2a02823a6789c39e",
-  "5017058288a2429a"
+  "5017058288a2429a",
+  "a0a73290ad2d75a5",
+  "91fc1a9965e7505f"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T0+1 com varanda, em Santos, Lisboa · Conde Barão, Misericórdia, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 43 m² · Andar · 1 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-1-com-varanda-em-santos-lisboa-ID1iXWn",
@@ -3954,7 +3959,9 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.475 €\nCHECKED · APARTMENT · FROM 06 OCT · 1-bedroom apartment for rent in Lisbon · From 1475 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1253651",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.340 €\nAPARTMENT · FROM 03 OCT · 2-bedroom apartment for rent in Amadora. · 1340 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1719091",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nAPARTMENT · FROM 15 NOV · star · 4.3 (7) · 1-bedroom apartment for rent in Lisbon · From 1450 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369732",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 28 NOV · star · 4.3 (7) · 2-bedroom apartment for rent in Lisbon · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1281186"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 28 NOV · star · 4.3 (7) · 2-bedroom apartment for rent in Lisbon · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1281186",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T1 para arrendamento · Rua João da Silva, Casal Vistoso, Areeiro, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40.05 m² · Andar · 6 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iY3Y",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nApartamento T1 Paço de Arcos · 1.400 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 09:43\nhttps://www.olx.pt/d/anuncio/apartamento-t1-pao-de-arcos-IDJCdML.html"
  ],
  "son_gonderim": "2026-10-02"
 }
