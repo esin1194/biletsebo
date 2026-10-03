@@ -1319,7 +1319,10 @@
    "t2-na-expo-sul-a-100metros-do-hospital-da-cuf-ID1iLq6",
    "t0-com-garagem-ar-condicionado-e-elevador-em-lisboa-parque-das-nacoes-ID1iY34",
    "apartamento-t1-para-arrendamento-ID1iY3Y",
-   "t2-no-campo-de-santana-varanda-com-vista-aberta-sobre-lisboa-ID1iY49"
+   "t2-no-campo-de-santana-varanda-com-vista-aberta-sobre-lisboa-ID1iY49",
+   "apartamento-t2-para-arrendamento-ID1iY77",
+   "t2-moscavide-com-quintal-e-churrasqueira-ID1iY6N",
+   "apartamento-t1-para-arrendamento-ID1iY6E"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3324,7 +3327,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 49,
+   "bos": 50,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3366,7 +3369,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 23,
+  "elenen": 25,
   "tekrar": 1
  },
  "imzalar": [
@@ -3952,7 +3955,8 @@
   "5017058288a2429a",
   "a0a73290ad2d75a5",
   "91fc1a9965e7505f",
-  "02826db3bd71b909"
+  "02826db3bd71b909",
+  "aa860c3a76a99d84"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T0+1 com varanda, em Santos, Lisboa · Conde Barão, Misericórdia, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 43 m² · Andar · 1 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-1-com-varanda-em-santos-lisboa-ID1iXWn",
@@ -3965,7 +3969,8 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 28 NOV · star · 4.3 (7) · 2-bedroom apartment for rent in Lisbon · From 2000 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1281186",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T1 para arrendamento · Rua João da Silva, Casal Vistoso, Areeiro, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40.05 m² · Andar · 6 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iY3Y",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nApartamento T1 Paço de Arcos · 1.400 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 09:43\nhttps://www.olx.pt/d/anuncio/apartamento-t1-pao-de-arcos-IDJCdML.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nApartamento T1 Completamente Remodelado no Campo Pequeno · 1.450 € · Negociável · Avenidas Novas - Hoje às 11:24\nhttps://www.olx.pt/d/anuncio/apartamento-t1-completamente-remodelado-no-campo-pequeno-IDJr8Bv.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nApartamento T1 Completamente Remodelado no Campo Pequeno · 1.450 € · Negociável · Avenidas Novas - Hoje às 11:24\nhttps://www.olx.pt/d/anuncio/apartamento-t1-completamente-remodelado-no-campo-pequeno-IDJr8Bv.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 para arrendamento · Avenida Professor Gama Pinto, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 54 m² · Andar · 8 andar · ExpoGroup - Remax Expo · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iY6E"
  ],
  "son_gonderim": "2026-10-02"
 }
