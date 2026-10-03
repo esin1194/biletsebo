@@ -2687,7 +2687,10 @@
    "apartments/1253651",
    "apartments/439219",
    "apartments/1650798",
-   "apartments/1719091"
+   "apartments/1719091",
+   "apartments/1440769",
+   "apartments/1663233",
+   "apartments/369732"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3309,7 +3312,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 28,
+   "bos": 29,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3351,7 +3354,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 17,
+  "elenen": 18,
   "tekrar": 0
  },
  "imzalar": [
@@ -3932,7 +3935,8 @@
   "08f5376648c01526",
   "3fac06629af5ecec",
   "d4525c26c850c1b7",
-  "58a8082b705ccd38"
+  "58a8082b705ccd38",
+  "2a02823a6789c39e"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T0+1 com varanda, em Santos, Lisboa · Conde Barão, Misericórdia, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 43 m² · Andar · 1 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-1-com-varanda-em-santos-lisboa-ID1iXWn",
@@ -3940,7 +3944,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nArrendamento T2 Av. Almirante Reis 99 · 1.500 € · Lumiar - Para o topo hoje às 20:06\nhttps://www.olx.pt/d/anuncio/arrendamento-t2-av-almirante-reis-99-IDJysF4.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nArrenda-se T1 + lugar garagem como Novo – Excelente Localização · 1.150 € · Negociável · Santa Clara - Hoje às 19:56\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-lugar-garagem-como-novo-excelente-localizao-IDJr4Hs.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.475 €\nCHECKED · APARTMENT · FROM 06 OCT · 1-bedroom apartment for rent in Lisbon · From 1475 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1253651",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.340 €\nAPARTMENT · FROM 03 OCT · 2-bedroom apartment for rent in Amadora. · 1340 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1719091"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.340 €\nAPARTMENT · FROM 03 OCT · 2-bedroom apartment for rent in Amadora. · 1340 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1719091",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nAPARTMENT · FROM 15 NOV · star · 4.3 (7) · 1-bedroom apartment for rent in Lisbon · From 1450 €/month · euro · BILLS INCLUDED · +info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/369732"
  ],
  "son_gonderim": "2026-10-02"
 }
