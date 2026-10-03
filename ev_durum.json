@@ -1316,7 +1316,8 @@
    "apartamentot3-renovado-arroios-lisboa-ID1iY0Z",
    "apartamento-t2-remodelado-com-lugar-de-garagem-ID1iCI2",
    "apartamento-aconchegante-no-coracao-de-lisboa-ID1iSes",
-   "t2-na-expo-sul-a-100metros-do-hospital-da-cuf-ID1iLq6"
+   "t2-na-expo-sul-a-100metros-do-hospital-da-cuf-ID1iLq6",
+   "t0-com-garagem-ar-condicionado-e-elevador-em-lisboa-parque-das-nacoes-ID1iY34"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3315,7 +3316,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 42,
+   "bos": 43,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3357,7 +3358,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 20,
+  "elenen": 21,
   "tekrar": 0
  },
  "imzalar": [
