@@ -1818,7 +1818,10 @@
    "aluga-se-t3-mobilado-e-seminovo-c-garagem-centro-de-torres-vedras-junto-a-escolas-e-hospital-IDJzo5D",
    "apartamento-de-2-quartos-luminoso-e-espaoso-em-telheiras-IDIXd0J",
    "arrendo-t1-olivais-IDJnGkZ",
-   "estdio-mobiliado-e-elegante-no-prncipe-real-IDIXcR3"
+   "estdio-mobiliado-e-elegante-no-prncipe-real-IDIXcR3",
+   "arrendo-apartamento-t4-IDJtnP4",
+   "t-3-espaoso-mobilado-equipado-s-1-renda-cauo-falagueira-lisboa-IDJCsq5",
+   "arrenda-se-apartamento-t1-vila-franca-xira-IDJCscj"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3359,13 +3362,14 @@
    "15980253",
    "42509433",
    "31484578",
-   "31461302"
+   "31461302",
+   "7453348"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 55,
+   "bos": 56,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3407,8 +3411,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 2,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4004,8 +4008,11 @@
   "0dfdcc01422e93a0",
   "250e7c33c9f7a3d4",
   "f675cb3b94a30393",
-  "533bf908d6af2312"
+  "533bf908d6af2312",
+  "0cd2b911c7da3c3b"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nArrendo Apartamento T4 · 1.800 € · Beato - Hoje às 21:53\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-t4-IDJtnP4.html"
+ ],
  "son_gonderim": "2026-10-04"
 }
