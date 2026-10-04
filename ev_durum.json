@@ -1801,7 +1801,10 @@
    "t1-confortvel-em-estoril-com-piscina-comum-IDIX9VF",
    "apartamento-t2-mobilado-e-equipado-em-timas-condies-super-localizao-IDJChUd",
    "apartamento-t1-junto-saldanha-IDJChNK",
-   "arrenda-se-apartamento-queluz-IDJCgrc"
+   "arrenda-se-apartamento-queluz-IDJCgrc",
+   "apartamento-t1-em-alfama-perto-do-metro-e-comboios-santa-apolnia-IDJyg8m",
+   "apartamento-t2-no-centro-de-alverca-do-ribatejo-IDJCkBH",
+   "t2-massam-arrendamento-IDJzhek"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3143,7 +3146,8 @@
    "813725",
    "813727",
    "754568",
-   "659749"
+   "659749",
+   "541122"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3335,7 +3339,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 51,
+   "bos": 52,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3377,7 +3381,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -3968,8 +3972,11 @@
   "22a8d771e2733042",
   "3f54ae3685c98c3f",
   "eb9834a6ce56db80",
-  "b6aa99cbd908913d"
+  "b6aa99cbd908913d",
+  "3582ccd08f0d39b9"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nT2 Massamá arrendamento · 1.250 € · Massamá E Monte Abraão - 03 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-massam-arrendamento-IDJzhek.html"
+ ],
  "son_gonderim": "2026-10-03"
 }
