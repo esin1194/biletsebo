@@ -3152,7 +3152,8 @@
    "813727",
    "754568",
    "659749",
-   "541122"
+   "541122",
+   "419509"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3344,7 +3345,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 53,
+   "bos": 54,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3386,7 +3387,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
+  "elenen": 6,
   "tekrar": 0
  },
  "imzalar": [
