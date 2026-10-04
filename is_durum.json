@@ -326,7 +326,18 @@
    "temporary-data-entry-operator-english-mfx_lisbon-portugal_OTS-2026-185076",
    "pricing-specialist-english-speaker-mfx_lisbon-hybrid_OTS-2026-185078",
    "empregado-de-mesa-mfx-1a2a_estoril_OTS-2026-176300",
-   "empregada-de-andares-mf_lisboa_OTS-2025-164146"
+   "empregada-de-andares-mf_lisboa_OTS-2025-164146",
+   "advogado-direito-imobiliario-mfx_lisboa_PTS-2026-183989",
+   "administrativo-de-apoio-ao-cliente-backoffice-mfx_lisboa_OTS-2026-183955",
+   "operador-de-producao-horario-fixo_rio-de-mouro_OTS-2026-183949",
+   "medico-de-clinica-geral-mfx_lisboa_PTS-2026-182947",
+   "assistentes-de-loja_lisboa-chiado_OTS-2026-181664",
+   "contabilista-certificado_lisboa_PTS-2026-182978",
+   "diretor-de-obra-mfx_lisboa_OTS-2026-182861",
+   "tecnico-de-multiterapias-mfx_loures_PTS-2026-182487",
+   "encarregado-de-obra-mfx_lisboa_OTS-2026-181889",
+   "engenheiro-de-estudos-e-propostas-setor-hospitalar-mfx_sintra_OTS-2026-180619",
+   "enfermeiro-mfx_algueirao-mem-martins_PTS-2026-180048"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -998,7 +1009,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 34,
+   "bos": 35,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1060,7 +1071,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 427,
+  "elenen": 438,
   "tekrar": 8
  }
 }
