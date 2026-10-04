@@ -2715,7 +2715,12 @@
    "apartments/369732",
    "apartments/1281186",
    "apartments/442892",
-   "apartments/1519126"
+   "apartments/1519126",
+   "apartments/996921",
+   "apartments/1429666",
+   "apartments/806994",
+   "apartments/1438740",
+   "apartments/1640328"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3339,7 +3344,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 52,
+   "bos": 53,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3381,7 +3386,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 5,
   "tekrar": 0
  },
  "imzalar": [
@@ -3973,10 +3978,12 @@
   "3f54ae3685c98c3f",
   "eb9834a6ce56db80",
   "b6aa99cbd908913d",
-  "3582ccd08f0d39b9"
+  "3582ccd08f0d39b9",
+  "771fd53729f25b33"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nT2 Massamá arrendamento · 1.250 € · Massamá E Monte Abraão - 03 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-massam-arrendamento-IDJzhek.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nT2 Massamá arrendamento · 1.250 € · Massamá E Monte Abraão - 03 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-massam-arrendamento-IDJzhek.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nCHECKED · APARTMENT · FROM 01 NOV · star · 4 (96) · 2-bedroom apartment for rent in Lisbon, Portugal · From 1575 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/806994"
  ],
  "son_gonderim": "2026-10-03"
 }
