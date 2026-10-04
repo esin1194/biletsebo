@@ -1325,7 +1325,13 @@
    "apartamento-t1-para-arrendamento-ID1iY6E",
    "apartamento-t2-para-arrendamento-ID1iY9g",
    "apartamento-t1-junto-saldanha-ID1iY91",
-   "apartamento-t3-para-arrendamento-ID1iY8g"
+   "apartamento-t3-para-arrendamento-ID1iY8g",
+   "apartamento-t1-para-arrendamento-ID1iYfc",
+   "apartamento-com-2-quartos-localizado-em-bairro-alto-lisbon-ID1iYek",
+   "apartamento-com-3-quartos-localizado-em-campolide-lisbon-ID1iYei",
+   "estudio-localizado-em-penha-lisbon-ID1iYeg",
+   "apartamento-com-1-quartos-localizado-em-mouraria-lisbon-ID1iYee",
+   "arrendamento-t-1-espacoso-remodelado-ID1iYec"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1804,7 +1810,15 @@
    "arrenda-se-apartamento-queluz-IDJCgrc",
    "apartamento-t1-em-alfama-perto-do-metro-e-comboios-santa-apolnia-IDJyg8m",
    "apartamento-t2-no-centro-de-alverca-do-ribatejo-IDJCkBH",
-   "t2-massam-arrendamento-IDJzhek"
+   "t2-massam-arrendamento-IDJzhek",
+   "t2-novo-para-alugar-IDJCrGt",
+   "arrendamento-t2-para-entrada-imediata-em-odivelas-IDJCrza",
+   "t2-sacavm-centro-a-100-mt-auchan-completamente-renovado-IDJCr70",
+   "t2-lisboa-r-c-moradia-equipado-e-semi-mobilado-IDJzoke",
+   "aluga-se-t3-mobilado-e-seminovo-c-garagem-centro-de-torres-vedras-junto-a-escolas-e-hospital-IDJzo5D",
+   "apartamento-de-2-quartos-luminoso-e-espaoso-em-telheiras-IDIXd0J",
+   "arrendo-t1-olivais-IDJnGkZ",
+   "estdio-mobiliado-e-elegante-no-prncipe-real-IDIXcR3"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2720,7 +2734,10 @@
    "apartments/1429666",
    "apartments/806994",
    "apartments/1438740",
-   "apartments/1640328"
+   "apartments/1640328",
+   "apartments/1720971",
+   "apartments/1429649",
+   "apartments/1273076"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3339,13 +3356,16 @@
    "27984343",
    "11180616",
    "912028319641592958",
-   "15980253"
+   "15980253",
+   "42509433",
+   "31484578",
+   "31461302"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 54,
+   "bos": 55,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3387,7 +3407,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 0,
   "tekrar": 0
  },
  "imzalar": [
@@ -3980,11 +4000,12 @@
   "eb9834a6ce56db80",
   "b6aa99cbd908913d",
   "3582ccd08f0d39b9",
-  "771fd53729f25b33"
+  "771fd53729f25b33",
+  "0dfdcc01422e93a0",
+  "250e7c33c9f7a3d4",
+  "f675cb3b94a30393",
+  "533bf908d6af2312"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nT2 Massamá arrendamento · 1.250 € · Massamá E Monte Abraão - 03 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-massam-arrendamento-IDJzhek.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nCHECKED · APARTMENT · FROM 01 NOV · star · 4 (96) · 2-bedroom apartment for rent in Lisbon, Portugal · From 1575 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/806994"
- ],
- "son_gonderim": "2026-10-03"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-04"
 }
