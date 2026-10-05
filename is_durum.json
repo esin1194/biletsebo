@@ -337,7 +337,21 @@
    "tecnico-de-multiterapias-mfx_loures_PTS-2026-182487",
    "encarregado-de-obra-mfx_lisboa_OTS-2026-181889",
    "engenheiro-de-estudos-e-propostas-setor-hospitalar-mfx_sintra_OTS-2026-180619",
-   "enfermeiro-mfx_algueirao-mem-martins_PTS-2026-180048"
+   "enfermeiro-mfx_algueirao-mem-martins_PTS-2026-180048",
+   "project-manager-energias-renovaveis_lisboa_OTS-2026-180120",
+   "construction-cost-control_lisboa_OTS-2026-179934",
+   "gestor-de-contratos_lisboa_OTS-2026-179923",
+   "encarregado-fiscal-de-obra-mfx_carcavelos_OTS-2026-179690",
+   "diretor-tecnico-mfx_oeiras_OTS-2026-179348",
+   "site-manager-mfx-europa_lisboa_OTS-2026-179091",
+   "enfermeiro-bloco-operatorio-mf-lisboa_lisboa_PTS-2025-178373",
+   "enfermeiro-de-internamento-medico-cirurgico-mf-lisboa_lisboa_PTS-2025-178374",
+   "enfermeiro-internamento-de-medicina-e-cuidados-paliativos-mf-lisboa_lisboa_PTS-2025-178375",
+   "tecnicoa-radiologia-lisboa_lisboa_PTS-2025-178365",
+   "engenheiro-eletrotecnico-mfx_terrugem-sintra_OTS-2026-176582",
+   "desenhador-hidraulica-mfx_lisboa_OTS-2026-174776",
+   "project-manager-engenheiro-eletrotecnico_lisboa_OTS-2026-174493",
+   "engenheiro-eletrotecnico-mfx_lisboa_OTS-2025-169486"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1004,12 +1018,13 @@
   "9a73326e966dec35",
   "cdf26f8212de6f4f",
   "fd24e32fb2c628fd",
-  "e822d0f1db869f4f"
+  "e822d0f1db869f4f",
+  "61e7ff996746c0f1"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 40,
+   "bos": 41,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1071,7 +1086,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 438,
+  "elenen": 451,
   "tekrar": 8
  }
 }
