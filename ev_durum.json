@@ -1331,7 +1331,8 @@
    "apartamento-com-3-quartos-localizado-em-campolide-lisbon-ID1iYei",
    "estudio-localizado-em-penha-lisbon-ID1iYeg",
    "apartamento-com-1-quartos-localizado-em-mouraria-lisbon-ID1iYee",
-   "arrendamento-t-1-espacoso-remodelado-ID1iYec"
+   "arrendamento-t-1-espacoso-remodelado-ID1iYec",
+   "apartamento-t2-1-arrendar-ID1iYgM"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1821,7 +1822,9 @@
    "estdio-mobiliado-e-elegante-no-prncipe-real-IDIXcR3",
    "arrendo-apartamento-t4-IDJtnP4",
    "t-3-espaoso-mobilado-equipado-s-1-renda-cauo-falagueira-lisboa-IDJCsq5",
-   "arrenda-se-apartamento-t1-vila-franca-xira-IDJCscj"
+   "arrenda-se-apartamento-t1-vila-franca-xira-IDJCscj",
+   "apartamento-t2-1-arrendar-IDJCt36",
+   "arrendo-apartamento-cruz-quebrada-IDJCsYt"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3369,7 +3372,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 56,
+   "bos": 57,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3411,7 +3414,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
+  "elenen": 4,
   "tekrar": 1
  },
  "imzalar": [
@@ -4009,10 +4012,12 @@
   "250e7c33c9f7a3d4",
   "f675cb3b94a30393",
   "533bf908d6af2312",
-  "0cd2b911c7da3c3b"
+  "0cd2b911c7da3c3b",
+  "8f2da5e1216f5d37"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nArrendo Apartamento T4 · 1.800 € · Beato - Hoje às 21:53\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-t4-IDJtnP4.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nArrendo Apartamento T4 · 1.800 € · Beato - Hoje às 21:53\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-t4-IDJtnP4.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nArrendo apartamento cruz quebrada · 1.300 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - 04 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-cruz-quebrada-IDJCsYt.html"
  ],
  "son_gonderim": "2026-10-04"
 }
