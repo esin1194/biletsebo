@@ -351,7 +351,12 @@
    "engenheiro-eletrotecnico-mfx_terrugem-sintra_OTS-2026-176582",
    "desenhador-hidraulica-mfx_lisboa_OTS-2026-174776",
    "project-manager-engenheiro-eletrotecnico_lisboa_OTS-2026-174493",
-   "engenheiro-eletrotecnico-mfx_lisboa_OTS-2025-169486"
+   "engenheiro-eletrotecnico-mfx_lisboa_OTS-2025-169486",
+   "activation-retail-excellence-specialist-mfx-trade-marketing_lisboa_PTS-2026-184009",
+   "operador-de-armazem-mfx_frielas-lisboa_OTS-2026-184039",
+   "gestora-de-sinistros_lisboa_PTS-2026-184014",
+   "operador-de-call-center-amoreiras-mfx_lisboa_OTS-2026-182891",
+   "advogado-contratacao-publica-e-direito-laboral-mfx_oeiras_PTS-2026-174456"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1020,12 +1025,13 @@
   "cdf26f8212de6f4f",
   "fd24e32fb2c628fd",
   "e822d0f1db869f4f",
-  "61e7ff996746c0f1"
+  "61e7ff996746c0f1",
+  "7f7bdb858aff3adb"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 43,
+   "bos": 44,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1087,7 +1093,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 452,
+  "elenen": 456,
   "tekrar": 8
  }
 }
