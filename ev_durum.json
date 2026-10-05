@@ -1332,7 +1332,13 @@
    "estudio-localizado-em-penha-lisbon-ID1iYeg",
    "apartamento-com-1-quartos-localizado-em-mouraria-lisbon-ID1iYee",
    "arrendamento-t-1-espacoso-remodelado-ID1iYec",
-   "apartamento-t2-1-arrendar-ID1iYgM"
+   "apartamento-t2-1-arrendar-ID1iYgM",
+   "arrendamento-t2-de-apartamento-em-lisboa-arroios-ID1iYl6",
+   "t3-com-vista-para-monsanto-benfica-sete-rios-lisboa-ID1iYkk",
+   "apartamento-t2-rua-afonso-de-albuquerque-lisboa-ID1iYk5",
+   "apartamento-t2-travessa-de-santana-lisboa-ID1iYjX",
+   "apartamento-t1-na-ajuda-ID1iYjC",
+   "apartamento-na-rua-sousa-bastos-marvila-ID1iYiL"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1826,7 +1832,22 @@
    "apartamento-t2-1-arrendar-IDJCt36",
    "arrendo-apartamento-cruz-quebrada-IDJCsYt",
    "arrenda-se-t3-renovado-em-odivelas-com-garagem-IDIZBmH",
-   "arrenda-se-apartamento-t1-bairro-dos-pedernais-ramada-IDJa0Ta"
+   "arrenda-se-apartamento-t1-bairro-dos-pedernais-ramada-IDJa0Ta",
+   "arrendamento-apartamento-t2-odivelas-com-garagem-IDJCytQ",
+   "arranda-se-apartmento-em-sassoeiros-IDJCy2C",
+   "t3-1-duplex-para-arrendamento-edifcio-orqudea-garagem-para-2-viaturas-IDJCxPx",
+   "apartamento-t1-carcavelos-junto-estao-da-cp-IDJCxAB",
+   "t2-1-so-joo-estoril-IDIXiiC",
+   "arrenda-se-t1-mobilado-metrocity-IDITmTx",
+   "apartamento-t2-rua-afonso-de-albuquerque-lisboa-IDJCxok",
+   "arrenda-se-apartamento-mobilado-t2-estudantes-ou-casal-a-10-minutos-do-centro-de-lisboa-junto-ao-metro-de-odivelas-rea-calma-bons-espaos-verdes-IDJzwnG",
+   "apartamento-t1-em-frente-praia-de-s-pedro-do-estoril-IDJCxhO",
+   "apartamento-t2-travessa-de-santana-lisboa-IDJCxgu",
+   "apartamento-t1-na-ajuda-IDJCvUM",
+   "apartamento-na-rua-sousa-bastos-marvila-IDJCvez",
+   "t3-para-arrendamento-serra-das-brancas-IDJCv8u",
+   "t3-lug-garagem-arrecadao-excelentes-acabamentos-e-exposio-solar-IDJhPUi",
+   "t2-totalmente-remodelado-urb-quinta-das-flores-sto-antnio-cavaleiros-lisboa-IDJvJg5"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3180,7 +3201,10 @@
    "541122",
    "419509",
    "636644",
-   "91193"
+   "91193",
+   "58508",
+   "891092",
+   "1370"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3370,13 +3394,14 @@
    "42509433",
    "31484578",
    "31461302",
-   "7453348"
+   "7453348",
+   "1308770450282317958"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 59,
+   "bos": 60,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3418,8 +3443,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
-  "tekrar": 1
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4019,13 +4044,19 @@
   "0cd2b911c7da3c3b",
   "8f2da5e1216f5d37",
   "851c6266fc6467d6",
-  "e77ec6ad7b7898ff"
+  "e77ec6ad7b7898ff",
+  "83f36445df9a275c",
+  "1c1ef02a4d6f4f6b",
+  "7a6d2c89a09c6cc4",
+  "bd6d5c5639a49343",
+  "df5d67090176417e",
+  "ecb30696e211bf76",
+  "42da6f8bb7cedf69",
+  "d501c62044e51d66",
+  "4bf9f6d9f61f9008",
+  "82ed3065f945aa48",
+  "31f9eb234794d62f"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nArrendo Apartamento T4 · 1.800 € · Beato - Hoje às 21:53\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-t4-IDJtnP4.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nArrendo apartamento cruz quebrada · 1.300 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - 04 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-cruz-quebrada-IDJCsYt.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nArrenda-se T3 renovado em Odivelas com garagem · 1.600 € · Odivelas - Hoje às 12:35\nhttps://www.olx.pt/d/anuncio/arrenda-se-t3-renovado-em-odivelas-com-garagem-IDIZBmH.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nArrenda-se apartamento T1, Bairro dos Pedernais - Ramada · 800 € · Ramada E Caneças - Hoje às 11:38\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-bairro-dos-pedernais-ramada-IDJa0Ta.html"
- ],
- "son_gonderim": "2026-10-04"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-05"
 }
