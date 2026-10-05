@@ -1824,7 +1824,9 @@
    "t-3-espaoso-mobilado-equipado-s-1-renda-cauo-falagueira-lisboa-IDJCsq5",
    "arrenda-se-apartamento-t1-vila-franca-xira-IDJCscj",
    "apartamento-t2-1-arrendar-IDJCt36",
-   "arrendo-apartamento-cruz-quebrada-IDJCsYt"
+   "arrendo-apartamento-cruz-quebrada-IDJCsYt",
+   "arrenda-se-t3-renovado-em-odivelas-com-garagem-IDIZBmH",
+   "arrenda-se-apartamento-t1-bairro-dos-pedernais-ramada-IDJa0Ta"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3176,7 +3178,9 @@
    "754568",
    "659749",
    "541122",
-   "419509"
+   "419509",
+   "636644",
+   "91193"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3372,7 +3376,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 58,
+   "bos": 59,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3414,7 +3418,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 5,
   "tekrar": 1
  },
  "imzalar": [
@@ -4013,11 +4017,15 @@
   "f675cb3b94a30393",
   "533bf908d6af2312",
   "0cd2b911c7da3c3b",
-  "8f2da5e1216f5d37"
+  "8f2da5e1216f5d37",
+  "851c6266fc6467d6",
+  "e77ec6ad7b7898ff"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\nArrendo Apartamento T4 · 1.800 € · Beato - Hoje às 21:53\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-t4-IDJtnP4.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nArrendo apartamento cruz quebrada · 1.300 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - 04 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-cruz-quebrada-IDJCsYt.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nArrendo apartamento cruz quebrada · 1.300 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - 04 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-cruz-quebrada-IDJCsYt.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nArrenda-se T3 renovado em Odivelas com garagem · 1.600 € · Odivelas - Hoje às 12:35\nhttps://www.olx.pt/d/anuncio/arrenda-se-t3-renovado-em-odivelas-com-garagem-IDIZBmH.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nArrenda-se apartamento T1, Bairro dos Pedernais - Ramada · 800 € · Ramada E Caneças - Hoje às 11:38\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-bairro-dos-pedernais-ramada-IDJa0Ta.html"
  ],
  "son_gonderim": "2026-10-04"
 }
