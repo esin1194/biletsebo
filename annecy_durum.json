@@ -98,7 +98,15 @@
    "214RZTV",
    "214SCSV",
    "214SFJN",
-   "214STDB"
+   "214STDB",
+   "214TXPL",
+   "214TXRH",
+   "214TWLZ",
+   "214TQBW",
+   "214TDSL",
+   "214SQKL",
+   "214TVTQ",
+   "214TNPN"
   ],
   "hellowork.com": [
    "83399370",
@@ -342,7 +350,17 @@
    "82997107",
    "83046554",
    "83041714",
-   "57453096"
+   "57453096",
+   "84076470",
+   "84076195",
+   "84092704",
+   "84076036",
+   "84076514",
+   "84076520",
+   "84090188",
+   "84090451",
+   "84079032",
+   "84076091"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -544,7 +562,16 @@
   "7588532a5f1ec4df",
   "9af9b421425c7eac",
   "4f1a5e0e325982e6",
-  "e2eedd7377c480e7"
+  "e2eedd7377c480e7",
+  "112ffc5bad881c79",
+  "1680010128851074",
+  "18578e6926621706",
+  "77beeba8202738b6",
+  "a73ae5e1a580fc37",
+  "9eb9ad8c3f0dde42",
+  "f54b54f28919c550",
+  "1963afe57b8146ea",
+  "1cb896cda467c079"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -601,7 +628,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 18,
-  "tekrar": 25
+  "elenen": 21,
+  "tekrar": 31
  }
 }
