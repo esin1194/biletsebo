@@ -339,7 +339,10 @@
    "82983749",
    "81976521",
    "82983806",
-   "82997107"
+   "82997107",
+   "83046554",
+   "83041714",
+   "57453096"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -540,7 +543,8 @@
   "d4950ccd740df681",
   "7588532a5f1ec4df",
   "9af9b421425c7eac",
-  "4f1a5e0e325982e6"
+  "4f1a5e0e325982e6",
+  "e2eedd7377c480e7"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -597,7 +601,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 16,
+  "elenen": 18,
   "tekrar": 25
  }
 }
