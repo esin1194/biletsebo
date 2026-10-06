@@ -1349,7 +1349,13 @@
    "apartamento-t1-na-ajuda-lisboa-excelente-oportunidade-ID1iYr8",
    "apartamento-t2-para-arrendar-em-lisboa-ID1iYqE",
    "excelente-t1-novo-para-arrendar-na-ameixoeira-lumiar-com-lugar-de-ga-ID1iYod",
-   "apartamento-t2-com-varanda-no-restelo-ID1iYmX"
+   "apartamento-t2-com-varanda-no-restelo-ID1iYmX",
+   "arrendamento-de-apartamento-t1-na-avenida-joao-crisostomo-14-ID1iYC9",
+   "t2-com-varanda-marquisada-e-elevador-benfica-ID1iYBN",
+   "apartamento-t2-com-terraco-ID1iYBn",
+   "t1-mobilado-nas-avenidas-novas-varanda-junto-a-gulbenkian-ID1iYzT",
+   "apartamento-t1-telheiras-ID1iYyH",
+   "t3-ao-marques-de-pombal-remodelado-rua-rodrigues-sampaio-ID1iYyr"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1869,7 +1875,12 @@
    "apartamento-t2-carnaxide-IDJCB3c",
    "t2-com-garagem-quintal-terrao-entrada-imediata-IDJCAXO",
    "arrenda-se-t2-1-equipado-e-mobilado-damaia-de-baixo-IDJzcuh",
-   "t1-remodelado-e-luminoso-marisol-charneca-da-caparica-IDJCAM8"
+   "t1-remodelado-e-luminoso-marisol-charneca-da-caparica-IDJCAM8",
+   "estudio-t0-para-arrendar-IDIsB8V",
+   "t1-cascais-vista-mar-e-varanda-semana-ou-ms-IDJzzxG",
+   "arrenda-t1-alto-da-ajuda-IDJ5zzK",
+   "t2-amadora-zona-privilegiada-IDJn1TH",
+   "apartamento-t1-telheiras-IDJCCaO"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3253,7 +3264,9 @@
    "225750",
    "86341",
    "83832",
-   "314718"
+   "314718",
+   "893861",
+   "895475"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3450,7 +3463,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 63,
+   "bos": 64,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3492,7 +3505,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 34,
+  "elenen": 0,
   "tekrar": 0
  },
  "imzalar": [
@@ -4117,22 +4130,14 @@
   "07c47013692ed0a7",
   "e251da002fbbef4c",
   "a84db7e3e472096b",
-  "ca8892f271f715ae"
+  "ca8892f271f715ae",
+  "caa2cd5bd4fc64e1",
+  "0b7e54f3e66c60e8",
+  "b8f523fc0e6cf367",
+  "a2d880a621ac68b9",
+  "534240d967f07c15",
+  "2fff6ac2f5d29425"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 930 €\n930 € · Arrendamento de Apartamento T2 em Alcântara · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 68 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-de-apartamento-t2-em-alcntara-ID1iYme",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 840 €\nArrendamento T0 amadora · 840 € · Falagueira-Venda Nova - 05 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendamento-t0-amadora-IDJBYYw.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nArrenda-se Apartamento em Sassoeiros · 1.200 € · Carcavelos E Parede - 05 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-em-sassoeiros-IDJCy2C.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 11 OCT · star · 5 (3) · 3-bedroom apartment for rent in Lisbon, Portugal. · 2000 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\n<i>⚠️ T3 ama m² bilgisi yok.</i>\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472005",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nCHECKED · APARTMENT · FROM 09 OCT · 1-bedroom flat for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472009",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.390 €\nT1 na Lapa Remodelado · 1.390 € · Estrela - Hoje às 08:44\nhttps://www.olx.pt/d/anuncio/t1-na-lapa-remodelado-IDJyZQp.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.580 €\n1580 € · 13,86 €/m² · T2 em Alvalade com garagem – Localização de excelência! · Rua Engenheiro Manuel Rocha, São João de Brito, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 114 m² · Andar · 3 andar · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t2-em-alvalade-com-garagem-localizacao-de-excelencia-ID1ggKF",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.550 €\n1550 € · Apartamento T2 para Arrendamento com vista Rio Tejo · Rua Conselheiro Martins de Carvalho, Restelo, Belém, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · Andar · rés do chão · RODOLFO NATÁRIO - Casas São Paixões · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-com-vista-rio-tejo-ID1iYv8",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 880 €\nT2 Paia Areia Branca vista mar · 880 € · Lourinhã E Atalaia - Hoje às 15:30\nhttps://www.olx.pt/d/anuncio/t2-paia-areia-branca-vista-mar-IDIH9EE.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 999 €\nT2 com garagem quintal/terraço entrada imediata · 999 € · São Domingos de Rana - Hoje às 14:18\nhttps://www.olx.pt/d/anuncio/t2-com-garagem-quintal-terrao-entrada-imediata-IDJCAXO.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nT1 Remodelado e Luminoso | Marisol | Charneca da Caparica · 950 € · São Vicente - Hoje às 13:32\nhttps://www.olx.pt/d/anuncio/t1-remodelado-e-luminoso-marisol-charneca-da-caparica-IDJCAM8.html",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 425 €\nUp to 1 person • 5 bedrooms · Bright single bedroom in proximity of Universidade Nova de Lisboa in Campolide · From 06 Oct 2026 · €425 /month · Bills included\n<i>⚠️ T5 ama m² bilgisi yok.</i>\nhttps://www.uniplaces.com/accommodation/lisbon/49507",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 500 €\nUp to 1 person • 5 bedrooms · Great looking double bedroom not far from UAL - Universidade Autónoma de Lisboa in Campolide · From 06 Oct 2026 · €500 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/49506"
- ],
- "son_gonderim": "2026-10-05"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-06"
 }
