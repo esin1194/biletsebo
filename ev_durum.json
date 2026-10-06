@@ -1338,7 +1338,8 @@
    "apartamento-t2-rua-afonso-de-albuquerque-lisboa-ID1iYk5",
    "apartamento-t2-travessa-de-santana-lisboa-ID1iYjX",
    "apartamento-t1-na-ajuda-ID1iYjC",
-   "apartamento-na-rua-sousa-bastos-marvila-ID1iYiL"
+   "apartamento-na-rua-sousa-bastos-marvila-ID1iYiL",
+   "arrendamento-de-apartamento-t2-em-alcntara-ID1iYme"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1847,7 +1848,11 @@
    "apartamento-na-rua-sousa-bastos-marvila-IDJCvez",
    "t3-para-arrendamento-serra-das-brancas-IDJCv8u",
    "t3-lug-garagem-arrecadao-excelentes-acabamentos-e-exposio-solar-IDJhPUi",
-   "t2-totalmente-remodelado-urb-quinta-das-flores-sto-antnio-cavaleiros-lisboa-IDJvJg5"
+   "t2-totalmente-remodelado-urb-quinta-das-flores-sto-antnio-cavaleiros-lisboa-IDJvJg5",
+   "arrendamento-de-apartamento-t2-em-alcntara-IDJCz8i",
+   "arrendo-t2-c-70m2-mobilado-e-equipado-em-mercs-mem-martins-prox-da-estao-da-cp-IDJCz6P",
+   "arrendamento-t0-amadora-IDJBYYw",
+   "arrenda-se-apartamento-em-sassoeiros-IDJCy2C"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2766,7 +2771,10 @@
    "apartments/1640328",
    "apartments/1720971",
    "apartments/1429649",
-   "apartments/1273076"
+   "apartments/1273076",
+   "apartments/1472005",
+   "apartments/1472009",
+   "apartments/1512710"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3204,7 +3212,8 @@
    "91193",
    "58508",
    "891092",
-   "1370"
+   "1370",
+   "699404"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3401,7 +3410,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 60,
+   "bos": 61,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3443,7 +3452,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -4055,8 +4064,19 @@
   "d501c62044e51d66",
   "4bf9f6d9f61f9008",
   "82ed3065f945aa48",
-  "31f9eb234794d62f"
+  "31f9eb234794d62f",
+  "a902a48b4cee6c6d",
+  "1318f8fbe47a1cbd",
+  "0293bfcc6c97b323",
+  "bc4cbc206590c9c9",
+  "88fb1541eb15ba79"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 930 €\n930 € · Arrendamento de Apartamento T2 em Alcântara · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 68 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-de-apartamento-t2-em-alcntara-ID1iYme",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 840 €\nArrendamento T0 amadora · 840 € · Falagueira-Venda Nova - 05 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendamento-t0-amadora-IDJBYYw.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nArrenda-se Apartamento em Sassoeiros · 1.200 € · Carcavelos E Parede - 05 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-em-sassoeiros-IDJCy2C.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 11 OCT · star · 5 (3) · 3-bedroom apartment for rent in Lisbon, Portugal. · 2000 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\n<i>⚠️ T3 ama m² bilgisi yok.</i>\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472005",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nCHECKED · APARTMENT · FROM 09 OCT · 1-bedroom flat for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472009"
+ ],
  "son_gonderim": "2026-10-05"
 }
