@@ -1852,7 +1852,8 @@
    "arrendamento-de-apartamento-t2-em-alcntara-IDJCz8i",
    "arrendo-t2-c-70m2-mobilado-e-equipado-em-mercs-mem-martins-prox-da-estao-da-cp-IDJCz6P",
    "arrendamento-t0-amadora-IDJBYYw",
-   "arrenda-se-apartamento-em-sassoeiros-IDJCy2C"
+   "arrenda-se-apartamento-em-sassoeiros-IDJCy2C",
+   "t1-na-lapa-remodelado-IDJyZQp"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2774,7 +2775,9 @@
    "apartments/1273076",
    "apartments/1472005",
    "apartments/1472009",
-   "apartments/1512710"
+   "apartments/1512710",
+   "apartments/635526",
+   "apartments/1534960"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3410,7 +3413,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 61,
+   "bos": 62,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3452,7 +3455,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 5,
   "tekrar": 0
  },
  "imzalar": [
@@ -4069,14 +4072,16 @@
   "1318f8fbe47a1cbd",
   "0293bfcc6c97b323",
   "bc4cbc206590c9c9",
-  "88fb1541eb15ba79"
+  "88fb1541eb15ba79",
+  "4b6401afb30e4a6c"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 930 €\n930 € · Arrendamento de Apartamento T2 em Alcântara · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 68 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-de-apartamento-t2-em-alcntara-ID1iYme",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 840 €\nArrendamento T0 amadora · 840 € · Falagueira-Venda Nova - 05 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendamento-t0-amadora-IDJBYYw.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nArrenda-se Apartamento em Sassoeiros · 1.200 € · Carcavelos E Parede - 05 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-em-sassoeiros-IDJCy2C.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 11 OCT · star · 5 (3) · 3-bedroom apartment for rent in Lisbon, Portugal. · 2000 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\n<i>⚠️ T3 ama m² bilgisi yok.</i>\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472005",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nCHECKED · APARTMENT · FROM 09 OCT · 1-bedroom flat for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472009"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nCHECKED · APARTMENT · FROM 09 OCT · 1-bedroom flat for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1472009",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.390 €\nT1 na Lapa Remodelado · 1.390 € · Estrela - Hoje às 08:44\nhttps://www.olx.pt/d/anuncio/t1-na-lapa-remodelado-IDJyZQp.html"
  ],
  "son_gonderim": "2026-10-05"
 }
