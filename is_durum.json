@@ -368,7 +368,13 @@
    "oficial-eletricista-mfx_lisboa_OTS-2026-179673",
    "comercial-mfx-lisboa_mafra_PTS-2026-182200",
    "tecnico-de-manutencao-de-pneus-mfx_miraflores-pontinha-musgueira-cabo-ruivo_OTS-2026-185096",
-   "engenheiro-civil_lagoa_OTS-2026-183535"
+   "engenheiro-civil_lagoa_OTS-2026-183535",
+   "senior-angular-developer_lisboa_ETS-2026-185148",
+   "developer-cobol-middlesenior_lisboa_ETS-2026-185149",
+   "operador-de-producao-mf_terrugem_OTS-2026-185128",
+   "administrativoa_ota_OTS-2026-185144",
+   "assistente-de-producao-mfx_sao-domingos-de-rana_OTS-2026-184384",
+   "caixeiro-pecas-auto-mfx_famoes-lisboa_OTS-2026-184892"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -702,7 +708,8 @@
    "otMKyfn7TuPjz195iHr5og",
    "xtnxvhxV2ab8X3niBXyeYz",
    "2y5AKWqz8C5ijuoKVoTsja",
-   "hvooeRmeCrccz12JDbMK78"
+   "hvooeRmeCrccz12JDbMK78",
+   "a3bVZBcRmHE15gCgpb5LMR"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1046,7 +1053,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 47,
+   "bos": 48,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1108,7 +1115,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 468,
+  "elenen": 475,
   "tekrar": 9
  }
 }
