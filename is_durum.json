@@ -356,7 +356,10 @@
    "operador-de-armazem-mfx_frielas-lisboa_OTS-2026-184039",
    "gestora-de-sinistros_lisboa_PTS-2026-184014",
    "operador-de-call-center-amoreiras-mfx_lisboa_OTS-2026-182891",
-   "advogado-contratacao-publica-e-direito-laboral-mfx_oeiras_PTS-2026-174456"
+   "advogado-contratacao-publica-e-direito-laboral-mfx_oeiras_PTS-2026-174456",
+   "operador-de-armazem-azambuja_azambuja_OTS-2026-184077",
+   "tecnico-superior-de-seguranca-no-trabalho-e-ambiente-mfx_portugal_OTS-2025-179595",
+   "accounts-payable_oeiras_PTS-2025-166668"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1026,12 +1029,13 @@
   "fd24e32fb2c628fd",
   "e822d0f1db869f4f",
   "61e7ff996746c0f1",
-  "7f7bdb858aff3adb"
+  "7f7bdb858aff3adb",
+  "0ab674641b1ae2de"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 44,
+   "bos": 45,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1093,7 +1097,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 456,
+  "elenen": 458,
   "tekrar": 8
  }
 }
