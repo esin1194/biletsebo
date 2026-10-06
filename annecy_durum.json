@@ -106,7 +106,9 @@
    "214TDSL",
    "214SQKL",
    "214TVTQ",
-   "214TNPN"
+   "214TNPN",
+   "214VWWW",
+   "214VQHS"
   ],
   "hellowork.com": [
    "83399370",
@@ -361,7 +363,10 @@
    "84090451",
    "84079032",
    "84076091",
-   "79835010"
+   "79835010",
+   "84123334",
+   "84123327",
+   "84126304"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -573,7 +578,10 @@
   "f54b54f28919c550",
   "1963afe57b8146ea",
   "1cb896cda467c079",
-  "4095d5e06cdfa7b0"
+  "4095d5e06cdfa7b0",
+  "00b4f852c8e75c8e",
+  "40d6d16b30c4663b",
+  "6d01d407aa6a080b"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -630,7 +638,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 21,
+  "elenen": 23,
   "tekrar": 31
  }
 }
