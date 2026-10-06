@@ -360,7 +360,15 @@
    "operador-de-armazem-azambuja_azambuja_OTS-2026-184077",
    "tecnico-superior-de-seguranca-no-trabalho-e-ambiente-mfx_portugal_OTS-2025-179595",
    "accounts-payable_oeiras_PTS-2025-166668",
-   "enfermeiro-mfx_agualvacacem_PTS-2025-162032"
+   "enfermeiro-mfx_agualvacacem_PTS-2025-162032",
+   "customer-insights-market-experience-specialist-mfx_carnaxide_PTS-2026-185136",
+   "apoio-ao-cliente-assistencia-em-viagem-pten-mfx_amadora_OTS-2026-184678",
+   "buyer-support-agent-french-speaker-mfx_lisbon-hybrid_OTS-2026-185075",
+   "tecnico-de-eletrodomesticos-mfx_lisboa_OTS-2026-183733",
+   "oficial-eletricista-mfx_lisboa_OTS-2026-179673",
+   "comercial-mfx-lisboa_mafra_PTS-2026-182200",
+   "tecnico-de-manutencao-de-pneus-mfx_miraflores-pontinha-musgueira-cabo-ruivo_OTS-2026-185096",
+   "engenheiro-civil_lagoa_OTS-2026-183535"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -693,7 +701,8 @@
    "tXTjFrznndwiMtaG6jqHjP",
    "otMKyfn7TuPjz195iHr5og",
    "xtnxvhxV2ab8X3niBXyeYz",
-   "2y5AKWqz8C5ijuoKVoTsja"
+   "2y5AKWqz8C5ijuoKVoTsja",
+   "hvooeRmeCrccz12JDbMK78"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1037,7 +1046,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 46,
+   "bos": 47,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1099,7 +1108,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 460,
-  "tekrar": 8
+  "elenen": 468,
+  "tekrar": 9
  }
 }
