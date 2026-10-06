@@ -359,7 +359,8 @@
    "advogado-contratacao-publica-e-direito-laboral-mfx_oeiras_PTS-2026-174456",
    "operador-de-armazem-azambuja_azambuja_OTS-2026-184077",
    "tecnico-superior-de-seguranca-no-trabalho-e-ambiente-mfx_portugal_OTS-2025-179595",
-   "accounts-payable_oeiras_PTS-2025-166668"
+   "accounts-payable_oeiras_PTS-2025-166668",
+   "enfermeiro-mfx_agualvacacem_PTS-2025-162032"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -691,7 +692,8 @@
    "cZNdwgVNNBR18oRuVUnXir",
    "tXTjFrznndwiMtaG6jqHjP",
    "otMKyfn7TuPjz195iHr5og",
-   "xtnxvhxV2ab8X3niBXyeYz"
+   "xtnxvhxV2ab8X3niBXyeYz",
+   "2y5AKWqz8C5ijuoKVoTsja"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1035,7 +1037,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 45,
+   "bos": 46,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1097,7 +1099,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 458,
+  "elenen": 460,
   "tekrar": 8
  }
 }
