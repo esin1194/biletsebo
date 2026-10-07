@@ -378,7 +378,13 @@
    "84132135",
    "84147690",
    "84153355",
-   "81001050"
+   "81001050",
+   "84168901",
+   "84181639",
+   "84169449",
+   "84169715",
+   "84181999",
+   "84076545"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -601,7 +607,10 @@
   "2d5e02221627145d",
   "e52c5711ba955522",
   "0db0c9881f8dac2a",
-  "64351538af483074"
+  "64351538af483074",
+  "b996a00013878735",
+  "3c1c792fc8d2abca",
+  "b37d976f30834402"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -658,7 +667,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 25,
-  "tekrar": 33
+  "elenen": 27,
+  "tekrar": 34
  }
 }
