@@ -1358,7 +1358,23 @@
    "t3-ao-marques-de-pombal-remodelado-rua-rodrigues-sampaio-ID1iYyr",
    "t1-em-campolide-para-arrendar-ID1iYEo",
    "apartamento-t2-para-arrendamento-lumiar-junto-ao-metro-ID1iYE5",
-   "apartamento-t2-telheiras-ID1iYDW"
+   "apartamento-t2-telheiras-ID1iYDW",
+   "apartamento-t1-para-arrendamento-ID1iYLs",
+   "apartamento-t2-para-arrendamento-ID1iYLh",
+   "t1-com-garagem-para-arrendamento-no-parque-dos-principes-ID1iYKe",
+   "apartamento-t2-junto-ao-centro-comercial-das-amoreiras-ID1iYJG",
+   "apartamento-t1-alta-de-lisboa-com-piscina-e-ginasio-ID1iYJw",
+   "apartamento-t2-para-arrendamento-ID1iYJk",
+   "apartamento-t2-em-estrela-de-65-00-m2-ID1iYIv",
+   "t2-no-beato-imobiliarias-nao-ID1iYGt",
+   "apartamento-t1-1-para-arrendamento-com-vista-panormica-sobre-lisbo-ID1iYGr",
+   "t2-remodelado-e-mobilado-em-arroios-suite-ar-condicionado-ID1iYGn",
+   "t1-mobilado-com-garagem-parque-das-nacoes-lisboa-ID1iYGk",
+   "excelente-apartamento-t2-para-arrendar-em-sao-domingos-de-benfica-ID1iYFN",
+   "apartamento-t0-com-ar-condicionado-em-lisboa-ID1iYFy",
+   "t2-para-arrendamento-em-sao-domingos-de-benfica-ID1iYFp",
+   "t1-alfama-ao-metro-de-santa-apolonia-e-terreiro-do-paco-ID1iYF8",
+   "principe-real-t2-mobilado-com-todas-as-despesas-incluidas-ID1iYxY"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1888,7 +1904,13 @@
    "t1-em-campolide-para-arrendar-IDJCEPW",
    "alugo-t2-em-belas-IDJCELJ",
    "apartamento-t2-telheiras-IDJCErs",
-   "arrenda-se-apartamento-t3-IDJCEhm"
+   "arrenda-se-apartamento-t3-IDJCEhm",
+   "alugo-t1-ericeira-junto-da-praia-IDJCJXd",
+   "casa-para-arrendar-IDJnSKI",
+   "apartamento-t2-nos-lirios-mem-martins-IDJCJ4I",
+   "t2-1-amadora-junto-ao-metro-amadora-este-IDJvR5Z",
+   "apartamento-no-fanqueiro-em-loures-IDJCICf",
+   "t2-com-terrao-no-centro-de-vila-franca-de-xira-IDJCIAE"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2849,7 +2871,14 @@
    "ut1718543",
    "ut1604262",
    "ut1633684",
-   "ut1676733"
+   "ut1676733",
+   "ut1716720",
+   "ut1711623",
+   "ut1483121",
+   "ut1576631",
+   "ut1703337",
+   "ut1609948",
+   "ut1671338"
   ],
   "uniplaces.com": [
    "890027",
@@ -3285,7 +3314,11 @@
    "893861",
    "895475",
    "895317",
-   "892195"
+   "892195",
+   "19679",
+   "895607",
+   "895606",
+   "877536"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3483,7 +3516,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 66,
+   "bos": 67,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3525,7 +3558,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 12,
+  "elenen": 35,
   "tekrar": 1
  },
  "imzalar": [
@@ -4161,14 +4194,34 @@
   "dade1035741e2c7f",
   "64b7829109482a93",
   "4e4c1adf03982451",
-  "f19bc9463e9df211"
+  "f19bc9463e9df211",
+  "e10b86e09d373c73",
+  "d9d296e563114c8c",
+  "2b5f4911f6c6f987",
+  "fe53c05531980a1c",
+  "f464c3a2051a3b9a",
+  "0483419177fb9879",
+  "8eea58aee8e699a2",
+  "2807a011e29bd6e8",
+  "df24e7df6f11a71a",
+  "5605134bc5acb6fd"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nExcelente T2 | Cozinha Equipada | Ar Condicionado | Despesas incluídas · 1.300 € · Águas Livres - Hoje às 00:32\nhttps://www.olx.pt/d/anuncio/excelente-t2-cozinha-equipada-ar-condicionado-despesas-includas-IDJvEGg.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 775 €\nT1 em Campolide para arrendar · 775 € · Campolide - 06 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t1-em-campolide-para-arrendar-IDJCEPW.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nApartamento T2 Telheiras · 1.400 € · Lumiar - 06 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-telheiras-IDJCErs.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nArrenda se apartamento T3 · 1.400 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - 06 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t3-IDJCEhm.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.629 €\nCHECKED · APARTMENT · FROM 24 NOV · star · 3.8 (205) · 1-bedroom apartment for rent in Lisbon. · From 1629 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/410641"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.629 €\nCHECKED · APARTMENT · FROM 24 NOV · star · 3.8 (205) · 1-bedroom apartment for rent in Lisbon. · From 1629 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/410641",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · T1 com garagem para arrendamento no Parque dos Príncipes · Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 65 m² · Andar · 7 andar · Engel &amp; Völkers Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-com-garagem-para-arrendamento-no-parque-dos-principes-ID1iYKe",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T2 junto ao centro comercial das Amoreiras. · Rua de Campolide, Bairro de Campolide, Campolide, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 79 m² · Andar · 2 andar · Urbiparede · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-junto-ao-centro-comercial-das-amoreiras-ID1iYJG",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\n1700 € · Apartamento T1 Alta de Lisboa com Piscina e Ginásio · Estrada da Torre, Alto do Lumiar - Quinta das Conchas - Quinta do Lambert, Lumiar, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 65 m² · Andar · 5 andar · Zome Impetus Oeiras · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-alta-de-lisboa-com-piscina-e-ginasio-ID1iYJw",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.990 €\n1990 € · Apartamento T2 em Estrela de 65,00 m2 · Lapa, Estrela, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 65 m² · Andar · 1 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-em-estrela-de-65-00-m2-ID1iYIv",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · T2 remodelado e mobilado em Arroios | Suíte | Ar condicionado · 1000-027 | Arroios, Lisboa, Calçada de Arroios, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 85 m² · Andar · 1 andar · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-remodelado-e-mobilado-em-arroios-suite-ar-condicionado-ID1iYGn",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · T1 Mobilado com Garagem – Parque das Nações, Lisboa · Rua Comandante Cousteau, Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 55 m² · Andar · rés do chão · Inca - Sociedade de Mediação imobiliária lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-garagem-parque-das-nacoes-lisboa-ID1iYGk",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.250 €\n1250 € · T2 para arrendamento em São Domingos de Benfica · Estrada de Benfica, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 80 m² · Andar · 1 andar · Dils · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-para-arrendamento-em-sao-domingos-de-benfica-ID1iYFp",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · Príncipe Real | T2 Mobilado, com todas as despesas Incluídas. · Rua Teixeira, Bairro Alto, Misericórdia, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 48 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/principe-real-t2-mobilado-com-todas-as-despesas-incluidas-ID1iYxY",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nCasa para arrendar · 1.300 € · Cascais E Estoril - Hoje às 13:06\nhttps://www.olx.pt/d/anuncio/casa-para-arrendar-IDJnSKI.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT2+1 Amadora - Junto ao Metro Amadora Este · 1.150 € · Falagueira-Venda Nova - Hoje às 12:09\nhttps://www.olx.pt/d/anuncio/t2-1-amadora-junto-ao-metro-amadora-este-IDJvR5Z.html"
  ],
  "son_gonderim": "2026-10-06"
 }
