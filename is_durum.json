@@ -374,7 +374,15 @@
    "operador-de-producao-mf_terrugem_OTS-2026-185128",
    "administrativoa_ota_OTS-2026-185144",
    "assistente-de-producao-mfx_sao-domingos-de-rana_OTS-2026-184384",
-   "caixeiro-pecas-auto-mfx_famoes-lisboa_OTS-2026-184892"
+   "caixeiro-pecas-auto-mfx_famoes-lisboa_OTS-2026-184892",
+   "contabilista-certificado-junior-banca-m-f-x_lisboa_PTS-2026-184212",
+   "plant-supply-chain-interface-coordinator_coimbra_PTS-2026-184143",
+   "supplier-financial-analyst_lisboa_PTS-2026-184129",
+   "ajudante-de-impressao-offset_massama_OTS-2026-183118",
+   "operador-fabril-mfx_massama_OTS-2026-183117",
+   "gestor-sourcing-pricing-mfx_lisboa_OTS-2026-181725",
+   "purchasing-specialist-mfx_lisboa_PTS-2026-177930",
+   "purchasing-assistant-mfx_lisboa_PTS-2026-172886"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1048,12 +1056,13 @@
   "e822d0f1db869f4f",
   "61e7ff996746c0f1",
   "7f7bdb858aff3adb",
-  "0ab674641b1ae2de"
+  "0ab674641b1ae2de",
+  "227e4b8842618455"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 48,
+   "bos": 49,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1115,7 +1124,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 475,
+  "elenen": 482,
   "tekrar": 9
  }
 }
