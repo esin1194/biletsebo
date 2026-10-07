@@ -1355,7 +1355,10 @@
    "apartamento-t2-com-terraco-ID1iYBn",
    "t1-mobilado-nas-avenidas-novas-varanda-junto-a-gulbenkian-ID1iYzT",
    "apartamento-t1-telheiras-ID1iYyH",
-   "t3-ao-marques-de-pombal-remodelado-rua-rodrigues-sampaio-ID1iYyr"
+   "t3-ao-marques-de-pombal-remodelado-rua-rodrigues-sampaio-ID1iYyr",
+   "t1-em-campolide-para-arrendar-ID1iYEo",
+   "apartamento-t2-para-arrendamento-lumiar-junto-ao-metro-ID1iYE5",
+   "apartamento-t2-telheiras-ID1iYDW"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1880,7 +1883,12 @@
    "t1-cascais-vista-mar-e-varanda-semana-ou-ms-IDJzzxG",
    "arrenda-t1-alto-da-ajuda-IDJ5zzK",
    "t2-amadora-zona-privilegiada-IDJn1TH",
-   "apartamento-t1-telheiras-IDJCCaO"
+   "apartamento-t1-telheiras-IDJCCaO",
+   "excelente-t2-cozinha-equipada-ar-condicionado-despesas-includas-IDJvEGg",
+   "t1-em-campolide-para-arrendar-IDJCEPW",
+   "alugo-t2-em-belas-IDJCELJ",
+   "apartamento-t2-telheiras-IDJCErs",
+   "arrenda-se-apartamento-t3-IDJCEhm"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2804,7 +2812,9 @@
    "apartments/1472009",
    "apartments/1512710",
    "apartments/635526",
-   "apartments/1534960"
+   "apartments/1534960",
+   "apartments/1181377",
+   "apartments/410641"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3266,7 +3276,8 @@
    "83832",
    "314718",
    "893861",
-   "895475"
+   "895475",
+   "895317"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3457,13 +3468,14 @@
    "31484578",
    "31461302",
    "7453348",
-   "1308770450282317958"
+   "1308770450282317958",
+   "31048950"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 64,
+   "bos": 65,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3505,8 +3517,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 5,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4136,8 +4148,19 @@
   "b8f523fc0e6cf367",
   "a2d880a621ac68b9",
   "534240d967f07c15",
-  "2fff6ac2f5d29425"
+  "2fff6ac2f5d29425",
+  "777c515e8bef89b3",
+  "dade1035741e2c7f",
+  "64b7829109482a93",
+  "4e4c1adf03982451",
+  "f19bc9463e9df211"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nExcelente T2 | Cozinha Equipada | Ar Condicionado | Despesas incluídas · 1.300 € · Águas Livres - Hoje às 00:32\nhttps://www.olx.pt/d/anuncio/excelente-t2-cozinha-equipada-ar-condicionado-despesas-includas-IDJvEGg.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 775 €\nT1 em Campolide para arrendar · 775 € · Campolide - 06 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t1-em-campolide-para-arrendar-IDJCEPW.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nApartamento T2 Telheiras · 1.400 € · Lumiar - 06 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-telheiras-IDJCErs.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nArrenda se apartamento T3 · 1.400 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - 06 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t3-IDJCEhm.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.629 €\nCHECKED · APARTMENT · FROM 24 NOV · star · 3.8 (205) · 1-bedroom apartment for rent in Lisbon. · From 1629 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/410641"
+ ],
  "son_gonderim": "2026-10-06"
 }
