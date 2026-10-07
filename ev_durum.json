@@ -1387,7 +1387,8 @@
    "apartamento-t3-1-para-arrendamento-no-areeiro-ID1iYQX",
    "t2-com-terraco-alfama-ID1iYPD",
    "apartamento-t1-com-vista-lumiar-lisboa-ID1iYOT",
-   "apartamento-t2-em-estrela-de-74-00-m2-ID1iYIv"
+   "apartamento-t2-em-estrela-de-74-00-m2-ID1iYIv",
+   "apartamento-t2-no-lumiar-quinta-das-conchas-ID1iZ5w"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1929,7 +1930,9 @@
    "t3-laranjeiro-almada-entrada-imediata-1-250-IDJCLfM",
    "arrenda-se-apartamento-t2-centro-de-mafra-c-novo-IDJCLIN",
    "aluguer-t1-lumiar-IDJfJkb",
-   "t2-mato-cheirinhos-arrendamento-IDJzyQt"
+   "t2-mato-cheirinhos-arrendamento-IDJzyQt",
+   "quarto-individual-para-arrendar-casa-partilhada-por-2-pessoas-2-min-da-estao-IDJCQdl",
+   "t3-para-arrendamento-em-so-domingos-de-rana-IDJCPbH"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3538,13 +3541,15 @@
    "31461302",
    "7453348",
    "1308770450282317958",
-   "31048950"
+   "31048950",
+   "4133820",
+   "1607322935778706565"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 68,
+   "bos": 69,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3586,8 +3591,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 3,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
