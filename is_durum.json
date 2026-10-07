@@ -396,7 +396,19 @@
    "tecnico-de-controlo-de-pragas-mxf_lisboa_OTS-2026-185169",
    "apoio-ao-cliente-gestao-de-sinistros-assistencia-frances-mfx_lisboa-amadora_OTS-2026-185015",
    "consultor-de-atendimento-backoffice-mfx_lisboa_OTS-2026-185166",
-   "lider-de-equipa-mfx-retencao-de-clientes_lisboa-oriente_OTS-2026-185163"
+   "lider-de-equipa-mfx-retencao-de-clientes_lisboa-oriente_OTS-2026-185163",
+   "promotor-de-loja-mf-e-x_cascais_OTS-2026-185225",
+   "assistente-de-loja-fulltime-mfx-edp-comercial-marques-de-pombal_lisboa_OTS-2026-185228",
+   "assistente-de-apoio-a-cliente-vdf-hibrido-m-f-x_lisboa_OTS-2026-185227",
+   "assistente-de-loja-mfx-edp-comercial_cascais_OTS-2026-185221",
+   "tecnico-de-assistencia-tecnica-e-pos-venda_rio-de-mouro_OTS-2026-185215",
+   "assistente-comercial-mfx_strada-odivelas_OTS-2026-185212",
+   "assistente-de-loja-fulltime-mfx-loureshopping_loures_OTS-2026-185213",
+   "engenheiro-de-propostas-engenheiro-eletrotecnico-mfx_lisboa_OTS-2026-185104",
+   "operador-fabril-mfx_massama_OTS-2026-185202",
+   "operador-de-armazem-mxf-folgas-fixas-ao-fim-de-semana_olivais_OTS-2026-185201",
+   "advogado-propriedade-intelectual_lisboa-ou-porto_PTS-2026-184955",
+   "tecnico-eletromecanico_rio-de-mouro_OTS-2026-185197"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1076,7 +1088,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 51,
+   "bos": 52,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1138,7 +1150,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 492,
-  "tekrar": 13
+  "elenen": 503,
+  "tekrar": 14
  }
 }
