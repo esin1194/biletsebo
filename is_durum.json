@@ -382,7 +382,21 @@
    "operador-fabril-mfx_massama_OTS-2026-183117",
    "gestor-sourcing-pricing-mfx_lisboa_OTS-2026-181725",
    "purchasing-specialist-mfx_lisboa_PTS-2026-177930",
-   "purchasing-assistant-mfx_lisboa_PTS-2026-172886"
+   "purchasing-assistant-mfx_lisboa_PTS-2026-172886",
+   "tecnico-de-manutencao-predial-zelador_rio-de-mouro_OTS-2026-185195",
+   "tecnico-de-metalomecanica-lisboa_rio-de-mouro_OTS-2026-185194",
+   "coordenadora-de-lojas-mfx-setor-energetico_lisboa_OTS-2026-185192",
+   "assistente-de-manutencao_paco-de-arcos_OTS-2026-183966",
+   "fisioterapeuta_restelo_PTS-2026-184256",
+   "assistente-de-loja-mfx_lisboa_OTS-2026-185185",
+   "operador-de-producao-mf_terrugem-sintra_OTS-2026-185128",
+   "buyer-claim-support-assistant-dutch-mfx_lisbon-hybrid_OTS-2026-185183",
+   "gestora-de-tecnologias-de-informacao-mfx_torres-vedras-lisboa-presencial_DTS-2026-183290",
+   "assistente-de-inventario-mfx_sao-domingos-de-rana_OTS-2026-185170",
+   "tecnico-de-controlo-de-pragas-mxf_lisboa_OTS-2026-185169",
+   "apoio-ao-cliente-gestao-de-sinistros-assistencia-frances-mfx_lisboa-amadora_OTS-2026-185015",
+   "consultor-de-atendimento-backoffice-mfx_lisboa_OTS-2026-185166",
+   "lider-de-equipa-mfx-retencao-de-clientes_lisboa-oriente_OTS-2026-185163"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1062,7 +1076,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 50,
+   "bos": 51,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1124,7 +1138,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 482,
-  "tekrar": 9
+  "elenen": 492,
+  "tekrar": 13
  }
 }
