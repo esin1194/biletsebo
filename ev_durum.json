@@ -1408,7 +1408,9 @@
    "apartamento-t2-para-arrendamento-ID1iZbH",
    "arrendo-alugo-apartamento-t1-1-duplex-com-garagem-na-lapa-lisbo-ID1iZbb",
    "luminoso-t2-em-predio-com-elevador-no-coracao-de-campo-de-ourique-ID1iZaE",
-   "loft-style-studio-with-tagus-views-in-arco-da-graca-lisbon-ID1iZad"
+   "loft-style-studio-with-tagus-views-in-arco-da-graca-lisbon-ID1iZad",
+   "apartamento-t2-junto-ao-metro-olaias-ID1iZtO",
+   "t2-1-na-quinta-do-lambert-lumiar-com-garagem-e-elevador-disponivel-ID1iZr1"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1963,7 +1965,11 @@
    "t2-como-novo-com-varanda-e-entrada-independente-na-zona-de-pro-pinheiro-sintra-IDJCVOD",
    "apartamento-para-arrendar-IDJCWUr",
    "arredamento-apartamento-t1-nova-oeiras-palmeiras-IDJCWxI",
-   "arrenda-se-apartamento-totalmente-remodelado-vista-mar-terrao-privado-IDJzJEu"
+   "arrenda-se-apartamento-totalmente-remodelado-vista-mar-terrao-privado-IDJzJEu",
+   "apartamento-t2-beato-metro-olaias-IDJD0NT",
+   "arrenda-se-t2-em-cacilhas-IDJD0II",
+   "apartamento-t2-para-arrendamento-na-ajuda-IDJohwu",
+   "aluga-se-t3-alverca-do-ribatejo-IDJCZ9O"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3599,7 +3605,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 72,
+   "bos": 73,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3641,7 +3647,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 6,
   "tekrar": 0
  },
  "imzalar": [
