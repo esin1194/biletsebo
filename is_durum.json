@@ -417,7 +417,24 @@
    "office-manager-mfx_sintra_PTS-2026-182106",
    "administrative-french-speaker-mfx_lisboa_PTS-2026-180386",
    "empregado-de-mesa-mfx_lisboa_OTS-2025-155198",
-   "call-center-vagas-exclusivas-incapacidade-igual-ou-superior-a-60-mfx_portugal-continental_OTS-2025-159530"
+   "call-center-vagas-exclusivas-incapacidade-igual-ou-superior-a-60-mfx_portugal-continental_OTS-2025-159530",
+   "operador_azambuja_OTS-2026-185158",
+   "it-project-manager_porto_DTS-2024-159785",
+   "consolidation-manager_lisboa_PTS-2026-185200",
+   "senior-treasury-accounting_lisboa_PTS-2026-185217",
+   "servente-mfx_malveira-mafra_OTS-2026-185133",
+   "tecnico-de-helpdesk-de-ti_porto_DTS-2026-173659",
+   "engenheiro-eletrotecnico-junior-mfx_sintra_OTS-2026-185245",
+   "engenheiro-mecanico-mfx_sintra_OTS-2026-185242",
+   "eletricista-predial-mfx_lisboa_OTS-2026-179673",
+   "encarregado_lisboa_OTS-2026-185250",
+   "engenheiro-eletrotecnico-senior-mfx_sintra_OTS-2026-185244",
+   "assistente-de-loja-vodafone-mfx_parque-das-nacoes_OTS-2026-185247",
+   "assistente-de-loja-vodafone-mfx_parque-das-nacoes_OTS-2026-185248",
+   "assistente-de-gestao-de-sinistros-frances-mfx_lisboa-amadora_OTS-2026-185015",
+   "eletricista-de-instalacoes-eletricas-edificios-construcao-civil-servicos_lisboa_OTS-2026-185207",
+   "buyer-claim-administrator-mfx-german-speaker_lisbon-hybrid_OTS-2026-185155",
+   "insurance-customer-support-assistant-spanish-speaker-mfx_alges-oeiras_OTS-2026-185153"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -752,7 +769,9 @@
    "xtnxvhxV2ab8X3niBXyeYz",
    "2y5AKWqz8C5ijuoKVoTsja",
    "hvooeRmeCrccz12JDbMK78",
-   "a3bVZBcRmHE15gCgpb5LMR"
+   "a3bVZBcRmHE15gCgpb5LMR",
+   "hwtLrqWtyn87CedwoA6PoY",
+   "b4jgxDTg7rsTKzCjAoN73b"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1094,12 +1113,13 @@
   "0ab674641b1ae2de",
   "227e4b8842618455",
   "b7cb82b4dd1c003b",
-  "3c89d2383f444006"
+  "3c89d2383f444006",
+  "7a2449c82928a823"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 54,
+   "bos": 55,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1161,7 +1181,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 509,
-  "tekrar": 15
+  "elenen": 526,
+  "tekrar": 16
  }
 }
