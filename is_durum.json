@@ -408,7 +408,16 @@
    "operador-fabril-mfx_massama_OTS-2026-185202",
    "operador-de-armazem-mxf-folgas-fixas-ao-fim-de-semana_olivais_OTS-2026-185201",
    "advogado-propriedade-intelectual_lisboa-ou-porto_PTS-2026-184955",
-   "tecnico-eletromecanico_rio-de-mouro_OTS-2026-185197"
+   "tecnico-eletromecanico_rio-de-mouro_OTS-2026-185197",
+   "gestor-de-desenvolvimento-de-negocio-e-projetos-mfx_lisboa_PTS-2026-184142",
+   "network-operations-consultant_porto-lisboa-hibrido_DTS-2026-184284",
+   "accountant_lisboa_PTS-2026-184255",
+   "empregado-mesa_estoril_OTS-2024-146925",
+   "travel-expenses-analyst-french-speaker-mfx_lisboa_PTS-2023-184251",
+   "office-manager-mfx_sintra_PTS-2026-182106",
+   "administrative-french-speaker-mfx_lisboa_PTS-2026-180386",
+   "empregado-de-mesa-mfx_lisboa_OTS-2025-155198",
+   "call-center-vagas-exclusivas-incapacidade-igual-ou-superior-a-60-mfx_portugal-continental_OTS-2025-159530"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1083,12 +1092,14 @@
   "61e7ff996746c0f1",
   "7f7bdb858aff3adb",
   "0ab674641b1ae2de",
-  "227e4b8842618455"
+  "227e4b8842618455",
+  "b7cb82b4dd1c003b",
+  "3c89d2383f444006"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 52,
+   "bos": 53,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1150,7 +1161,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 503,
-  "tekrar": 14
+  "elenen": 509,
+  "tekrar": 15
  }
 }
