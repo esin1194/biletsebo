@@ -1932,7 +1932,8 @@
    "aluguer-t1-lumiar-IDJfJkb",
    "t2-mato-cheirinhos-arrendamento-IDJzyQt",
    "quarto-individual-para-arrendar-casa-partilhada-por-2-pessoas-2-min-da-estao-IDJCQdl",
-   "t3-para-arrendamento-em-so-domingos-de-rana-IDJCPbH"
+   "t3-para-arrendamento-em-so-domingos-de-rana-IDJCPbH",
+   "apartamento-t2-moderno-em-cascais-com-vista-para-a-serra-de-sintra-IDJCQEM"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2903,7 +2904,8 @@
    "ut1671338",
    "ut1739146",
    "ut1606925",
-   "ut1682816"
+   "ut1682816",
+   "ut1543607"
   ],
   "uniplaces.com": [
    "890027",
@@ -3543,13 +3545,16 @@
    "1308770450282317958",
    "31048950",
    "4133820",
-   "1607322935778706565"
+   "1607322935778706565",
+   "1647661284423245798",
+   "896235318679544270",
+   "655276944391427823"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 69,
+   "bos": 70,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3591,8 +3596,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
-  "tekrar": 2
+  "elenen": 4,
+  "tekrar": 5
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4245,8 +4250,11 @@
   "bb61ed57eb6c5f79",
   "bbb629fea772db72",
   "b4ea8761d7188adb",
-  "b2029874425cbf89"
+  "b2029874425cbf89",
+  "ba3c2a35aa82e292"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nApartamento T2 moderno em Cascais com vista para a Serra de Sintra · 1.250 € · Cascais E Estoril - Hoje às 01:37\nhttps://www.olx.pt/d/anuncio/apartamento-t2-moderno-em-cascais-com-vista-para-a-serra-de-sintra-IDJCQEM.html"
+ ],
  "son_gonderim": "2026-10-07"
 }
