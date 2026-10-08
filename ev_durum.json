@@ -1388,7 +1388,10 @@
    "t2-com-terraco-alfama-ID1iYPD",
    "apartamento-t1-com-vista-lumiar-lisboa-ID1iYOT",
    "apartamento-t2-em-estrela-de-74-00-m2-ID1iYIv",
-   "apartamento-t2-no-lumiar-quinta-das-conchas-ID1iZ5w"
+   "apartamento-t2-no-lumiar-quinta-das-conchas-ID1iZ5w",
+   "apartamento-t3-1-para-arrendar-no-areeiro-ID1iZ9Z",
+   "apartamento-t2-para-arrendamento-ID1iZ7Z",
+   "apartamento-t1-em-penha-de-franca-de-40-00-m2-ID1iZ70"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1933,7 +1936,12 @@
    "t2-mato-cheirinhos-arrendamento-IDJzyQt",
    "quarto-individual-para-arrendar-casa-partilhada-por-2-pessoas-2-min-da-estao-IDJCQdl",
    "t3-para-arrendamento-em-so-domingos-de-rana-IDJCPbH",
-   "apartamento-t2-moderno-em-cascais-com-vista-para-a-serra-de-sintra-IDJCQEM"
+   "apartamento-t2-moderno-em-cascais-com-vista-para-a-serra-de-sintra-IDJCQEM",
+   "apartamento-t3-1-para-arrendar-no-areeiro-IDJCTHT",
+   "t2-como-novo-cozinha-equipada-ar-condicionado-mobilado-despesas-includas-IDJus5M",
+   "apartamento-t2-benfica-IDJCSMG",
+   "alugo-t1-manique-IDJCS8Z",
+   "aluga-se-t1-costa-caparica-IDJzHcE"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2860,7 +2868,9 @@
    "apartments/1534960",
    "apartments/1181377",
    "apartments/410641",
-   "apartments/345424"
+   "apartments/345424",
+   "apartments/1508563",
+   "apartments/1289975"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3351,7 +3361,11 @@
    "236461",
    "462682",
    "745449",
-   "745450"
+   "745450",
+   "895911",
+   "895863",
+   "895831",
+   "895830"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3554,7 +3568,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 70,
+   "bos": 71,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3596,7 +3610,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 13,
   "tekrar": 5
  },
  "imzalar": [
@@ -4251,10 +4265,20 @@
   "bbb629fea772db72",
   "b4ea8761d7188adb",
   "b2029874425cbf89",
-  "ba3c2a35aa82e292"
+  "ba3c2a35aa82e292",
+  "5bb0ad89fc81c0d5",
+  "b306f6ee9d903a53",
+  "8730f604a7c21394",
+  "f70f4ea4293336d2",
+  "452949a667f12c1f"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nApartamento T2 moderno em Cascais com vista para a Serra de Sintra · 1.250 € · Cascais E Estoril - Hoje às 01:37\nhttps://www.olx.pt/d/anuncio/apartamento-t2-moderno-em-cascais-com-vista-para-a-serra-de-sintra-IDJCQEM.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nApartamento T2 moderno em Cascais com vista para a Serra de Sintra · 1.250 € · Cascais E Estoril - Hoje às 01:37\nhttps://www.olx.pt/d/anuncio/apartamento-t2-moderno-em-cascais-com-vista-para-a-serra-de-sintra-IDJCQEM.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.650 €\nApartamento T3+1 para arrendar no Areeiro · 1.650 € · Moscavide E Portela - Hoje às 11:28\nhttps://www.olx.pt/d/anuncio/apartamento-t3-1-para-arrendar-no-areeiro-IDJCTHT.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nT2 Como Novo | Cozinha Equipada | Ar Condicionado | Mobilado | Despesas incluídas · 1.300 € · Mina De Água - Hoje às 10:24\nhttps://www.olx.pt/d/anuncio/t2-como-novo-cozinha-equipada-ar-condicionado-mobilado-despesas-includas-IDJus5M.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nAlugo T1 Manique · 800 € · Cascais E Estoril - Hoje às 08:52\nhttps://www.olx.pt/d/anuncio/alugo-t1-manique-IDJCS8Z.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nAluga se T1 Costa Caparica · 1.000 € · Benfica - Hoje às 08:05\nhttps://www.olx.pt/d/anuncio/aluga-se-t1-costa-caparica-IDJzHcE.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nCHECKED · APARTMENT · FROM 08 OCT · star · 4 (5) · 4-bedroom apartment for rent in Amadora, Lisbon · 1750 €/month · info · UP TO 10 % OFF · 12+ month stay · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1289975"
  ],
  "son_gonderim": "2026-10-07"
 }
