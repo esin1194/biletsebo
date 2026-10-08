@@ -434,7 +434,16 @@
    "assistente-de-gestao-de-sinistros-frances-mfx_lisboa-amadora_OTS-2026-185015",
    "eletricista-de-instalacoes-eletricas-edificios-construcao-civil-servicos_lisboa_OTS-2026-185207",
    "buyer-claim-administrator-mfx-german-speaker_lisbon-hybrid_OTS-2026-185155",
-   "insurance-customer-support-assistant-spanish-speaker-mfx_alges-oeiras_OTS-2026-185153"
+   "insurance-customer-support-assistant-spanish-speaker-mfx_alges-oeiras_OTS-2026-185153",
+   "costureiramfx_lisboa_OTS-2026-185297",
+   "tecnico-comercial-mfx_lisboa_PTS-2026-185263",
+   "responsavel-de-seguranca-mfx_lisboa_OTS-2026-185293",
+   "assistente-de-experiencia-ao-cliente-atendimento-balcao_lisboa_OTS-2026-184104",
+   "responsavel-de-estudos-e-orcamentos-mfx_lisboa_OTS-2026-185285",
+   "tecnicoa-especialista-area-professional_carnaxide-lisboa_OTS-2026-185283",
+   "manobradora-de-grua-telescopica_lisboa_OTS-2026-185281",
+   "customer-support-agent-dutch-speaker-mfx_remote_OTS-2026-185273",
+   "encarregado-de-instalacoes-eletricas_lisboa_OTS-2026-185250"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -771,7 +780,9 @@
    "hvooeRmeCrccz12JDbMK78",
    "a3bVZBcRmHE15gCgpb5LMR",
    "hwtLrqWtyn87CedwoA6PoY",
-   "b4jgxDTg7rsTKzCjAoN73b"
+   "b4jgxDTg7rsTKzCjAoN73b",
+   "9ecSjGfaGwn6WaKBwGHsnT",
+   "7WcTWiQ3tzrdNZ8icFyV43"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1119,7 +1130,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 55,
+   "bos": 56,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1181,7 +1192,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 526,
+  "elenen": 537,
   "tekrar": 16
  }
 }
