@@ -2945,7 +2945,9 @@
    "ut1739146",
    "ut1606925",
    "ut1682816",
-   "ut1543607"
+   "ut1543607",
+   "ut1699100",
+   "ut1597975"
   ],
   "uniplaces.com": [
    "890027",
@@ -3599,13 +3601,25 @@
    "1647661284423245798",
    "896235318679544270",
    "655276944391427823",
-   "31031112"
+   "31031112",
+   "1061419452125172666",
+   "14498334",
+   "1507094450305628402",
+   "1127816017362580279",
+   "1737042402815297824",
+   "1344938914389646809",
+   "704198234242249236",
+   "1674029580947574714",
+   "31557158",
+   "1790467847355201437",
+   "1492028541636980416",
+   "10630926"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 73,
+   "bos": 74,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3647,8 +3661,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
-  "tekrar": 0
+  "elenen": 8,
+  "tekrar": 10
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4316,8 +4330,13 @@
   "c92e6c6786c456ff",
   "21e9c3435338dab8",
   "13f88afa9a3a70fe",
-  "966ff6663d4eb8e1"
+  "966ff6663d4eb8e1",
+  "34cbd3155be0b942",
+  "548c7e536f499846"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Alvalade · Samarra - 2 quartos e piscina compartilhada em Areeiro · 2 quartos · 2 camas queen · 2 banheiros · $ 5.926 USD · $ 4.882 USD · $ 4.882 USD mensal, preço original: $ 5.926 USD · mensal · Reserve com antecedência e economize · Desconto mensal …\nhttps://www.airbnb.com/rooms/1061419452125172666",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 5 de nov.  a  31 de jan. · 5 de nov. – 31 de jan. · Apartamento ⋅ Avenidas Novas · 4,86 de uma avaliação média de 5, 7 avaliações · 4,86 (7) · Cândido Residences 3B · 1 quarto · 1 cama de casal · 1 banheiro · $ 3.741 USD · $ 3.236 USD · $ 3.236 USD mensal, preço …\nhttps://www.airbnb.com/rooms/1507094450305628402"
+ ],
  "son_gonderim": "2026-10-08"
 }
