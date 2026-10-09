@@ -1438,7 +1438,12 @@
    "arrendamento-t1-mobilado-ID1iZAx",
    "apartamento-t2-para-arrendamento-ID1iZAc",
    "apartamento-t1-em-santo-antonio-de-75-00-m2-ID1iZza",
-   "apartamento-t1-para-arrendamento-ID1iZxR"
+   "apartamento-t1-para-arrendamento-ID1iZxR",
+   "apartamento-benfica-ID1iZQC",
+   "apartamento-t1-para-arrendamento-ID1iZQx",
+   "apartamento-t2-para-arrendamento-ID1iZQs",
+   "apartamento-t1-para-arrendamento-ID1iZQa",
+   "apartamento-t0-para-arrendamento-ID1iZPQ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2006,7 +2011,10 @@
    "apartamento-t2-para-alugar-IDJD8Eu",
    "t1-remodelado-em-2025-so-bento-misericrdia-lisboa-IDJzRd7",
    "apartamento-em-lisboa-IDJzOnj",
-   "arrendamento-t1-mobilado-IDJD4AU"
+   "arrendamento-t1-mobilado-IDJD4AU",
+   "estdio-com-estilo-no-corao-do-arroios-com-patio-o-bairro-mais-cosmopolita-de-lisboa-IDJrSj9",
+   "aluguer-de-t0-fames-pontinha-IDJDboA",
+   "apartamento-t3-para-arrendamento-no-lumiar-IDJicZA"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3450,7 +3458,10 @@
    "896567",
    "556586",
    "552605",
-   "769715"
+   "769715",
+   "668851",
+   "669377",
+   "177701"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3663,13 +3674,14 @@
    "10630926",
    "30973514",
    "6295852",
-   "50418988"
+   "50418988",
+   "11676371"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 76,
+   "bos": 77,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3711,7 +3723,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 7,
   "tekrar": 0
  },
  "imzalar": [
@@ -4395,8 +4407,19 @@
   "4f046f22f2c5ba5c",
   "53fb63d83a823291",
   "dd4854110b344bce",
-  "0e213f44ecd961df"
+  "0e213f44ecd961df",
+  "9de78f3323f6ad5b",
+  "add65c953eadac06",
+  "001179cad9ec6025",
+  "aa6d2c911fc6e032",
+  "76f9a6c494611ece"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento Benfica · Calçada do Tojal, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 5 andar · NGI Sociedade Mediação Imobiliária Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-benfica-ID1iZQC",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nEstúdio com estilo no coração do arroios com patio — o bairro mais cosmopolita de lisboa · 1.000 € · Arroios - Hoje às 21:29\nhttps://www.olx.pt/d/anuncio/estdio-com-estilo-no-corao-do-arroios-com-patio-o-bairro-mais-cosmopolita-de-lisboa-IDJrSj9.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nAluguer de T0 Famões/Pontinha · 700 € · Negociável · Odivelas - Hoje às 19:18\nhttps://www.olx.pt/d/anuncio/aluguer-de-t0-fames-pontinha-IDJDboA.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nApartamento T3 para Arrendamento no Lumiar · 1.700 € · Lumiar - Hoje às 17:54\nhttps://www.olx.pt/d/anuncio/apartamento-t3-para-arrendamento-no-lumiar-IDJicZA.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 25 · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) · Apart. 3D, Coração da cidade, a 250m do Rossio, · 1 quarto · 1 cama · 1 banheiro · $ 2.953 USD · $ 1.457 USD · $ 1.457 USD mensal, preço original: $ 2.953 USD · mensal · Descont…\nhttps://www.airbnb.com/rooms/11676371"
+ ],
  "son_gonderim": "2026-10-09"
 }
