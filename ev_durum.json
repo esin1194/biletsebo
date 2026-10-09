@@ -1410,7 +1410,8 @@
    "luminoso-t2-em-predio-com-elevador-no-coracao-de-campo-de-ourique-ID1iZaE",
    "loft-style-studio-with-tagus-views-in-arco-da-graca-lisbon-ID1iZad",
    "apartamento-t2-junto-ao-metro-olaias-ID1iZtO",
-   "t2-1-na-quinta-do-lambert-lumiar-com-garagem-e-elevador-disponivel-ID1iZr1"
+   "t2-1-na-quinta-do-lambert-lumiar-com-garagem-e-elevador-disponivel-ID1iZr1",
+   "t1-para-arrendar-alcantara-ID1iUXP"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1969,7 +1970,12 @@
    "apartamento-t2-beato-metro-olaias-IDJD0NT",
    "arrenda-se-t2-em-cacilhas-IDJD0II",
    "apartamento-t2-para-arrendamento-na-ajuda-IDJohwu",
-   "aluga-se-t3-alverca-do-ribatejo-IDJCZ9O"
+   "aluga-se-t3-alverca-do-ribatejo-IDJCZ9O",
+   "apartamento-t3-na-quinta-grande-IDIU4Tq",
+   "arrendo-t-0-mobilado-despesas-includas-IDIRjpd",
+   "apartamento-para-arrendamento-em-alcntara-lisboa-IDJzOdo",
+   "apartamento-t2-na-alta-de-lisboa-lumiar-IDIWDef",
+   "apartamento-t1-remodelado-e-mobilado-com-terrao-junto-av-de-roma-IDJwesU"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2947,7 +2953,8 @@
    "ut1682816",
    "ut1543607",
    "ut1699100",
-   "ut1597975"
+   "ut1597975",
+   "ut1732307"
   ],
   "uniplaces.com": [
    "890027",
@@ -3403,7 +3410,10 @@
    "892559",
    "892560",
    "887505",
-   "885000"
+   "885000",
+   "896567",
+   "556586",
+   "552605"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3613,13 +3623,15 @@
    "31557158",
    "1790467847355201437",
    "1492028541636980416",
-   "10630926"
+   "10630926",
+   "30973514",
+   "6295852"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 74,
+   "bos": 75,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3661,8 +3673,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
-  "tekrar": 10
+  "elenen": 14,
+  "tekrar": 11
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4332,11 +4344,21 @@
   "13f88afa9a3a70fe",
   "966ff6663d4eb8e1",
   "34cbd3155be0b942",
-  "548c7e536f499846"
+  "548c7e536f499846",
+  "a594f78cf95604ee",
+  "38fd013891b36eb6",
+  "833f9e23a14a2a67",
+  "f62b0b6f836263dc",
+  "dc41b1323aaf0997"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Alvalade · Samarra - 2 quartos e piscina compartilhada em Areeiro · 2 quartos · 2 camas queen · 2 banheiros · $ 5.926 USD · $ 4.882 USD · $ 4.882 USD mensal, preço original: $ 5.926 USD · mensal · Reserve com antecedência e economize · Desconto mensal …\nhttps://www.airbnb.com/rooms/1061419452125172666",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 5 de nov.  a  31 de jan. · 5 de nov. – 31 de jan. · Apartamento ⋅ Avenidas Novas · 4,86 de uma avaliação média de 5, 7 avaliações · 4,86 (7) · Cândido Residences 3B · 1 quarto · 1 cama de casal · 1 banheiro · $ 3.741 USD · $ 3.236 USD · $ 3.236 USD mensal, preço …\nhttps://www.airbnb.com/rooms/1507094450305628402"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 5 de nov.  a  31 de jan. · 5 de nov. – 31 de jan. · Apartamento ⋅ Avenidas Novas · 4,86 de uma avaliação média de 5, 7 avaliações · 4,86 (7) · Cândido Residences 3B · 1 quarto · 1 cama de casal · 1 banheiro · $ 3.741 USD · $ 3.236 USD · $ 3.236 USD mensal, preço …\nhttps://www.airbnb.com/rooms/1507094450305628402",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nApartamento T3 na quinta grande · 1.900 € · Alfragide - Hoje às 10:20\nhttps://www.olx.pt/d/anuncio/apartamento-t3-na-quinta-grande-IDIU4Tq.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nArrendo T.0 mobilado despesas incluídas · 950 € · Agualva E Mira-Sintra - Hoje às 09:53\nhttps://www.olx.pt/d/anuncio/arrendo-t-0-mobilado-despesas-includas-IDIRjpd.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.597 €\nApartamento T2 na Alta de Lisboa - Lumiar · 1.597 € · Lumiar - Hoje às 09:10\nhttps://www.olx.pt/d/anuncio/apartamento-t2-na-alta-de-lisboa-lumiar-IDIWDef.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.498 €\nApartamento T1 Remodelado e Mobilado com Terraço Junto Av. de Roma · 1.498 € · Alvalade - Hoje às 08:56\nhttps://www.olx.pt/d/anuncio/apartamento-t1-remodelado-e-mobilado-com-terrao-junto-av-de-roma-IDJwesU.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Condomínio ⋅ Penha de França · 4,93 de uma avaliação média de 5, 216 avaliações · 4,93 (216) · Retiro tranquilo no jardim com vista para o rio · 1 quarto · 2 camas · 1 banheiro · $ 3.797 USD · $ 1.845 USD · $ 1.845 USD mensal, preço original: $ 3.797 USD…\nhttps://www.airbnb.com/rooms/30973514"
  ],
  "son_gonderim": "2026-10-08"
 }
