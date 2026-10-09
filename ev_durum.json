@@ -1411,7 +1411,34 @@
    "loft-style-studio-with-tagus-views-in-arco-da-graca-lisbon-ID1iZad",
    "apartamento-t2-junto-ao-metro-olaias-ID1iZtO",
    "t2-1-na-quinta-do-lambert-lumiar-com-garagem-e-elevador-disponivel-ID1iZr1",
-   "t1-para-arrendar-alcantara-ID1iUXP"
+   "t1-para-arrendar-alcantara-ID1iUXP",
+   "apartamento-totalmente-renovado-em-sao-domingos-de-benfica-54-m2-ID1iZOn",
+   "apartamento-t2-para-arrendamento-ID1iZOb",
+   "apartamento-t3-para-arrendamento-ID1iZO3",
+   "apartamento-t1-para-arrendamento-ID1iZND",
+   "arrendamento-t2-remodelado-e-equipado-beato-ID1iZNC",
+   "t2-penha-de-franca-ID1iZN0",
+   "apartamento-t0-equipado-sao-bento-lisboa-ID1iZM3",
+   "t2-arrendamento-estrada-da-luz-carnide-ID1iZKF",
+   "t1-com-varanda-e-garagem-em-predio-de-2022-junto-a-praca-de-espanha-ID1iZIr",
+   "t1-com-varanda-e-garagem-em-campolide-lisboa-certificado-energetico-ID1iZIp",
+   "t2-rua-do-passadico-ID1iZIe",
+   "t2-nos-olivais-norte-luz-arquitetura-e-metro-a-porta-ID1iZHz",
+   "apartamento-t2-com-varanda-no-restelo-ID1iZHv",
+   "apartamento-t1-para-arrendamento-nas-laranjeiras-ID1iZH7",
+   "apartamento-t1-para-arrendar-em-rua-de-campolide-368-campolide-ID1iZGD",
+   "t1-mobilado-com-varanda-e-estacionamento-junto-ao-metro-e-quinta-das-c-ID1iZDD",
+   "t0-em-predio-com-elevador-benfica-ID1iZDu",
+   "apartamento-t2-para-arrendamento-ID1iZCS",
+   "t1-com-terraco-na-rua-da-bempostinha-arroios-ID1iZCG",
+   "t2-com-varanda-e-elevador-na-avenida-almirante-reis-lisboa-ID1iZCF",
+   "apartamento-com-2-quartos-localizado-em-sao-bento-lisbon-ID1iZCe",
+   "apartamento-com-1-quartos-localizado-em-se-lisbon-ID1iZBP",
+   "t1-mobiliado-para-arrendar-ID1iZBd",
+   "arrendamento-t1-mobilado-ID1iZAx",
+   "apartamento-t2-para-arrendamento-ID1iZAc",
+   "apartamento-t1-em-santo-antonio-de-75-00-m2-ID1iZza",
+   "apartamento-t1-para-arrendamento-ID1iZxR"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -1975,7 +2002,11 @@
    "arrendo-t-0-mobilado-despesas-includas-IDIRjpd",
    "apartamento-para-arrendamento-em-alcntara-lisboa-IDJzOdo",
    "apartamento-t2-na-alta-de-lisboa-lumiar-IDIWDef",
-   "apartamento-t1-remodelado-e-mobilado-com-terrao-junto-av-de-roma-IDJwesU"
+   "apartamento-t1-remodelado-e-mobilado-com-terrao-junto-av-de-roma-IDJwesU",
+   "apartamento-t2-para-alugar-IDJD8Eu",
+   "t1-remodelado-em-2025-so-bento-misericrdia-lisboa-IDJzRd7",
+   "apartamento-em-lisboa-IDJzOnj",
+   "arrendamento-t1-mobilado-IDJD4AU"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2906,7 +2937,10 @@
    "apartments/1508563",
    "apartments/1289975",
    "apartments/1725274",
-   "apartments/476384"
+   "apartments/476384",
+   "apartments/1725548",
+   "apartments/1714704",
+   "apartments/1506120"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -2954,7 +2988,9 @@
    "ut1543607",
    "ut1699100",
    "ut1597975",
-   "ut1732307"
+   "ut1732307",
+   "ut1663647",
+   "ut1682480"
   ],
   "uniplaces.com": [
    "890027",
@@ -3413,7 +3449,8 @@
    "885000",
    "896567",
    "556586",
-   "552605"
+   "552605",
+   "769715"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3625,13 +3662,14 @@
    "1492028541636980416",
    "10630926",
    "30973514",
-   "6295852"
+   "6295852",
+   "50418988"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 75,
+   "bos": 76,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3673,8 +3711,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 14,
-  "tekrar": 11
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4349,16 +4387,16 @@
   "38fd013891b36eb6",
   "833f9e23a14a2a67",
   "f62b0b6f836263dc",
-  "dc41b1323aaf0997"
+  "dc41b1323aaf0997",
+  "d7596f6b09099588",
+  "c4032cda69974c71",
+  "fa38cb359f444c72",
+  "8be31a50bddf257d",
+  "4f046f22f2c5ba5c",
+  "53fb63d83a823291",
+  "dd4854110b344bce",
+  "0e213f44ecd961df"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Alvalade · Samarra - 2 quartos e piscina compartilhada em Areeiro · 2 quartos · 2 camas queen · 2 banheiros · $ 5.926 USD · $ 4.882 USD · $ 4.882 USD mensal, preço original: $ 5.926 USD · mensal · Reserve com antecedência e economize · Desconto mensal …\nhttps://www.airbnb.com/rooms/1061419452125172666",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 5 de nov.  a  31 de jan. · 5 de nov. – 31 de jan. · Apartamento ⋅ Avenidas Novas · 4,86 de uma avaliação média de 5, 7 avaliações · 4,86 (7) · Cândido Residences 3B · 1 quarto · 1 cama de casal · 1 banheiro · $ 3.741 USD · $ 3.236 USD · $ 3.236 USD mensal, preço …\nhttps://www.airbnb.com/rooms/1507094450305628402",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nApartamento T3 na quinta grande · 1.900 € · Alfragide - Hoje às 10:20\nhttps://www.olx.pt/d/anuncio/apartamento-t3-na-quinta-grande-IDIU4Tq.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nArrendo T.0 mobilado despesas incluídas · 950 € · Agualva E Mira-Sintra - Hoje às 09:53\nhttps://www.olx.pt/d/anuncio/arrendo-t-0-mobilado-despesas-includas-IDIRjpd.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.597 €\nApartamento T2 na Alta de Lisboa - Lumiar · 1.597 € · Lumiar - Hoje às 09:10\nhttps://www.olx.pt/d/anuncio/apartamento-t2-na-alta-de-lisboa-lumiar-IDIWDef.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.498 €\nApartamento T1 Remodelado e Mobilado com Terraço Junto Av. de Roma · 1.498 € · Alvalade - Hoje às 08:56\nhttps://www.olx.pt/d/anuncio/apartamento-t1-remodelado-e-mobilado-com-terrao-junto-av-de-roma-IDJwesU.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Condomínio ⋅ Penha de França · 4,93 de uma avaliação média de 5, 216 avaliações · 4,93 (216) · Retiro tranquilo no jardim com vista para o rio · 1 quarto · 2 camas · 1 banheiro · $ 3.797 USD · $ 1.845 USD · $ 1.845 USD mensal, preço original: $ 3.797 USD…\nhttps://www.airbnb.com/rooms/30973514"
- ],
- "son_gonderim": "2026-10-08"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-09"
 }
