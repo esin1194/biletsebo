@@ -125,7 +125,9 @@
    "214ZXYL",
    "214ZTFV",
    "215BDCR",
-   "214ZBMK"
+   "214ZBMK",
+   "215BNPB",
+   "215BKJX"
   ],
   "hellowork.com": [
    "83399370",
@@ -425,7 +427,10 @@
    "84251747",
    "84247930",
    "84252020",
-   "84248482"
+   "84248482",
+   "84280459",
+   "84276694",
+   "84276730"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -674,7 +679,8 @@
   "b4ccbb838b4ba3c5",
   "4886f2ba51fe7883",
   "27ae3b852672f48c",
-  "56d16e8fa0373169"
+  "56d16e8fa0373169",
+  "d1e22505750905aa"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -732,6 +738,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 30,
-  "tekrar": 49
+  "tekrar": 53
  }
 }
