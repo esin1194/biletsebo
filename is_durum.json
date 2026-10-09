@@ -451,7 +451,12 @@
    "tecnico-de-qualidade-mfx_lisboa_OTS-2026-182350",
    "gestor-de-transportes-mfx-com-certificacao-cpc_lisboa-e-porto_OTS-2026-185059",
    "it-internal-control-consultant-mfx_lisboa_DTS-2026-181230",
-   "engenheiro-eletrotecnico-mfx_sintra_OTS-2026-185244"
+   "engenheiro-eletrotecnico-mfx_sintra_OTS-2026-185244",
+   "senior-financial-analyst_lisboa-remote_PTS-2025-165475",
+   "senior-payroll-analyst_lisboa_PTS-2025-181479",
+   "manobrador-de-plataformas-elevatorias-mfx-chelas-lisboa_lisboa_OTS-2026-185281",
+   "formador-equipamentos-de-movimentacao-e-elevacao-de-carga_lisboa_OTS-2022-125789",
+   "formador-de-conducao-de-empilhadores_lisboa_OTS-2026-173122"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -795,7 +800,9 @@
    "tFTe87h9hZSSpih2x3ohJX",
    "vVDi2WVnrfEogMrHXsFjaL",
    "3HaFKE2oqSxfGh4QyLjcSy",
-   "eDC6gWmD8KvYY8M53kAdjD"
+   "eDC6gWmD8KvYY8M53kAdjD",
+   "8uQ6o8EK1QCpmZu6N3hi9x",
+   "jJHgSqnLnguSoje94E1JRK"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1144,7 +1151,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 59,
+   "bos": 60,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1206,7 +1213,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 548,
+  "elenen": 555,
   "tekrar": 17
  }
 }
