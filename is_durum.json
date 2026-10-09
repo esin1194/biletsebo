@@ -444,7 +444,14 @@
    "manobradora-de-grua-telescopica_lisboa_OTS-2026-185281",
    "customer-support-agent-dutch-speaker-mfx_remote_OTS-2026-185273",
    "encarregado-de-instalacoes-eletricas_lisboa_OTS-2026-185250",
-   "apoio-tecnico-alemao-mfx-technical-support-assistant-german-mfx_lisbon-or-porto-portugal_OTS-2023-137723"
+   "apoio-tecnico-alemao-mfx-technical-support-assistant-german-mfx_lisbon-or-porto-portugal_OTS-2023-137723",
+   "gestor-de-contacto-banca-2a-linha-mfx_lisboa_OTS-2026-185291",
+   "assistente-de-loja-mfx_lisboa_OTS-2026-182583",
+   "travel-expenses-support-french-speaker-mfx_lisboa_PTS-2026-185312",
+   "tecnico-de-qualidade-mfx_lisboa_OTS-2026-182350",
+   "gestor-de-transportes-mfx-com-certificacao-cpc_lisboa-e-porto_OTS-2026-185059",
+   "it-internal-control-consultant-mfx_lisboa_DTS-2026-181230",
+   "engenheiro-eletrotecnico-mfx_sintra_OTS-2026-185244"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -783,7 +790,12 @@
    "hwtLrqWtyn87CedwoA6PoY",
    "b4jgxDTg7rsTKzCjAoN73b",
    "9ecSjGfaGwn6WaKBwGHsnT",
-   "7WcTWiQ3tzrdNZ8icFyV43"
+   "7WcTWiQ3tzrdNZ8icFyV43",
+   "gaL2sFEk2RJ5dcPKUnd244",
+   "tFTe87h9hZSSpih2x3ohJX",
+   "vVDi2WVnrfEogMrHXsFjaL",
+   "3HaFKE2oqSxfGh4QyLjcSy",
+   "eDC6gWmD8KvYY8M53kAdjD"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1126,12 +1138,13 @@
   "227e4b8842618455",
   "b7cb82b4dd1c003b",
   "3c89d2383f444006",
-  "7a2449c82928a823"
+  "7a2449c82928a823",
+  "6b93134b8901af19"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 58,
+   "bos": 59,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1193,7 +1206,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 538,
-  "tekrar": 16
+  "elenen": 548,
+  "tekrar": 17
  }
 }
