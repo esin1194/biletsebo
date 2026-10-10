@@ -1455,7 +1455,8 @@
    "apartamento-t2-para-arrendamento-ID1j01K",
    "apartamento-t1-para-arrendamento-ID1j01a",
    "apartamento-t2-para-arrendamento-ID1j00A",
-   "apartamento-t1-para-arrendamento-ID1iZZG"
+   "apartamento-t1-para-arrendamento-ID1iZZG",
+   "apartamento-t2-para-arrendamento-ID1j04R"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2040,7 +2041,11 @@
    "lindo-t2-algueirao-mem-martins-proximo-ao-hospital-de-sintra-IDJDuBn",
    "arrendamento-t2-mobilado-predio-com-elevador-ramada-odivelas-IDJDvNr",
    "t2-mobilado-e-equipado-para-arrendamento-oeiras-IDJDvLa",
-   "vivenda-t3-para-arrendar-boavista-a-dos-cunhados-torres-vedras-IDJDvly"
+   "vivenda-t3-para-arrendar-boavista-a-dos-cunhados-torres-vedras-IDJDvly",
+   "arrenda-se-t2-na-mafra-encarnao-IDJA0Zb",
+   "pvoa-centro-apartamento-IDJxbFf",
+   "t2-para-alugar-em-arruda-dos-vinhos-IDJDAz3",
+   "apartamento-t1-cascais-IDJDA3y"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2979,7 +2984,12 @@
    "apartments/929398",
    "apartments/436819",
    "apartments/1726555",
-   "apartments/1726151"
+   "apartments/1726151",
+   "apartments/1704262",
+   "apartments/1506124",
+   "apartments/463860",
+   "apartments/466159",
+   "apartments/569324"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3724,7 +3734,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 81,
+   "bos": 82,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3766,7 +3776,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -4472,8 +4482,17 @@
   "c011134c28016296",
   "1ca469913183d085",
   "dc056032a2026188",
-  "0ef29ebe8419519b"
+  "0ef29ebe8419519b",
+  "67a5509160510cee",
+  "6ff45d867180aff5",
+  "2c01a2e18092cedf",
+  "77b59cb0d30876c8"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nPóvoa Centro apartamento · 650 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 21:35\nhttps://www.olx.pt/d/anuncio/pvoa-centro-apartamento-IDJxbFf.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 Cascais · 950 € · Cascais E Estoril - Hoje às 20:01\nhttps://www.olx.pt/d/anuncio/apartamento-t1-cascais-IDJDA3y.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nAPARTMENT · FROM 10 OCT · 1-bedroom apartment for rent in Lisbon · 1750 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1704262",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nAPARTMENT · FROM 08 NOV · star · 4 (96) · 1-bedroom apartment for rent in Lisbon · From 1575 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/569324"
+ ],
  "son_gonderim": "2026-10-10"
 }
