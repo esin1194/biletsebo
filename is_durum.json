@@ -1152,7 +1152,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 64,
+   "bos": 65,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1207,7 +1207,7 @@
   },
   "https://www.randstad.pt/empregos/lisboa/?q=customer": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   }
  },
