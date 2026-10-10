@@ -456,7 +456,8 @@
    "senior-payroll-analyst_lisboa_PTS-2025-181479",
    "manobrador-de-plataformas-elevatorias-mfx-chelas-lisboa_lisboa_OTS-2026-185281",
    "formador-equipamentos-de-movimentacao-e-elevacao-de-carga_lisboa_OTS-2022-125789",
-   "formador-de-conducao-de-empilhadores_lisboa_OTS-2026-173122"
+   "formador-de-conducao-de-empilhadores_lisboa_OTS-2026-173122",
+   "operador-de-armazem_alverca_OTS-2026-183721"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1151,7 +1152,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 61,
+   "bos": 62,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1213,7 +1214,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 555,
+  "elenen": 556,
   "tekrar": 17
  }
 }
