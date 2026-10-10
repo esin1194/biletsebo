@@ -1443,7 +1443,8 @@
    "apartamento-t1-para-arrendamento-ID1iZQx",
    "apartamento-t2-para-arrendamento-ID1iZQs",
    "apartamento-t1-para-arrendamento-ID1iZQa",
-   "apartamento-t0-para-arrendamento-ID1iZPQ"
+   "apartamento-t0-para-arrendamento-ID1iZPQ",
+   "t2-remodelado-lisboa-benfica-ID1iZUX"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2014,7 +2015,11 @@
    "arrendamento-t1-mobilado-IDJD4AU",
    "estdio-com-estilo-no-corao-do-arroios-com-patio-o-bairro-mais-cosmopolita-de-lisboa-IDJrSj9",
    "aluguer-de-t0-fames-pontinha-IDJDboA",
-   "apartamento-t3-para-arrendamento-no-lumiar-IDJicZA"
+   "apartamento-t3-para-arrendamento-no-lumiar-IDJicZA",
+   "t2-remodelado-lisboa-benfica-IDJDhGl",
+   "arrenda-se-apartamento-t1-em-alcntara-IDJx3oA",
+   "t2-espaoso-luminoso-e-com-excelentes-acessos-IDJfTZm",
+   "apartamento-t2-1-IDJCWJe"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3675,13 +3680,16 @@
    "30973514",
    "6295852",
    "50418988",
-   "11676371"
+   "11676371",
+   "1697398306058257475",
+   "1784156651592126344",
+   "1392010118427304412"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 77,
+   "bos": 78,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3723,8 +3731,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
-  "tekrar": 0
+  "elenen": 8,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4412,14 +4420,24 @@
   "add65c953eadac06",
   "001179cad9ec6025",
   "aa6d2c911fc6e032",
-  "76f9a6c494611ece"
+  "76f9a6c494611ece",
+  "7cb74dca11bfa533",
+  "91f6e7ad7e344d98",
+  "7d13b8605bb1cdbe",
+  "7df98771b670ecd3",
+  "c9c9a528b371c18d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento Benfica · Calçada do Tojal, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 5 andar · NGI Sociedade Mediação Imobiliária Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-benfica-ID1iZQC",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nEstúdio com estilo no coração do arroios com patio — o bairro mais cosmopolita de lisboa · 1.000 € · Arroios - Hoje às 21:29\nhttps://www.olx.pt/d/anuncio/estdio-com-estilo-no-corao-do-arroios-com-patio-o-bairro-mais-cosmopolita-de-lisboa-IDJrSj9.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nAluguer de T0 Famões/Pontinha · 700 € · Negociável · Odivelas - Hoje às 19:18\nhttps://www.olx.pt/d/anuncio/aluguer-de-t0-fames-pontinha-IDJDboA.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nApartamento T3 para Arrendamento no Lumiar · 1.700 € · Lumiar - Hoje às 17:54\nhttps://www.olx.pt/d/anuncio/apartamento-t3-para-arrendamento-no-lumiar-IDJicZA.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 25 · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) · Apart. 3D, Coração da cidade, a 250m do Rossio, · 1 quarto · 1 cama · 1 banheiro · $ 2.953 USD · $ 1.457 USD · $ 1.457 USD mensal, preço original: $ 2.953 USD · mensal · Descont…\nhttps://www.airbnb.com/rooms/11676371"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 25 · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) · Apart. 3D, Coração da cidade, a 250m do Rossio, · 1 quarto · 1 cama · 1 banheiro · $ 2.953 USD · $ 1.457 USD · $ 1.457 USD mensal, preço original: $ 2.953 USD · mensal · Descont…\nhttps://www.airbnb.com/rooms/11676371",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT2 remodelado Lisboa/benfica · 800 € · Benfica - Hoje às 01:22\nhttps://www.olx.pt/d/anuncio/t2-remodelado-lisboa-benfica-IDJDhGl.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nArrenda-se Apartamento T1 em Alcântara · 1.150 € · Estrela - Hoje às 00:15\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-em-alcntara-IDJx3oA.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT2 Espaçoso, Luminoso e com excelentes acessos · 1.500 € · São Domingos de Benfica - 09 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-espaoso-luminoso-e-com-excelentes-acessos-IDJfTZm.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento T2 + 1 · 1.200 € · São Vicente - 09 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-1-IDJCWJe.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lumiar · Apartamento Lumiar · 1 cama de casal · 1 banheiro · $ 1.375 USD · $ 1.064 USD · $ 1.064 USD mensal, preço original: $ 1.375 USD · mensal · Desconto mensal · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) …\nhttps://www.airbnb.com/rooms/1697398306058257475"
  ],
  "son_gonderim": "2026-10-09"
 }
