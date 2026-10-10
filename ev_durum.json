@@ -2953,7 +2953,10 @@
    "apartments/476384",
    "apartments/1725548",
    "apartments/1714704",
-   "apartments/1506120"
+   "apartments/1506120",
+   "apartments/1725732",
+   "apartments/929398",
+   "apartments/436819"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3683,13 +3686,14 @@
    "11676371",
    "1697398306058257475",
    "1784156651592126344",
-   "1392010118427304412"
+   "1392010118427304412",
+   "1723925185234819502"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 78,
+   "bos": 79,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4425,7 +4429,10 @@
   "91f6e7ad7e344d98",
   "7d13b8605bb1cdbe",
   "7df98771b670ecd3",
-  "c9c9a528b371c18d"
+  "c9c9a528b371c18d",
+  "c7fe84b561596f84",
+  "9b06c5e556b7f257",
+  "6512cb63e1fe77b1"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento Benfica · Calçada do Tojal, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 5 andar · NGI Sociedade Mediação Imobiliária Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-benfica-ID1iZQC",
@@ -4437,7 +4444,10 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nArrenda-se Apartamento T1 em Alcântara · 1.150 € · Estrela - Hoje às 00:15\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-em-alcntara-IDJx3oA.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT2 Espaçoso, Luminoso e com excelentes acessos · 1.500 € · São Domingos de Benfica - 09 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-espaoso-luminoso-e-com-excelentes-acessos-IDJfTZm.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento T2 + 1 · 1.200 € · São Vicente - 09 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-1-IDJCWJe.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lumiar · Apartamento Lumiar · 1 cama de casal · 1 banheiro · $ 1.375 USD · $ 1.064 USD · $ 1.064 USD mensal, preço original: $ 1.375 USD · mensal · Desconto mensal · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) …\nhttps://www.airbnb.com/rooms/1697398306058257475"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lumiar · Apartamento Lumiar · 1 cama de casal · 1 banheiro · $ 1.375 USD · $ 1.064 USD · $ 1.064 USD mensal, preço original: $ 1.375 USD · mensal · Desconto mensal · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) …\nhttps://www.airbnb.com/rooms/1697398306058257475",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 31 OCT · star · 4 (74) · 1-bedroom apartment for rent in Campo de Ourique, Lisboa · From 2000 €/month · info · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/929398",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 10 OCT · star · 4 (2) · 2-bedroom flat for rent in Lisbon · 1400 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/436819",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) · Apart. 3D, Coração da cidade, a 250m do Rossio, · 1 quarto · 1 cama · 1 banheiro · $ 2.951 USD · $ 1.456 USD · $ 1.456 USD mensal, preço original: $ 2.951 USD · mensal · Desconto…\nhttps://www.airbnb.com/rooms/1723925185234819502"
  ],
  "son_gonderim": "2026-10-09"
 }
