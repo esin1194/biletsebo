@@ -1447,7 +1447,15 @@
    "t2-remodelado-lisboa-benfica-ID1iZUX",
    "estudio-lisboa-ID196E4",
    "t1-1-com-terraco-e-vista-rio-na-ajuda-ID1iZXY",
-   "apartamento-t1-com-terraco-e-garagem-no-beato-ID1iZWr"
+   "apartamento-t1-com-terraco-e-garagem-no-beato-ID1iZWr",
+   "apartamento-t2-para-arrendamento-ID1j03U",
+   "apartamento-t2-para-arrendamento-ID1j03l",
+   "apartamento-t2-para-arrendamento-ID1j03c",
+   "apartamento-t3-para-arrendamento-ID1j01Q",
+   "apartamento-t2-para-arrendamento-ID1j01K",
+   "apartamento-t1-para-arrendamento-ID1j01a",
+   "apartamento-t2-para-arrendamento-ID1j00A",
+   "apartamento-t1-para-arrendamento-ID1iZZG"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2027,7 +2035,12 @@
    "t1-1-com-terrao-e-vista-rio-na-ajuda-IDJDqeX",
    "alugo-apartamento-t2-brandoa-IDJrcr2",
    "t1-mobilidade-em-queluz-IDJDqAl",
-   "t3-remodelado-com-garagem-metro-de-alfornelos-IDJzUUn"
+   "t3-remodelado-com-garagem-metro-de-alfornelos-IDJzUUn",
+   "t2-totalmente-remodelado-alges-IDJDz0M",
+   "lindo-t2-algueirao-mem-martins-proximo-ao-hospital-de-sintra-IDJDuBn",
+   "arrendamento-t2-mobilado-predio-com-elevador-ramada-odivelas-IDJDvNr",
+   "t2-mobilado-e-equipado-para-arrendamento-oeiras-IDJDvLa",
+   "vivenda-t3-para-arrendar-boavista-a-dos-cunhados-torres-vedras-IDJDvly"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3479,7 +3492,9 @@
    "769715",
    "668851",
    "669377",
-   "177701"
+   "177701",
+   "251747",
+   "700381"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3701,13 +3716,15 @@
    "24112252",
    "1498580908701490330",
    "1790626638471223199",
-   "1792055142508303625"
+   "1792055142508303625",
+   "652975239554052843",
+   "50113089"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 80,
+   "bos": 81,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3749,8 +3766,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 15,
-  "tekrar": 3
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4450,26 +4467,13 @@
   "959f934777dd55e9",
   "fa31cfc40b8f542f",
   "81acd304feede225",
-  "4b89b09d4c2300ae"
+  "4b89b09d4c2300ae",
+  "ac24818e3daca762",
+  "c011134c28016296",
+  "1ca469913183d085",
+  "dc056032a2026188",
+  "0ef29ebe8419519b"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento Benfica · Calçada do Tojal, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · 5 andar · NGI Sociedade Mediação Imobiliária Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-benfica-ID1iZQC",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nEstúdio com estilo no coração do arroios com patio — o bairro mais cosmopolita de lisboa · 1.000 € · Arroios - Hoje às 21:29\nhttps://www.olx.pt/d/anuncio/estdio-com-estilo-no-corao-do-arroios-com-patio-o-bairro-mais-cosmopolita-de-lisboa-IDJrSj9.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nAluguer de T0 Famões/Pontinha · 700 € · Negociável · Odivelas - Hoje às 19:18\nhttps://www.olx.pt/d/anuncio/aluguer-de-t0-fames-pontinha-IDJDboA.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nApartamento T3 para Arrendamento no Lumiar · 1.700 € · Lumiar - Hoje às 17:54\nhttps://www.olx.pt/d/anuncio/apartamento-t3-para-arrendamento-no-lumiar-IDJicZA.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 25 · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) · Apart. 3D, Coração da cidade, a 250m do Rossio, · 1 quarto · 1 cama · 1 banheiro · $ 2.953 USD · $ 1.457 USD · $ 1.457 USD mensal, preço original: $ 2.953 USD · mensal · Descont…\nhttps://www.airbnb.com/rooms/11676371",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT2 remodelado Lisboa/benfica · 800 € · Benfica - Hoje às 01:22\nhttps://www.olx.pt/d/anuncio/t2-remodelado-lisboa-benfica-IDJDhGl.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nArrenda-se Apartamento T1 em Alcântara · 1.150 € · Estrela - Hoje às 00:15\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-em-alcntara-IDJx3oA.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT2 Espaçoso, Luminoso e com excelentes acessos · 1.500 € · São Domingos de Benfica - 09 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-espaoso-luminoso-e-com-excelentes-acessos-IDJfTZm.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento T2 + 1 · 1.200 € · São Vicente - 09 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-1-IDJCWJe.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lumiar · Apartamento Lumiar · 1 cama de casal · 1 banheiro · $ 1.375 USD · $ 1.064 USD · $ 1.064 USD mensal, preço original: $ 1.375 USD · mensal · Desconto mensal · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) …\nhttps://www.airbnb.com/rooms/1697398306058257475",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 31 OCT · star · 4 (74) · 1-bedroom apartment for rent in Campo de Ourique, Lisboa · From 2000 €/month · info · UP TO 10 % OFF · 6+ month stay · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/929398",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 10 OCT · star · 4 (2) · 2-bedroom flat for rent in Lisbon · 1400 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/436819",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,56 de uma avaliação média de 5, 106 avaliações · 4,56 (106) · Apart. 3D, Coração da cidade, a 250m do Rossio, · 1 quarto · 1 cama · 1 banheiro · $ 2.951 USD · $ 1.456 USD · $ 1.456 USD mensal, preço original: $ 2.951 USD · mensal · Desconto…\nhttps://www.airbnb.com/rooms/1723925185234819502",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.050 €\n1050 € · + taxa: 100 €/mês · Estudio Lisboa · Pátio do Pinzaleiro, Santos-o-Velho - Madragoa, Estrela, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 30 m² · Andar · rés do chão · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/estudio-lisboa-ID196E4",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 mobilidade em queluz · 850 € · Queluz E Belas - Hoje às 11:18\nhttps://www.olx.pt/d/anuncio/t1-mobilidade-em-queluz-IDJDqAl.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · De 3 de nov.  a  2 de fev. · 3 de nov. – 2 de fev. · Apartamento ⋅ Costa da Caparica · 4,87 de uma avaliação média de 5, 38 avaliações · 4,87 (38) · Apartamento de praia da Paula, a 700 metros da Praia Nova · 1 quarto · 1 cama de casal · 1 banheiro · $ 3.899 USD · …\nhttps://www.airbnb.com/rooms/24112252",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 12 · Apartamento ⋅ Lisboa · Apartamento Lumiar · 1 cama de casal · 1 banheiro · $ 1.375 USD · $ 1.064 USD · $ 1.064 USD mensal, preço original: $ 1.375 USD · mensal · Desconto mensal · Foto 1 de 22 · Samarra - 2 quartos e piscina compartilhada em Areeiro · 2 quartos · 2…\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/1792055142508303625"
- ],
- "son_gonderim": "2026-10-09"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-10"
 }
