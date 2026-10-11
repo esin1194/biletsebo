@@ -1458,7 +1458,12 @@
    "apartamento-t1-para-arrendamento-ID1iZZG",
    "apartamento-t2-para-arrendamento-ID1j04R",
    "t1-luminoso-com-garagem-e-elevador-em-em-paco-do-lumiar-telheiras-ID1iqGq",
-   "t2-em-sao-domingos-de-benfica-ID1j05n"
+   "t2-em-sao-domingos-de-benfica-ID1j05n",
+   "t1-1-na-rua-de-sao-bento-junto-ao-largo-do-rato-ID1j05y",
+   "t0-alto-sto-amaro-proximo-inst-sup-agronomia-ID1j06Q",
+   "apartamento-com-1-quartos-localizado-em-roma-areeiro-lisbon-ID1j06o",
+   "apart-remodelado-c-quintal-privado-2-quartos-estrada-de-benfica-ID1j069",
+   "t1-com-garagem-e-terraco-em-beato-lisboa-ID1j05A"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2049,7 +2054,9 @@
    "t2-para-alugar-em-arruda-dos-vinhos-IDJDAz3",
    "apartamento-t1-cascais-IDJDA3y",
    "t2-em-so-domingos-de-benfica-IDJDEKl",
-   "aluga-se-t3-montemor-loures-IDJz8Yl"
+   "aluga-se-t3-montemor-loures-IDJz8Yl",
+   "apartamento-t2-alverca-IDJDMJh",
+   "vivenda-t1-campo-de-ourique-IDJDMIa"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -2994,7 +3001,8 @@
    "apartments/463860",
    "apartments/466159",
    "apartments/569324",
-   "apartments/872588"
+   "apartments/872588",
+   "apartments/253911"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3044,7 +3052,8 @@
    "ut1597975",
    "ut1732307",
    "ut1663647",
-   "ut1682480"
+   "ut1682480",
+   "ut1280361"
   ],
   "uniplaces.com": [
    "890027",
@@ -3737,13 +3746,15 @@
    "23108268",
    "1792731572773594589",
    "1792722906434296464",
-   "1136151015463589830"
+   "1136151015463589830",
+   "1791277162935321885",
+   "1069390523692354211"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 84,
+   "bos": 85,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3785,8 +3796,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
-  "tekrar": 4
+  "elenen": 13,
+  "tekrar": 6
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4496,14 +4507,20 @@
   "6ff45d867180aff5",
   "2c01a2e18092cedf",
   "77b59cb0d30876c8",
-  "7f80751e51bedad9"
+  "7f80751e51bedad9",
+  "b637d8058eba675f",
+  "75f7618c4496604a",
+  "e40aecad8a1ab4fc"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nPóvoa Centro apartamento · 650 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 21:35\nhttps://www.olx.pt/d/anuncio/pvoa-centro-apartamento-IDJxbFf.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 Cascais · 950 € · Cascais E Estoril - Hoje às 20:01\nhttps://www.olx.pt/d/anuncio/apartamento-t1-cascais-IDJDA3y.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nAPARTMENT · FROM 10 OCT · 1-bedroom apartment for rent in Lisbon · 1750 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1704262",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.575 €\nAPARTMENT · FROM 08 NOV · star · 4 (96) · 1-bedroom apartment for rent in Lisbon · From 1575 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/569324",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nAluga-se T3 Montemor/Loures · 1.300 € · Loures - Hoje às 00:47\nhttps://www.olx.pt/d/anuncio/aluga-se-t3-montemor-loures-IDJz8Yl.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nAluga-se T3 Montemor/Loures · 1.300 € · Loures - Hoje às 00:47\nhttps://www.olx.pt/d/anuncio/aluga-se-t3-montemor-loures-IDJz8Yl.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T0 - Alto Sto.Amaro, próximo Inst.Sup. Agronomia · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-alto-sto-amaro-proximo-inst-sup-agronomia-ID1j06Q",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nVivenda T1 campo de Ourique · 1.300 € · Cascais E Estoril - Hoje às 12:54\nhttps://www.olx.pt/d/anuncio/vivenda-t1-campo-de-ourique-IDJDMIa.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.679 €\nAPARTMENT · FROM 17 OCT · star · 3.8 (205) · Lux 2-bedroom apartment for rent in Penha de França, Lisbon · From 1679 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/253911"
  ],
  "son_gonderim": "2026-10-10"
 }
