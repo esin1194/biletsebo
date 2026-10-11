@@ -474,7 +474,8 @@
    "tax-compliance_lisboa_PTS-2026-179009",
    "operador-de-producao-mxf_povoa-de-santo-adriao_OTS-2026-178254",
    "operador-de-call-center-mfx_lisboa_OTS-2026-177449",
-   "especialista-de-automacao-industrial-mfx_terrugem-sintra_OTS-2026-176584"
+   "especialista-de-automacao-industrial-mfx_terrugem-sintra_OTS-2026-176584",
+   "tecnico-de-manutencao_rio-de-mouro_OTS-2026-185195"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1171,7 +1172,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 69,
+   "bos": 70,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1233,7 +1234,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 570,
+  "elenen": 571,
   "tekrar": 18
  }
 }
