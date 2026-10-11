@@ -457,7 +457,24 @@
    "manobrador-de-plataformas-elevatorias-mfx-chelas-lisboa_lisboa_OTS-2026-185281",
    "formador-equipamentos-de-movimentacao-e-elevacao-de-carga_lisboa_OTS-2022-125789",
    "formador-de-conducao-de-empilhadores_lisboa_OTS-2026-173122",
-   "operador-de-armazem_alverca_OTS-2026-183721"
+   "operador-de-armazem_alverca_OTS-2026-183721",
+   "advogado-senior-direito-laboral-mfx_lisboa_PTS-2026-184375",
+   "procurement-administrator-mfx_lisboa_PTS-2026-184366",
+   "administrativo-de-rh-mfx_porto-salvo-oeiras_OTS-2026-184312",
+   "administrativo-de-backoffice-tecnico-atmt-marvila_lisboa_OTS-2026-184138",
+   "tecnico-de-manutencao-aeronaves-mfx_lisboa_OTS-2026-183612",
+   "advogado-senior-imobiliario_lisboa_PTS-2026-183385",
+   "engenheiro-civil-direcao-de-obra_lisboa_OTS-2026-183335",
+   "junior-structural-engineer-mfx_mafra_OTS-2026-182878",
+   "regional-sales-manager-mfx_lisboa_PTS-2026-182672",
+   "advogado-senior-direito-laboral-mfx_lisboa_PTS-2026-182202",
+   "field-engineer-bms-comissionamento-mfx-lisboa-porto_leiao_OTS-2026-181584",
+   "tecnico-especialista-contabilidade-mfx-recrutamento-inclusivo_carnaxide_PTS-2026-181494",
+   "engenheiro-de-assistencia-tecnica-field-service-mfx_paco-de-arcos_OTS-2026-180588",
+   "tax-compliance_lisboa_PTS-2026-179009",
+   "operador-de-producao-mxf_povoa-de-santo-adriao_OTS-2026-178254",
+   "operador-de-call-center-mfx_lisboa_OTS-2026-177449",
+   "especialista-de-automacao-industrial-mfx_terrugem-sintra_OTS-2026-176584"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1147,12 +1164,14 @@
   "b7cb82b4dd1c003b",
   "3c89d2383f444006",
   "7a2449c82928a823",
-  "6b93134b8901af19"
+  "6b93134b8901af19",
+  "1c80cd59a068cf44",
+  "43a5803142b6a359"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 65,
+   "bos": 66,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1214,7 +1233,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 556,
-  "tekrar": 17
+  "elenen": 570,
+  "tekrar": 18
  }
 }
