@@ -486,7 +486,8 @@
    "operador-de-armazem-mxf-temperaturas-controladas_olivais_OTS-2026-183462",
    "operador-de-armazem-mxf-picking-reciclagem_olivais_OTS-2026-183456",
    "enfermeiro-mfx_algueiraomem-martins_PTS-2026-182457",
-   "test-automation-engineer_lisboa_ETS-2026-180568"
+   "test-automation-engineer_lisboa_ETS-2026-180568",
+   "formador-de-conducao-defensiva_lisbo_OTS-2026-185358"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1183,7 +1184,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 71,
+   "bos": 72,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1245,7 +1246,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 582,
+  "elenen": 583,
   "tekrar": 18
  }
 }
