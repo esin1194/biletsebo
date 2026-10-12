@@ -475,7 +475,18 @@
    "operador-de-producao-mxf_povoa-de-santo-adriao_OTS-2026-178254",
    "operador-de-call-center-mfx_lisboa_OTS-2026-177449",
    "especialista-de-automacao-industrial-mfx_terrugem-sintra_OTS-2026-176584",
-   "tecnico-de-manutencao_rio-de-mouro_OTS-2026-185195"
+   "tecnico-de-manutencao_rio-de-mouro_OTS-2026-185195",
+   "netcyberops-consultant_porto-lisboa-hibrido_DTS-2026-184430",
+   "talent-development_lisboa_PTS-2026-184434",
+   "administrativo-de-backoffice-espanhol-marvilla-mfx_lisboa_OTS-2026-184401",
+   "office-business-support-specialist-parttime_sacavem_PTS-2026-184328",
+   "network-senior-consultant_porto-lisboa-hibrido_DTS-2026-184283",
+   "operador-de-armazem-mxf-rececao-e-rotulagem_olivais_OTS-2026-183460",
+   "operador-de-armazem-11h20h_olivais_OTS-2026-183469",
+   "operador-de-armazem-mxf-temperaturas-controladas_olivais_OTS-2026-183462",
+   "operador-de-armazem-mxf-picking-reciclagem_olivais_OTS-2026-183456",
+   "enfermeiro-mfx_algueiraomem-martins_PTS-2026-182457",
+   "test-automation-engineer_lisboa_ETS-2026-180568"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1172,7 +1183,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 70,
+   "bos": 71,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1234,7 +1245,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 571,
+  "elenen": 582,
   "tekrar": 18
  }
 }
