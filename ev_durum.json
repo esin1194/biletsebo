@@ -1470,7 +1470,8 @@
    "apartamento-em-benfica-ID1j07o",
    "apartamento-33-m-avenidas-novas-ID1j08D",
    "apartamento-t1-com-garagem-em-campo-de-ourique-ID1iV6n",
-   "arrendamento-de-apartamento-t1-moscavide-ID1j09q"
+   "arrendamento-de-apartamento-t1-moscavide-ID1j09q",
+   "apartamento-t1-zona-da-fonte-luminosa-ID1j08q"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3074,7 +3075,9 @@
    "ut1732307",
    "ut1663647",
    "ut1682480",
-   "ut1280361"
+   "ut1280361",
+   "ut1450686",
+   "ut1601994"
   ],
   "uniplaces.com": [
    "890027",
@@ -3540,7 +3543,9 @@
    "177701",
    "251747",
    "700381",
-   "92947"
+   "92947",
+   "890328",
+   "541310"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3775,13 +3780,14 @@
    "32803426",
    "33382488",
    "1618126993758614260",
-   "48025"
+   "48025",
+   "24648402"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 88,
+   "bos": 89,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3823,8 +3829,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 3
+  "elenen": 5,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
