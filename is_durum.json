@@ -487,7 +487,18 @@
    "operador-de-armazem-mxf-picking-reciclagem_olivais_OTS-2026-183456",
    "enfermeiro-mfx_algueiraomem-martins_PTS-2026-182457",
    "test-automation-engineer_lisboa_ETS-2026-180568",
-   "formador-de-conducao-defensiva_lisbo_OTS-2026-185358"
+   "formador-de-conducao-defensiva_lisbo_OTS-2026-185358",
+   "gestor-de-sinistros-area-automovel-e-danos-materiais-mfx_lisboa_PTS-2026-185420",
+   "servente-mfx_lisboa-mafra-malveira_OTS-2026-185133",
+   "jusrista-legal-researcher-mfx_lisboa_PTS-2026-185403",
+   "tecnicoa-de-operacoes-turisticas-e-logistica-mfx_lisboa_OTS-2026-185399",
+   "customer-support-advisor-english-speaker-mfx_lisboa-portugal_OTS-2026-185400",
+   "digital-campaign-officer-french-speaker_lisboa_PTS-2026-185396",
+   "middle-office-analyst-loans-administration-mfx_lisboa_PTS-2026-185389",
+   "service-client-rentacar-mfx_porto_OTS-2026-185379",
+   "assistente-de-loja-mfx_montijo-forum-montijo_OTS-2026-185164",
+   "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-185315",
+   "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-185316"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -833,7 +844,10 @@
    "3HaFKE2oqSxfGh4QyLjcSy",
    "eDC6gWmD8KvYY8M53kAdjD",
    "8uQ6o8EK1QCpmZu6N3hi9x",
-   "jJHgSqnLnguSoje94E1JRK"
+   "jJHgSqnLnguSoje94E1JRK",
+   "6TdQM5KoFwwBdMptLD7eRC",
+   "h4XoFwDhdmJKjta8zDPdhN",
+   "9BvTghQfipGUDc4Cw9p3Jh"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1179,12 +1193,14 @@
   "7a2449c82928a823",
   "6b93134b8901af19",
   "1c80cd59a068cf44",
-  "43a5803142b6a359"
+  "43a5803142b6a359",
+  "7f2bf1e4a5819c6f",
+  "78a3b044ae9f8781"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 72,
+   "bos": 73,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1246,7 +1262,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 583,
+  "elenen": 595,
   "tekrar": 18
  }
 }
