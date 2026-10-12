@@ -1468,7 +1468,9 @@
    "arrendar-t3-odivelas-ID1j07I",
    "apartamento-t2-para-arrendamento-ID1j07t",
    "apartamento-em-benfica-ID1j07o",
-   "apartamento-33-m-avenidas-novas-ID1j08D"
+   "apartamento-33-m-avenidas-novas-ID1j08D",
+   "apartamento-t1-com-garagem-em-campo-de-ourique-ID1iV6n",
+   "arrendamento-de-apartamento-t1-moscavide-ID1j09q"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2070,7 +2072,8 @@
    "apartamento-t1-junto-ao-metro-linha-amarela-IDJDNKd",
    "tranquilidade-e-centralidade-em-picoas-t0-novo-mobilado-IDJzGA2",
    "aluguer-t2-em-aldeia-loures-IDJDNp4",
-   "t0-alto-sto-amaro-prximo-inst-sup-agronomia-e-hotel-pestana-palace-IDJDN0p"
+   "t0-alto-sto-amaro-prximo-inst-sup-agronomia-e-hotel-pestana-palace-IDJDN0p",
+   "arrendamento-de-apartamento-t1-moscavide-IDJDPRq"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3017,7 +3020,10 @@
    "apartments/569324",
    "apartments/872588",
    "apartments/253911",
-   "apartments/1727629"
+   "apartments/1727629",
+   "apartments/1273221",
+   "apartments/1577884",
+   "apartments/301145"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3775,7 +3781,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 87,
+   "bos": 88,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4538,11 +4544,21 @@
   "b13f5b3d95262e34",
   "653a31fb2d37756a",
   "64878d36ee71875a",
-  "61ecc378f11398e8"
+  "61ecc378f11398e8",
+  "186c8e038ad468f2",
+  "94af422fd2eabdeb",
+  "b5e437b4e40feec9",
+  "8d191e4e828c2114",
+  "be489f2a8b4c3163"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · Apartamento, 33 m², Avenidas Novas · 1050-053 | Avenidas Novas, Lisboa, Avenida 5 de Outubro, Gulbenkian - Praça Espanha, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 33 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-33-m-avenidas-novas-ID1j08D",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · De 5 de nov.  a  4 de fev. · 5 de nov. – 4 de fev. · Condomínio ⋅ Penha de França · 4,91 de uma avaliação média de 5, 159 avaliações · 4,91 (159) · Retiro encantador no jardim com vista para o rio · 1 quarto · 2 camas · 1 banheiro · $ 3.732 USD · $ 1.815 USD · $ 1.…\nhttps://www.airbnb.com/rooms/32803426"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 29 · De 5 de nov.  a  4 de fev. · 5 de nov. – 4 de fev. · Condomínio ⋅ Penha de França · 4,91 de uma avaliação média de 5, 159 avaliações · 4,91 (159) · Retiro encantador no jardim com vista para o rio · 1 quarto · 2 camas · 1 banheiro · $ 3.732 USD · $ 1.815 USD · $ 1.…\nhttps://www.airbnb.com/rooms/32803426",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · 31,20 €/m² · Apartamento T1 com garagem em Campo de Ourique · Rua Coelho da Rocha, Centro, Campo de Ourique, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 62.5 m² · Andar · 3 andar · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-garagem-em-campo-de-ourique-ID1iV6n",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.050 €\n1050 € · Arrendamento de apartamento T1 Moscavide · Moscavide, Moscavide e Portela, Loures, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-de-apartamento-t1-moscavide-ID1j09q",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.050 €\nArrendamento de apartamento T1 Moscavide · 1.050 € · Moscavide E Portela - Hoje às 01:23\nhttps://www.olx.pt/d/anuncio/arrendamento-de-apartamento-t1-moscavide-IDJDPRq.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nCHECKED · APARTMENT · FROM 12 OCT · star · 4 (8) · 2-bedroom apartment for rent in Amadora, Lisbon. · From 1300 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1273221",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.574 €\nAPARTMENT · FROM 15 OCT · star · 4 (96) · 1-bedroom apartment for rent in Alfama, Lisbon · From 1574 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/301145"
  ],
  "son_gonderim": "2026-10-11"
 }
