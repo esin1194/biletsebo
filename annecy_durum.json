@@ -133,7 +133,10 @@
    "215BXBK",
    "215BYWV",
    "215BKVH",
-   "214NFVM"
+   "214NFVM",
+   "215CNGN",
+   "215CMRW",
+   "215CJNZ"
   ],
   "hellowork.com": [
    "83399370",
@@ -455,7 +458,12 @@
    "83278954",
    "83280463",
    "83284491",
-   "84331920"
+   "84331920",
+   "84340811",
+   "84333647",
+   "84347525",
+   "84347782",
+   "84347810"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -717,7 +725,11 @@
   "11f30c1c65199d7d",
   "7ee8b65ca45c1fc8",
   "87b8cdda00314cda",
-  "bff52a0460a372b4"
+  "bff52a0460a372b4",
+  "17a7e7cc9ed870fa",
+  "32f8b3ee08934b17",
+  "cbc2477164fc6280",
+  "1446d70fcfdfdd6f"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -774,7 +786,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 31,
+  "elenen": 35,
   "tekrar": 65
  }
 }
