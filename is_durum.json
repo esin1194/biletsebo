@@ -512,7 +512,9 @@
    "advogado-propriedade-intelectual-mfx_lisboa-ou-porto_PTS-2026-184955",
    "advogado-compliance-mfx_lisboa_PTS-2026-185372",
    "advogado-senior-imobiliario-mfx_lisboa_PTS-2026-185370",
-   "advogado-contencioso-mfx_lisboa_PTS-2026-185371"
+   "advogado-contencioso-mfx_lisboa_PTS-2026-185371",
+   "tecnicoa-de-analises-clinicas-mfx_lisboa_PTS-2026-177121",
+   "accountant-mfx_lisboa_PTS-2026-176170"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1215,7 +1217,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 74,
+   "bos": 75,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1277,7 +1279,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 607,
+  "elenen": 609,
   "tekrar": 19
  }
 }
