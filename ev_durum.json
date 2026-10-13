@@ -1497,7 +1497,18 @@
    "aluguer-t2-na-estrela-ID1j0t8",
    "t2-lumiar-santa-clara-ID1j0t5",
    "t2-mobilado-na-lapa-entre-santos-e-a-estrela-ID1j09i",
-   "apartamento-5-quartos-63-m2-novo-ID9P5ljP"
+   "apartamento-5-quartos-63-m2-novo-ID9P5ljP",
+   "apartamento-t1-em-sao-vicente-de-48-00-m2-ID1j0Ht",
+   "t2-remodelado-com-ar-condicionado-e-cozinha-equipada-ID1j0Hp",
+   "apartamento-t3-em-alcntara-ID1j0EB",
+   "estudio-t0-para-arrendamento-ID1j0Da",
+   "apartamento-com-1-quartos-localizado-em-rossio-lisbon-ID1j0BT",
+   "apartamento-t3-em-sao-domingos-de-benfica-de-124-00-m2-ID1j0zP",
+   "apartamento-t2-luminoso-com-95-m-garagem-em-entrecampos-ID1j0yx",
+   "apartamento-t5-com-terraco-em-av-joao-crisostomo-ID1j0yg",
+   "t2-ao-hosp-cruz-vermelha-remodelado-e-totalmente-equipado-ID1j0wD",
+   "apartamento-t1-1-para-arrendar-na-rua-chaby-pinheiro-campo-pequeno-5-ID1j0cJ",
+   "apartamento-4-quartos-111-m2-luminoso-ID9P5ljQ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2115,7 +2126,12 @@
    "aluguer-t2-na-estrela-IDJDUyC",
    "t2-lumiar-santa-clara-IDJDUwm",
    "arrenda-se-t2-mobilado-no-alto-sao-joao-perto-paiva-couceiro-lisboa-IDJfJio",
-   "apartamento-t1-mobilado-e-equipado-pronto-a-habitar-junto-ao-metro-IDJDW5W"
+   "apartamento-t1-mobilado-e-equipado-pronto-a-habitar-junto-ao-metro-IDJDW5W",
+   "arrennda-se-t1-na-ponte-do-rol-IDJDVA5",
+   "arrenda-se-t2-em-carcavelos-centro-IDJDYut",
+   "estdio-remodelado-para-arrendamento-linda-a-velha-IDJDXZ9",
+   "arrenda-se-t1-em-carcavelos-centro-IDJDY7P",
+   "apartamento-t2-em-queluz-IDJDVjQ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3071,7 +3087,8 @@
    "apartments/1621526",
    "apartments/1268569",
    "apartments/312567",
-   "apartments/1503080"
+   "apartments/1503080",
+   "apartments/617889"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3124,7 +3141,9 @@
    "ut1682480",
    "ut1280361",
    "ut1450686",
-   "ut1601994"
+   "ut1601994",
+   "ut1335952",
+   "ut1737702"
   ],
   "uniplaces.com": [
    "890027",
@@ -3599,7 +3618,18 @@
    "647343",
    "578833",
    "141521",
-   "897419"
+   "897419",
+   "897540",
+   "897479",
+   "897480",
+   "781020",
+   "783853",
+   "781894",
+   "760457",
+   "652466",
+   "622194",
+   "420939",
+   "805270"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3838,13 +3868,15 @@
    "24648402",
    "1794296252390360826",
    "1575281896093815363",
-   "1467414524298371258"
+   "1467414524298371258",
+   "770169677968448600",
+   "1442907681356683133"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 92,
+   "bos": 93,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3886,8 +3918,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
-  "tekrar": 1
+  "elenen": 26,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4631,7 +4663,14 @@
   "3ea750570b39d85f",
   "d281d72e2dbfa1a7",
   "2c3ae2074d8870f9",
-  "432aa1338195b1a3"
+  "432aa1338195b1a3",
+  "c9e629b4fc3a8f44",
+  "a9c5722c51b61ebe",
+  "7c5fbd0b2758e6a0",
+  "0bf60b4eca3f79fd",
+  "a2b5aba6fe0679b0",
+  "40bcdd0d696a5fc0",
+  "7b3a8e9075c6de13"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Aluguer t2 na Estrela · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/aluguer-t2-na-estrela-ID1j0t8",
@@ -4640,7 +4679,14 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 31 OCT · star · 5 (1) · 2-bedroom apartment for rent in Lisbon · 2000 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1728563",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.150 €\nAPARTMENT · FROM 04 NOV · 1-bedroom apartment for rent in Lisbon · 1150 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1728820",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 13 OCT · 1-bedroom apartment for rent in Lisbon · 1500 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1621526",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.350 €\nCHECKED · APARTMENT · FROM 13 OCT · star · 5 (4) · One-bedroom apartment for rent in Lisbon · 1350 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1268569"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.350 €\nCHECKED · APARTMENT · FROM 13 OCT · star · 5 (4) · One-bedroom apartment for rent in Lisbon · 1350 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1268569",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T1 em São Vicente de 48,00 m2 · Graça, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · rés do chão · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-sao-vicente-de-48-00-m2-ID1j0Ht",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Estúdio T0 para arrendamento · Calçada da Quintinha, Bairro da Calçada dos Mestres, Campolide, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 22.5 m² · RE/MAX + Grupo Vantagem · Profissional\nhttps://www.imovirtual.com/pt/anuncio/estudio-t0-para-arrendamento-ID1j0Da",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T3 em São Domingos De Benfica de 124,00 m2 · Pedralvas, Benfica, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 124 m² · Andar · 3 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-em-sao-domingos-de-benfica-de-124-00-m2-ID1j0zP",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nArrennda-se T1 na Ponte do Rol · 750 € · Ponte do Rol - Hoje às 12:38\nhttps://www.olx.pt/d/anuncio/arrennda-se-t1-na-ponte-do-rol-IDJDVA5.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.850 €\nArrenda-se T2 em Carcavelos (centro) · 1.850 € · Carcavelos E Parede - Hoje às 16:20\nhttps://www.olx.pt/d/anuncio/arrenda-se-t2-em-carcavelos-centro-IDJDYut.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nARRENDA-SE T1 em Carcavelos (centro) · 1.400 € · Carcavelos E Parede - Hoje às 15:38\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-em-carcavelos-centro-IDJDY7P.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Lisboa · Novo lugar para ficar · Novo · Sunny Graça Flat · 2BR (one interior room) · 2 quartos · 2 camas · 1 banheiro · $ 1.883 USD · $ 1.457 USD · $ 1.457 USD mensal, preço original: $ 1.883 USD · mensal · Apartamento ⋅ Misericórdia · 5,0 …\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/770169677968448600"
  ],
  "son_gonderim": "2026-10-12"
 }
