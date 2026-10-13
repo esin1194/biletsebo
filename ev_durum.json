@@ -1493,7 +1493,11 @@
    "t1-3-andar-arrendamento-principe-real-ID1j0da",
    "t1-2-andar-arrendamento-principe-real-ID1j0cS",
    "t1-r-c-50-m-arrendamento-principe-real-ID1j0bZ",
-   "apartamento-1-quartos-61-m2-remodelado-ID9P5ljO"
+   "apartamento-1-quartos-61-m2-remodelado-ID9P5ljO",
+   "aluguer-t2-na-estrela-ID1j0t8",
+   "t2-lumiar-santa-clara-ID1j0t5",
+   "t2-mobilado-na-lapa-entre-santos-e-a-estrela-ID1j09i",
+   "apartamento-5-quartos-63-m2-novo-ID9P5ljP"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2106,7 +2110,10 @@
    "apartamento-oeiras-IDJyQpL",
    "t1-arrendar-queluz-IDJDSlW",
    "arrandar-estudio-IDJDSfV",
-   "estdio-com-quarto-todo-equipado-em-localizao-central-numa-rua-turstica-e-animada-1100-sta-m-maior-rua-s-cristovo-baixa-IDJDScg"
+   "estdio-com-quarto-todo-equipado-em-localizao-central-numa-rua-turstica-e-animada-1100-sta-m-maior-rua-s-cristovo-baixa-IDJDScg",
+   "estudio-29m-para-alugar-IDJDUFW",
+   "aluguer-t2-na-estrela-IDJDUyC",
+   "t2-lumiar-santa-clara-IDJDUwm"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3821,13 +3828,14 @@
    "48025",
    "24648402",
    "1794296252390360826",
-   "1575281896093815363"
+   "1575281896093815363",
+   "1467414524298371258"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 90,
+   "bos": 91,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3869,8 +3877,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 5,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4607,8 +4615,13 @@
   "0596b44b86a89cba",
   "dd95d6ce2e898680",
   "c18a48d7fd8f9d3e",
-  "4d7ee6ee877c08d3"
+  "4d7ee6ee877c08d3",
+  "1dd4519005046427",
+  "1145f62e337b4bdf"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Aluguer t2 na Estrela · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/aluguer-t2-na-estrela-ID1j0t8",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 400 €\nEstudio 29m para alugar · 400 € · Sobral de Monte Agraço - 12 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/estudio-29m-para-alugar-IDJDUFW.html"
+ ],
  "son_gonderim": "2026-10-12"
 }
