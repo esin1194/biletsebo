@@ -514,7 +514,14 @@
    "advogado-senior-imobiliario-mfx_lisboa_PTS-2026-185370",
    "advogado-contencioso-mfx_lisboa_PTS-2026-185371",
    "tecnicoa-de-analises-clinicas-mfx_lisboa_PTS-2026-177121",
-   "accountant-mfx_lisboa_PTS-2026-176170"
+   "accountant-mfx_lisboa_PTS-2026-176170",
+   "pricing-intelligence-analyst-mfx_carnaxide_PTS-2026-185508",
+   "operador-de-picking_povoa-de-santa-iria_OTS-2026-185491",
+   "operador-de-armazem-horario-fixo-17h02h-local-azambuja_azambuja_OTS-2026-173383",
+   "tecnico-de-eletronica-mfx_lisboa_OTS-2026-182775",
+   "procurement-admin-french_lisboa_PTS-2026-184166",
+   "service-contract-management-specialist-germanyfrance_lisboa_PTS-2026-180608",
+   "operadores-de-armazem-e-picking-mfx_cascais-shopping_OTS-2026-185515"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -863,7 +870,9 @@
    "jJHgSqnLnguSoje94E1JRK",
    "6TdQM5KoFwwBdMptLD7eRC",
    "h4XoFwDhdmJKjta8zDPdhN",
-   "9BvTghQfipGUDc4Cw9p3Jh"
+   "9BvTghQfipGUDc4Cw9p3Jh",
+   "rCWCJbRw6tqXVWxo4t1gSk",
+   "hRRuYfEpgTHFv2cmRPXEtu"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1217,7 +1226,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 75,
+   "bos": 76,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1279,7 +1288,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 609,
-  "tekrar": 19
+  "elenen": 616,
+  "tekrar": 21
  }
 }
