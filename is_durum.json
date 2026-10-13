@@ -498,7 +498,21 @@
    "service-client-rentacar-mfx_porto_OTS-2026-185379",
    "assistente-de-loja-mfx_montijo-forum-montijo_OTS-2026-185164",
    "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-185315",
-   "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-185316"
+   "motorista-de-distribuicao-ligeiros-mfx_lisboa-povoa-de-santa-iria_OTS-2026-185316",
+   "boutique-sales-associate-mfx_lisboa_OTS-2026-184538",
+   "medico-mfx_lisboa-com-disponibilidade-para-as-deslocacoes-inerentes-a-funcao_PTS-2026-184492",
+   "lead-security-engineer_lisbon-hybrid_DTS-2026-184496",
+   "senior-linux-system-administrator_tires-cascais_DTS-2026-184471",
+   "sap-fico-consultant_porto-lisboa-braga-hibrido_DTS-2026-184489",
+   "tecnico-de-compliance-mfx_alges_PTS-2026-184334",
+   "operador-de-contact-center-customer-centric-mfx-recrutamento-inclusivo_castanheira-do-ribatejo_PTS-2026-183541",
+   "talent-acquisition-partner_lisboa_PTS-2026-179528",
+   "advogado-senior-corporate-ma-mfx_lisboa_PTS-2026-185369",
+   "advogado-coordenador-bancario-financeiro-mfx_lisboa_PTS-2026-184957",
+   "advogado-propriedade-intelectual-mfx_lisboa-ou-porto_PTS-2026-184955",
+   "advogado-compliance-mfx_lisboa_PTS-2026-185372",
+   "advogado-senior-imobiliario-mfx_lisboa_PTS-2026-185370",
+   "advogado-contencioso-mfx_lisboa_PTS-2026-185371"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1195,12 +1209,13 @@
   "1c80cd59a068cf44",
   "43a5803142b6a359",
   "7f2bf1e4a5819c6f",
-  "78a3b044ae9f8781"
+  "78a3b044ae9f8781",
+  "9fb109b61cb8e699"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 73,
+   "bos": 74,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1262,7 +1277,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 595,
-  "tekrar": 18
+  "elenen": 607,
+  "tekrar": 19
  }
 }
