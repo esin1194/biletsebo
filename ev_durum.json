@@ -2113,7 +2113,9 @@
    "estdio-com-quarto-todo-equipado-em-localizao-central-numa-rua-turstica-e-animada-1100-sta-m-maior-rua-s-cristovo-baixa-IDJDScg",
    "estudio-29m-para-alugar-IDJDUFW",
    "aluguer-t2-na-estrela-IDJDUyC",
-   "t2-lumiar-santa-clara-IDJDUwm"
+   "t2-lumiar-santa-clara-IDJDUwm",
+   "arrenda-se-t2-mobilado-no-alto-sao-joao-perto-paiva-couceiro-lisboa-IDJfJio",
+   "apartamento-t1-mobilado-e-equipado-pronto-a-habitar-junto-ao-metro-IDJDW5W"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3063,7 +3065,13 @@
    "apartments/1727629",
    "apartments/1273221",
    "apartments/1577884",
-   "apartments/301145"
+   "apartments/301145",
+   "apartments/1728563",
+   "apartments/1728820",
+   "apartments/1621526",
+   "apartments/1268569",
+   "apartments/312567",
+   "apartments/1503080"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3590,7 +3598,8 @@
    "130713",
    "647343",
    "578833",
-   "141521"
+   "141521",
+   "897419"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3835,7 +3844,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 91,
+   "bos": 92,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3877,7 +3886,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
+  "elenen": 7,
   "tekrar": 1
  },
  "imzalar": [
@@ -4617,11 +4626,21 @@
   "c18a48d7fd8f9d3e",
   "4d7ee6ee877c08d3",
   "1dd4519005046427",
-  "1145f62e337b4bdf"
+  "1145f62e337b4bdf",
+  "895b401fe5fd3b9e",
+  "3ea750570b39d85f",
+  "d281d72e2dbfa1a7",
+  "2c3ae2074d8870f9",
+  "432aa1338195b1a3"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Aluguer t2 na Estrela · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/aluguer-t2-na-estrela-ID1j0t8",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 400 €\nEstudio 29m para alugar · 400 € · Sobral de Monte Agraço - 12 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/estudio-29m-para-alugar-IDJDUFW.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 400 €\nEstudio 29m para alugar · 400 € · Sobral de Monte Agraço - 12 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/estudio-29m-para-alugar-IDJDUFW.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento T1 mobilado e equipado, pronto a habitar, junto ao metro · 1.200 € · Águas Livres - Hoje às 06:35\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-pronto-a-habitar-junto-ao-metro-IDJDW5W.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nAPARTMENT · FROM 31 OCT · star · 5 (1) · 2-bedroom apartment for rent in Lisbon · 2000 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1728563",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.150 €\nAPARTMENT · FROM 04 NOV · 1-bedroom apartment for rent in Lisbon · 1150 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1728820",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 13 OCT · 1-bedroom apartment for rent in Lisbon · 1500 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1621526",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.350 €\nCHECKED · APARTMENT · FROM 13 OCT · star · 5 (4) · One-bedroom apartment for rent in Lisbon · 1350 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1268569"
  ],
  "son_gonderim": "2026-10-12"
 }
