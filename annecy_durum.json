@@ -463,7 +463,12 @@
    "84333647",
    "84347525",
    "84347782",
-   "84347810"
+   "84347810",
+   "84365789",
+   "84365801",
+   "84365827",
+   "84365794",
+   "80056929"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -729,7 +734,10 @@
   "17a7e7cc9ed870fa",
   "32f8b3ee08934b17",
   "cbc2477164fc6280",
-  "1446d70fcfdfdd6f"
+  "1446d70fcfdfdd6f",
+  "fe084375e386e1a6",
+  "a85562f64c5ad857",
+  "e2f56702570345aa"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -787,6 +795,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 35,
-  "tekrar": 65
+  "tekrar": 67
  }
 }
