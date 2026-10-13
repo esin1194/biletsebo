@@ -136,7 +136,8 @@
    "214NFVM",
    "215CNGN",
    "215CMRW",
-   "215CJNZ"
+   "215CJNZ",
+   "215DBWD"
   ],
   "hellowork.com": [
    "83399370",
@@ -468,7 +469,9 @@
    "84365801",
    "84365827",
    "84365794",
-   "80056929"
+   "80056929",
+   "84375820",
+   "84375825"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -737,7 +740,8 @@
   "1446d70fcfdfdd6f",
   "fe084375e386e1a6",
   "a85562f64c5ad857",
-  "e2f56702570345aa"
+  "e2f56702570345aa",
+  "6f36bec5143d95b2"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -795,6 +799,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 35,
-  "tekrar": 67
+  "tekrar": 69
  }
 }
