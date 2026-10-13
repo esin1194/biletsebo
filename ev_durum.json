@@ -1508,7 +1508,12 @@
    "apartamento-t5-com-terraco-em-av-joao-crisostomo-ID1j0yg",
    "t2-ao-hosp-cruz-vermelha-remodelado-e-totalmente-equipado-ID1j0wD",
    "apartamento-t1-1-para-arrendar-na-rua-chaby-pinheiro-campo-pequeno-5-ID1j0cJ",
-   "apartamento-4-quartos-111-m2-luminoso-ID9P5ljQ"
+   "apartamento-4-quartos-111-m2-luminoso-ID9P5ljQ",
+   "apartamento-t1-para-arrendamento-ID1j0Qy",
+   "apartamento-t2-para-arrendamento-ID1j0Qi",
+   "estudio-t0-para-arrendamento-ID1j0Q9",
+   "apartamento-t2-para-arrendamento-campolide-ID1j0LS",
+   "apartamento-3-quartos-87-m2-luminoso-ID9P5ljR"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3088,7 +3093,10 @@
    "apartments/1268569",
    "apartments/312567",
    "apartments/1503080",
-   "apartments/617889"
+   "apartments/617889",
+   "apartments/1698634",
+   "apartments/1005956",
+   "apartments/1292313"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3143,7 +3151,8 @@
    "ut1450686",
    "ut1601994",
    "ut1335952",
-   "ut1737702"
+   "ut1737702",
+   "ut1547423"
   ],
   "uniplaces.com": [
    "890027",
@@ -3870,13 +3879,18 @@
    "1575281896093815363",
    "1467414524298371258",
    "770169677968448600",
-   "1442907681356683133"
+   "1442907681356683133",
+   "1696439145629498465",
+   "868000246212394415",
+   "27810300",
+   "623601800318161684",
+   "33888404"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 93,
+   "bos": 94,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3918,8 +3932,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 26,
-  "tekrar": 2
+  "elenen": 33,
+  "tekrar": 6
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4670,7 +4684,10 @@
   "0bf60b4eca3f79fd",
   "a2b5aba6fe0679b0",
   "40bcdd0d696a5fc0",
-  "7b3a8e9075c6de13"
+  "7b3a8e9075c6de13",
+  "1bea35bf1c0904db",
+  "ddf032ce5e1d67ff",
+  "8573dfeebfa3266e"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Aluguer t2 na Estrela · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/aluguer-t2-na-estrela-ID1j0t8",
@@ -4686,7 +4703,10 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nArrennda-se T1 na Ponte do Rol · 750 € · Ponte do Rol - Hoje às 12:38\nhttps://www.olx.pt/d/anuncio/arrennda-se-t1-na-ponte-do-rol-IDJDVA5.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.850 €\nArrenda-se T2 em Carcavelos (centro) · 1.850 € · Carcavelos E Parede - Hoje às 16:20\nhttps://www.olx.pt/d/anuncio/arrenda-se-t2-em-carcavelos-centro-IDJDYut.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nARRENDA-SE T1 em Carcavelos (centro) · 1.400 € · Carcavelos E Parede - Hoje às 15:38\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-em-carcavelos-centro-IDJDY7P.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Lisboa · Novo lugar para ficar · Novo · Sunny Graça Flat · 2BR (one interior room) · 2 quartos · 2 camas · 1 banheiro · $ 1.883 USD · $ 1.457 USD · $ 1.457 USD mensal, preço original: $ 1.883 USD · mensal · Apartamento ⋅ Misericórdia · 5,0 …\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/770169677968448600"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Lisboa · Novo lugar para ficar · Novo · Sunny Graça Flat · 2BR (one interior room) · 2 quartos · 2 camas · 1 banheiro · $ 1.883 USD · $ 1.457 USD · $ 1.457 USD mensal, preço original: $ 1.883 USD · mensal · Apartamento ⋅ Misericórdia · 5,0 …\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/770169677968448600",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.550 €\nCHECKED · APARTMENT · FROM 24 NOV · star · 5 (2) · 1-bedroom apartment for rent in Lisbon · 1550 €/month · info · UP TO 10 % OFF · 12+ month stay · savings · NO DEPOSIT · electric_bolt · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1005956",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 4 de nov.  a  3 de fev. · 4 de nov. – 3 de fev. · Apartamento ⋅ Estrela · 4,79 de uma avaliação média de 5, 33 avaliações · 4,79 (33) · Estiloso e brilhante T1 em Alcântara – Nova reforma! · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.403 USD · $ 1.751 USD · $ …\nhttps://www.airbnb.com/rooms/1696439145629498465",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Misericórdia · 5,0 de uma avaliação média de 5, 3 avaliações · 5,0 (3) · Flor do Bairro I por LovelyStay · 1 quarto · 1 cama queen · 1 banheiro e meio · $ 2.663 USD · $ 2.575 USD · $ 2.575 USD mensal, preço original: $ 2.663 USD · mensal · …\nhttps://www.airbnb.com/rooms/868000246212394415"
  ],
  "son_gonderim": "2026-10-12"
 }
