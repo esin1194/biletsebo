@@ -521,7 +521,8 @@
    "tecnico-de-eletronica-mfx_lisboa_OTS-2026-182775",
    "procurement-admin-french_lisboa_PTS-2026-184166",
    "service-contract-management-specialist-germanyfrance_lisboa_PTS-2026-180608",
-   "operadores-de-armazem-e-picking-mfx_cascais-shopping_OTS-2026-185515"
+   "operadores-de-armazem-e-picking-mfx_cascais-shopping_OTS-2026-185515",
+   "operador-de-producao-mfx_calhandriz-alverca_OTS-2026-185520"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1226,7 +1227,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 76,
+   "bos": 77,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1288,7 +1289,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 616,
+  "elenen": 617,
   "tekrar": 21
  }
 }
