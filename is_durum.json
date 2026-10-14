@@ -522,7 +522,16 @@
    "procurement-admin-french_lisboa_PTS-2026-184166",
    "service-contract-management-specialist-germanyfrance_lisboa_PTS-2026-180608",
    "operadores-de-armazem-e-picking-mfx_cascais-shopping_OTS-2026-185515",
-   "operador-de-producao-mfx_calhandriz-alverca_OTS-2026-185520"
+   "operador-de-producao-mfx_calhandriz-alverca_OTS-2026-185520",
+   "directora-de-people_lisboa_PTS-2026-184588",
+   "sap-sdmm-consultant_lisboa-porto-ou-braga_DTS-2024-184610",
+   "tecnico-de-rh-mfx_lisboa_PTS-2026-184589",
+   "tecnico-comercial-canal-especialista-mfx_lisboa_PTS-2026-182251",
+   "teamcenter-administrator_lisbon-hybrid_DTS-2026-181963",
+   "teamcenter-functional-consultant_lisbon-hybrid_DTS-2026-181964",
+   "enfermeiro-mfx_avenidas-novas-lisboa_PTS-2026-180018",
+   "r2r-accountant_lisboa_PTS-2026-178251",
+   "tecnicocomercial-especialista-de-produto-mfx_lisboa_PTS-2026-178682"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1227,7 +1236,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 77,
+   "bos": 78,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1289,7 +1298,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 617,
+  "elenen": 626,
   "tekrar": 21
  }
 }
