@@ -1540,7 +1540,10 @@
    "arrenda-se-t2-em-telheiras-em-perfeitas-condicoes-ID1j1fC",
    "t4-para-arrendar-freguesia-dos-anjos-ID1j1e3",
    "apartamento-t1-para-arrendamento-ID1j1dB",
-   "apartamento-1-quartos-85-m2-luminoso-ID9P5ljU"
+   "apartamento-1-quartos-85-m2-luminoso-ID9P5ljU",
+   "t0-em-condominio-metrocity-ID1j1l9",
+   "t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750EUR-ID1j1l6",
+   "t3-com-uma-suite-e-varandas-no-saldanha-centro-de-lisboa-ID1j1l4"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2173,7 +2176,8 @@
    "apartamento-t1-sta-catarina-lisboa-IDJE3nP",
    "arrenda-se-t2-em-telheiras-em-perfeitas-condies-IDJE5UE",
    "t2-centro-da-amadora-IDJE5PH",
-   "excelente-apartamento-t2-remodelado-para-arrendamento-procura-conforto-tranquilidade-e-centralidade-clique-aqui-IDJE5ku"
+   "excelente-apartamento-t2-remodelado-para-arrendamento-procura-conforto-tranquilidade-e-centralidade-clique-aqui-IDJE5ku",
+   "apartamento-t2-carcavelos-IDJE7tb"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3947,13 +3951,14 @@
    "997574092105550095",
    "33416492",
    "1498677705997626447",
-   "1498677994264894194"
+   "1498677994264894194",
+   "32377081"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 99,
+   "bos": 100,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3995,8 +4000,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 3,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4766,8 +4771,11 @@
   "005af0357db5e9ad",
   "00878944f9915c5b",
   "a9d364ee6fc92064",
-  "a4b8c469a45a8314"
+  "a4b8c469a45a8314",
+  "72e6453342f6a528"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T0 em condominio Metrocity · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-em-condominio-metrocity-ID1j1l9"
+ ],
  "son_gonderim": "2026-10-14"
 }
