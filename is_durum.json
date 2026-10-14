@@ -542,7 +542,15 @@
    "tecnico-de-assistencia-tecnica-mfx_rio-de-mouro_OTS-2026-185215",
    "assistente-de-loja-reparacao-de-smartphones-e-tablets-lisboa_lisboa_OTS-2026-180835",
    "incident-and-problem-manager_lisboa_ETS-2026-185535",
-   "assistente-comercial-mfx-lisboa_mafra_PTS-2026-182200"
+   "assistente-comercial-mfx-lisboa_mafra_PTS-2026-182200",
+   "operador-de-armazem-mfx_prior-velho_OTS-2026-185582",
+   "customer-support-specialist-french-speaker-mfx_portugal_OTS-1900-185546",
+   "customer-support-specialist-english-speaker-mfx_portugal_OTS-1900-185549",
+   "customer-support-specialist-italian-speaker-mfx_portugal_OTS-2026-185551",
+   "customer-support-specialist-german-speaker-mfx_lisboa_OTS-2026-185550",
+   "customer-support-specialist-dutch-speaker-mfx_lisboa_OTS-2026-185552",
+   "international-customer-support-specialists-mfx_portugal_OTS-1900-185553",
+   "employee-labor-relations-specialist-or-manager_lisboa_PTS-2026-185444"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1248,12 +1256,13 @@
   "9fb109b61cb8e699",
   "ea637d245cb08de9",
   "8077795cad5efef5",
-  "caa445fc1a947b04"
+  "caa445fc1a947b04",
+  "7d0a5448dab3f6b9"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 81,
+   "bos": 82,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1315,7 +1324,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 637,
+  "elenen": 644,
   "tekrar": 21
  }
 }
