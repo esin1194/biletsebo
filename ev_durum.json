@@ -1524,7 +1524,17 @@
    "apartamento-t1-no-centro-de-lisboa-ID1j0WQ",
    "apartamento-t4-para-arrendamento-ID1j0UQ",
    "apartamento-t1-com-jardim-parque-das-nacoes-lisboa-ID1j0Ty",
-   "apartamento-5-quartos-108-m2-luminoso-ID9P5ljT"
+   "apartamento-5-quartos-108-m2-luminoso-ID9P5ljT",
+   "apartamento-t2-para-arrendamento-em-alcntara-excelente-localizacao-ID1j1bi",
+   "apartamento-t2-para-arrendamento-ID1j1a8",
+   "apartamento-t1-para-arrendamento-no-paco-do-lumiar-junto-a-telheiras-ID1j19P",
+   "apartamento-t1-para-arrendamento-ID1j18F",
+   "t2-lisboa-benfica-rua-dos-arneiros-ID1j16X",
+   "apartamento-t1-para-arrendamento-ID1j15f",
+   "apartamento-t1-baixa-lisboa-ID1j13j",
+   "apartamento-t1-para-arrendamento-em-benfica-ID1j10w",
+   "apartamento-t2-cheio-de-charme-na-praca-das-flores-no-principe-real-ID1j0Zc",
+   "apartamento-t2-em-misericordia-de-64-00-m2-ID1j0SI"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2150,7 +2160,11 @@
    "apartamento-t2-em-queluz-IDJDVjQ",
    "arrendo-t2-alges-com-logradouro-de-100m2centro-de-alges-IDJE1ej",
    "apartamento-t0-remodelado-em-r-cho-de-vivenda-IDJE1uu",
-   "apartamento-t1-no-centro-de-lisboa-IDJE2ov"
+   "apartamento-t1-no-centro-de-lisboa-IDJE2ov",
+   "t2-lisboa-benfica-rua-dos-arneiros-IDJE4tB",
+   "quarto-junto-praa-das-flores-IDIS4aC",
+   "alugo-t1-na-ramada-IDJE3Yb",
+   "apartamento-t1-sta-catarina-lisboa-IDJE3nP"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3113,7 +3127,10 @@
    "apartments/1292313",
    "apartments/1729452",
    "apartments/1593617",
-   "apartments/1203355"
+   "apartments/1203355",
+   "apartments/1582901",
+   "apartments/1285828",
+   "apartments/767531"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3662,7 +3679,9 @@
    "897917",
    "897915",
    "897913",
-   "623313"
+   "623313",
+   "303227",
+   "59609"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3911,13 +3930,14 @@
    "33888404",
    "1293520584863714603",
    "997574092105550095",
-   "33416492"
+   "33416492",
+   "1498677705997626447"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 97,
+   "bos": 98,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3959,8 +3979,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 45,
-  "tekrar": 9
+  "elenen": 59,
+  "tekrar": 10
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4722,7 +4742,12 @@
   "cbfdcdc236377b4d",
   "83a7426c22124935",
   "7e5f8c9ab303bf72",
-  "61a206205df12b20"
+  "61a206205df12b20",
+  "88e8ca6674fd84d4",
+  "a2e3ca95837d82e5",
+  "c5d16ca61c98eef7",
+  "f07b8e90cf038d87",
+  "005af0357db5e9ad"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Aluguer t2 na Estrela · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/aluguer-t2-na-estrela-ID1j0t8",
@@ -4749,7 +4774,12 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.850 €\n1850 € · Apartamento T2 em Misericórdia de 81,00 m2 · Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 81 m² · Andar · 3 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-em-misericordia-de-81-00-m2-ID1j0SI",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nCHECKED · APARTMENT · FROM 01 NOV · star · 5 (4) · 1-bedroom apartment for rent in Lisbon · 1250 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1203355",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Arrendo Estudio Mobilado Lapa · Lisboa, Lapa, Estrela, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 48 m² · Andar · rés do chão · Lisboa Invest · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendo-estudio-mobilado-lapa-ID1j0Vp",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 €Arrendo Estudio Mobilado LapaLisboa, Lapa, Estrela, Lisboa, LisboaTipologiaT0Preço por metro quadrado48 m²Andarrés do chãoLisboa InvestProfissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-5-quartos-108-m2-luminoso-ID9P5ljT"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 €Arrendo Estudio Mobilado LapaLisboa, Lapa, Estrela, Lisboa, LisboaTipologiaT0Preço por metro quadrado48 m²Andarrés do chãoLisboa InvestProfissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-5-quartos-108-m2-luminoso-ID9P5ljT",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.850 €\n1850 € · Apartamento T2 em Misericórdia de 64,00 m2 · Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 64 m² · Andar · 3 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-em-misericordia-de-64-00-m2-ID1j0SI",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nQuarto - Junto á Praça das Flores · 650 € · Negociável · Santo António - Hoje às 14:26\nhttps://www.olx.pt/d/anuncio/quarto-junto-praa-das-flores-IDIS4aC.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento T1 Sta Catarina - Lisboa · 1.150 € · Negociável · Misericórdia - Hoje às 12:56\nhttps://www.olx.pt/d/anuncio/apartamento-t1-sta-catarina-lisboa-IDJE3nP.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nCHECKED · APARTMENT · FROM 14 OCT · 2-bedroom apartment for rent in Lisbon · From 1650 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1285828",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nCHECKED · APARTMENT · FROM 14 OCT · star · 5 (2) · Cosy 2-bedroom apartment next to Se Cathedral · 1900 €/month · info · UP TO 5 % OFF · 3+ month stay · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/767531"
  ],
  "son_gonderim": "2026-10-12"
 }
