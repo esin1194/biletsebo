@@ -535,7 +535,14 @@
    "frontend-engineer_lisbon_DTS-2026-185531",
    "buyer-claim-administrator-mfx-english-speaker_lisbon-hybrid_OTS-2026-185155",
    "servente-mfx_carnaxide_OTS-2026-184690",
-   "assistente-de-apoio-ao-cliente-banca-mfx_lisboa_OTS-2026-185380"
+   "assistente-de-apoio-ao-cliente-banca-mfx_lisboa_OTS-2026-185380",
+   "operador-de-armazem_sintra_OTS-2026-185562",
+   "senior-developer_lisboa_ETS-2026-185536",
+   "revenue-operations-business-partner_lisboa_DTS-2025-174322",
+   "tecnico-de-assistencia-tecnica-mfx_rio-de-mouro_OTS-2026-185215",
+   "assistente-de-loja-reparacao-de-smartphones-e-tablets-lisboa_lisboa_OTS-2026-180835",
+   "incident-and-problem-manager_lisboa_ETS-2026-185535",
+   "assistente-comercial-mfx-lisboa_mafra_PTS-2026-182200"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -887,7 +894,9 @@
    "9BvTghQfipGUDc4Cw9p3Jh",
    "rCWCJbRw6tqXVWxo4t1gSk",
    "hRRuYfEpgTHFv2cmRPXEtu",
-   "rETFuPmYoPb3qmmNYqf6UG"
+   "rETFuPmYoPb3qmmNYqf6UG",
+   "veZbcn5SuUBSNn5FABgiF2",
+   "dKRgXVgDmKaK6i6ERDyadS"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1237,12 +1246,14 @@
   "7f2bf1e4a5819c6f",
   "78a3b044ae9f8781",
   "9fb109b61cb8e699",
-  "ea637d245cb08de9"
+  "ea637d245cb08de9",
+  "8077795cad5efef5",
+  "caa445fc1a947b04"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 80,
+   "bos": 81,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1304,7 +1315,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 630,
+  "elenen": 637,
   "tekrar": 21
  }
 }
