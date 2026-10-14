@@ -531,7 +531,11 @@
    "teamcenter-functional-consultant_lisbon-hybrid_DTS-2026-181964",
    "enfermeiro-mfx_avenidas-novas-lisboa_PTS-2026-180018",
    "r2r-accountant_lisboa_PTS-2026-178251",
-   "tecnicocomercial-especialista-de-produto-mfx_lisboa_PTS-2026-178682"
+   "tecnicocomercial-especialista-de-produto-mfx_lisboa_PTS-2026-178682",
+   "frontend-engineer_lisbon_DTS-2026-185531",
+   "buyer-claim-administrator-mfx-english-speaker_lisbon-hybrid_OTS-2026-185155",
+   "servente-mfx_carnaxide_OTS-2026-184690",
+   "assistente-de-apoio-ao-cliente-banca-mfx_lisboa_OTS-2026-185380"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -882,7 +886,8 @@
    "h4XoFwDhdmJKjta8zDPdhN",
    "9BvTghQfipGUDc4Cw9p3Jh",
    "rCWCJbRw6tqXVWxo4t1gSk",
-   "hRRuYfEpgTHFv2cmRPXEtu"
+   "hRRuYfEpgTHFv2cmRPXEtu",
+   "rETFuPmYoPb3qmmNYqf6UG"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1231,12 +1236,13 @@
   "43a5803142b6a359",
   "7f2bf1e4a5819c6f",
   "78a3b044ae9f8781",
-  "9fb109b61cb8e699"
+  "9fb109b61cb8e699",
+  "ea637d245cb08de9"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 79,
+   "bos": 80,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1298,7 +1304,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 626,
+  "elenen": 630,
   "tekrar": 21
  }
 }
