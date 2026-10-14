@@ -1518,7 +1518,8 @@
    "apartamento-t2-para-arrendamento-ID1j0Ru",
    "apartamento-t1-para-arrendamento-ID1j0Rj",
    "apartamento-t3-para-arrendamento-ID1j0Ri",
-   "apartamento-4-quartos-76-m2-terraco-ID9P5ljS"
+   "apartamento-4-quartos-76-m2-terraco-ID9P5ljS",
+   "apartamento-t2-em-misericordia-de-81-00-m2-ID1j0SI"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3105,7 +3106,8 @@
    "apartments/1005956",
    "apartments/1292313",
    "apartments/1729452",
-   "apartments/1593617"
+   "apartments/1593617",
+   "apartments/1203355"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3895,13 +3897,14 @@
    "27810300",
    "623601800318161684",
    "33888404",
-   "1293520584863714603"
+   "1293520584863714603",
+   "997574092105550095"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 95,
+   "bos": 96,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3944,7 +3947,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 38,
-  "tekrar": 7
+  "tekrar": 8
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4702,7 +4705,9 @@
   "7dcdb90227a2ddba",
   "3c61f7e342ead53f",
   "85b8861639ec1319",
-  "66620a9a82ebd902"
+  "66620a9a82ebd902",
+  "cbfdcdc236377b4d",
+  "83a7426c22124935"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Aluguer t2 na Estrela · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/aluguer-t2-na-estrela-ID1j0t8",
@@ -4725,7 +4730,9 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.250 €\n1250 € · Apartamento T2 para arrendamento · Parada Alto de São João, Alto de São João - Alto do Varejão, Penha de França, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 50.58 m² · Andar · 1 andar · Remax Yes · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1j0Ru",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 para arrendamento · Rua Alfredo Guisado, Estrada de Benfica, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 55 m² · Andar · 8 andar · Grupo RE/MAX Latina · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j0Rj",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.490 €\nArrendo T2 ALGES-com logradouro DE 100m2(centro de Alges) · 1.490 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - 13 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-t2-alges-com-logradouro-de-100m2centro-de-alges-IDJE1ej.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 550 €\nApartamento T0 Remodelado em R/CHÃO DE VIVENDA · 550 € · Santa Iria De Azoia, São João Da Talha E Bobadela - 13 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t0-remodelado-em-r-cho-de-vivenda-IDJE1uu.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 550 €\nApartamento T0 Remodelado em R/CHÃO DE VIVENDA · 550 € · Santa Iria De Azoia, São João Da Talha E Bobadela - 13 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t0-remodelado-em-r-cho-de-vivenda-IDJE1uu.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.850 €\n1850 € · Apartamento T2 em Misericórdia de 81,00 m2 · Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 81 m² · Andar · 3 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-em-misericordia-de-81-00-m2-ID1j0SI",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nCHECKED · APARTMENT · FROM 01 NOV · star · 5 (4) · 1-bedroom apartment for rent in Lisbon · 1250 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1203355"
  ],
  "son_gonderim": "2026-10-12"
 }
