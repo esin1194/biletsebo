@@ -1513,7 +1513,12 @@
    "apartamento-t2-para-arrendamento-ID1j0Qi",
    "estudio-t0-para-arrendamento-ID1j0Q9",
    "apartamento-t2-para-arrendamento-campolide-ID1j0LS",
-   "apartamento-3-quartos-87-m2-luminoso-ID9P5ljR"
+   "apartamento-3-quartos-87-m2-luminoso-ID9P5ljR",
+   "t1-moderno-com-varanda-piscina-ginasio-lounge-e-elevador-em-arroios-ID1j0S7",
+   "apartamento-t2-para-arrendamento-ID1j0Ru",
+   "apartamento-t1-para-arrendamento-ID1j0Rj",
+   "apartamento-t3-para-arrendamento-ID1j0Ri",
+   "apartamento-4-quartos-76-m2-terraco-ID9P5ljS"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2136,7 +2141,9 @@
    "arrenda-se-t2-em-carcavelos-centro-IDJDYut",
    "estdio-remodelado-para-arrendamento-linda-a-velha-IDJDXZ9",
    "arrenda-se-t1-em-carcavelos-centro-IDJDY7P",
-   "apartamento-t2-em-queluz-IDJDVjQ"
+   "apartamento-t2-em-queluz-IDJDVjQ",
+   "arrendo-t2-alges-com-logradouro-de-100m2centro-de-alges-IDJE1ej",
+   "apartamento-t0-remodelado-em-r-cho-de-vivenda-IDJE1uu"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3096,7 +3103,9 @@
    "apartments/617889",
    "apartments/1698634",
    "apartments/1005956",
-   "apartments/1292313"
+   "apartments/1292313",
+   "apartments/1729452",
+   "apartments/1593617"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3152,7 +3161,8 @@
    "ut1601994",
    "ut1335952",
    "ut1737702",
-   "ut1547423"
+   "ut1547423",
+   "ut1299251"
   ],
   "uniplaces.com": [
    "890027",
@@ -3884,13 +3894,14 @@
    "868000246212394415",
    "27810300",
    "623601800318161684",
-   "33888404"
+   "33888404",
+   "1293520584863714603"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 94,
+   "bos": 95,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -3932,8 +3943,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 33,
-  "tekrar": 6
+  "elenen": 38,
+  "tekrar": 7
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4687,7 +4698,11 @@
   "7b3a8e9075c6de13",
   "1bea35bf1c0904db",
   "ddf032ce5e1d67ff",
-  "8573dfeebfa3266e"
+  "8573dfeebfa3266e",
+  "7dcdb90227a2ddba",
+  "3c61f7e342ead53f",
+  "85b8861639ec1319",
+  "66620a9a82ebd902"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Aluguer t2 na Estrela · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 75 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/aluguer-t2-na-estrela-ID1j0t8",
@@ -4706,7 +4721,11 @@
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Lisboa · Novo lugar para ficar · Novo · Sunny Graça Flat · 2BR (one interior room) · 2 quartos · 2 camas · 1 banheiro · $ 1.883 USD · $ 1.457 USD · $ 1.457 USD mensal, preço original: $ 1.883 USD · mensal · Apartamento ⋅ Misericórdia · 5,0 …\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/770169677968448600",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.550 €\nCHECKED · APARTMENT · FROM 24 NOV · star · 5 (2) · 1-bedroom apartment for rent in Lisbon · 1550 €/month · info · UP TO 10 % OFF · 12+ month stay · savings · NO DEPOSIT · electric_bolt · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1005956",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 4 de nov.  a  3 de fev. · 4 de nov. – 3 de fev. · Apartamento ⋅ Estrela · 4,79 de uma avaliação média de 5, 33 avaliações · 4,79 (33) · Estiloso e brilhante T1 em Alcântara – Nova reforma! · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.403 USD · $ 1.751 USD · $ …\nhttps://www.airbnb.com/rooms/1696439145629498465",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Misericórdia · 5,0 de uma avaliação média de 5, 3 avaliações · 5,0 (3) · Flor do Bairro I por LovelyStay · 1 quarto · 1 cama queen · 1 banheiro e meio · $ 2.663 USD · $ 2.575 USD · $ 2.575 USD mensal, preço original: $ 2.663 USD · mensal · …\nhttps://www.airbnb.com/rooms/868000246212394415"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Misericórdia · 5,0 de uma avaliação média de 5, 3 avaliações · 5,0 (3) · Flor do Bairro I por LovelyStay · 1 quarto · 1 cama queen · 1 banheiro e meio · $ 2.663 USD · $ 2.575 USD · $ 2.575 USD mensal, preço original: $ 2.663 USD · mensal · …\nhttps://www.airbnb.com/rooms/868000246212394415",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.250 €\n1250 € · Apartamento T2 para arrendamento · Parada Alto de São João, Alto de São João - Alto do Varejão, Penha de França, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 50.58 m² · Andar · 1 andar · Remax Yes · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1j0Ru",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 para arrendamento · Rua Alfredo Guisado, Estrada de Benfica, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 55 m² · Andar · 8 andar · Grupo RE/MAX Latina · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j0Rj",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.490 €\nArrendo T2 ALGES-com logradouro DE 100m2(centro de Alges) · 1.490 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - 13 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-t2-alges-com-logradouro-de-100m2centro-de-alges-IDJE1ej.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 550 €\nApartamento T0 Remodelado em R/CHÃO DE VIVENDA · 550 € · Santa Iria De Azoia, São João Da Talha E Bobadela - 13 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t0-remodelado-em-r-cho-de-vivenda-IDJE1uu.html"
  ],
  "son_gonderim": "2026-10-12"
 }
