@@ -550,7 +550,13 @@
    "customer-support-specialist-german-speaker-mfx_lisboa_OTS-2026-185550",
    "customer-support-specialist-dutch-speaker-mfx_lisboa_OTS-2026-185552",
    "international-customer-support-specialists-mfx_portugal_OTS-1900-185553",
-   "employee-labor-relations-specialist-or-manager_lisboa_PTS-2026-185444"
+   "employee-labor-relations-specialist-or-manager_lisboa_PTS-2026-185444",
+   "crm-marketing-officer-french-speaker_lisboa_PTS-2026-184677",
+   "order-management-team-lead-german_lisboa_PTS-2026-184650",
+   "sales-engineer-mfx_lisboa_PTS-2026-183506",
+   "business-unit-manager-mfx_lisboa_PTS-2026-183563",
+   "data-platform-engineering-lead_lisbon-or-oporto_DTS-2026-178625",
+   "scrum-master_caldas-da-rainha-leiria_DTS-2026-175456"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1257,12 +1263,13 @@
   "ea637d245cb08de9",
   "8077795cad5efef5",
   "caa445fc1a947b04",
-  "7d0a5448dab3f6b9"
+  "7d0a5448dab3f6b9",
+  "2859166685af5cbe"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 82,
+   "bos": 83,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1324,7 +1331,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 644,
-  "tekrar": 21
+  "elenen": 648,
+  "tekrar": 22
  }
 }
