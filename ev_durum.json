@@ -1543,7 +1543,8 @@
    "apartamento-1-quartos-85-m2-luminoso-ID9P5ljU",
    "t0-em-condominio-metrocity-ID1j1l9",
    "t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750EUR-ID1j1l6",
-   "t3-com-uma-suite-e-varandas-no-saldanha-centro-de-lisboa-ID1j1l4"
+   "t3-com-uma-suite-e-varandas-no-saldanha-centro-de-lisboa-ID1j1l4",
+   "apartamento-4-quartos-113-m2-luminoso-ID9P5ljW"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2177,7 +2178,10 @@
    "arrenda-se-t2-em-telheiras-em-perfeitas-condies-IDJE5UE",
    "t2-centro-da-amadora-IDJE5PH",
    "excelente-apartamento-t2-remodelado-para-arrendamento-procura-conforto-tranquilidade-e-centralidade-clique-aqui-IDJE5ku",
-   "apartamento-t2-carcavelos-IDJE7tb"
+   "apartamento-t2-carcavelos-IDJE7tb",
+   "estdiot0-em-anexo-IDJE8Dw",
+   "t0-em-condominio-metrocity-IDJE8xR",
+   "t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750-IDJE8xn"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3958,7 +3962,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 100,
+   "bos": 101,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4000,7 +4004,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 4,
   "tekrar": 1
  },
  "imzalar": [
@@ -4772,10 +4776,16 @@
   "00878944f9915c5b",
   "a9d364ee6fc92064",
   "a4b8c469a45a8314",
-  "72e6453342f6a528"
+  "72e6453342f6a528",
+  "b5b2ec63d7517fb2",
+  "26ebe1837c3a100f",
+  "31c1b11dd4e53bc7"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T0 em condominio Metrocity · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-em-condominio-metrocity-ID1j1l9"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T0 em condominio Metrocity · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-em-condominio-metrocity-ID1j1l9",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 470 €\nEstúdio(T0) em anexo · 470 € · Queluz E Belas - Hoje às 00:21\nhttps://www.olx.pt/d/anuncio/estdiot0-em-anexo-IDJE8Dw.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nT0 em condominio Metrocity · 1.450 € · Negociável · Parque das Nações - 14 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t0-em-condominio-metrocity-IDJE8xR.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2+1 Lisboa Baixa, centro historico, totalmente renovado, 1750€ · 1.750 € · Santa Maria Maior - 14 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750-IDJE8xn.html"
  ],
  "son_gonderim": "2026-10-14"
 }
