@@ -1550,7 +1550,16 @@
    "apartamento-t0-com-ar-condicionado-em-areeiro-ID1j1mt",
    "lovely-1-bedroom-in-cais-do-sodre-ID1j1lR",
    "apartamento-t1-1-na-ajuda-ID1j1lN",
-   "apartamento-1-quartos-43-m2-terraco-ID9P5ljV"
+   "apartamento-1-quartos-43-m2-terraco-ID9P5ljV",
+   "apartamento-t4-com-terraco-de-35-m-avenida-duque-de-loule-lisboa-ID1iYJJ",
+   "excelente-apartamento-t3-para-arrendamento-sito-em-lisboa-ID1fvQ5",
+   "t2-arrendamento-lumiar-ID1j1yJ",
+   "arrendamento-t2-lumiar-ID1j1xl",
+   "apartamento-na-estrela-ID1j1uo",
+   "t2-com-varanda-elevador-garagem-e-pet-friendly-na-calcada-da-ajuda-ID1j1tm",
+   "apartamento-com-3-quartos-localizado-em-penha-de-franca-lisbon-ID1j1t6",
+   "t2-arrendamento-campo-grande-lisboa-renovado-e-mobilado-ID1j1t5",
+   "apartamento-t2-para-arrendamento-ID1j1rN"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2195,7 +2204,10 @@
    "apartamento-t2-mobilado-IDJE90y",
    "apartamento-t1-1-na-ajuda-IDJE8UF",
    "apartamento-t0-lisboa-olivais-norte-750-IDIZ5Kb",
-   "t2-av-visconde-valmor-lisboa-IDJE8R6"
+   "t2-av-visconde-valmor-lisboa-IDJE8R6",
+   "arrendamento-de-apartamento-t1-praia-santa-cruz-IDJEbf2",
+   "apartamento-t2-para-arrendar-no-centro-de-alverca-do-ribatejo-IDJCkBH",
+   "apartamento-t3-povoa-de-santa-iria-IDJEb5N"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3731,7 +3743,10 @@
    "849161",
    "878445",
    "170665",
-   "823517"
+   "823517",
+   "896734",
+   "896721",
+   "896703"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3990,7 +4005,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 103,
+   "bos": 104,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4032,7 +4047,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 20,
+  "elenen": 30,
   "tekrar": 2
  },
  "imzalar": [
@@ -4813,7 +4828,10 @@
   "bc895a966f831396",
   "5d096a6416e00f0d",
   "7de5cc67d65b5b4a",
-  "d155d92a0764b277"
+  "d155d92a0764b277",
+  "c92cf5bfff772678",
+  "82848cb20aa39b49",
+  "22263e9429d56040"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T0 em condominio Metrocity · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-em-condominio-metrocity-ID1j1l9",
@@ -4825,7 +4843,10 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 620 €\n620 € · Apartamento T0 com ar condicionado em Areeiro · 1000-224 | Areeiro, Lisboa, Avenida Padre Manuel da Nóbrega, Centro, Areeiro, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 32 m² · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-com-ar-condicionado-em-areeiro-ID1j1mt",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nStudio close to Ribeira- Ericeira (short term) · 600 € · Ericeira - Hoje às 10:32\nhttps://www.olx.pt/d/anuncio/studio-close-toribeira-ericeira-short-term-IDJE9Ae.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento T1+1 na Ajuda · 1.150 € · Ajuda - Hoje às 08:16\nhttps://www.olx.pt/d/anuncio/apartamento-t1-1-na-ajuda-IDJE8UF.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T0, Lisboa, Olivais Norte, 750 · 750 € · Marvila - Hoje às 08:17\nhttps://www.olx.pt/d/anuncio/apartamento-t0-lisboa-olivais-norte-750-IDIZ5Kb.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T0, Lisboa, Olivais Norte, 750 · 750 € · Marvila - Hoje às 08:17\nhttps://www.olx.pt/d/anuncio/apartamento-t0-lisboa-olivais-norte-750-IDIZ5Kb.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T2 ARRENDAMENTO, Campo Grande/Lisboa, Renovado e Mobilado · Rua Afonso Lopes Vieira, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 54 m² · Andar · 4 andar · C21 City Lounge · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-arrendamento-campo-grande-lisboa-renovado-e-mobilado-ID1j1t5",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nArrendamento de apartamento T1 - Praia Santa Cruz · 700 € · Silveira - Hoje às 13:37\nhttps://www.olx.pt/d/anuncio/arrendamento-de-apartamento-t1-praia-santa-cruz-IDJEbf2.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.550 €\nApartamento T3 Povoa de Santa Iria · 1.550 € · Negociável · Póvoa De Santa Iria E Forte Da Casa - Hoje às 13:24\nhttps://www.olx.pt/d/anuncio/apartamento-t3-povoa-de-santa-iria-IDJEb5N.html"
  ],
  "son_gonderim": "2026-10-14"
 }
