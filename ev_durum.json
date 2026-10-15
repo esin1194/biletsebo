@@ -2216,7 +2216,8 @@
    "apartamento-marvila-t3-IDJE9hz",
    "t-1-mobilado-equipado-alfama-lisboa-aceita-pet-IDJEdlI",
    "aluga-se-t2-em-s-domingos-de-benfica-IDJEcLZ",
-   "oeiras-palmeiras-arrenda-se-estdio-t0-perto-da-estao-universidade-praia-a-25-minutos-de-lisboa-IDJEcAJ"
+   "oeiras-palmeiras-arrenda-se-estdio-t0-perto-da-estao-universidade-praia-a-25-minutos-de-lisboa-IDJEcAJ",
+   "t3-sao-joao-talha-IDJEeHi"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3189,7 +3190,10 @@
    "apartments/421545",
    "apartments/1489645",
    "apartments/716081",
-   "apartments/415872"
+   "apartments/415872",
+   "apartments/964076",
+   "apartments/936091",
+   "apartments/421763"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4008,13 +4012,15 @@
    "1498677705997626447",
    "1498677994264894194",
    "32377081",
-   "1795056425050533741"
+   "1795056425050533741",
+   "815082745746162970",
+   "1670892864575350421"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 105,
+   "bos": 106,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4057,7 +4063,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 0,
-  "tekrar": 0
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4845,8 +4851,15 @@
   "1abb863168508be1",
   "0acc141b39a6ee73",
   "858524232b7f8eed",
-  "0974f6d682eed24b"
+  "0974f6d682eed24b",
+  "00d02846ce0d03ef",
+  "054e1807301620c5",
+  "78ac2eb9e58d2648"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.650 €\nT3 sao joao talha · 1.650 € · Santa Iria De Azoia, São João Da Talha E Bobadela - Hoje às 21:14\nhttps://www.olx.pt/d/anuncio/t3-sao-joao-talha-IDJEeHi.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.880 €\nAPARTMENT · FROM 15 OCT · 2-bedroom apartment for rent in Lisbon. · 1880 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/936091",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,81 de uma avaliação média de 5, 144 avaliações · 4,81 (144) · Apto tranquilo com cama queen size, bem no centro de Lisboa · 1 quarto · 1 cama queen · 1 banheiro · $ 2.760 USD · $ 1.554 USD · $ 1.554 USD mensal, preço original: $ 2.760 USD ·…\nhttps://www.airbnb.com/rooms/1670892864575350421"
+ ],
  "son_gonderim": "2026-10-15"
 }
