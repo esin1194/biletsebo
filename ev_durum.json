@@ -1544,7 +1544,13 @@
    "t0-em-condominio-metrocity-ID1j1l9",
    "t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750EUR-ID1j1l6",
    "t3-com-uma-suite-e-varandas-no-saldanha-centro-de-lisboa-ID1j1l4",
-   "apartamento-4-quartos-113-m2-luminoso-ID9P5ljW"
+   "apartamento-4-quartos-113-m2-luminoso-ID9P5ljW",
+   "t2-renovado-em-alvalade-garagem-arrecadacao-elevador-arrendame-ID1j1o2",
+   "apartamento-t2-na-avenida-d-joao-ii-parque-das-nacoes-ID1j1nF",
+   "apartamento-t0-com-ar-condicionado-em-areeiro-ID1j1mt",
+   "lovely-1-bedroom-in-cais-do-sodre-ID1j1lR",
+   "apartamento-t1-1-na-ajuda-ID1j1lN",
+   "apartamento-1-quartos-43-m2-terraco-ID9P5ljV"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2181,7 +2187,15 @@
    "apartamento-t2-carcavelos-IDJE7tb",
    "estdiot0-em-anexo-IDJE8Dw",
    "t0-em-condominio-metrocity-IDJE8xR",
-   "t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750-IDJE8xn"
+   "t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750-IDJE8xn",
+   "apartamento-t2-guas-livres-damaia-de-cima-IDJEagO",
+   "aluga-se-t2-5km-de-loures-IDJEa69",
+   "studio-close-toribeira-ericeira-short-term-IDJE9Ae",
+   "apartamento-t2-torres-vedras-IDJE9sS",
+   "apartamento-t2-mobilado-IDJE90y",
+   "apartamento-t1-1-na-ajuda-IDJE8UF",
+   "apartamento-t0-lisboa-olivais-norte-750-IDIZ5Kb",
+   "t2-av-visconde-valmor-lisboa-IDJE8R6"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3152,7 +3166,9 @@
    "apartments/1273224",
    "apartments/327476",
    "apartments/421545",
-   "apartments/1489645"
+   "apartments/1489645",
+   "apartments/716081",
+   "apartments/415872"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3708,7 +3724,14 @@
    "898094",
    "898052",
    "659212",
-   "814999"
+   "814999",
+   "898159",
+   "898147",
+   "898133",
+   "849161",
+   "878445",
+   "170665",
+   "823517"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3967,7 +3990,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 102,
+   "bos": 103,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4009,7 +4032,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
+  "elenen": 20,
   "tekrar": 2
  },
  "imzalar": [
@@ -4785,14 +4808,24 @@
   "b5b2ec63d7517fb2",
   "26ebe1837c3a100f",
   "31c1b11dd4e53bc7",
-  "35b8ed5853bae7c7"
+  "35b8ed5853bae7c7",
+  "f6b1fbe7ee7659c8",
+  "bc895a966f831396",
+  "5d096a6416e00f0d",
+  "7de5cc67d65b5b4a",
+  "d155d92a0764b277"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T0 em condominio Metrocity · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-em-condominio-metrocity-ID1j1l9",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 470 €\nEstúdio(T0) em anexo · 470 € · Queluz E Belas - Hoje às 00:21\nhttps://www.olx.pt/d/anuncio/estdiot0-em-anexo-IDJE8Dw.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nT0 em condominio Metrocity · 1.450 € · Negociável · Parque das Nações - 14 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t0-em-condominio-metrocity-IDJE8xR.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2+1 Lisboa Baixa, centro historico, totalmente renovado, 1750€ · 1.750 € · Santa Maria Maior - 14 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750-IDJE8xn.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nAPARTMENT · FROM 15 OCT · 2-bedroom apartment for rent in Amadora · 1300 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1489645"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nAPARTMENT · FROM 15 OCT · 2-bedroom apartment for rent in Amadora · 1300 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1489645",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\n1700 € · Apartamento T2 na Avenida D. João II - Parque das Nações · Lisboa, Expo Central, Parque das Nações, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 86 m² · Andar · 2 andar · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-na-avenida-d-joao-ii-parque-das-nacoes-ID1j1nF",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 620 €\n620 € · Apartamento T0 com ar condicionado em Areeiro · 1000-224 | Areeiro, Lisboa, Avenida Padre Manuel da Nóbrega, Centro, Areeiro, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 32 m² · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-com-ar-condicionado-em-areeiro-ID1j1mt",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nStudio close to Ribeira- Ericeira (short term) · 600 € · Ericeira - Hoje às 10:32\nhttps://www.olx.pt/d/anuncio/studio-close-toribeira-ericeira-short-term-IDJE9Ae.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento T1+1 na Ajuda · 1.150 € · Ajuda - Hoje às 08:16\nhttps://www.olx.pt/d/anuncio/apartamento-t1-1-na-ajuda-IDJE8UF.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T0, Lisboa, Olivais Norte, 750 · 750 € · Marvila - Hoje às 08:17\nhttps://www.olx.pt/d/anuncio/apartamento-t0-lisboa-olivais-norte-750-IDIZ5Kb.html"
  ],
  "son_gonderim": "2026-10-14"
 }
