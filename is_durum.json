@@ -556,7 +556,15 @@
    "sales-engineer-mfx_lisboa_PTS-2026-183506",
    "business-unit-manager-mfx_lisboa_PTS-2026-183563",
    "data-platform-engineering-lead_lisbon-or-oporto_DTS-2026-178625",
-   "scrum-master_caldas-da-rainha-leiria_DTS-2026-175456"
+   "scrum-master_caldas-da-rainha-leiria_DTS-2026-175456",
+   "operador_azambuja_OTS-2026-185598",
+   "enfermeiro-mfx_algueirao-mem-martins_PTS-2026-185597",
+   "legal-secretary-mfx_lisboa_PTS-2026-185590",
+   "encarregado-de-obra-mfx_lisboa_OTS-2026-185588",
+   "tecnico-de-assistencia-tecnica-e-pos-venda-mfx_rio-de-mouro_OTS-2026-185215",
+   "assistente-de-loja-vodafone-fulltime-mfx_zona-centro_OTS-2025-164684",
+   "sales-development-representative-english-speaker-mfx_lisboa-portugal_OTS-2026-185438",
+   "customer-support-in-dutch-mfx_lisboa_OTS-2026-185584"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -910,7 +918,10 @@
    "hRRuYfEpgTHFv2cmRPXEtu",
    "rETFuPmYoPb3qmmNYqf6UG",
    "veZbcn5SuUBSNn5FABgiF2",
-   "dKRgXVgDmKaK6i6ERDyadS"
+   "dKRgXVgDmKaK6i6ERDyadS",
+   "1YwFguxRK4i4kFgXUtC5qw",
+   "hKX5Mh4VxbGxANVY91YK7X",
+   "pVEv44n7XNC4GSky7yqx9b"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1264,12 +1275,15 @@
   "8077795cad5efef5",
   "caa445fc1a947b04",
   "7d0a5448dab3f6b9",
-  "2859166685af5cbe"
+  "2859166685af5cbe",
+  "6c7f194d86fc3c28",
+  "da5f3e47319be2af",
+  "22712cddda27d737"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 85,
+   "bos": 86,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1331,7 +1345,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 648,
-  "tekrar": 22
+  "elenen": 655,
+  "tekrar": 23
  }
 }
