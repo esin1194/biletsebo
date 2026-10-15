@@ -3150,7 +3150,9 @@
    "apartments/767531",
    "apartments/522388",
    "apartments/1273224",
-   "apartments/327476"
+   "apartments/327476",
+   "apartments/421545",
+   "apartments/1489645"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3704,7 +3706,9 @@
    "59609",
    "857746",
    "898094",
-   "898052"
+   "898052",
+   "659212",
+   "814999"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -3956,13 +3960,14 @@
    "33416492",
    "1498677705997626447",
    "1498677994264894194",
-   "32377081"
+   "32377081",
+   "1795056425050533741"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 101,
+   "bos": 102,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4004,8 +4009,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
-  "tekrar": 1
+  "elenen": 5,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4779,13 +4784,15 @@
   "72e6453342f6a528",
   "b5b2ec63d7517fb2",
   "26ebe1837c3a100f",
-  "31c1b11dd4e53bc7"
+  "31c1b11dd4e53bc7",
+  "35b8ed5853bae7c7"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T0 em condominio Metrocity · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-em-condominio-metrocity-ID1j1l9",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 470 €\nEstúdio(T0) em anexo · 470 € · Queluz E Belas - Hoje às 00:21\nhttps://www.olx.pt/d/anuncio/estdiot0-em-anexo-IDJE8Dw.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nT0 em condominio Metrocity · 1.450 € · Negociável · Parque das Nações - 14 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t0-em-condominio-metrocity-IDJE8xR.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2+1 Lisboa Baixa, centro historico, totalmente renovado, 1750€ · 1.750 € · Santa Maria Maior - 14 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750-IDJE8xn.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2+1 Lisboa Baixa, centro historico, totalmente renovado, 1750€ · 1.750 € · Santa Maria Maior - 14 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t2-1-lisboa-baixa-centro-historico-totalmente-renovado-1750-IDJE8xn.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nAPARTMENT · FROM 15 OCT · 2-bedroom apartment for rent in Amadora · 1300 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1489645"
  ],
  "son_gonderim": "2026-10-14"
 }
