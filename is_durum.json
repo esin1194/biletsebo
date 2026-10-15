@@ -564,7 +564,16 @@
    "tecnico-de-assistencia-tecnica-e-pos-venda-mfx_rio-de-mouro_OTS-2026-185215",
    "assistente-de-loja-vodafone-fulltime-mfx_zona-centro_OTS-2025-164684",
    "sales-development-representative-english-speaker-mfx_lisboa-portugal_OTS-2026-185438",
-   "customer-support-in-dutch-mfx_lisboa_OTS-2026-185584"
+   "customer-support-in-dutch-mfx_lisboa_OTS-2026-185584",
+   "medico-de-medicina-geral-e-familiar-remoto-mfx_remoto_PTS-2024-153137",
+   "administrativo-de-backoffice-tecnico-atmt-marvila_lisboa_OTS-2026-185651",
+   "engenheiro-de-producao-fabril-junior-carpintariaserralharia_lisboa_OTS-2026-185650",
+   "warranty-specialist-focus-claim-handling_lisboa_PTS-2026-175764",
+   "eletricista-mem-martins_mem-martins_OTS-2026-185636",
+   "orcamentista-mfx_sao-domingos-de-rana_OTS-2026-185627",
+   "empregado-de-bar-mfx_alcabideche-cascais-shopping_OTS-2026-185159",
+   "consultor-comercial-mfx_sacavem_OTS-2026-184815",
+   "comercial-interno-mfx_lisboa_PTS-2026-185574"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -921,7 +930,10 @@
    "dKRgXVgDmKaK6i6ERDyadS",
    "1YwFguxRK4i4kFgXUtC5qw",
    "hKX5Mh4VxbGxANVY91YK7X",
-   "pVEv44n7XNC4GSky7yqx9b"
+   "pVEv44n7XNC4GSky7yqx9b",
+   "ky7PZUnbxv5xvzV4R9XaK9",
+   "pDKVCTXBMxNQgNtdCU6tCr",
+   "oM5gdCUpXnt4fLBWx7TC4p"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1278,12 +1290,14 @@
   "2859166685af5cbe",
   "6c7f194d86fc3c28",
   "da5f3e47319be2af",
-  "22712cddda27d737"
+  "22712cddda27d737",
+  "c57af240410c6e1e",
+  "d1a4e6cfc2abe8d5"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 86,
+   "bos": 87,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1345,7 +1359,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 655,
+  "elenen": 665,
   "tekrar": 23
  }
 }
