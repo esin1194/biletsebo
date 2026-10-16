@@ -1580,7 +1580,15 @@
    "t2-novo-a-estrear-em-localizacao-prime-amoreiras-e-lycee-francais-ID1j1Oj",
    "arrendamento-t2-com-estacionamento-em-benfica-ID1j1Oe",
    "aluga-se-t2-em-s-domingos-de-benfica-ID1j1O0",
-   "apartamento-t2-renovado-para-arrendamento-benfica-ID1j1MC"
+   "apartamento-t2-renovado-para-arrendamento-benfica-ID1j1MC",
+   "t1-com-terraco-e-estacionamento-rua-pascoal-de-melo-ID1j23n",
+   "apartamento-t2-para-arrendamento-ID1j20k",
+   "apartamento-mobilado-equipado-media-duracao-em-lisboa-ID1j1Yq",
+   "furnished-t2-apartment-in-alameda-lisbon-from-15-december-2026-ID1j1Wo",
+   "arrendamento-apartamento-t3-em-lisboa-ID1j1Wb",
+   "t2-renovado-arrendamento-no-bairro-do-rego-lisboa-ID1j1W0",
+   "t2-arrendamento-renovado-e-mobilado-em-campo-grande-lisboa-ID1j1t5",
+   "apartamento-2-quartos-75-m2-luminoso-ID9P5lk0"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2239,7 +2247,9 @@
    "apartamento-no-alameda-IDJEiJm",
    "apartamento-t2-remodelado-a-estrear-com-1-lugar-de-parqueamento-IDJEiD1",
    "arrendamento-de-apartamento-t2-santo-antnio-dos-cavaleiros-IDJEitl",
-   "alugo-t2-em-alvalade-IDJEhKl"
+   "alugo-t2-em-alvalade-IDJEhKl",
+   "apartamento-t1-agualva-cacm-IDJEjp6",
+   "apartamento-mobilado-equipado-mdia-durao-em-lisboa-IDJEjnM"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4042,13 +4052,15 @@
    "1795056425050533741",
    "815082745746162970",
    "1670892864575350421",
-   "37969231"
+   "37969231",
+   "1541993340145725775",
+   "558363"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 110,
+   "bos": 111,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4090,8 +4102,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 22,
-  "tekrar": 2
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4886,16 +4898,12 @@
   "9f0c21adcd08a59e",
   "ce4f6562d09f6a75",
   "c564ef021d7bf761",
-  "053bbe565961b50c"
+  "053bbe565961b50c",
+  "cd7f216759658bee",
+  "ce932b7da28463e3",
+  "e118c1afa3f87850",
+  "0f71769429fad711"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.650 €\nT3 sao joao talha · 1.650 € · Santa Iria De Azoia, São João Da Talha E Bobadela - Hoje às 21:14\nhttps://www.olx.pt/d/anuncio/t3-sao-joao-talha-IDJEeHi.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.880 €\nAPARTMENT · FROM 15 OCT · 2-bedroom apartment for rent in Lisbon. · 1880 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/936091",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,81 de uma avaliação média de 5, 144 avaliações · 4,81 (144) · Apto tranquilo com cama queen size, bem no centro de Lisboa · 1 quarto · 1 cama queen · 1 banheiro · $ 2.760 USD · $ 1.554 USD · $ 1.554 USD mensal, preço original: $ 2.760 USD ·…\nhttps://www.airbnb.com/rooms/1670892864575350421",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Apartamento T2 para arrendamento · Rua Carlos Gentil - Bairro do Condado, Bairro do Condado, Marvila, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · Andar · 2 andar · Remax Place Primus · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1j1OH",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T2 Mobilado | Chiado – Baixa de Lisboa · Calçada de São Francisco, Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 74 m² · Andar · rés do chão · KW LEAD · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-mobilado-chiado-baixa-de-lisboa-ID1j1Ol",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T2 remodelado - a estrear - com 1 lugar de parqueamento · 1.300 € · Sacavém E Prior Velho - Hoje às 15:20\nhttps://www.olx.pt/d/anuncio/apartamento-t2-remodelado-a-estrear-com-1-lugar-de-parqueamento-IDJEiD1.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Preferido dos hóspedes · Apartamento ⋅ Estrela · 4,93 de uma avaliação média de 5, 99 avaliações · 4,93 (99) · Bela Vista II - Bairro Alto de Lisboa · 1 quarto · 1 cama de casal · 1 banheiro · $ 3.826 USD · $ 2.047 USD · $ 2.047 USD mensal, preço original: $ 3.826 U…\nhttps://www.airbnb.com/rooms/37969231"
- ],
- "son_gonderim": "2026-10-15"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-16"
 }
