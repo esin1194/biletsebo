@@ -575,7 +575,9 @@
    "consultor-comercial-mfx_sacavem_OTS-2026-184815",
    "comercial-interno-mfx_lisboa_PTS-2026-185574",
    "tecnico-de-nutricao-mxf_olivais_OTS-2026-185660",
-   "eletricista-de-instalacoes-eletricas_lisboa_OTS-2026-185207"
+   "eletricista-de-instalacoes-eletricas_lisboa_OTS-2026-185207",
+   "junior-scheduler-mfx_lisboa_PTS-2026-185688",
+   "operador-de-caixa-mfx_lisboa-loures-amadora-e-alta-de-lisboa_OTS-2026-185669"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1303,7 +1305,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 91,
+   "bos": 92,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1365,7 +1367,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 667,
+  "elenen": 669,
   "tekrar": 23
  }
 }
