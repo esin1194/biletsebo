@@ -1564,7 +1564,9 @@
    "apartamento-t1-na-avenida-luis-bivar-ID1j1Df",
    "excelente-t2-em-s-domingos-de-benfica-ID1j1AI",
    "apartamento-4-quartos-90-m2-varanda-ID9P5ljX",
-   "apartamento-1-quartos-123-m2-varanda-ID9P5ljY"
+   "apartamento-1-quartos-123-m2-varanda-ID9P5ljY",
+   "apartamento-t3-para-arrendamento-ID1j1KZ",
+   "apartamento-5-quartos-128-m2-remodelado-ID9P5ljZ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2218,7 +2220,8 @@
    "t-1-mobilado-equipado-alfama-lisboa-aceita-pet-IDJEdlI",
    "aluga-se-t2-em-s-domingos-de-benfica-IDJEcLZ",
    "oeiras-palmeiras-arrenda-se-estdio-t0-perto-da-estao-universidade-praia-a-25-minutos-de-lisboa-IDJEcAJ",
-   "t3-sao-joao-talha-IDJEeHi"
+   "t3-sao-joao-talha-IDJEeHi",
+   "apartamento-t2-beatometro-olaias-IDJEeWf"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3763,7 +3766,9 @@
    "823517",
    "896734",
    "896721",
-   "896703"
+   "896703",
+   "390931",
+   "252844"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4024,7 +4029,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 108,
+   "bos": 109,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4066,7 +4071,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 7,
   "tekrar": 2
  },
  "imzalar": [
