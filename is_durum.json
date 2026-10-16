@@ -573,7 +573,9 @@
    "orcamentista-mfx_sao-domingos-de-rana_OTS-2026-185627",
    "empregado-de-bar-mfx_alcabideche-cascais-shopping_OTS-2026-185159",
    "consultor-comercial-mfx_sacavem_OTS-2026-184815",
-   "comercial-interno-mfx_lisboa_PTS-2026-185574"
+   "comercial-interno-mfx_lisboa_PTS-2026-185574",
+   "tecnico-de-nutricao-mxf_olivais_OTS-2026-185660",
+   "eletricista-de-instalacoes-eletricas_lisboa_OTS-2026-185207"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -933,7 +935,9 @@
    "pVEv44n7XNC4GSky7yqx9b",
    "ky7PZUnbxv5xvzV4R9XaK9",
    "pDKVCTXBMxNQgNtdCU6tCr",
-   "oM5gdCUpXnt4fLBWx7TC4p"
+   "oM5gdCUpXnt4fLBWx7TC4p",
+   "74uwaZ55Eehz5g43LBwaqP",
+   "h9GhHRohPsLqBGhMNTsLiJ"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1292,12 +1296,14 @@
   "da5f3e47319be2af",
   "22712cddda27d737",
   "c57af240410c6e1e",
-  "d1a4e6cfc2abe8d5"
+  "d1a4e6cfc2abe8d5",
+  "a9cc1bf7f737ad32",
+  "1cfb9dc91ba8965a"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 90,
+   "bos": 91,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1359,7 +1365,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 665,
+  "elenen": 667,
   "tekrar": 23
  }
 }
