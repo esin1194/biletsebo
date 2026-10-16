@@ -3253,7 +3253,8 @@
    "ut1547423",
    "ut1299251",
    "ut1095695",
-   "ut1095667"
+   "ut1095667",
+   "ut1726705"
   ],
   "uniplaces.com": [
    "890027",
@@ -4023,7 +4024,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 107,
+   "bos": 108,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4065,7 +4066,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
+  "elenen": 3,
   "tekrar": 2
  },
  "imzalar": [
