@@ -577,7 +577,14 @@
    "tecnico-de-nutricao-mxf_olivais_OTS-2026-185660",
    "eletricista-de-instalacoes-eletricas_lisboa_OTS-2026-185207",
    "junior-scheduler-mfx_lisboa_PTS-2026-185688",
-   "operador-de-caixa-mfx_lisboa-loures-amadora-e-alta-de-lisboa_OTS-2026-185669"
+   "operador-de-caixa-mfx_lisboa-loures-amadora-e-alta-de-lisboa_OTS-2026-185669",
+   "assistente-financeiro_estoril_PTS-2026-185412",
+   "promotores-de-degustacao-mfx_lisboa_OTS-2026-174892",
+   "gestor-de-ponto-de-venda-merchandiser-mfx_lisboa_OTS-2026-175378",
+   "hospedeiras-de-promocao-mfx_lisboa_OTS-2026-174900",
+   "gestor-comercial-key-account-manager-hortofruticola-e-frescos-mfx_lisboa_PTS-2026-185692",
+   "tecnico-de-ventilacao-mfx_lisboa_PTS-2026-185705",
+   "administrativo-de-logistica_castanheira-do-ribatejo_OTS-2026-182459"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -939,7 +946,8 @@
    "pDKVCTXBMxNQgNtdCU6tCr",
    "oM5gdCUpXnt4fLBWx7TC4p",
    "74uwaZ55Eehz5g43LBwaqP",
-   "h9GhHRohPsLqBGhMNTsLiJ"
+   "h9GhHRohPsLqBGhMNTsLiJ",
+   "mZUt1ngQWGsa5dkFKTuwP8"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1300,12 +1308,14 @@
   "c57af240410c6e1e",
   "d1a4e6cfc2abe8d5",
   "a9cc1bf7f737ad32",
-  "1cfb9dc91ba8965a"
+  "1cfb9dc91ba8965a",
+  "6ece7073ff451ae3",
+  "f7df3c4ff4a0c6b9"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 92,
+   "bos": 93,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1367,7 +1377,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 669,
+  "elenen": 675,
   "tekrar": 23
  }
 }
