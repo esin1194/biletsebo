@@ -1563,7 +1563,8 @@
    "t-1-mobilado-equipado-alfama-lisboa-aceita-pet-ID1j1Fy",
    "apartamento-t1-na-avenida-luis-bivar-ID1j1Df",
    "excelente-t2-em-s-domingos-de-benfica-ID1j1AI",
-   "apartamento-4-quartos-90-m2-varanda-ID9P5ljX"
+   "apartamento-4-quartos-90-m2-varanda-ID9P5ljX",
+   "apartamento-1-quartos-123-m2-varanda-ID9P5ljY"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3250,7 +3251,9 @@
    "ut1335952",
    "ut1737702",
    "ut1547423",
-   "ut1299251"
+   "ut1299251",
+   "ut1095695",
+   "ut1095667"
   ],
   "uniplaces.com": [
    "890027",
@@ -4020,7 +4023,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 106,
+   "bos": 107,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4062,8 +4065,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 1
+  "elenen": 2,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
