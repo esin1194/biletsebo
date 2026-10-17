@@ -586,7 +586,8 @@
    "tecnico-de-ventilacao-mfx_lisboa_PTS-2026-185705",
    "administrativo-de-logistica_castanheira-do-ribatejo_OTS-2026-182459",
    "assistente-de-loja-vodafone-fulltime-mfx-alegro-sintra_sintra_OTS-2026-185740",
-   "risk-manager_lisboa_PTS-2026-185733"
+   "risk-manager_lisboa_PTS-2026-185733",
+   "operador-de-producao-e-embalagem-mfx_azambuja_OTS-2026-185596"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1319,7 +1320,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 94,
+   "bos": 95,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1381,7 +1382,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 677,
+  "elenen": 678,
   "tekrar": 23
  }
 }
