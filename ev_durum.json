@@ -1588,7 +1588,9 @@
    "arrendamento-apartamento-t3-em-lisboa-ID1j1Wb",
    "t2-renovado-arrendamento-no-bairro-do-rego-lisboa-ID1j1W0",
    "t2-arrendamento-renovado-e-mobilado-em-campo-grande-lisboa-ID1j1t5",
-   "apartamento-2-quartos-75-m2-luminoso-ID9P5lk0"
+   "apartamento-2-quartos-75-m2-luminoso-ID9P5lk0",
+   "apartamento-t0-renovado-para-arrendamento-rua-actor-augusto-de-melo-ID1j24N",
+   "apartamento-5-quartos-113-m2-novo-ID9P5lk1"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2249,7 +2251,11 @@
    "arrendamento-de-apartamento-t2-santo-antnio-dos-cavaleiros-IDJEitl",
    "alugo-t2-em-alvalade-IDJEhKl",
    "apartamento-t1-agualva-cacm-IDJEjp6",
-   "apartamento-mobilado-equipado-mdia-durao-em-lisboa-IDJEjnM"
+   "apartamento-mobilado-equipado-mdia-durao-em-lisboa-IDJEjnM",
+   "apartamento-t2-santa-iria-1400-IDJEl8j",
+   "t0-690-euros-gua-e-luz-incluido-IDJElC6",
+   "t1-para-arrendar-no-banzo-colares-sintra-IDJEkAK",
+   "quartos-para-arrendar-no-centro-de-alverca-do-ribatejo-IDJCkBH"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4060,7 +4066,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 111,
+   "bos": 112,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4102,7 +4108,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 5,
   "tekrar": 0
  },
  "imzalar": [
@@ -4902,8 +4908,11 @@
   "cd7f216759658bee",
   "ce932b7da28463e3",
   "e118c1afa3f87850",
-  "0f71769429fad711"
+  "0f71769429fad711",
+  "b316b27b946c608b"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 820 €\nT1 para arrendar no Banzão (Colares, Sintra) · 820 € · Colares - 16 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t1-para-arrendar-no-banzo-colares-sintra-IDJEkAK.html"
+ ],
  "son_gonderim": "2026-10-16"
 }
