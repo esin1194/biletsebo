@@ -1592,7 +1592,10 @@
    "apartamento-t0-renovado-para-arrendamento-rua-actor-augusto-de-melo-ID1j24N",
    "apartamento-5-quartos-113-m2-novo-ID9P5lk1",
    "t1-1-rua-abade-faria-areeiro-ID1fUSG",
-   "apartamento-3-quartos-53-m2-terraco-ID9P5lk2"
+   "apartamento-3-quartos-53-m2-terraco-ID9P5lk2",
+   "apartamento-com-1-quartos-localizado-em-mouraria-lisbon-ID1j2a1",
+   "apartamento-com-1-quartos-localizado-em-campolide-lisbon-ID1j2a0",
+   "apartamento-t3-para-arrendamento-ID1j27p"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4073,7 +4076,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 114,
+   "bos": 115,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4115,7 +4118,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 9,
+  "elenen": 12,
   "tekrar": 0
  },
  "imzalar": [
