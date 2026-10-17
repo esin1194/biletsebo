@@ -589,7 +589,10 @@
    "risk-manager_lisboa_PTS-2026-185733",
    "operador-de-producao-e-embalagem-mfx_azambuja_OTS-2026-185596",
    "auxiliar-de-laboratorio-de-controlo-de-qualidade_calhandriz-alverca_OTS-2026-185742",
-   "recepcionista-administrativa-mfx_lisboa_OTS-2026-185161"
+   "recepcionista-administrativa-mfx_lisboa_OTS-2026-185161",
+   "engenheiro-civilarquiteto_lisboa_OTS-2025-183656",
+   "enfermeiro-mfx_algueirao-belas_PTS-2026-176484",
+   "orcamentista_lisboa_OTS-2026-175868"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1324,7 +1327,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 101,
+   "bos": 102,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1386,7 +1389,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 679,
+  "elenen": 682,
   "tekrar": 24
  }
 }
