@@ -588,7 +588,8 @@
    "assistente-de-loja-vodafone-fulltime-mfx-alegro-sintra_sintra_OTS-2026-185740",
    "risk-manager_lisboa_PTS-2026-185733",
    "operador-de-producao-e-embalagem-mfx_azambuja_OTS-2026-185596",
-   "auxiliar-de-laboratorio-de-controlo-de-qualidade_calhandriz-alverca_OTS-2026-185742"
+   "auxiliar-de-laboratorio-de-controlo-de-qualidade_calhandriz-alverca_OTS-2026-185742",
+   "recepcionista-administrativa-mfx_lisboa_OTS-2026-185161"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1317,12 +1318,13 @@
   "1cfb9dc91ba8965a",
   "6ece7073ff451ae3",
   "f7df3c4ff4a0c6b9",
-  "cc908ba96b26eb08"
+  "cc908ba96b26eb08",
+  "e90cc79835c6aae3"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 99,
+   "bos": 100,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
