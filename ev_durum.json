@@ -1605,7 +1605,8 @@
    "apartamento-t1-para-arrendamento-ID1j2g7",
    "apartamento-t2-para-arrendamento-ID1j2fs",
    "apartamento-t3-para-arrendamento-ID1j2fk",
-   "apartamento-t1-em-moscavide-2-andar-p-arrendar-ID1j2em"
+   "apartamento-t1-em-moscavide-2-andar-p-arrendar-ID1j2em",
+   "apart-t2-60-m-estefnia-acabado-de-renovar-arrend-de-longa-duracao-ID1j2gq"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2275,7 +2276,10 @@
    "camarate-arrenda-se-t2-IDJErYu",
    "arrenda-se-t0-agua-e-luz-incluidos-IDJErp7",
    "t2-casal-de-sao-brs-amadora-entrada-no-fim-do-ms-de-outubro-IDJEtSz",
-   "t1-na-graa-lisboa-vista-frontal-de-rio-e-garagem-condomnio-arrendamento-IDJxv6B"
+   "t1-na-graa-lisboa-vista-frontal-de-rio-e-garagem-condomnio-arrendamento-IDJxv6B",
+   "excelente-habitao-mobilada-composta-por-3-divises-amplas-no-corao-e-centro-da-costa-de-caparica-IDJEuw5",
+   "t2-em-odivelas-perto-do-metro-IDJEuq7",
+   "t0-pequeno-650-euros-IDJEunX"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3258,7 +3262,8 @@
    "apartments/373115",
    "apartments/1732984",
    "apartments/635021",
-   "apartments/421742"
+   "apartments/421742",
+   "apartments/1654403"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4094,7 +4099,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 117,
+   "bos": 118,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4136,7 +4141,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 7,
   "tekrar": 0
  },
  "imzalar": [
@@ -4946,14 +4951,16 @@
   "1a4dc10ab8fdf31f",
   "8f07d49465c5f08f",
   "1fba85af9a2702ff",
-  "90c97e245e04ecc8"
+  "90c97e245e04ecc8",
+  "fb4ef20e5fef5150"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1 para arrendamento · Rua Augusto dos Santos, São Sebastião da Pedreira, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 42.7 m² · Andar · 3 andar · Remax Yes · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j2g7",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.680 €\n1680 € · Apartamento T2 para arrendamento · Rua da Páscoa, Santa Isabel, Campo de Ourique, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 68 m² · Andar · 1 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1j2fs",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.550 €\nT1 na Graça | Lisboa: Vista Frontal de Rio e Garagem | Condomínio | Arrendamento · 1.550 € · São Vicente - Hoje às 17:57\nhttps://www.olx.pt/d/anuncio/t1-na-graa-lisboa-vista-frontal-de-rio-e-garagem-condomnio-arrendamento-IDJxv6B.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.495 €\nAPARTMENT · FROM 17 OCT · 1-bedroom apartment for rent in Lisbon · 1495 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1732984",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nCHECKED · APARTMENT · FROM 18 OCT · star · 5 (18) · 1-bedroom apartment for rent in Campolide, Lisbon · From 1300 €/month · info · UP TO 10 % OFF · 12+ month stay\nhttps://www.spotahome.com/lisbon/for-rent:apartments/635021"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nCHECKED · APARTMENT · FROM 18 OCT · star · 5 (18) · 1-bedroom apartment for rent in Campolide, Lisbon · From 1300 €/month · info · UP TO 10 % OFF · 12+ month stay\nhttps://www.spotahome.com/lisbon/for-rent:apartments/635021",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nExcelente Habitação mobilada, composta por 3 divisões amplas no coração e centro da Costa de Caparica, · 1.700 € · Loures - Hoje às 20:27\nhttps://www.olx.pt/d/anuncio/excelente-habitao-mobilada-composta-por-3-divises-amplas-no-corao-e-centro-da-costa-de-caparica-IDJEuw5.html"
  ],
  "son_gonderim": "2026-10-17"
 }
