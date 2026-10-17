@@ -3231,7 +3231,11 @@
    "apartments/415872",
    "apartments/964076",
    "apartments/936091",
-   "apartments/421763"
+   "apartments/421763",
+   "apartments/1731788",
+   "apartments/1731759",
+   "apartments/442848",
+   "apartments/373115"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4066,7 +4070,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 112,
+   "bos": 113,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4108,7 +4112,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
+  "elenen": 6,
   "tekrar": 0
  },
  "imzalar": [
@@ -4909,10 +4913,14 @@
   "ce932b7da28463e3",
   "e118c1afa3f87850",
   "0f71769429fad711",
-  "b316b27b946c608b"
+  "b316b27b946c608b",
+  "f8206da5c1186909",
+  "7f2099fa31f42829"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 820 €\nT1 para arrendar no Banzão (Colares, Sintra) · 820 € · Colares - 16 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t1-para-arrendar-no-banzo-colares-sintra-IDJEkAK.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 820 €\nT1 para arrendar no Banzão (Colares, Sintra) · 820 € · Colares - 16 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t1-para-arrendar-no-banzo-colares-sintra-IDJEkAK.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 17 OCT · 2-bedroom apartment for rent in Amadora, Lisbon. · 1500 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1731788",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · FROM 17 OCT · star · 5 (2) · 1-bedroom apartment for rent in Lisbon · 1250 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/442848"
  ],
  "son_gonderim": "2026-10-16"
 }
