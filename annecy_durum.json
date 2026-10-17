@@ -165,7 +165,8 @@
    "215HVMY",
    "215HVDN",
    "215HTDL",
-   "215HSKV"
+   "215HSKV",
+   "215JHBL"
   ],
   "hellowork.com": [
    "83399370",
@@ -857,13 +858,14 @@
   "603b80878f2a5842",
   "780411179ff83c40",
   "ebd29f92a73fca94",
-  "94b92372f9cd95b9"
+  "94b92372f9cd95b9",
+  "7734d7dd33e56800"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
    "ilk": false,
-   "bos": 5,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?l=Annecy&d=20&t=0": {
    "ilk": true,
@@ -902,13 +904,13 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
    "ilk": false,
-   "bos": 5,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   }
  },
  "kuyruk": [],
