@@ -1590,7 +1590,9 @@
    "t2-arrendamento-renovado-e-mobilado-em-campo-grande-lisboa-ID1j1t5",
    "apartamento-2-quartos-75-m2-luminoso-ID9P5lk0",
    "apartamento-t0-renovado-para-arrendamento-rua-actor-augusto-de-melo-ID1j24N",
-   "apartamento-5-quartos-113-m2-novo-ID9P5lk1"
+   "apartamento-5-quartos-113-m2-novo-ID9P5lk1",
+   "t1-1-rua-abade-faria-areeiro-ID1fUSG",
+   "apartamento-3-quartos-53-m2-terraco-ID9P5lk2"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2255,7 +2257,8 @@
    "apartamento-t2-santa-iria-1400-IDJEl8j",
    "t0-690-euros-gua-e-luz-incluido-IDJElC6",
    "t1-para-arrendar-no-banzo-colares-sintra-IDJEkAK",
-   "quartos-para-arrendar-no-centro-de-alverca-do-ribatejo-IDJCkBH"
+   "quartos-para-arrendar-no-centro-de-alverca-do-ribatejo-IDJCkBH",
+   "apartamento-t2-santa-iria-1300-IDJEl8j"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4070,7 +4073,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 113,
+   "bos": 114,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4112,7 +4115,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 9,
   "tekrar": 0
  },
  "imzalar": [
