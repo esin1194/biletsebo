@@ -1612,7 +1612,8 @@
    "apartamento-t1-com-varanda-e-garagem-em-lisboa-ID1j2hC",
    "apartamento-4-quartos-136-m2-garagem-ID9P5lk5",
    "arrendamento-t2-lumiar-ID1j2iP",
-   "apartamento-1-quartos-105-m2-terraco-ID9P5lk6"
+   "apartamento-1-quartos-105-m2-terraco-ID9P5lk6",
+   "t1-para-arrendamento-na-estrela-ID1j2kx"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2297,7 +2298,9 @@
    "t2-com-suite-e-wc-com-duas-varandas-e-mobilado-IDJExMw",
    "apartamento-em-zona-nobre-de-miraflores-IDJEx4x",
    "t1-costa-da-caparica-aluguer-temporrio-IDJExjf",
-   "apartamento-t3-amadora-junto-estao-de-comboios-IDJEx7J"
+   "apartamento-t3-amadora-junto-estao-de-comboios-IDJEx7J",
+   "t1-para-arrendamento-na-estrela-IDJEyoI",
+   "t2-mobilado-e-equipado-no-fanqueiro-loures-jardim-terraos-e-varandas-IDJExQo"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3283,7 +3286,8 @@
    "apartments/421742",
    "apartments/1654403",
    "apartments/1732656",
-   "apartments/397301"
+   "apartments/397301",
+   "apartments/930346"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4128,7 +4132,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 124,
+   "bos": 125,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4170,7 +4174,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 1,
   "tekrar": 0
  },
  "imzalar": [
@@ -4986,8 +4990,15 @@
   "7bb278a844953e95",
   "5927f19bab3e24a6",
   "c90bb5f0c16e4fe8",
-  "6652bbf70df14f4e"
+  "6652bbf70df14f4e",
+  "73c711224d191166",
+  "365844957d9fed76",
+  "d77a49efea8e7d21"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · T1 para Arrendamento na Estrela · Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-para-arrendamento-na-estrela-ID1j2kx",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nT1 para Arrendamento na Estrela · 700 € · Campo De Ourique - Hoje às 20:12\nhttps://www.olx.pt/d/anuncio/t1-para-arrendamento-na-estrela-IDJEyoI.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 29 OCT · star · 3.8 (10) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/930346"
+ ],
  "son_gonderim": "2026-10-18"
 }
