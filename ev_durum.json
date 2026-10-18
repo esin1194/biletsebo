@@ -1607,7 +1607,10 @@
    "apartamento-t3-para-arrendamento-ID1j2fk",
    "apartamento-t1-em-moscavide-2-andar-p-arrendar-ID1j2em",
    "apart-t2-60-m-estefnia-acabado-de-renovar-arrend-de-longa-duracao-ID1j2gq",
-   "apartamento-1-quartos-110-m2-garagem-ID9P5lk4"
+   "apartamento-1-quartos-110-m2-garagem-ID9P5lk4",
+   "t0-avenidas-novas-lisboa-ID1j2i6",
+   "apartamento-t1-com-varanda-e-garagem-em-lisboa-ID1j2hC",
+   "apartamento-4-quartos-136-m2-garagem-ID9P5lk5"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2280,7 +2283,13 @@
    "t1-na-graa-lisboa-vista-frontal-de-rio-e-garagem-condomnio-arrendamento-IDJxv6B",
    "excelente-habitao-mobilada-composta-por-3-divises-amplas-no-corao-e-centro-da-costa-de-caparica-IDJEuw5",
    "t2-em-odivelas-perto-do-metro-IDJEuq7",
-   "t0-pequeno-650-euros-IDJEunX"
+   "t0-pequeno-650-euros-IDJEunX",
+   "studio-carcavelos-IDJEwQk",
+   "arrenda-se-apartamento-t3-torres-vedras-centro-IDJEwNg",
+   "t0-avenidas-novas-lisboa-IDJEwHK",
+   "aluga-se-quarto-individual-s-para-sras-junto-estao-de-algs-IDJ4OsW",
+   "apartamento-t3-em-santo-antonio-dos-cavaleiros-IDJEwpL",
+   "3-quartos-para-arrendar-no-centro-de-alverca-do-ribatejo-quarto-para-casal-525-e-quarto-para-solteiro-425-IDJCkBH"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3265,7 +3274,8 @@
    "apartments/635021",
    "apartments/421742",
    "apartments/1654403",
-   "apartments/1732656"
+   "apartments/1732656",
+   "apartments/397301"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3838,7 +3848,8 @@
    "390931",
    "252844",
    "667480",
-   "442112"
+   "442112",
+   "878595"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4097,13 +4108,14 @@
    "37969231",
    "1541993340145725775",
    "558363",
-   "39103597"
+   "39103597",
+   "1568135046287739186"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 121,
+   "bos": 122,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4145,8 +4157,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 9,
-  "tekrar": 1
+  "elenen": 18,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -4957,7 +4969,9 @@
   "1fba85af9a2702ff",
   "90c97e245e04ecc8",
   "fb4ef20e5fef5150",
-  "3f47b138d1bdfb82"
+  "3f47b138d1bdfb82",
+  "7bb278a844953e95",
+  "5927f19bab3e24a6"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1 para arrendamento · Rua Augusto dos Santos, São Sebastião da Pedreira, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 42.7 m² · Andar · 3 andar · Remax Yes · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j2g7",
@@ -4966,7 +4980,9 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.495 €\nAPARTMENT · FROM 17 OCT · 1-bedroom apartment for rent in Lisbon · 1495 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1732984",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.300 €\nCHECKED · APARTMENT · FROM 18 OCT · star · 5 (18) · 1-bedroom apartment for rent in Campolide, Lisbon · From 1300 €/month · info · UP TO 10 % OFF · 12+ month stay\nhttps://www.spotahome.com/lisbon/for-rent:apartments/635021",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.700 €\nExcelente Habitação mobilada, composta por 3 divisões amplas no coração e centro da Costa de Caparica, · 1.700 € · Loures - Hoje às 20:27\nhttps://www.olx.pt/d/anuncio/excelente-habitao-mobilada-composta-por-3-divises-amplas-no-corao-e-centro-da-costa-de-caparica-IDJEuw5.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 460 €\nAPARTMENT · FROM 18 OCT · star · 4.3 (6) · Apartment for rent in Odivelas, Lisbon · 460 €/month · info · savings · NO DEPOSIT · electric_bolt · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1732656"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 460 €\nAPARTMENT · FROM 18 OCT · star · 4.3 (6) · Apartment for rent in Odivelas, Lisbon · 460 €/month · info · savings · NO DEPOSIT · electric_bolt · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1732656",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT0 Avenidas Novas, Lisboa · 750 € · Avenidas Novas - Hoje às 11:04\nhttps://www.olx.pt/d/anuncio/t0-avenidas-novas-lisboa-IDJEwHK.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nCHECKED · APARTMENT · FROM 13 NOV · star · 5 (18) · 2-bedroom apartment for rent in Campolide, Lisbon · From 1500 €/month · info · UP TO 10 % OFF · 12+ month stay · euro · BILLS INCLUDED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/397301"
  ],
  "son_gonderim": "2026-10-17"
 }
