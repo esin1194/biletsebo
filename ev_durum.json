@@ -1610,7 +1610,8 @@
    "apartamento-1-quartos-110-m2-garagem-ID9P5lk4",
    "t0-avenidas-novas-lisboa-ID1j2i6",
    "apartamento-t1-com-varanda-e-garagem-em-lisboa-ID1j2hC",
-   "apartamento-4-quartos-136-m2-garagem-ID9P5lk5"
+   "apartamento-4-quartos-136-m2-garagem-ID9P5lk5",
+   "arrendamento-t2-lumiar-ID1j2iP"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2289,7 +2290,9 @@
    "t0-avenidas-novas-lisboa-IDJEwHK",
    "aluga-se-quarto-individual-s-para-sras-junto-estao-de-algs-IDJ4OsW",
    "apartamento-t3-em-santo-antonio-dos-cavaleiros-IDJEwpL",
-   "3-quartos-para-arrendar-no-centro-de-alverca-do-ribatejo-quarto-para-casal-525-e-quarto-para-solteiro-425-IDJCkBH"
+   "3-quartos-para-arrendar-no-centro-de-alverca-do-ribatejo-quarto-para-casal-525-e-quarto-para-solteiro-425-IDJCkBH",
+   "alugo-apartamento-IDJEv9S",
+   "arrendamento-apartamento-t2-em-so-marcos-junto-ao-pingo-doce-IDJEv7C"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4109,13 +4112,15 @@
    "1541993340145725775",
    "558363",
    "39103597",
-   "1568135046287739186"
+   "1568135046287739186",
+   "906307886356219969",
+   "1197669634858592018"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 122,
+   "bos": 123,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4157,8 +4162,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 18,
-  "tekrar": 2
+  "elenen": 21,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
