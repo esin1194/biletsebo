@@ -1613,7 +1613,8 @@
    "apartamento-4-quartos-136-m2-garagem-ID9P5lk5",
    "arrendamento-t2-lumiar-ID1j2iP",
    "apartamento-1-quartos-105-m2-terraco-ID9P5lk6",
-   "t1-para-arrendamento-na-estrela-ID1j2kx"
+   "t1-para-arrendamento-na-estrela-ID1j2kx",
+   "studio-em-alvalade-mobilado-ID1j2l0"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2300,7 +2301,11 @@
    "t1-costa-da-caparica-aluguer-temporrio-IDJExjf",
    "apartamento-t3-amadora-junto-estao-de-comboios-IDJEx7J",
    "t1-para-arrendamento-na-estrela-IDJEyoI",
-   "t2-mobilado-e-equipado-no-fanqueiro-loures-jardim-terraos-e-varandas-IDJExQo"
+   "t2-mobilado-e-equipado-no-fanqueiro-loures-jardim-terraos-e-varandas-IDJExQo",
+   "studio-em-alvalade-mobilado-IDJEyT1",
+   "arrendo-t1-condominio-fechado-com-piscina-e-campo-de-jogos-IDJEyLN",
+   "1piso-de-moradia-c-terrao-c-luz-e-gua-includa-pronto-entrar-b-s-mateus-cascais-IDJAikS",
+   "olivais-sul-t2-renovado-central-perto-de-todos-os-transportes-IDJwz2k"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3287,7 +3292,8 @@
    "apartments/1654403",
    "apartments/1732656",
    "apartments/397301",
-   "apartments/930346"
+   "apartments/930346",
+   "apartments/1515844"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4126,13 +4132,14 @@
    "39103597",
    "1568135046287739186",
    "906307886356219969",
-   "1197669634858592018"
+   "1197669634858592018",
+   "1264427381607410211"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 125,
+   "bos": 126,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4174,7 +4181,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 1,
+  "elenen": 2,
   "tekrar": 0
  },
  "imzalar": [
@@ -4993,12 +5000,22 @@
   "6652bbf70df14f4e",
   "73c711224d191166",
   "365844957d9fed76",
-  "d77a49efea8e7d21"
+  "d77a49efea8e7d21",
+  "78ad0cb1ed6e54af",
+  "851194e5dff0df5c",
+  "af5d8dd7cda30230",
+  "a71dbf624320ba8d",
+  "376f480b0e48d8be"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · T1 para Arrendamento na Estrela · Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-para-arrendamento-na-estrela-ID1j2kx",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nT1 para Arrendamento na Estrela · 700 € · Campo De Ourique - Hoje às 20:12\nhttps://www.olx.pt/d/anuncio/t1-para-arrendamento-na-estrela-IDJEyoI.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 29 OCT · star · 3.8 (10) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/930346"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 29 OCT · star · 3.8 (10) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/930346",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 895 €\n895 € · Studio em Alvalade mobilado · Bairro do Condado, Marvila, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/studio-em-alvalade-mobilado-ID1j2l0",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 895 €\nStudio em Alvalade mobilado · 895 € · Marvila - Hoje às 22:00\nhttps://www.olx.pt/d/anuncio/studio-em-alvalade-mobilado-IDJEyT1.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrendo T1 condominio fechado com piscina e campo de jogos · 850 € · Silveira - Hoje às 21:33\nhttps://www.olx.pt/d/anuncio/arrendo-t1-condominio-fechado-com-piscina-e-campo-de-jogos-IDJEyLN.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\n1ºPiso de Moradia c/Terraço c/Luz e Água incluída, Pronto Entrar Bº S.Mateus Cascais · 1.350 € · Cascais E Estoril - Hoje às 20:55\nhttps://www.olx.pt/d/anuncio/1piso-de-moradia-c-terrao-c-luz-e-gua-includa-pronto-entrar-b-s-mateus-cascais-IDJAikS.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,79 de uma avaliação média de 5, 145 avaliações · 4,79 (145) · Apto tranquilo com cama queen size, bem no centro de Lisboa · 1 quarto · 1 cama queen · 1 banheiro · $ 2.771 USD · $ 1.560 USD · $ 1.560 USD mensal, preço original: $ 2.771 USD ·…\nhttps://www.airbnb.com/rooms/1264427381607410211"
  ],
  "son_gonderim": "2026-10-18"
 }
