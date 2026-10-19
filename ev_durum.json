@@ -1638,7 +1638,11 @@
    "apartamento-t2-em-santo-antonio-lisboa-com-vista-para-a-cidade-ID1j2sv",
    "apartamento-t1-massama-e-monte-abraao-ID1j2s6",
    "t4-almirante-reis-junto-a-alameda-ID1j2rp",
-   "apartamento-2-quartos-97-m2-jardim-ID9P5lk9"
+   "apartamento-2-quartos-97-m2-jardim-ID9P5lk9",
+   "apartamento-t2-mobilado-para-arrendamento-na-amadora-ID1j2FO",
+   "alvalade-t3-renovado-ID1j2FB",
+   "apartamento-t3-com-vista-rio-lisboa-ID1j2F8",
+   "t1-1-duplex-mobilado-e-equipado-para-arrendamento-campo-pequeno-lx-ID1j2DX"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2341,7 +2345,10 @@
    "t2-olivais-totalamente-remodelado-e-equipado-IDJEDAL",
    "estdio-t0-para-arrendamento-penedo-sdrana-IDJEDbY",
    "apartamento-t2-luminoso-com-vista-incrvel-damasceno-monteiro-graa-IDJED9j",
-   "t3-mobilado-e-equipado-em-carnaxide-IDJxDHI"
+   "t3-mobilado-e-equipado-em-carnaxide-IDJxDHI",
+   "apartamento-t2-mobilado-para-arrendamento-na-amadora-IDJEG71",
+   "alvalade-t3-renovado-IDJEFX2",
+   "t2-alverca-rua-9-de-agosto-1990-para-arrendamento-IDJEFTd"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3922,7 +3929,9 @@
    "29963",
    "1460",
    "1470",
-   "883117"
+   "883117",
+   "899982",
+   "891397"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4186,13 +4195,14 @@
    "906307886356219969",
    "1197669634858592018",
    "1264427381607410211",
-   "41195370"
+   "41195370",
+   "821520897430552281"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 130,
+   "bos": 131,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4234,8 +4244,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 7,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5072,8 +5082,13 @@
   "30365b430f5df1ed",
   "c2b3cdacfe6201ab",
   "601a2c1c4b9677fc",
-  "cf3c1d9bff4fa5b6"
+  "cf3c1d9bff4fa5b6",
+  "dce18724bca915d5",
+  "af3a468e4439187d"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T2 Mobilado para Arrendamento na Amadora · Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-mobilado-para-arrendamento-na-amadora-ID1j2FO",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · T1+1 Duplex Mobilado e Equipado para Arrendamento | Campo Pequeno, Lx · Campo Pequeno, Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · Andar · 1 andar · ZOME PR1ME · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-1-duplex-mobilado-e-equipado-para-arrendamento-campo-pequeno-lx-ID1j2DX"
+ ],
  "son_gonderim": "2026-10-19"
 }
