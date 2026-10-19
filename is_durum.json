@@ -592,7 +592,11 @@
    "recepcionista-administrativa-mfx_lisboa_OTS-2026-185161",
    "engenheiro-civilarquiteto_lisboa_OTS-2025-183656",
    "enfermeiro-mfx_algueirao-belas_PTS-2026-176484",
-   "orcamentista_lisboa_OTS-2026-175868"
+   "orcamentista_lisboa_OTS-2026-175868",
+   "apoio-tecnico-alemao-mfx-technical-support-assistant-german-mfx_porto-ou-lisboa-porto-or-lisbon_OTS-2026-185773",
+   "gestora-de-triagem-de-reclamacoes_lisboa_PTS-2026-185586",
+   "operadores-talho-mfx_mafra_OTS-2026-185767",
+   "operadores-peixaria-mfx_mafra_OTS-2026-185759"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -959,7 +963,8 @@
    "u972dVY2GnfB6vvY2oECHx",
    "vMFhvhx1iZuP7z3MQa723V",
    "kWmCEDrWYhK1arTJBDJmck",
-   "8ecoY9ZRbzE8WJt1y6rjwj"
+   "8ecoY9ZRbzE8WJt1y6rjwj",
+   "u9LHZUmn4UyHM62xQTNrdL"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1326,12 +1331,13 @@
   "cc908ba96b26eb08",
   "e90cc79835c6aae3",
   "231bbb96188fd491",
-  "6697bc41b8c3f64c"
+  "6697bc41b8c3f64c",
+  "29043792ed893554"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 110,
+   "bos": 111,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1393,7 +1399,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 682,
+  "elenen": 686,
   "tekrar": 24
  }
 }
