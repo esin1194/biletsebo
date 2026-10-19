@@ -596,7 +596,13 @@
    "apoio-tecnico-alemao-mfx-technical-support-assistant-german-mfx_porto-ou-lisboa-porto-or-lisbon_OTS-2026-185773",
    "gestora-de-triagem-de-reclamacoes_lisboa_PTS-2026-185586",
    "operadores-talho-mfx_mafra_OTS-2026-185767",
-   "operadores-peixaria-mfx_mafra_OTS-2026-185759"
+   "operadores-peixaria-mfx_mafra_OTS-2026-185759",
+   "tecnico-de-manutencao-mfx_rio-de-mouro_OTS-2026-185195",
+   "operador-de-picking_povoa-de-santa-iria_OTS-2026-185805",
+   "servente-mfx_lisboa_OTS-2026-185617",
+   "customer-support-italian-speaker-mfx_remote-portugal_OTS-2026-184002",
+   "recepcionista-mfx_alges_OTS-2026-185785",
+   "rececionista-mfx_lisboa_OTS-2026-185776"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -964,7 +970,11 @@
    "vMFhvhx1iZuP7z3MQa723V",
    "kWmCEDrWYhK1arTJBDJmck",
    "8ecoY9ZRbzE8WJt1y6rjwj",
-   "u9LHZUmn4UyHM62xQTNrdL"
+   "u9LHZUmn4UyHM62xQTNrdL",
+   "k5tuaR5KkmtdNxEY2v6YrW",
+   "fiTSqgF66dafFWmHmaymzk",
+   "izoEV3qt6v7e55mouu5MPQ",
+   "6g5xKQ4Hqs69e74R2XqWRv"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1337,7 +1347,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 111,
+   "bos": 112,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1399,7 +1409,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 686,
+  "elenen": 696,
   "tekrar": 24
  }
 }
