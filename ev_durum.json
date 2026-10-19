@@ -1616,7 +1616,10 @@
    "t1-para-arrendamento-na-estrela-ID1j2kx",
    "studio-em-alvalade-mobilado-ID1j2l0",
    "t3-prox-da-av-de-roma-ID1j2lp",
-   "apartamento-2-quartos-121-m2-varanda-ID9P5lk7"
+   "apartamento-2-quartos-121-m2-varanda-ID9P5lk7",
+   "arrendamento-t3-campo-grande-2000EUR-mes-garagem-e-arrecadacao-ID1j2oI",
+   "apartamento-t4-1-remodelado-ID1j2mX",
+   "apartamento-3-quartos-38-m2-garagem-ID9P5lk8"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2307,7 +2310,12 @@
    "studio-em-alvalade-mobilado-IDJEyT1",
    "arrendo-t1-condominio-fechado-com-piscina-e-campo-de-jogos-IDJEyLN",
    "1piso-de-moradia-c-terrao-c-luz-e-gua-includa-pronto-entrar-b-s-mateus-cascais-IDJAikS",
-   "olivais-sul-t2-renovado-central-perto-de-todos-os-transportes-IDJwz2k"
+   "olivais-sul-t2-renovado-central-perto-de-todos-os-transportes-IDJwz2k",
+   "t2-de-72-m-para-arrendar-em-sobralinho-IDJEAfV",
+   "arrendo-t1-av-eng-duarte-pacheco-lisboa-IDJwUJO",
+   "apartamento-t4-1-remodelado-IDJEA4c",
+   "t0-pequenino-tojeira-magoito-IDJEzYm",
+   "amadora-apartamento-t2-IDJEzFl"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3873,7 +3881,11 @@
    "891591",
    "867798",
    "714407",
-   "834522"
+   "834522",
+   "899745",
+   "899730",
+   "852481",
+   "872868"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4142,7 +4154,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 128,
+   "bos": 129,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4184,7 +4196,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
+  "elenen": 15,
   "tekrar": 0
  },
  "imzalar": [
@@ -5008,7 +5020,9 @@
   "851194e5dff0df5c",
   "af5d8dd7cda30230",
   "a71dbf624320ba8d",
-  "376f480b0e48d8be"
+  "376f480b0e48d8be",
+  "9fa5c9fd3bcdfbe6",
+  "c0cf73e282afa4ac"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · T1 para Arrendamento na Estrela · Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-para-arrendamento-na-estrela-ID1j2kx",
@@ -5018,7 +5032,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 895 €\nStudio em Alvalade mobilado · 895 € · Marvila - Hoje às 22:00\nhttps://www.olx.pt/d/anuncio/studio-em-alvalade-mobilado-IDJEyT1.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrendo T1 condominio fechado com piscina e campo de jogos · 850 € · Silveira - Hoje às 21:33\nhttps://www.olx.pt/d/anuncio/arrendo-t1-condominio-fechado-com-piscina-e-campo-de-jogos-IDJEyLN.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\n1ºPiso de Moradia c/Terraço c/Luz e Água incluída, Pronto Entrar Bº S.Mateus Cascais · 1.350 € · Cascais E Estoril - Hoje às 20:55\nhttps://www.olx.pt/d/anuncio/1piso-de-moradia-c-terrao-c-luz-e-gua-includa-pronto-entrar-b-s-mateus-cascais-IDJAikS.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,79 de uma avaliação média de 5, 145 avaliações · 4,79 (145) · Apto tranquilo com cama queen size, bem no centro de Lisboa · 1 quarto · 1 cama queen · 1 banheiro · $ 2.771 USD · $ 1.560 USD · $ 1.560 USD mensal, preço original: $ 2.771 USD ·…\nhttps://www.airbnb.com/rooms/1264427381607410211"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,79 de uma avaliação média de 5, 145 avaliações · 4,79 (145) · Apto tranquilo com cama queen size, bem no centro de Lisboa · 1 quarto · 1 cama queen · 1 banheiro · $ 2.771 USD · $ 1.560 USD · $ 1.560 USD mensal, preço original: $ 2.771 USD ·…\nhttps://www.airbnb.com/rooms/1264427381607410211",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nArrendo T1 Av Eng Duarte Pacheco Lisboa · 1.600 € · Santo António - Hoje às 10:58\nhttps://www.olx.pt/d/anuncio/arrendo-t1-av-eng-duarte-pacheco-lisboa-IDJwUJO.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nApartamento T4+1 remodelado · 2.000 € · Olivais - Hoje às 10:17\nhttps://www.olx.pt/d/anuncio/apartamento-t4-1-remodelado-IDJEA4c.html"
  ],
  "son_gonderim": "2026-10-18"
 }
