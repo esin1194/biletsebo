@@ -1614,7 +1614,9 @@
    "arrendamento-t2-lumiar-ID1j2iP",
    "apartamento-1-quartos-105-m2-terraco-ID9P5lk6",
    "t1-para-arrendamento-na-estrela-ID1j2kx",
-   "studio-em-alvalade-mobilado-ID1j2l0"
+   "studio-em-alvalade-mobilado-ID1j2l0",
+   "t3-prox-da-av-de-roma-ID1j2lp",
+   "apartamento-2-quartos-121-m2-varanda-ID9P5lk7"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3870,7 +3872,8 @@
    "878595",
    "891591",
    "867798",
-   "714407"
+   "714407",
+   "834522"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4139,7 +4142,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 126,
+   "bos": 127,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4181,7 +4184,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
+  "elenen": 5,
   "tekrar": 0
  },
  "imzalar": [
