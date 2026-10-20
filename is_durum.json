@@ -611,7 +611,12 @@
    "tecnico-de-metalomecanica-lisboa-mfx_rio-de-mouro_OTS-2026-185194",
    "responsavel-de-armazem-mfx_lisboa_OTS-2026-185062",
    "motorista-executivo-mfx_lisboa_OTS-2026-184748",
-   "fiel-de-armazem_lisboa-ramada_OTS-2026-185832"
+   "fiel-de-armazem_lisboa-ramada_OTS-2026-185832",
+   "customer-support-specialist-german-speaker-mfx_portugal_OTS-2026-185550",
+   "customer-support-specialist-dutch-speaker-mfx_portugal_OTS-2026-185552",
+   "eletricista-mfx_lisboa_OTS-2026-185872",
+   "vendedor-de-balcao-material-eletrico-mfx_torres-vedras_OTS-2026-185867",
+   "buyer-support-agent-french-speaker-mfx_lisbon-hybrid_OTS-2026-185864"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -987,7 +992,8 @@
    "52TLfugsBSQgN8HDgtgywu",
    "2ztFnpXE5C85yAREf8oRsD",
    "hLDrCxSV2HKxpaX2Lmw5hx",
-   "1Xp2gx5t7cbCTsoHNSWGSB"
+   "1Xp2gx5t7cbCTsoHNSWGSB",
+   "ussrNeE43aYSN5kN6hnWLQ"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1361,7 +1367,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 116,
+   "bos": 117,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1423,7 +1429,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 708,
+  "elenen": 714,
   "tekrar": 24
  }
 }
