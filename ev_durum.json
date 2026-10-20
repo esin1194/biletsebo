@@ -1647,7 +1647,18 @@
    "apartamento-t2-com-vista-tejo-ponte-e-jardim-em-sto-amaro-alcantara-ID16QqJ",
    "apartamento-t0-no-lx-living-nas-amoreiras-lisboa-ID1j2HM",
    "t2-em-marvila-com-varanda-e-garagem-ID1j2HC",
-   "apartamento-2-quartos-52-m2-varanda-ID9P5lkb"
+   "apartamento-2-quartos-52-m2-varanda-ID9P5lkb",
+   "apartamento-t2-para-arrendamento-ID1j2UI",
+   "apartamento-t1-em-misericordia-de-48-00-m2-ID1j2Tf",
+   "quarto-roma-areeiro-alvalade-ID1j2Q3",
+   "t1-1-com-patio-ID1j2Q2",
+   "apartamento-t1-para-arrendamento-ID1j2OU",
+   "apartamento-t1-garagem-avenida-duque-de-loule-lisboa-ID1j2Os",
+   "apartamento-com-1-quartos-localizado-em-santa-apolonia-lisbon-ID1j2NJ",
+   "apartamento-com-1-quartos-localizado-em-principe-real-lisbon-ID1j2NE",
+   "apartamento-t1-para-arrendamento-ID1j2Mg",
+   "apartamento-t3-na-rua-dos-baldaques-ID1j2LU",
+   "t2-renovado-a-estrear-no-coracao-da-baixa-de-lisboa-ID1j2HN"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2353,7 +2364,9 @@
    "t3-mobilado-e-equipado-em-carnaxide-IDJxDHI",
    "apartamento-t2-mobilado-para-arrendamento-na-amadora-IDJEG71",
    "alvalade-t3-renovado-IDJEFX2",
-   "t2-alverca-rua-9-de-agosto-1990-para-arrendamento-IDJEFTd"
+   "t2-alverca-rua-9-de-agosto-1990-para-arrendamento-IDJEFTd",
+   "quarto-roma-areeiro-alvalade-IDJEJip",
+   "arrendamento-t3-em-monte-abrao-IDJEJbL"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3350,7 +3363,9 @@
    "apartments/1181351",
    "apartments/1734578",
    "apartments/1435620",
-   "apartments/455312"
+   "apartments/455312",
+   "apartments/1734930",
+   "apartments/1734960"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3947,7 +3962,10 @@
    "899982",
    "891397",
    "900024",
-   "900023"
+   "900023",
+   "900085",
+   "900192",
+   "894233"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4213,13 +4231,15 @@
    "1264427381607410211",
    "41195370",
    "821520897430552281",
-   "1596392735968967268"
+   "1596392735968967268",
+   "26447051",
+   "38968085"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 134,
+   "bos": 135,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4261,8 +4281,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 14,
-  "tekrar": 2
+  "elenen": 25,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5108,7 +5128,14 @@
   "5d1e069f9fc14be0",
   "c7829441eb5e6397",
   "fc77cf2b428b0b2d",
-  "b3d5b047e4ff1992"
+  "b3d5b047e4ff1992",
+  "166c8539f6e3e56f",
+  "12f5ce0b03f73f6e",
+  "05c3e64f53f5f83f",
+  "7751d51e2acd8a22",
+  "cf45b7e667dbd744",
+  "2908f16e14838538",
+  "95d095ef3cc4e74b"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T2 Mobilado para Arrendamento na Amadora · Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-mobilado-para-arrendamento-na-amadora-ID1j2FO",
@@ -5119,7 +5146,14 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.889 €\nCHECKED · APARTMENT · FROM 06 NOV · star · 3.8 (205) · Wonderful 2-bedroom apartment for rent in Bica, Lisbon · From 1889 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/253139",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T0 no Lx Living, nas Amoreiras, Lisboa · Bairro de Campolide, Campolide, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 42 m² · Andar · 2 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-no-lx-living-nas-amoreiras-lisboa-ID1j2HM",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 27 OCT · 2-bedroom apartment for rent in Lisbon, bills included · 1500 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1734578",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.200 €\nCHECKED · APARTMENT · FROM 20 OCT · star · 4.3 (6) · 1-bedroom apartment for rent in Lisbon. · 1200 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1435620"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.200 €\nCHECKED · APARTMENT · FROM 20 OCT · star · 4.3 (6) · 1-bedroom apartment for rent in Lisbon. · 1200 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1435620",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · Apartamento T2 para arrendamento · Rua Carlos Gentil - Bairro do Condado, Bairro do Condado, Marvila, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · Andar · 2 andar · Remax Place Primus · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1j2UI",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T1 em Misericórdia de 48,00 m2 · Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · 2 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-misericordia-de-48-00-m2-ID1j2Tf",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.150 €\n1150 € · Apartamento T1 para arrendamento · Rua Cláudio Nunes, Arneiros, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 52 m² · Andar · 2 andar · Remax Duplo Impacto · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j2Mg",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 550 €\nQuarto Roma-Areeiro/ Alvalade · 550 € · Negociável · Areeiro - Hoje às 14:00\nhttps://www.olx.pt/d/anuncio/quarto-roma-areeiro-alvalade-IDJEJip.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 27 OCT · 2-bedroom apartment for rent in Lisbon · 1500 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1734930",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 2.000 €\nCHECKED · APARTMENT · FROM 12 NOV · 3-bedroom apartment for rent in Lisbon · 2000 €/month · info · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1734960",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Santo António · 4,7 de uma avaliação média de 5, 82 avaliações · 4,7 (82) · Suíte Apartamento com Pátio na Cidade Velha · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.129 USD · $ 1.653 USD · $ 1.653 USD mensal, preço original: $ 2.129 USD · mensal · D…\nhttps://www.airbnb.com/rooms/26447051"
  ],
  "son_gonderim": "2026-10-19"
 }
