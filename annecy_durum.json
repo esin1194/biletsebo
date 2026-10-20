@@ -176,7 +176,10 @@
    "215KGTZ",
    "215KDQH",
    "215KKPJ",
-   "215CNFH"
+   "215CNFH",
+   "215KQKL",
+   "215KYWF",
+   "215KXFN"
   ],
   "hellowork.com": [
    "83399370",
@@ -888,7 +891,10 @@
   "d4682fcb9c06a2cb",
   "1d5a14c61219c706",
   "0e282b8f1ca47f27",
-  "f0dc3954ad93b14e"
+  "f0dc3954ad93b14e",
+  "680a48debf625156",
+  "deff95d0f0006bed",
+  "3512accb9511a2a8"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -933,7 +939,7 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 36,
+   "bos": 37,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
