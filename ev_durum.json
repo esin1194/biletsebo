@@ -1666,7 +1666,8 @@
    "apartwmnto-t1-duplex-ID1j2Zi",
    "apartamento-t1-com-estacionamento-no-luma-lumiar-lisboa-ID1j2VA",
    "apartamento-t2-com-elevador-parque-eduardo-vii-ID1j2UX",
-   "apartamento-3-quartos-139-m2-terraco-ID9P5lkc"
+   "apartamento-3-quartos-139-m2-terraco-ID9P5lkc",
+   "apartamento-t1-remodelado-alto-dos-moinhos-ID1j359"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2378,7 +2379,12 @@
    "t2-1-renovado-atelier-adaptado-junto-a-escola-primria-em-belas-IDJEMEx",
    "luminoso-apartamento-mobilado-para-casal-IDJEMBC",
    "arrendamento-t1-amadora-IDJELBi",
-   "apartwmnto-t1-duplex-IDJELve"
+   "apartwmnto-t1-duplex-IDJELve",
+   "arrenda-se-t0-pontinha-IDJEN5a",
+   "arrenda-se-t2-com-ptio-e-tilheiro-gua-e-luz-sem-animais-na-estao-de-mafra-1-ms-de-cauo-IDJEMS2",
+   "arrendamento-de-apartamento-t1-IDJEMTe",
+   "alugo-t2-em-toledo-IDJEMQS",
+   "t2-1-renovado-atelier-convertido-junto-a-escola-primria-em-belas-IDJEMEx"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4252,13 +4258,14 @@
    "1596392735968967268",
    "26447051",
    "38968085",
-   "1303550730375750748"
+   "1303550730375750748",
+   "3262787"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 136,
+   "bos": 137,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4300,8 +4307,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 6,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
