@@ -1643,7 +1643,11 @@
    "alvalade-t3-renovado-ID1j2FB",
    "apartamento-t3-com-vista-rio-lisboa-ID1j2F8",
    "t1-1-duplex-mobilado-e-equipado-para-arrendamento-campo-pequeno-lx-ID1j2DX",
-   "apartamento-3-quartos-67-m2-garagem-ID9P5lka"
+   "apartamento-3-quartos-67-m2-garagem-ID9P5lka",
+   "apartamento-t2-com-vista-tejo-ponte-e-jardim-em-sto-amaro-alcantara-ID16QqJ",
+   "apartamento-t0-no-lx-living-nas-amoreiras-lisboa-ID1j2HM",
+   "t2-em-marvila-com-varanda-e-garagem-ID1j2HC",
+   "apartamento-2-quartos-52-m2-varanda-ID9P5lkb"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3343,7 +3347,10 @@
    "apartments/1734864",
    "apartments/1734560",
    "apartments/253139",
-   "apartments/1181351"
+   "apartments/1181351",
+   "apartments/1734578",
+   "apartments/1435620",
+   "apartments/455312"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3938,7 +3945,9 @@
    "1470",
    "883117",
    "899982",
-   "891397"
+   "891397",
+   "900024",
+   "900023"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4210,7 +4219,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 133,
+   "bos": 134,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4252,7 +4261,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 14,
   "tekrar": 2
  },
  "imzalar": [
@@ -5096,7 +5105,10 @@
   "c08b28ffbe34ae5c",
   "253c83e522b9e1ef",
   "6d7986aa9531ea82",
-  "5d1e069f9fc14be0"
+  "5d1e069f9fc14be0",
+  "c7829441eb5e6397",
+  "fc77cf2b428b0b2d",
+  "b3d5b047e4ff1992"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T2 Mobilado para Arrendamento na Amadora · Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-mobilado-para-arrendamento-na-amadora-ID1j2FO",
@@ -5104,7 +5116,10 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nAPARTMENT · FROM 20 OCT · star · 5 (14) · 1-bedroom apartment for rent in Lisbon. · 1750 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1666607",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.850 €\nAPARTMENT · FROM 20 OCT · 1-bedroom apartment for rent in Oeiras, Lisbon · 1850 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1734864",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · FROM 20 OCT · 2-bedroom apartment for rent in Amadora, Lisbon · 1250 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1734560",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.889 €\nCHECKED · APARTMENT · FROM 06 NOV · star · 3.8 (205) · Wonderful 2-bedroom apartment for rent in Bica, Lisbon · From 1889 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/253139"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.889 €\nCHECKED · APARTMENT · FROM 06 NOV · star · 3.8 (205) · Wonderful 2-bedroom apartment for rent in Bica, Lisbon · From 1889 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/253139",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T0 no Lx Living, nas Amoreiras, Lisboa · Bairro de Campolide, Campolide, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 42 m² · Andar · 2 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-no-lx-living-nas-amoreiras-lisboa-ID1j2HM",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 27 OCT · 2-bedroom apartment for rent in Lisbon, bills included · 1500 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1734578",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.200 €\nCHECKED · APARTMENT · FROM 20 OCT · star · 4.3 (6) · 1-bedroom apartment for rent in Lisbon. · 1200 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1435620"
  ],
  "son_gonderim": "2026-10-19"
 }
