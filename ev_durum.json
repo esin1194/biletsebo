@@ -1642,7 +1642,8 @@
    "apartamento-t2-mobilado-para-arrendamento-na-amadora-ID1j2FO",
    "alvalade-t3-renovado-ID1j2FB",
    "apartamento-t3-com-vista-rio-lisboa-ID1j2F8",
-   "t1-1-duplex-mobilado-e-equipado-para-arrendamento-campo-pequeno-lx-ID1j2DX"
+   "t1-1-duplex-mobilado-e-equipado-para-arrendamento-campo-pequeno-lx-ID1j2DX",
+   "apartamento-3-quartos-67-m2-garagem-ID9P5lka"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4202,7 +4203,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 131,
+   "bos": 132,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4244,7 +4245,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
+  "elenen": 8,
   "tekrar": 1
  },
  "imzalar": [
