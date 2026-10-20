@@ -3337,7 +3337,13 @@
    "apartments/1732656",
    "apartments/397301",
    "apartments/930346",
-   "apartments/1515844"
+   "apartments/1515844",
+   "apartments/1666607",
+   "apartments/1713835",
+   "apartments/1734864",
+   "apartments/1734560",
+   "apartments/253139",
+   "apartments/1181351"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4197,13 +4203,14 @@
    "1197669634858592018",
    "1264427381607410211",
    "41195370",
-   "821520897430552281"
+   "821520897430552281",
+   "1596392735968967268"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 132,
+   "bos": 133,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4246,7 +4253,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 8,
-  "tekrar": 1
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5085,11 +5092,19 @@
   "601a2c1c4b9677fc",
   "cf3c1d9bff4fa5b6",
   "dce18724bca915d5",
-  "af3a468e4439187d"
+  "af3a468e4439187d",
+  "c08b28ffbe34ae5c",
+  "253c83e522b9e1ef",
+  "6d7986aa9531ea82",
+  "5d1e069f9fc14be0"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T2 Mobilado para Arrendamento na Amadora · Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-mobilado-para-arrendamento-na-amadora-ID1j2FO",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · T1+1 Duplex Mobilado e Equipado para Arrendamento | Campo Pequeno, Lx · Campo Pequeno, Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · Andar · 1 andar · ZOME PR1ME · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-1-duplex-mobilado-e-equipado-para-arrendamento-campo-pequeno-lx-ID1j2DX"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · T1+1 Duplex Mobilado e Equipado para Arrendamento | Campo Pequeno, Lx · Campo Pequeno, Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · Andar · 1 andar · ZOME PR1ME · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-1-duplex-mobilado-e-equipado-para-arrendamento-campo-pequeno-lx-ID1j2DX",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.750 €\nAPARTMENT · FROM 20 OCT · star · 5 (14) · 1-bedroom apartment for rent in Lisbon. · 1750 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1666607",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.850 €\nAPARTMENT · FROM 20 OCT · 1-bedroom apartment for rent in Oeiras, Lisbon · 1850 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1734864",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · FROM 20 OCT · 2-bedroom apartment for rent in Amadora, Lisbon · 1250 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1734560",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.889 €\nCHECKED · APARTMENT · FROM 06 NOV · star · 3.8 (205) · Wonderful 2-bedroom apartment for rent in Bica, Lisbon · From 1889 €/month · info · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/253139"
  ],
  "son_gonderim": "2026-10-19"
 }
