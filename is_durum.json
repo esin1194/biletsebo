@@ -602,7 +602,16 @@
    "servente-mfx_lisboa_OTS-2026-185617",
    "customer-support-italian-speaker-mfx_remote-portugal_OTS-2026-184002",
    "recepcionista-mfx_alges_OTS-2026-185785",
-   "rececionista-mfx_lisboa_OTS-2026-185776"
+   "rececionista-mfx_lisboa_OTS-2026-185776",
+   "global-sap-cats-support-mfd_lisboa_DTS-2026-185842",
+   "carpinteiro-marceneiro-de-bancada_lisboa-ramada_OTS-2026-185834",
+   "eletricista-mem-martins-mfx_mem-martins_OTS-2026-185636",
+   "eletricista-de-instalacoes-eletricas-mfx_lisboa_OTS-2026-185207",
+   "tecnico-eletromecanico-mfx_rio-de-mouro_OTS-2026-185197",
+   "tecnico-de-metalomecanica-lisboa-mfx_rio-de-mouro_OTS-2026-185194",
+   "responsavel-de-armazem-mfx_lisboa_OTS-2026-185062",
+   "motorista-executivo-mfx_lisboa_OTS-2026-184748",
+   "fiel-de-armazem_lisboa-ramada_OTS-2026-185832"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -974,7 +983,11 @@
    "k5tuaR5KkmtdNxEY2v6YrW",
    "fiTSqgF66dafFWmHmaymzk",
    "izoEV3qt6v7e55mouu5MPQ",
-   "6g5xKQ4Hqs69e74R2XqWRv"
+   "6g5xKQ4Hqs69e74R2XqWRv",
+   "52TLfugsBSQgN8HDgtgywu",
+   "2ztFnpXE5C85yAREf8oRsD",
+   "hLDrCxSV2HKxpaX2Lmw5hx",
+   "1Xp2gx5t7cbCTsoHNSWGSB"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1342,12 +1355,13 @@
   "e90cc79835c6aae3",
   "231bbb96188fd491",
   "6697bc41b8c3f64c",
-  "29043792ed893554"
+  "29043792ed893554",
+  "50479db8a89059f1"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 115,
+   "bos": 116,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1409,7 +1423,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 696,
+  "elenen": 708,
   "tekrar": 24
  }
 }
