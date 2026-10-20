@@ -618,7 +618,8 @@
    "vendedor-de-balcao-material-eletrico-mfx_torres-vedras_OTS-2026-185867",
    "buyer-support-agent-french-speaker-mfx_lisbon-hybrid_OTS-2026-185864",
    "tecnico-de-procurement-mfx_lisboa_OTS-2026-185882",
-   "assistente-de-apoio-ao-cliente-mfx_lisboa_OTS-2026-185880"
+   "assistente-de-apoio-ao-cliente-mfx_lisboa_OTS-2026-185880",
+   "analista-de-controlo-de-qualidade-industrial_calhandriz-alverca_OTS-2026-185742"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1369,7 +1370,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 118,
+   "bos": 119,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1431,7 +1432,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 716,
+  "elenen": 717,
   "tekrar": 24
  }
 }
