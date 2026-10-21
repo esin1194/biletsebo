@@ -1687,7 +1687,8 @@
    "t1-mobilado-e-equipado-totalmente-remodelado-alto-da-ajuda-ID1j3ee",
    "apartamento-t2-para-arrendamento-ID1j3e1",
    "t4-1-remodelado-com-elevador-114m2-area-bruta-privativa-excelente-ID1j3dl",
-   "apartamento-1-quartos-29-m2-novo-ID9P5lkf"
+   "apartamento-1-quartos-29-m2-novo-ID9P5lkf",
+   "t3-arroios-mobilado-ID1j3kG"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2422,7 +2423,10 @@
    "arrenda-se-apartamento-t1-mobilado-com-lareira-IDJER4u",
    "arrendam-se-3-apartamentos-novas-t1-em-camarate-despesas-includas-IDJEQqq",
    "t2-reboleira-atalaia-IDJlxef",
-   "arrenda-se-estdio-t0-moderno-e-mobilado-IDJEPZc"
+   "arrenda-se-estdio-t0-moderno-e-mobilado-IDJEPZc",
+   "aluguer-t2-em-coliving-odivelas-IDIOGDB",
+   "arrendo-t0-com-marquise-IDJETwM",
+   "t2-luxo-equipado-e-mobilado-IDJETua"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3423,7 +3427,8 @@
    "apartments/1734930",
    "apartments/1734960",
    "apartments/1735264",
-   "apartments/438127"
+   "apartments/438127",
+   "apartments/462535"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4305,13 +4310,15 @@
    "26447051",
    "38968085",
    "1303550730375750748",
-   "3262787"
+   "3262787",
+   "1693340486455363506",
+   "1004511099768096544"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 141,
+   "bos": 142,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4346,15 +4353,15 @@
   },
   "https://www.airbnb.com/s/Lisbon--Portugal/homes?date_picker_type=monthly_stay&monthly_start_date=2026-11-01&monthly_length=3&room_types%5B%5D=Entire%20home%2Fapt": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   }
  },
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 2,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5228,8 +5235,15 @@
   "f134ee9da43b8070",
   "dd2fbf6ddb85b962",
   "31b5633830742fdd",
-  "a4063bf1d42c9aea"
+  "a4063bf1d42c9aea",
+  "02c372c9719c1e8c",
+  "68fbd1e4475ddff9",
+  "f00eec3428629902"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · T3 Arroios Mobilado · Rua Ferreira Lapa, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 110 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t3-arroios-mobilado-ID1j3kG",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2 Luxo - Equipado e mobilado · 1.750 € · Alcabideche - Hoje às 20:03\nhttps://www.olx.pt/d/anuncio/t2-luxo-equipado-e-mobilado-IDJETua.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · AVAILABLE NOW · star · 4.3 (11) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/462535"
+ ],
  "son_gonderim": "2026-10-21"
 }
