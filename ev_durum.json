@@ -2387,7 +2387,9 @@
    "alugo-t2-em-toledo-IDJEMQS",
    "t2-1-renovado-atelier-convertido-junto-a-escola-primria-em-belas-IDJEMEx",
    "apartamento-t2-para-alugar-IDJENvM",
-   "aluguer-apartamento-t2-novo-IDJENv6"
+   "aluguer-apartamento-t2-novo-IDJENv6",
+   "arrenda-se-elegante-moradia-t3-em-ambiente-rural-de-excelncia-a-apenas-10-minutos-de-torres-vedras-IDJuNag",
+   "arrendamento-apartamento-t3-runa-torres-vedras-IDJqb7q"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4269,7 +4271,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 138,
+   "bos": 139,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4311,7 +4313,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 9,
   "tekrar": 1
  },
  "imzalar": [
@@ -5172,10 +5174,12 @@
   "ee4a346ee10c6c71",
   "34e27fcbd1f9ef5d",
   "ee7d8eca15a94eea",
-  "1c4e7238ed2219f5"
+  "1c4e7238ed2219f5",
+  "378d6c12ca9a294e"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nAluguer Apartamento T2 Novo · 1.150 € · Azueira E Sobral Da Abelheira - 20 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/aluguer-apartamento-t2-novo-IDJENv6.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nAluguer Apartamento T2 Novo · 1.150 € · Azueira E Sobral Da Abelheira - 20 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/aluguer-apartamento-t2-novo-IDJENv6.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nArrenda-se Elegante Moradia T3 em Ambiente Rural de Excelência – A Apenas 10 Minutos de Torres Vedras · 1.300 € · Dois Portos E Runa - Hoje às 06:07\nhttps://www.olx.pt/d/anuncio/arrenda-se-elegante-moradia-t3-em-ambiente-rural-de-excelncia-a-apenas-10-minutos-de-torres-vedras-IDJuNag.html"
  ],
  "son_gonderim": "2026-10-20"
 }
