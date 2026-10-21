@@ -2426,7 +2426,8 @@
    "arrenda-se-estdio-t0-moderno-e-mobilado-IDJEPZc",
    "aluguer-t2-em-coliving-odivelas-IDIOGDB",
    "arrendo-t0-com-marquise-IDJETwM",
-   "t2-luxo-equipado-e-mobilado-IDJETua"
+   "t2-luxo-equipado-e-mobilado-IDJETua",
+   "t0-1-com-quintal-na-venteira-mobilado-e-equipado-IDJEUR6"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4312,13 +4313,20 @@
    "1303550730375750748",
    "3262787",
    "1693340486455363506",
-   "1004511099768096544"
+   "1004511099768096544",
+   "889831564170554023",
+   "1025411034207646771",
+   "1759458114924826377",
+   "1239710410446310881",
+   "1506549860047679007",
+   "1390763083410512966",
+   "1715811202603138159"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 142,
+   "bos": 143,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4361,7 +4369,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 2,
-  "tekrar": 2
+  "tekrar": 8
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5238,12 +5246,16 @@
   "a4063bf1d42c9aea",
   "02c372c9719c1e8c",
   "68fbd1e4475ddff9",
-  "f00eec3428629902"
+  "f00eec3428629902",
+  "bfac948e62e63034",
+  "99d6b8acfbcf0c90"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · T3 Arroios Mobilado · Rua Ferreira Lapa, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 110 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t3-arroios-mobilado-ID1j3kG",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2 Luxo - Equipado e mobilado · 1.750 € · Alcabideche - Hoje às 20:03\nhttps://www.olx.pt/d/anuncio/t2-luxo-equipado-e-mobilado-IDJETua.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · AVAILABLE NOW · star · 4.3 (11) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/462535"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · AVAILABLE NOW · star · 4.3 (11) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/462535",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0+1 com Quintal na Venteira (Mobilado e Equipado) · 800 € · Venteira - 21 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t0-1-com-quintal-na-venteira-mobilado-e-equipado-IDJEUR6.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · 4,78 de uma avaliação média de 5, 67 avaliações · 4,78 (67) · Apartamento com terraço Estrela · 1 quarto · 2 camas · 1 banheiro · $ 3.799 USD · $ 2.583 USD · $ 2.583 USD mensal, preço original: $ 3.799 USD · mensal · Desconto mensal · Preferi…\nhttps://www.airbnb.com/rooms/1759458114924826377"
  ],
  "son_gonderim": "2026-10-21"
 }
