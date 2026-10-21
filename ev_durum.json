@@ -1667,7 +1667,8 @@
    "apartamento-t1-com-estacionamento-no-luma-lumiar-lisboa-ID1j2VA",
    "apartamento-t2-com-elevador-parque-eduardo-vii-ID1j2UX",
    "apartamento-3-quartos-139-m2-terraco-ID9P5lkc",
-   "apartamento-t1-remodelado-alto-dos-moinhos-ID1j359"
+   "apartamento-t1-remodelado-alto-dos-moinhos-ID1j359",
+   "apartamento-4-quartos-62-m2-varanda-ID9P5lkd"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2384,7 +2385,9 @@
    "arrenda-se-t2-com-ptio-e-tilheiro-gua-e-luz-sem-animais-na-estao-de-mafra-1-ms-de-cauo-IDJEMS2",
    "arrendamento-de-apartamento-t1-IDJEMTe",
    "alugo-t2-em-toledo-IDJEMQS",
-   "t2-1-renovado-atelier-convertido-junto-a-escola-primria-em-belas-IDJEMEx"
+   "t2-1-renovado-atelier-convertido-junto-a-escola-primria-em-belas-IDJEMEx",
+   "apartamento-t2-para-alugar-IDJENvM",
+   "aluguer-apartamento-t2-novo-IDJENv6"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3384,7 +3387,8 @@
    "apartments/455312",
    "apartments/1734930",
    "apartments/1734960",
-   "apartments/1735264"
+   "apartments/1735264",
+   "apartments/438127"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4265,7 +4269,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 137,
+   "bos": 138,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4307,7 +4311,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 8,
   "tekrar": 1
  },
  "imzalar": [
@@ -5167,8 +5171,11 @@
   "9bf4c450850547dc",
   "ee4a346ee10c6c71",
   "34e27fcbd1f9ef5d",
-  "ee7d8eca15a94eea"
+  "ee7d8eca15a94eea",
+  "1c4e7238ed2219f5"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nAluguer Apartamento T2 Novo · 1.150 € · Azueira E Sobral Da Abelheira - 20 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/aluguer-apartamento-t2-novo-IDJENv6.html"
+ ],
  "son_gonderim": "2026-10-20"
 }
