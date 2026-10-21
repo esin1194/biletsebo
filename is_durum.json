@@ -619,7 +619,10 @@
    "buyer-support-agent-french-speaker-mfx_lisbon-hybrid_OTS-2026-185864",
    "tecnico-de-procurement-mfx_lisboa_OTS-2026-185882",
    "assistente-de-apoio-ao-cliente-mfx_lisboa_OTS-2026-185880",
-   "analista-de-controlo-de-qualidade-industrial_calhandriz-alverca_OTS-2026-185742"
+   "analista-de-controlo-de-qualidade-industrial_calhandriz-alverca_OTS-2026-185742",
+   "diretor-de-obra-mfx_lisboa_OTS-2026-185914",
+   "tecnico-de-operacoes-e-instalacoes-mxf_lisboa_OTS-2026-185904",
+   "assistente-apoio-ao-cliente-pt-finsdesemana-teletrabalho-mfx_lisboa_OTS-2026-185361"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -996,7 +999,9 @@
    "2ztFnpXE5C85yAREf8oRsD",
    "hLDrCxSV2HKxpaX2Lmw5hx",
    "1Xp2gx5t7cbCTsoHNSWGSB",
-   "ussrNeE43aYSN5kN6hnWLQ"
+   "ussrNeE43aYSN5kN6hnWLQ",
+   "1fQ9kLSXUcYyyoG4XhQcSS",
+   "rgmY5AP9MjTZmy8ftMpPov"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1365,12 +1370,13 @@
   "231bbb96188fd491",
   "6697bc41b8c3f64c",
   "29043792ed893554",
-  "50479db8a89059f1"
+  "50479db8a89059f1",
+  "a84fb13bea4337e7"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 121,
+   "bos": 122,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1432,7 +1438,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 717,
+  "elenen": 721,
   "tekrar": 24
  }
 }
