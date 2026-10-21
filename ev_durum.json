@@ -1668,7 +1668,16 @@
    "apartamento-t2-com-elevador-parque-eduardo-vii-ID1j2UX",
    "apartamento-3-quartos-139-m2-terraco-ID9P5lkc",
    "apartamento-t1-remodelado-alto-dos-moinhos-ID1j359",
-   "apartamento-4-quartos-62-m2-varanda-ID9P5lkd"
+   "apartamento-4-quartos-62-m2-varanda-ID9P5lkd",
+   "estudio-localizado-em-penha-lisbon-ID1j3cC",
+   "apartamento-com-1-quartos-localizado-em-santa-apolonia-lisbon-ID1j3cv",
+   "apartamento-com-1-quartos-localizado-em-ajuda-lisbon-ID1j3cr",
+   "apartamento-t1-com-patio-para-arrendamento-penha-de-franca-ID1j3b1",
+   "apartamento-t1-em-estrela-de-35-00-m2-ID1j3ah",
+   "campolide-t3-renovado-com-disponibilidade-imediata-ID1j38d",
+   "apartamento-t2-para-arrendamento-ID1j37C",
+   "t1-em-alvalade-aquecimento-central-pronto-a-habitar-ID1j36y",
+   "apartamento-5-quartos-78-m2-jardim-ID9P5lke"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2389,7 +2398,13 @@
    "apartamento-t2-para-alugar-IDJENvM",
    "aluguer-apartamento-t2-novo-IDJENv6",
    "arrenda-se-elegante-moradia-t3-em-ambiente-rural-de-excelncia-a-apenas-10-minutos-de-torres-vedras-IDJuNag",
-   "arrendamento-apartamento-t3-runa-torres-vedras-IDJqb7q"
+   "arrendamento-apartamento-t3-runa-torres-vedras-IDJqb7q",
+   "t2-odivelas-arroja-com-parqueamento-IDJARt0",
+   "t1-para-arrendamento-em-cascais-IDJEP2L",
+   "t1-bucelas-aluga-IDJEP2g",
+   "arrenda-se-apartamento-t2-rua-carlos-anjos-IDJEOZE",
+   "arrendo-t2-entrada-em-novembro-IDJEO10",
+   "arrendamento-de-apartamento-em-cascais-IDJENEg"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3450,7 +3465,8 @@
    "ut1299251",
    "ut1095695",
    "ut1095667",
-   "ut1726705"
+   "ut1726705",
+   "ut1747667"
   ],
   "uniplaces.com": [
    "890027",
@@ -3995,7 +4011,11 @@
    "895457",
    "900217",
    "900213",
-   "900209"
+   "900209",
+   "900370",
+   "900321",
+   "900270",
+   "900269"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4271,7 +4291,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 139,
+   "bos": 140,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4313,7 +4333,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 9,
+  "elenen": 25,
   "tekrar": 1
  },
  "imzalar": [
@@ -5175,11 +5195,19 @@
   "34e27fcbd1f9ef5d",
   "ee7d8eca15a94eea",
   "1c4e7238ed2219f5",
-  "378d6c12ca9a294e"
+  "378d6c12ca9a294e",
+  "4abd250112248187",
+  "5bd8211b3ad60fd8",
+  "94af0e55d46fe671",
+  "4c7a342583e8f3d5"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nAluguer Apartamento T2 Novo · 1.150 € · Azueira E Sobral Da Abelheira - 20 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/aluguer-apartamento-t2-novo-IDJENv6.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nArrenda-se Elegante Moradia T3 em Ambiente Rural de Excelência – A Apenas 10 Minutos de Torres Vedras · 1.300 € · Dois Portos E Runa - Hoje às 06:07\nhttps://www.olx.pt/d/anuncio/arrenda-se-elegante-moradia-t3-em-ambiente-rural-de-excelncia-a-apenas-10-minutos-de-torres-vedras-IDJuNag.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nArrenda-se Elegante Moradia T3 em Ambiente Rural de Excelência – A Apenas 10 Minutos de Torres Vedras · 1.300 € · Dois Portos E Runa - Hoje às 06:07\nhttps://www.olx.pt/d/anuncio/arrenda-se-elegante-moradia-t3-em-ambiente-rural-de-excelncia-a-apenas-10-minutos-de-torres-vedras-IDJuNag.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 800 €\n800 € · Apartamento T1 em Estrela de 35,00 m2 · Santos-o-Velho - Madragoa, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 35 m² · Andar · rés do chão · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-estrela-de-35-00-m2-ID1j3ah",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT2 Odivelas - Arroja, com parqueamento. · 1.100 € · Negociável · Odivelas - Para o topo hoje às 10:30\nhttps://www.olx.pt/d/anuncio/t2-odivelas-arroja-com-parqueamento-IDJARt0.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 para arrendamento em Cascais · 1.100 € · Alcabideche - Hoje às 11:47\nhttps://www.olx.pt/d/anuncio/t1-para-arrendamento-em-cascais-IDJEP2L.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nT1 bucelas aluga · 700 € · Loures - Hoje às 11:48\nhttps://www.olx.pt/d/anuncio/t1-bucelas-aluga-IDJEP2g.html"
  ],
  "son_gonderim": "2026-10-20"
 }
