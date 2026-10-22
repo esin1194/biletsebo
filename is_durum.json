@@ -625,7 +625,8 @@
    "assistente-apoio-ao-cliente-pt-finsdesemana-teletrabalho-mfx_lisboa_OTS-2026-185361",
    "scheduler-mfx_lisboa_PTS-2026-185688",
    "servente-mfx_vialonga_OTS-2026-185922",
-   "assistente-de-eventos-e-hospitality-mxf_lisboa_OTS-2026-185919"
+   "assistente-de-eventos-e-hospitality-mxf_lisboa_OTS-2026-185919",
+   "product-data-specialist-mfx_carnaxide_PTS-2026-185947"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1380,7 +1381,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 126,
+   "bos": 127,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1442,7 +1443,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 725,
+  "elenen": 726,
   "tekrar": 24
  }
 }
