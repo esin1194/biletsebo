@@ -1690,7 +1690,18 @@
    "apartamento-1-quartos-29-m2-novo-ID9P5lkf",
    "t3-arroios-mobilado-ID1j3kG",
    "apartamento-1-quartos-111-m2-garagem-ID9P5lkg",
-   "apartamento-t1-em-alcntara-de-40-00-m2-ID1j3tv"
+   "apartamento-t1-em-alcntara-de-40-00-m2-ID1j3tv",
+   "apartamento-t1-arrendamento-em-lisboa-predio-com-elevador-ID1j3Cs",
+   "apartamento-t1-para-arrendamento-ID1j3Bw",
+   "apartamento-com-1-quartos-localizado-em-bairro-alto-lisbon-ID1j3AW",
+   "estudio-localizado-em-olaias-lisbon-ID1j3AG",
+   "apartamento-t3-para-arrendamento-ID1j3zV",
+   "apartamento-t1-para-arrendamento-ID1j3vS",
+   "apartamento-t2-para-arrendamento-ID1j3wb",
+   "apartamento-t3-para-arrendamento-ID1j3w6",
+   "luminoso-e-moderno-apartamento-totalmente-remodelado-com-varanda-gener-ID1j3w3",
+   "apartamento-t3-mobilado-para-arrendamento-em-arroios-lisboa-ID1j3kG",
+   "apartamento-3-quartos-128-m2-terraco-ID9P5lkh"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2430,7 +2441,13 @@
    "arrendo-t0-com-marquise-IDJETwM",
    "t2-luxo-equipado-e-mobilado-IDJETua",
    "t0-1-com-quintal-na-venteira-mobilado-e-equipado-IDJEUR6",
-   "aluga-se-t2-odivelas-quinta-do-mendes-IDJEWBh"
+   "aluga-se-t2-odivelas-quinta-do-mendes-IDJEWBh",
+   "casa-ajuda-arrendamento-IDJmpIp",
+   "t1-olivais-arrendamento-IDJEVxm",
+   "excelente-apartamento-t2-mobilado-e-equipado-em-benfica-1-500-IDJuwvW",
+   "magnfico-apartamento-t2-arrenda-nas-colinas-do-cruzeiro-odivelas-IDJEVhD",
+   "alugo-t1-em-santo-isidoro-IDJEVe4",
+   "arrenda-se-t0-mafra-IDJEV6I"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3496,7 +3513,8 @@
    "ut1095667",
    "ut1726705",
    "ut1747667",
-   "ut1740478"
+   "ut1740478",
+   "ut1745969"
   ],
   "uniplaces.com": [
    "890027",
@@ -4047,7 +4065,8 @@
    "900270",
    "900269",
    "840091",
-   "893645"
+   "893645",
+   "900547"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4327,13 +4346,14 @@
    "1506549860047679007",
    "1390763083410512966",
    "1715811202603138159",
-   "1800993674376151724"
+   "1800993674376151724",
+   "1801402500855109441"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 145,
+   "bos": 146,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4375,8 +4395,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
-  "tekrar": 9
+  "elenen": 19,
+  "tekrar": 10
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5256,7 +5276,13 @@
   "f00eec3428629902",
   "bfac948e62e63034",
   "99d6b8acfbcf0c90",
-  "f88b1f4c79b18b0d"
+  "f88b1f4c79b18b0d",
+  "3e34c425a2298447",
+  "526777941b6402d9",
+  "97dd3aca87e08a5d",
+  "23b01726cd2ebc42",
+  "0c033c1f32d95958",
+  "0e3fe11f2992d98f"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · T3 Arroios Mobilado · Rua Ferreira Lapa, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 110 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t3-arroios-mobilado-ID1j3kG",
@@ -5264,7 +5290,13 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · AVAILABLE NOW · star · 4.3 (11) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/462535",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0+1 com Quintal na Venteira (Mobilado e Equipado) · 800 € · Venteira - 21 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t0-1-com-quintal-na-venteira-mobilado-e-equipado-IDJEUR6.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · 4,78 de uma avaliação média de 5, 67 avaliações · 4,78 (67) · Apartamento com terraço Estrela · 1 quarto · 2 camas · 1 banheiro · $ 3.799 USD · $ 2.583 USD · $ 2.583 USD mensal, preço original: $ 3.799 USD · mensal · Desconto mensal · Preferi…\nhttps://www.airbnb.com/rooms/1759458114924826377",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T1 em Alcântara de 40,00 m2 · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · Andar · 2 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-alcntara-de-40-00-m2-ID1j3tv"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T1 em Alcântara de 40,00 m2 · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · Andar · 2 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-alcntara-de-40-00-m2-ID1j3tv",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · Apartamento T1 para arrendamento · Rua Alfredo Mesquita, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 53.35 m² · Andar · 2 andar · Grupo ConviCtus · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j3vS",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · Apartamento T3 Mobilado para Arrendamento em Arroios, Lisboa · Rua Ferreira Lapa, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 110 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-mobilado-para-arrendamento-em-arroios-lisboa-ID1j3kG",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nEXCELENTE APARTAMENTO T2 MOBILADO E EQUIPADO EM BENFICA 1.500€ · 1.500 € · Benfica - Para o topo hoje às 11:21\nhttps://www.olx.pt/d/anuncio/excelente-apartamento-t2-mobilado-e-equipado-em-benfica-1-500-IDJuwvW.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nMagnífico Apartamento T2 Arrenda nas Colinas do Cruzeiro, Odivelas · 2.000 € · Negociável · Odivelas - Hoje às 11:15\nhttps://www.olx.pt/d/anuncio/magnfico-apartamento-t2-arrenda-nas-colinas-do-cruzeiro-odivelas-IDJEVhD.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nAlugo T1 em santo isidoro · 700 € · Santo Isidoro - Hoje às 10:55\nhttps://www.olx.pt/d/anuncio/alugo-t1-em-santo-isidoro-IDJEVe4.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nArrenda se T0 Mafra · 700 € · Mafra - Hoje às 10:32\nhttps://www.olx.pt/d/anuncio/arrenda-se-t0-mafra-IDJEV6I.html"
  ],
  "son_gonderim": "2026-10-21"
 }
