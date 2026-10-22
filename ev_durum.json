@@ -1689,7 +1689,8 @@
    "t4-1-remodelado-com-elevador-114m2-area-bruta-privativa-excelente-ID1j3dl",
    "apartamento-1-quartos-29-m2-novo-ID9P5lkf",
    "t3-arroios-mobilado-ID1j3kG",
-   "apartamento-1-quartos-111-m2-garagem-ID9P5lkg"
+   "apartamento-1-quartos-111-m2-garagem-ID9P5lkg",
+   "apartamento-t1-em-alcntara-de-40-00-m2-ID1j3tv"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2428,7 +2429,8 @@
    "aluguer-t2-em-coliving-odivelas-IDIOGDB",
    "arrendo-t0-com-marquise-IDJETwM",
    "t2-luxo-equipado-e-mobilado-IDJETua",
-   "t0-1-com-quintal-na-venteira-mobilado-e-equipado-IDJEUR6"
+   "t0-1-com-quintal-na-venteira-mobilado-e-equipado-IDJEUR6",
+   "aluga-se-t2-odivelas-quinta-do-mendes-IDJEWBh"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3431,7 +3433,8 @@
    "apartments/1735264",
    "apartments/438127",
    "apartments/462535",
-   "apartments/1084351"
+   "apartments/1084351",
+   "apartments/1730051"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4330,7 +4333,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 144,
+   "bos": 145,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4372,7 +4375,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 6,
   "tekrar": 9
  },
  "imzalar": [
@@ -5252,14 +5255,16 @@
   "68fbd1e4475ddff9",
   "f00eec3428629902",
   "bfac948e62e63034",
-  "99d6b8acfbcf0c90"
+  "99d6b8acfbcf0c90",
+  "f88b1f4c79b18b0d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · T3 Arroios Mobilado · Rua Ferreira Lapa, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 110 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t3-arroios-mobilado-ID1j3kG",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2 Luxo - Equipado e mobilado · 1.750 € · Alcabideche - Hoje às 20:03\nhttps://www.olx.pt/d/anuncio/t2-luxo-equipado-e-mobilado-IDJETua.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · AVAILABLE NOW · star · 4.3 (11) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/462535",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0+1 com Quintal na Venteira (Mobilado e Equipado) · 800 € · Venteira - 21 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t0-1-com-quintal-na-venteira-mobilado-e-equipado-IDJEUR6.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · 4,78 de uma avaliação média de 5, 67 avaliações · 4,78 (67) · Apartamento com terraço Estrela · 1 quarto · 2 camas · 1 banheiro · $ 3.799 USD · $ 2.583 USD · $ 2.583 USD mensal, preço original: $ 3.799 USD · mensal · Desconto mensal · Preferi…\nhttps://www.airbnb.com/rooms/1759458114924826377"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · 4,78 de uma avaliação média de 5, 67 avaliações · 4,78 (67) · Apartamento com terraço Estrela · 1 quarto · 2 camas · 1 banheiro · $ 3.799 USD · $ 2.583 USD · $ 2.583 USD mensal, preço original: $ 3.799 USD · mensal · Desconto mensal · Preferi…\nhttps://www.airbnb.com/rooms/1759458114924826377",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T1 em Alcântara de 40,00 m2 · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · Andar · 2 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-alcntara-de-40-00-m2-ID1j3tv"
  ],
  "son_gonderim": "2026-10-21"
 }
