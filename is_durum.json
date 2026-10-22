@@ -626,7 +626,14 @@
    "scheduler-mfx_lisboa_PTS-2026-185688",
    "servente-mfx_vialonga_OTS-2026-185922",
    "assistente-de-eventos-e-hospitality-mxf_lisboa_OTS-2026-185919",
-   "product-data-specialist-mfx_carnaxide_PTS-2026-185947"
+   "product-data-specialist-mfx_carnaxide_PTS-2026-185947",
+   "operador-de-empilhador-telescopico_carregado_OTS-2026-185990",
+   "operador-de-armazem-parttime-07h12h_sao-juliao-do-tojal_OTS-2026-185985",
+   "assistente-de-loja-vodafone-mfx_amoreiras_OTS-2026-185976",
+   "promotor-telecomunicacoes-mfx-fulltime-quiosque-amigo-vasco-da-gama_parque-das-nacoes_OTS-2026-185980",
+   "assistente-comercial-mfx_strada-odivelas_OTS-2026-185982",
+   "enfermeiro-mfx_remoto_PTS-2026-185970",
+   "assistente-de-loja-mfx_alcantara_OTS-2026-185879"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1006,7 +1013,12 @@
    "ussrNeE43aYSN5kN6hnWLQ",
    "1fQ9kLSXUcYyyoG4XhQcSS",
    "rgmY5AP9MjTZmy8ftMpPov",
-   "oAysrGanhtyvuJQPyZvxUk"
+   "oAysrGanhtyvuJQPyZvxUk",
+   "v3aUzPi6WTwt8BbAH19kPf",
+   "b5kDQGjr3TxHQT85R3kyhJ",
+   "7Y3q6puevSbJaijXXnRvjq",
+   "aFyiuVgUvUzTanWzKCfSwC",
+   "h3S9xXDZtvyAzTjEk5ZcAK"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1376,12 +1388,15 @@
   "6697bc41b8c3f64c",
   "29043792ed893554",
   "50479db8a89059f1",
-  "a84fb13bea4337e7"
+  "a84fb13bea4337e7",
+  "574487dfa3773ea6",
+  "15a14a814946eac8",
+  "33ba2cafb7908ce4"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 127,
+   "bos": 128,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1443,7 +1458,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 726,
+  "elenen": 735,
   "tekrar": 24
  }
 }
