@@ -633,7 +633,8 @@
    "promotor-telecomunicacoes-mfx-fulltime-quiosque-amigo-vasco-da-gama_parque-das-nacoes_OTS-2026-185980",
    "assistente-comercial-mfx_strada-odivelas_OTS-2026-185982",
    "enfermeiro-mfx_remoto_PTS-2026-185970",
-   "assistente-de-loja-mfx_alcantara_OTS-2026-185879"
+   "assistente-de-loja-mfx_alcantara_OTS-2026-185879",
+   "administrativo-operacional-mfx-part-time19h0000h00_lisboa-povoa-de-santa-iria_OTS-2026-185997"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1018,7 +1019,8 @@
    "b5kDQGjr3TxHQT85R3kyhJ",
    "7Y3q6puevSbJaijXXnRvjq",
    "aFyiuVgUvUzTanWzKCfSwC",
-   "h3S9xXDZtvyAzTjEk5ZcAK"
+   "h3S9xXDZtvyAzTjEk5ZcAK",
+   "s9iB3cYC78Jkbf37Mxh7aA"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1391,12 +1393,13 @@
   "a84fb13bea4337e7",
   "574487dfa3773ea6",
   "15a14a814946eac8",
-  "33ba2cafb7908ce4"
+  "33ba2cafb7908ce4",
+  "f877f293a11b6e27"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 128,
+   "bos": 129,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1458,7 +1461,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 735,
+  "elenen": 736,
   "tekrar": 24
  }
 }
