@@ -1688,7 +1688,8 @@
    "apartamento-t2-para-arrendamento-ID1j3e1",
    "t4-1-remodelado-com-elevador-114m2-area-bruta-privativa-excelente-ID1j3dl",
    "apartamento-1-quartos-29-m2-novo-ID9P5lkf",
-   "t3-arroios-mobilado-ID1j3kG"
+   "t3-arroios-mobilado-ID1j3kG",
+   "apartamento-1-quartos-111-m2-garagem-ID9P5lkg"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3429,7 +3430,8 @@
    "apartments/1734960",
    "apartments/1735264",
    "apartments/438127",
-   "apartments/462535"
+   "apartments/462535",
+   "apartments/1084351"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3490,7 +3492,8 @@
    "ut1095695",
    "ut1095667",
    "ut1726705",
-   "ut1747667"
+   "ut1747667",
+   "ut1740478"
   ],
   "uniplaces.com": [
    "890027",
@@ -4320,13 +4323,14 @@
    "1239710410446310881",
    "1506549860047679007",
    "1390763083410512966",
-   "1715811202603138159"
+   "1715811202603138159",
+   "1800993674376151724"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 143,
+   "bos": 144,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4368,8 +4372,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
-  "tekrar": 8
+  "elenen": 4,
+  "tekrar": 9
  },
  "imzalar": [
   "f6afeff342d106a9",
