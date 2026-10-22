@@ -1701,7 +1701,19 @@
    "apartamento-t3-para-arrendamento-ID1j3w6",
    "luminoso-e-moderno-apartamento-totalmente-remodelado-com-varanda-gener-ID1j3w3",
    "apartamento-t3-mobilado-para-arrendamento-em-arroios-lisboa-ID1j3kG",
-   "apartamento-3-quartos-128-m2-terraco-ID9P5lkh"
+   "apartamento-3-quartos-128-m2-terraco-ID9P5lkh",
+   "excelente-apartamento-t3-localizado-em-marvila-lisboa-ID1j3Pq",
+   "t3-remodelado-a-estrear-ID1j3MX",
+   "t2-a-estrear-no-empreendimento-luma-ID1j3MT",
+   "elegante-t1-mobilado-de-50-m-com-varanda-no-coracao-de-campolide-ID1j3MA",
+   "t0-rua-de-sao-felix-lapa-ID1j3Ms",
+   "apartamento-t2-no-parque-das-nacoes-ID1j3LY",
+   "apartamento-t1-para-arrendamento-ID1j3Ky",
+   "t3-para-arrendamento-na-rua-do-passadico-a-5-minutos-da-avenida-da-li-ID1j3Iu",
+   "t2-citadino-novo-na-av-24-de-julho-a-passos-do-tejo-em-predio-com-ID1j3It",
+   "sala-para-escritorio-sala-e-15-6-m2-com-varanda-ID1j3Ec",
+   "apartamento-t2-para-arrendamento-alvalade-lisboa-ID1j3DS",
+   "apartamento-4-quartos-97-m2-novo-ID9P5lki"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2447,7 +2459,10 @@
    "excelente-apartamento-t2-mobilado-e-equipado-em-benfica-1-500-IDJuwvW",
    "magnfico-apartamento-t2-arrenda-nas-colinas-do-cruzeiro-odivelas-IDJEVhD",
    "alugo-t1-em-santo-isidoro-IDJEVe4",
-   "arrenda-se-t0-mafra-IDJEV6I"
+   "arrenda-se-t0-mafra-IDJEV6I",
+   "apartamento-t3-1-nas-quinta-das-palmeiras-IDJBay1",
+   "alugo-duplex-loft-espacoso-muito-central-1100-s-cristovao-mobilado-equipado-18-meses-comecar-em-nov-1200eu-pm-IDJEZCB",
+   "estacao-da-amadora-IDJEYEs"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4066,7 +4081,11 @@
    "900269",
    "840091",
    "893645",
-   "900547"
+   "900547",
+   "892157",
+   "900677",
+   "900678",
+   "900832"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4347,13 +4366,16 @@
    "1390763083410512966",
    "1715811202603138159",
    "1800993674376151724",
-   "1801402500855109441"
+   "1801402500855109441",
+   "6807714",
+   "1181805766571477123",
+   "1295031605446012274"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 146,
+   "bos": 147,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4395,8 +4417,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 19,
-  "tekrar": 10
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5282,21 +5304,15 @@
   "97dd3aca87e08a5d",
   "23b01726cd2ebc42",
   "0c033c1f32d95958",
-  "0e3fe11f2992d98f"
+  "0e3fe11f2992d98f",
+  "e123a59ab7b8651a",
+  "1fdfd11e42ae222e",
+  "e342953eae45cde8",
+  "fd82240cfd9108f3",
+  "5f927f028d72010e",
+  "55c43314f59dc4f0",
+  "08e517df9ce519b7"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · T3 Arroios Mobilado · Rua Ferreira Lapa, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 110 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t3-arroios-mobilado-ID1j3kG",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nT2 Luxo - Equipado e mobilado · 1.750 € · Alcabideche - Hoje às 20:03\nhttps://www.olx.pt/d/anuncio/t2-luxo-equipado-e-mobilado-IDJETua.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · AVAILABLE NOW · star · 4.3 (11) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info\nhttps://www.spotahome.com/lisbon/for-rent:apartments/462535",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nT0+1 com Quintal na Venteira (Mobilado e Equipado) · 800 € · Venteira - 21 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t0-1-com-quintal-na-venteira-mobilado-e-equipado-IDJEUR6.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · 4,78 de uma avaliação média de 5, 67 avaliações · 4,78 (67) · Apartamento com terraço Estrela · 1 quarto · 2 camas · 1 banheiro · $ 3.799 USD · $ 2.583 USD · $ 2.583 USD mensal, preço original: $ 3.799 USD · mensal · Desconto mensal · Preferi…\nhttps://www.airbnb.com/rooms/1759458114924826377",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T1 em Alcântara de 40,00 m2 · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · Andar · 2 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-alcntara-de-40-00-m2-ID1j3tv",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · Apartamento T1 para arrendamento · Rua Alfredo Mesquita, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 53.35 m² · Andar · 2 andar · Grupo ConviCtus · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j3vS",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · Apartamento T3 Mobilado para Arrendamento em Arroios, Lisboa · Rua Ferreira Lapa, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 110 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-mobilado-para-arrendamento-em-arroios-lisboa-ID1j3kG",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nEXCELENTE APARTAMENTO T2 MOBILADO E EQUIPADO EM BENFICA 1.500€ · 1.500 € · Benfica - Para o topo hoje às 11:21\nhttps://www.olx.pt/d/anuncio/excelente-apartamento-t2-mobilado-e-equipado-em-benfica-1-500-IDJuwvW.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nMagnífico Apartamento T2 Arrenda nas Colinas do Cruzeiro, Odivelas · 2.000 € · Negociável · Odivelas - Hoje às 11:15\nhttps://www.olx.pt/d/anuncio/magnfico-apartamento-t2-arrenda-nas-colinas-do-cruzeiro-odivelas-IDJEVhD.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nAlugo T1 em santo isidoro · 700 € · Santo Isidoro - Hoje às 10:55\nhttps://www.olx.pt/d/anuncio/alugo-t1-em-santo-isidoro-IDJEVe4.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nArrenda se T0 Mafra · 700 € · Mafra - Hoje às 10:32\nhttps://www.olx.pt/d/anuncio/arrenda-se-t0-mafra-IDJEV6I.html"
- ],
- "son_gonderim": "2026-10-21"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-22"
 }
