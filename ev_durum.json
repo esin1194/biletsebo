@@ -1713,7 +1713,8 @@
    "t2-citadino-novo-na-av-24-de-julho-a-passos-do-tejo-em-predio-com-ID1j3It",
    "sala-para-escritorio-sala-e-15-6-m2-com-varanda-ID1j3Ec",
    "apartamento-t2-para-arrendamento-alvalade-lisboa-ID1j3DS",
-   "apartamento-4-quartos-97-m2-novo-ID9P5lki"
+   "apartamento-4-quartos-97-m2-novo-ID9P5lki",
+   "apartamento-t3-na-r-do-zaire-lisboa-ID1j3Rb"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2462,7 +2463,9 @@
    "arrenda-se-t0-mafra-IDJEV6I",
    "apartamento-t3-1-nas-quinta-das-palmeiras-IDJBay1",
    "alugo-duplex-loft-espacoso-muito-central-1100-s-cristovao-mobilado-equipado-18-meses-comecar-em-nov-1200eu-pm-IDJEZCB",
-   "estacao-da-amadora-IDJEYEs"
+   "estacao-da-amadora-IDJEYEs",
+   "arrendo-apartamento-t2-IDJF2lG",
+   "arrenda-se-apartamento-t2-quinta-da-piedade-pvoa-de-santa-iria-IDJF12K"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3466,7 +3469,8 @@
    "apartments/438127",
    "apartments/462535",
    "apartments/1084351",
-   "apartments/1730051"
+   "apartments/1730051",
+   "apartments/1738705"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3529,7 +3533,8 @@
    "ut1726705",
    "ut1747667",
    "ut1740478",
-   "ut1745969"
+   "ut1745969",
+   "ut1539445"
   ],
   "uniplaces.com": [
    "890027",
@@ -4369,13 +4374,14 @@
    "1801402500855109441",
    "6807714",
    "1181805766571477123",
-   "1295031605446012274"
+   "1295031605446012274",
+   "17088279"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 147,
+   "bos": 148,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4417,8 +4423,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 4,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
