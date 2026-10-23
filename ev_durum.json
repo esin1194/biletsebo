@@ -735,7 +735,31 @@
    "34932042",
    "35181213",
    "35374767",
-   "35361844"
+   "35361844",
+   "35431791",
+   "35403854",
+   "35431112",
+   "35431185",
+   "35403865",
+   "35403855",
+   "35403129",
+   "35403845",
+   "35402622",
+   "35402605",
+   "35402585",
+   "35224250",
+   "35096949",
+   "35430255",
+   "35430311",
+   "35430299",
+   "35426701",
+   "35426699",
+   "35429814",
+   "35430036",
+   "35426500",
+   "35426492",
+   "35426494",
+   "35426476"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -1732,7 +1756,19 @@
    "t1-telheiras-com-cozinha-equipada-ID1j3XW",
    "apartamento-t1-sem-moveis-para-arrendamento-em-santo-antonio-ID1j3Xv",
    "apartamento-t2-para-arrendamento-ID1j3Vy",
-   "apartamento-t1-em-avenidas-novas-lisboa-ID1j3WQ"
+   "apartamento-t1-em-avenidas-novas-lisboa-ID1j3WQ",
+   "apartamento-t2-na-rua-da-palma-mobilado-ID1j45f",
+   "panteao-nacional-estudio-para-alugar-ID1j4dc",
+   "apartamento-t2-renovado-para-arrendamento-em-edificio-reabilitado-ID1j4ci",
+   "luminoso-t1-para-arrendamento-no-beato-ID1j4bE",
+   "t1-mobilado-na-lapa-54-m2-predio-renovado-ID1j4bF",
+   "apartamento-t0-novo-a-estrear-na-lapa-junto-a-basilica-da-estrela-ID1j49w",
+   "apartamento-t0-para-arrendamento-ID1j494",
+   "apartamento-t3-para-arrendamento-ID1j46h",
+   "arrendamento-t2-na-penha-de-franca-muita-luz-pronto-a-habitar-ID1j45r",
+   "apartamento-t1-para-arrendamento-areeiro-ID1j45n",
+   "t3-com-varandas-garagem-com-carregamento-eletrico-e-arrecadacao-sao-ID1j45m",
+   "apartamento-4-quartos-119-m2-novo-ID9P5lkl"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2492,7 +2528,10 @@
    "procuro-t2-com-urgencia-IDJF62T",
    "t1-remodelado-com-vista-incrvel-e-duas-varandas-na-encosta-do-sol-amadora-IDJF5QK",
    "arrendo-apartamentos-t2-IDJFa5j",
-   "arrendamento-de-apartamento-t3-c-dois-lugares-de-parqueamento-na-quinta-do-almirante-IDJF8Jm"
+   "arrendamento-de-apartamento-t3-c-dois-lugares-de-parqueamento-na-quinta-do-almirante-IDJF8Jm",
+   "arrenda-se-t1-1-em-odivelas-IDJFcjY",
+   "panteo-nacional-estdio-para-alugar-IDJFbXW",
+   "rent-t2-martim-moniz-only-indian-or-bengali-or-pakistani-IDJFbDN"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4412,14 +4451,15 @@
    "43094339",
    "965204539042898861",
    "1081878994912216305",
-   "1162236501223263867"
+   "1162236501223263867",
+   "755585045762958443"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 152,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -4460,8 +4500,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 26,
-  "tekrar": 6
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5363,18 +5403,21 @@
   "0611ff465a0ca570",
   "4202926fde6a76f0",
   "3a5c769f1276ff93",
-  "024aaed4f9c21325"
+  "024aaed4f9c21325",
+  "4340b2405eeef38f",
+  "7772cb662157bc95",
+  "c27b1468efcbb419",
+  "ead8dd02eba03bf2",
+  "125d7de0f70184f5",
+  "5617ba5ef761eaee",
+  "405c5cdc85701d02",
+  "9348601537f95ea6",
+  "47b252858cde4321",
+  "aabf42c4bf65f12a",
+  "adbf0b978f503cc5",
+  "fd588aa6e3a0a9af",
+  "54d75795ec1c7d2f"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nT2 novo em moradia germinada com vista mar · 1.900 € · Carcavelos E Parede - Hoje às 10:48\nhttps://www.olx.pt/d/anuncio/t2-novo-em-moradia-germinada-com-vista-mar-IDJBhoc.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 semi novo para arrendamento em Famoes, Odivelas · 1.150 € · Pontinha E Famões - Hoje às 09:47\nhttps://www.olx.pt/d/anuncio/t1-semi-novo-para-arrendamento-em-famoes-odivelas-IDJF7yh.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nArrendamento T1 em Famoes, Odivelas · 1.150 € · Pontinha E Famões - Hoje às 09:41\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-em-famoes-odivelas-IDJF7sG.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nT1 Remodelado com Vista Incrível e Duas Varandas na Encosta do Sol, Amadora · 900 € · Encosta do Sol - Hoje às 07:41\nhttps://www.olx.pt/d/anuncio/t1-remodelado-com-vista-incrvel-e-duas-varandas-na-encosta-do-sol-amadora-IDJF5QK.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T1 Renovado e Mobilado para Arrendamento | Beato, Lisboa · Rua Actor Augusto de Melo, Madre de Deus, Beato, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 37 m² · Century 21 LUX II · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-renovado-e-mobilado-para-arrendamento-beato-lisboa-ID1j43d",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.150 €\n1150 € · Apartamento T1 para arrendamento · Rua Adelaide Cabete, Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Andar · 1 andar · RE/MAX PLACE STRADA · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j3Yx",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.850 €\n1850 € · Apartamento T2 para arrendamento · Rua de Infantaria 16, Centro, Campo de Ourique, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 78 m² · Andar · 1 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1j3Vy",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nArrendamento de apartamento T3 c/ dois lugares de parqueamento na Quinta do Almirante · 1.600 € · Santo António Dos Cavaleiros E Frielas - Hoje às 12:03\nhttps://www.olx.pt/d/anuncio/arrendamento-de-apartamento-t3-c-dois-lugares-de-parqueamento-na-quinta-do-almirante-IDJF8Jm.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,36 de uma avaliação média de 5, 67 avaliações · 4,36 (67) · Apartamento 1D, coração da cidade, a 250 metros do Rossio · 1 quarto · 2 camas · 1 banheiro · $ 3.006 USD · $ 1.744 USD · $ 1.744 USD mensal, preço original: $ 3.006 USD · mensal ·…\nhttps://www.airbnb.com/rooms/1162236501223263867"
- ],
- "son_gonderim": "2026-10-22"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-23"
 }
