@@ -634,7 +634,14 @@
    "assistente-comercial-mfx_strada-odivelas_OTS-2026-185982",
    "enfermeiro-mfx_remoto_PTS-2026-185970",
    "assistente-de-loja-mfx_alcantara_OTS-2026-185879",
-   "administrativo-operacional-mfx-part-time19h0000h00_lisboa-povoa-de-santa-iria_OTS-2026-185997"
+   "administrativo-operacional-mfx-part-time19h0000h00_lisboa-povoa-de-santa-iria_OTS-2026-185997",
+   "educadora-de-infancia_lisboa_PTS-2026-186019",
+   "tecnicoa-de-trafego-assistencia-em-escala-mfx_aeroporto-de-lisboa_OTS-2026-177113",
+   "operador-de-assistencia-em-escala-carga-mfx_aeroporto-de-lisboa_OTS-2025-167295",
+   "tecnico-de-trafego-assistencia-em-escala-carga-mfx_aeroporto-de-lisboa_OTS-2025-167294",
+   "assistente-de-lounge-mfx_aeroporto-de-lisboa_OTS-2026-178208",
+   "aeroporto-assistentes-de-carros-de-bagagens-mfx_lisboa_OTS-2026-177720",
+   "buyer-claim-support-agent-french-speaker-mfx_lisbon-hybrid_OTS-2026-185864"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1399,7 +1406,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 132,
+   "bos": 133,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1461,7 +1468,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 736,
+  "elenen": 743,
   "tekrar": 24
  }
 }
