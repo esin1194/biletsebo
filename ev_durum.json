@@ -1715,7 +1715,8 @@
    "apartamento-t2-para-arrendamento-alvalade-lisboa-ID1j3DS",
    "apartamento-4-quartos-97-m2-novo-ID9P5lki",
    "apartamento-t3-na-r-do-zaire-lisboa-ID1j3Rb",
-   "apartamento-4-quartos-137-m2-jardim-ID9P5lkj"
+   "apartamento-4-quartos-137-m2-jardim-ID9P5lkj",
+   "apartamento-t2-em-estrela-de-45-00-m2-ID1j3SN"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4381,13 +4382,15 @@
    "17088279",
    "1440336065831552703",
    "1405822905594606961",
-   "43094339"
+   "43094339",
+   "965204539042898861",
+   "1081878994912216305"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 149,
+   "bos": 150,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4429,8 +4432,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
-  "tekrar": 4
+  "elenen": 8,
+  "tekrar": 6
  },
  "imzalar": [
   "f6afeff342d106a9",
