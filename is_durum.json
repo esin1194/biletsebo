@@ -641,7 +641,10 @@
    "tecnico-de-trafego-assistencia-em-escala-carga-mfx_aeroporto-de-lisboa_OTS-2025-167294",
    "assistente-de-lounge-mfx_aeroporto-de-lisboa_OTS-2026-178208",
    "aeroporto-assistentes-de-carros-de-bagagens-mfx_lisboa_OTS-2026-177720",
-   "buyer-claim-support-agent-french-speaker-mfx_lisbon-hybrid_OTS-2026-185864"
+   "buyer-claim-support-agent-french-speaker-mfx_lisbon-hybrid_OTS-2026-185864",
+   "customer-support-specialist-spanish-speaker-mfx_portugal_OTS-2026-185545",
+   "escriturario-mfx_oeiras_OTS-2026-186029",
+   "assistentes-gestao-telefonica-de-sinistros-mfx_lisboa_OTS-2026-186021"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1027,7 +1030,8 @@
    "7Y3q6puevSbJaijXXnRvjq",
    "aFyiuVgUvUzTanWzKCfSwC",
    "h3S9xXDZtvyAzTjEk5ZcAK",
-   "s9iB3cYC78Jkbf37Mxh7aA"
+   "s9iB3cYC78Jkbf37Mxh7aA",
+   "w7JsBEACmobWGn3E43WcMK"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1401,12 +1405,13 @@
   "574487dfa3773ea6",
   "15a14a814946eac8",
   "33ba2cafb7908ce4",
-  "f877f293a11b6e27"
+  "f877f293a11b6e27",
+  "d61ff818d55a315d"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 133,
+   "bos": 134,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1468,7 +1473,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 743,
+  "elenen": 746,
   "tekrar": 24
  }
 }
