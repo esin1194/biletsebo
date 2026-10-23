@@ -1719,7 +1719,20 @@
    "apartamento-t2-em-estrela-de-45-00-m2-ID1j3SN",
    "t2-lisboa-benfica-rua-dos-arneiros-ID1j3Ty",
    "t0-cosy-com-ar-condicionado-e-mobiliario-completo-areeiro-lisboa-ID1j3T2",
-   "apartamento-1-quartos-26-m2-luminoso-ID9P5lkk"
+   "apartamento-1-quartos-26-m2-luminoso-ID9P5lkk",
+   "apartamento-t1-com-estacionamento-conde-da-ribeira-lisboa-ID1j44X",
+   "t2-remodelado-tapada-merces-ID1j44T",
+   "t1-renovado-e-mobilado-para-arrendamento-beato-lisboa-ID1j43d",
+   "apartamento-t1-no-lumiar-lisboa-com-garagem-ID1j41t",
+   "apartamento-t1-para-arrendamento-ID1j41e",
+   "t2-totalmente-remodelado-e-a-estrear-com-varanda-olivais-lisboa-ID1j40Q",
+   "estudio-localizado-em-xabregas-lisbon-ID1j3Zx",
+   "estudio-localizado-em-intendente-lisbon-ID1j3Zl",
+   "apartamento-t1-para-arrendamento-ID1j3Yx",
+   "t1-telheiras-com-cozinha-equipada-ID1j3XW",
+   "apartamento-t1-sem-moveis-para-arrendamento-em-santo-antonio-ID1j3Xv",
+   "apartamento-t2-para-arrendamento-ID1j3Vy",
+   "apartamento-t1-em-avenidas-novas-lisboa-ID1j3WQ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2477,7 +2490,9 @@
    "arrendamento-t1-em-famoes-odivelas-IDJF7sG",
    "arrendamento-pequena-moradia-t2-brandoa-IDJAFSF",
    "procuro-t2-com-urgencia-IDJF62T",
-   "t1-remodelado-com-vista-incrvel-e-duas-varandas-na-encosta-do-sol-amadora-IDJF5QK"
+   "t1-remodelado-com-vista-incrvel-e-duas-varandas-na-encosta-do-sol-amadora-IDJF5QK",
+   "arrendo-apartamentos-t2-IDJFa5j",
+   "arrendamento-de-apartamento-t3-c-dois-lugares-de-parqueamento-na-quinta-do-almirante-IDJF8Jm"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4103,7 +4118,10 @@
    "892157",
    "900677",
    "900678",
-   "900832"
+   "900832",
+   "900998",
+   "900860",
+   "892215"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4393,13 +4411,14 @@
    "1405822905594606961",
    "43094339",
    "965204539042898861",
-   "1081878994912216305"
+   "1081878994912216305",
+   "1162236501223263867"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 151,
+   "bos": 152,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4441,7 +4460,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 26,
   "tekrar": 6
  },
  "imzalar": [
@@ -5339,13 +5358,23 @@
   "1c29d12391c97492",
   "c0e75e636059aea9",
   "08eeb3021341cd61",
-  "775f713d3fc01d02"
+  "775f713d3fc01d02",
+  "5686712763675d8d",
+  "0611ff465a0ca570",
+  "4202926fde6a76f0",
+  "3a5c769f1276ff93",
+  "024aaed4f9c21325"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nT2 novo em moradia germinada com vista mar · 1.900 € · Carcavelos E Parede - Hoje às 10:48\nhttps://www.olx.pt/d/anuncio/t2-novo-em-moradia-germinada-com-vista-mar-IDJBhoc.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 semi novo para arrendamento em Famoes, Odivelas · 1.150 € · Pontinha E Famões - Hoje às 09:47\nhttps://www.olx.pt/d/anuncio/t1-semi-novo-para-arrendamento-em-famoes-odivelas-IDJF7yh.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nArrendamento T1 em Famoes, Odivelas · 1.150 € · Pontinha E Famões - Hoje às 09:41\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-em-famoes-odivelas-IDJF7sG.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nT1 Remodelado com Vista Incrível e Duas Varandas na Encosta do Sol, Amadora · 900 € · Encosta do Sol - Hoje às 07:41\nhttps://www.olx.pt/d/anuncio/t1-remodelado-com-vista-incrvel-e-duas-varandas-na-encosta-do-sol-amadora-IDJF5QK.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nT1 Remodelado com Vista Incrível e Duas Varandas na Encosta do Sol, Amadora · 900 € · Encosta do Sol - Hoje às 07:41\nhttps://www.olx.pt/d/anuncio/t1-remodelado-com-vista-incrvel-e-duas-varandas-na-encosta-do-sol-amadora-IDJF5QK.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T1 Renovado e Mobilado para Arrendamento | Beato, Lisboa · Rua Actor Augusto de Melo, Madre de Deus, Beato, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 37 m² · Century 21 LUX II · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-renovado-e-mobilado-para-arrendamento-beato-lisboa-ID1j43d",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.150 €\n1150 € · Apartamento T1 para arrendamento · Rua Adelaide Cabete, Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Andar · 1 andar · RE/MAX PLACE STRADA · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j3Yx",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.850 €\n1850 € · Apartamento T2 para arrendamento · Rua de Infantaria 16, Centro, Campo de Ourique, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 78 m² · Andar · 1 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1j3Vy",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nArrendamento de apartamento T3 c/ dois lugares de parqueamento na Quinta do Almirante · 1.600 € · Santo António Dos Cavaleiros E Frielas - Hoje às 12:03\nhttps://www.olx.pt/d/anuncio/arrendamento-de-apartamento-t3-c-dois-lugares-de-parqueamento-na-quinta-do-almirante-IDJF8Jm.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · 4,36 de uma avaliação média de 5, 67 avaliações · 4,36 (67) · Apartamento 1D, coração da cidade, a 250 metros do Rossio · 1 quarto · 2 camas · 1 banheiro · $ 3.006 USD · $ 1.744 USD · $ 1.744 USD mensal, preço original: $ 3.006 USD · mensal ·…\nhttps://www.airbnb.com/rooms/1162236501223263867"
  ],
  "son_gonderim": "2026-10-22"
 }
