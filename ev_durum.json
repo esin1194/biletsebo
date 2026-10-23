@@ -1768,7 +1768,9 @@
    "arrendamento-t2-na-penha-de-franca-muita-luz-pronto-a-habitar-ID1j45r",
    "apartamento-t1-para-arrendamento-areeiro-ID1j45n",
    "t3-com-varandas-garagem-com-carregamento-eletrico-e-arrecadacao-sao-ID1j45m",
-   "apartamento-4-quartos-119-m2-novo-ID9P5lkl"
+   "apartamento-4-quartos-119-m2-novo-ID9P5lkl",
+   "apartamento-t1-r-c-em-patio-privado-ID1cCbb",
+   "t2-perto-do-metro-anjos-ID1j4fS"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2531,7 +2533,8 @@
    "arrendamento-de-apartamento-t3-c-dois-lugares-de-parqueamento-na-quinta-do-almirante-IDJF8Jm",
    "arrenda-se-t1-1-em-odivelas-IDJFcjY",
    "panteo-nacional-estdio-para-alugar-IDJFbXW",
-   "rent-t2-martim-moniz-only-indian-or-bengali-or-pakistani-IDJFbDN"
+   "rent-t2-martim-moniz-only-indian-or-bengali-or-pakistani-IDJFbDN",
+   "apartamento-t2-para-arrendamento-IDJaVcf"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4458,7 +4461,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4500,7 +4503,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 2,
   "tekrar": 0
  },
  "imzalar": [
@@ -5416,8 +5419,11 @@
   "aabf42c4bf65f12a",
   "adbf0b978f503cc5",
   "fd588aa6e3a0a9af",
-  "54d75795ec1c7d2f"
+  "54d75795ec1c7d2f",
+  "1163c0ef6f95082c"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.230 €\nApartamento T2 para arrendamento · 1.230 € · São Domingos de Benfica - Hoje às 20:44\nhttps://www.olx.pt/d/anuncio/apartamento-t2-para-arrendamento-IDJaVcf.html"
+ ],
  "son_gonderim": "2026-10-23"
 }
