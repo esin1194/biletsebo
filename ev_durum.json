@@ -1716,7 +1716,10 @@
    "apartamento-4-quartos-97-m2-novo-ID9P5lki",
    "apartamento-t3-na-r-do-zaire-lisboa-ID1j3Rb",
    "apartamento-4-quartos-137-m2-jardim-ID9P5lkj",
-   "apartamento-t2-em-estrela-de-45-00-m2-ID1j3SN"
+   "apartamento-t2-em-estrela-de-45-00-m2-ID1j3SN",
+   "t2-lisboa-benfica-rua-dos-arneiros-ID1j3Ty",
+   "t0-cosy-com-ar-condicionado-e-mobiliario-completo-areeiro-lisboa-ID1j3T2",
+   "apartamento-1-quartos-26-m2-luminoso-ID9P5lkk"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2468,7 +2471,13 @@
    "estacao-da-amadora-IDJEYEs",
    "arrendo-apartamento-t2-IDJF2lG",
    "arrenda-se-apartamento-t2-quinta-da-piedade-pvoa-de-santa-iria-IDJF12K",
-   "t2-recm-renovado-em-casal-de-cambra-IDJF2zv"
+   "t2-recm-renovado-em-casal-de-cambra-IDJF2zv",
+   "t2-novo-em-moradia-germinada-com-vista-mar-IDJBhoc",
+   "t1-semi-novo-para-arrendamento-em-famoes-odivelas-IDJF7yh",
+   "arrendamento-t1-em-famoes-odivelas-IDJF7sG",
+   "arrendamento-pequena-moradia-t2-brandoa-IDJAFSF",
+   "procuro-t2-com-urgencia-IDJF62T",
+   "t1-remodelado-com-vista-incrvel-e-duas-varandas-na-encosta-do-sol-amadora-IDJF5QK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4390,7 +4399,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 150,
+   "bos": 151,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4432,7 +4441,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 13,
   "tekrar": 6
  },
  "imzalar": [
@@ -5326,8 +5335,17 @@
   "fd82240cfd9108f3",
   "5f927f028d72010e",
   "55c43314f59dc4f0",
-  "08e517df9ce519b7"
+  "08e517df9ce519b7",
+  "1c29d12391c97492",
+  "c0e75e636059aea9",
+  "08eeb3021341cd61",
+  "775f713d3fc01d02"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nT2 novo em moradia germinada com vista mar · 1.900 € · Carcavelos E Parede - Hoje às 10:48\nhttps://www.olx.pt/d/anuncio/t2-novo-em-moradia-germinada-com-vista-mar-IDJBhoc.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 semi novo para arrendamento em Famoes, Odivelas · 1.150 € · Pontinha E Famões - Hoje às 09:47\nhttps://www.olx.pt/d/anuncio/t1-semi-novo-para-arrendamento-em-famoes-odivelas-IDJF7yh.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nArrendamento T1 em Famoes, Odivelas · 1.150 € · Pontinha E Famões - Hoje às 09:41\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-em-famoes-odivelas-IDJF7sG.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nT1 Remodelado com Vista Incrível e Duas Varandas na Encosta do Sol, Amadora · 900 € · Encosta do Sol - Hoje às 07:41\nhttps://www.olx.pt/d/anuncio/t1-remodelado-com-vista-incrvel-e-duas-varandas-na-encosta-do-sol-amadora-IDJF5QK.html"
+ ],
  "son_gonderim": "2026-10-22"
 }
