@@ -1770,7 +1770,8 @@
    "t3-com-varandas-garagem-com-carregamento-eletrico-e-arrecadacao-sao-ID1j45m",
    "apartamento-4-quartos-119-m2-novo-ID9P5lkl",
    "apartamento-t1-r-c-em-patio-privado-ID1cCbb",
-   "t2-perto-do-metro-anjos-ID1j4fS"
+   "t2-perto-do-metro-anjos-ID1j4fS",
+   "apartamento-5-quartos-45-m2-jardim-ID9P5lkm"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2534,7 +2535,9 @@
    "arrenda-se-t1-1-em-odivelas-IDJFcjY",
    "panteo-nacional-estdio-para-alugar-IDJFbXW",
    "rent-t2-martim-moniz-only-indian-or-bengali-or-pakistani-IDJFbDN",
-   "apartamento-t2-para-arrendamento-IDJaVcf"
+   "apartamento-t2-para-arrendamento-IDJaVcf",
+   "apartamento-t0-arrenda-se-IDJFdEQ",
+   "t2-carnaxide-perto-do-hospital-de-santa-cruz-IDJFegB"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4461,7 +4464,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4503,7 +4506,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
+  "elenen": 4,
   "tekrar": 0
  },
  "imzalar": [
@@ -5420,10 +5423,12 @@
   "adbf0b978f503cc5",
   "fd588aa6e3a0a9af",
   "54d75795ec1c7d2f",
-  "1163c0ef6f95082c"
+  "1163c0ef6f95082c",
+  "6e35a7cda345c174"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.230 €\nApartamento T2 para arrendamento · 1.230 € · São Domingos de Benfica - Hoje às 20:44\nhttps://www.olx.pt/d/anuncio/apartamento-t2-para-arrendamento-IDJaVcf.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.230 €\nApartamento T2 para arrendamento · 1.230 € · São Domingos de Benfica - Hoje às 20:44\nhttps://www.olx.pt/d/anuncio/apartamento-t2-para-arrendamento-IDJaVcf.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nApartamento T0 Arrenda-se · 650 € · Pontinha E Famões - 23 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t0-arrenda-se-IDJFdEQ.html"
  ],
  "son_gonderim": "2026-10-23"
 }
