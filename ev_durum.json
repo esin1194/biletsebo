@@ -1771,7 +1771,12 @@
    "apartamento-4-quartos-119-m2-novo-ID9P5lkl",
    "apartamento-t1-r-c-em-patio-privado-ID1cCbb",
    "t2-perto-do-metro-anjos-ID1j4fS",
-   "apartamento-5-quartos-45-m2-jardim-ID9P5lkm"
+   "apartamento-5-quartos-45-m2-jardim-ID9P5lkm",
+   "apartamento-t2-em-misericordia-de-64-00-m2-ID1j4h6",
+   "apartamento-t0-com-vista-entrecampos-lisboa-ID1j4gX",
+   "apartamento-t0-com-vista-entrecampos-lisboa-ID1j4gW",
+   "apartamento-t1-com-vista-entrecampos-lisboa-ID1j4gT",
+   "apartamento-t1-com-vista-entrecampos-lisboa-ID1j4gS"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3543,7 +3548,10 @@
    "apartments/1084351",
    "apartments/1730051",
    "apartments/1738705",
-   "apartments/1277537"
+   "apartments/1277537",
+   "apartments/857567",
+   "apartments/928694",
+   "apartments/1738927"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4464,8 +4472,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -4506,7 +4514,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 5,
   "tekrar": 0
  },
  "imzalar": [
@@ -5424,11 +5432,25 @@
   "fd588aa6e3a0a9af",
   "54d75795ec1c7d2f",
   "1163c0ef6f95082c",
-  "6e35a7cda345c174"
+  "6e35a7cda345c174",
+  "2edc57ce0710e8be",
+  "67809369fbfc857a",
+  "1d57eb495016441a",
+  "199f10daeb01d248",
+  "2730a1eda8dda1ce",
+  "9460234c732419b4",
+  "732657d176b2b3de"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.230 €\nApartamento T2 para arrendamento · 1.230 € · São Domingos de Benfica - Hoje às 20:44\nhttps://www.olx.pt/d/anuncio/apartamento-t2-para-arrendamento-IDJaVcf.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nApartamento T0 Arrenda-se · 650 € · Pontinha E Famões - 23 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t0-arrenda-se-IDJFdEQ.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 650 €\nApartamento T0 Arrenda-se · 650 € · Pontinha E Famões - 23 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t0-arrenda-se-IDJFdEQ.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T2 em Misericórdia de 64,00 m2 · Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 64 m² · Andar · 3 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-em-misericordia-de-64-00-m2-ID1j4h6",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · Apartamento T0 com vista, Entrecampos, Lisboa · Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 46 m² · Andar · 3 andar · Porta da Frente Christie's International Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-com-vista-entrecampos-lisboa-ID1j4gX",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T0 com vista, Entrecampos, Lisboa · Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 46 m² · Andar · 2 andar · Porta da Frente Christie's International Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-com-vista-entrecampos-lisboa-ID1j4gW",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · Apartamento T1 com vista, Entrecampos, Lisboa · Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 53 m² · Andar · 6 andar · Porta da Frente Christie's International Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-vista-entrecampos-lisboa-ID1j4gT",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · Apartamento T1 com vista, Entrecampos, Lisboa · Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 52 m² · Andar · 1 andar · Porta da Frente Christie's International Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-vista-entrecampos-lisboa-ID1j4gS",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.395 €\nCHECKED · APARTMENT · AVAILABLE NOW · star · 5 (16) · 1-bedroom apartment for rent in Amadora, Lisbon · From 1395 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/857567",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nAPARTMENT · FROM 02 NOV · 1-bedroom apartment for rent in Lisbon · 1600 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1738927"
  ],
  "son_gonderim": "2026-10-23"
 }
