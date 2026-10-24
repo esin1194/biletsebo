@@ -1790,7 +1790,9 @@
    "apartamento-3-quartos-105-m2-terraco-ID9P5lko",
    "t0-apartmento-saldanha-ID1j4oQ",
    "apartamento-t4-remodelado-para-arrendamento-nos-olivais-lisboa-ID1j4oL",
-   "apartamento-t1-para-arrendamento-ID1j4oh"
+   "apartamento-t1-para-arrendamento-ID1j4oh",
+   "apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-ID1j4qf",
+   "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-ID1j4q2"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2562,7 +2564,10 @@
    "apartamento-t1-qta-do-lambert-qta-das-conchas-IDJDNKd",
    "t1-para-arrendar-900-quinta-da-cavaleira-sintra-IDJFn95",
    "t1-vimeiro-para-1-pessoa-ou-casal-IDJFmUP",
-   "monte-estoril-t2-c-terrao-e-box-IDJBluy"
+   "monte-estoril-t2-c-terrao-e-box-IDJBluy",
+   "apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-IDJFona",
+   "apartamento-t1-mobilado-e-equipado-para-arrendamento-campolide-lisboa-IDJFocS",
+   "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-IDJFo1m"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4491,13 +4496,14 @@
    "755585045762958443",
    "668567403515734585",
    "1262549185235639721",
-   "1551410651307509674"
+   "1551410651307509674",
+   "5883344"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4540,7 +4546,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 3,
-  "tekrar": 1
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5470,13 +5476,23 @@
   "5c055efcb15a7bad",
   "83c9c5f1f8d8b299",
   "c1e3e76f10efdf7e",
-  "44769d00720a9811"
+  "44769d00720a9811",
+  "35a714bfff545f6f",
+  "36d429439057cbcf",
+  "c2cb2f41eddbcd10",
+  "1421f5189639ccd2",
+  "dfef70ac59621f14"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 600 €\n600 € · T0 Apartmento Saldanha · 1050-053 | Avenidas Novas, Lisboa, Avenida 5 de Outubro, Gulbenkian - Praça Espanha, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 33 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-apartmento-saldanha-ID1j4oQ",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nApartamento T1 Qta do Lambert / Qta das Conchas · 1.350 € · Lumiar - Para o topo hoje às 19:54\nhttps://www.olx.pt/d/anuncio/apartamento-t1-qta-do-lambert-qta-das-conchas-IDJDNKd.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nT1 para arrendar — 900 € — Quinta da Cavaleira, Sintra · 900 € · Algueirão-Mem Martins - Hoje às 19:17\nhttps://www.olx.pt/d/anuncio/t1-para-arrendar-900-quinta-da-cavaleira-sintra-IDJFn95.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nT1 Vimeiro para 1 pessoa ou casal · 600 € · Vimeiro - Hoje às 18:54\nhttps://www.olx.pt/d/anuncio/t1-vimeiro-para-1-pessoa-ou-casal-IDJFmUP.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nT1 Vimeiro para 1 pessoa ou casal · 600 € · Vimeiro - Hoje às 18:54\nhttps://www.olx.pt/d/anuncio/t1-vimeiro-para-1-pessoa-ou-casal-IDJFmUP.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · Apartamento T1 mobilado e equipado para arrendamento – Arroios, Lisboa · Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 38 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-ID1j4qf",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · Apartamento T1 mobilado e equipado para arrendamento – Benfica, Lisboa · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 42 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-ID1j4q2",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Arroios, Lisboa · 850 € · Arroios - Hoje às 21:46\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-IDJFona.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Campolide, Lisboa · 850 € · Campo De Ourique - Hoje às 21:24\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-campolide-lisboa-IDJFocS.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Benfica, Lisboa · 850 € · Carnide - Hoje às 21:00\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-IDJFo1m.html"
  ],
  "son_gonderim": "2026-10-24"
 }
