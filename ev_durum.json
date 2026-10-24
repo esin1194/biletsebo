@@ -1787,7 +1787,10 @@
    "apartamento-t2-para-arrendamento-ID1j4mu",
    "apartamento-t1-qta-do-lambert-qta-das-conchas-ID1j4m9",
    "t2-rua-de-arroios-ID1j4lJ",
-   "apartamento-3-quartos-105-m2-terraco-ID9P5lko"
+   "apartamento-3-quartos-105-m2-terraco-ID9P5lko",
+   "t0-apartmento-saldanha-ID1j4oQ",
+   "apartamento-t4-remodelado-para-arrendamento-nos-olivais-lisboa-ID1j4oL",
+   "apartamento-t1-para-arrendamento-ID1j4oh"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2555,7 +2558,11 @@
    "apartamento-t0-arrenda-se-IDJFdEQ",
    "t2-carnaxide-perto-do-hospital-de-santa-cruz-IDJFegB",
    "t2-disponvel-em-parque-das-naes-IDJFhXl",
-   "t2-rua-de-arroios-c-elevador-preo-incl-contas-IDJFkIT"
+   "t2-rua-de-arroios-c-elevador-preo-incl-contas-IDJFkIT",
+   "apartamento-t1-qta-do-lambert-qta-das-conchas-IDJDNKd",
+   "t1-para-arrendar-900-quinta-da-cavaleira-sintra-IDJFn95",
+   "t1-vimeiro-para-1-pessoa-ou-casal-IDJFmUP",
+   "monte-estoril-t2-c-terrao-e-box-IDJBluy"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3565,7 +3572,8 @@
    "apartments/857567",
    "apartments/928694",
    "apartments/1738927",
-   "apartments/1739306"
+   "apartments/1739306",
+   "apartments/268360"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4482,13 +4490,14 @@
    "1162236501223263867",
    "755585045762958443",
    "668567403515734585",
-   "1262549185235639721"
+   "1262549185235639721",
+   "1551410651307509674"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4530,8 +4539,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 3,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5457,8 +5466,17 @@
   "9460234c732419b4",
   "732657d176b2b3de",
   "5b85ce703fbbcdfa",
-  "251d52efffbc6ba1"
+  "251d52efffbc6ba1",
+  "5c055efcb15a7bad",
+  "83c9c5f1f8d8b299",
+  "c1e3e76f10efdf7e",
+  "44769d00720a9811"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 600 €\n600 € · T0 Apartmento Saldanha · 1050-053 | Avenidas Novas, Lisboa, Avenida 5 de Outubro, Gulbenkian - Praça Espanha, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 33 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-apartmento-saldanha-ID1j4oQ",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nApartamento T1 Qta do Lambert / Qta das Conchas · 1.350 € · Lumiar - Para o topo hoje às 19:54\nhttps://www.olx.pt/d/anuncio/apartamento-t1-qta-do-lambert-qta-das-conchas-IDJDNKd.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nT1 para arrendar — 900 € — Quinta da Cavaleira, Sintra · 900 € · Algueirão-Mem Martins - Hoje às 19:17\nhttps://www.olx.pt/d/anuncio/t1-para-arrendar-900-quinta-da-cavaleira-sintra-IDJFn95.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nT1 Vimeiro para 1 pessoa ou casal · 600 € · Vimeiro - Hoje às 18:54\nhttps://www.olx.pt/d/anuncio/t1-vimeiro-para-1-pessoa-ou-casal-IDJFmUP.html"
+ ],
  "son_gonderim": "2026-10-24"
 }
