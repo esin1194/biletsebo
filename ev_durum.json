@@ -2573,7 +2573,10 @@
    "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-IDJFo1m",
    "t1-flat-for-rent-in-costa-do-castelo-lisbon-IDJFoFd",
    "luminoso-apartamento-t2-com-varandas-e-vista-desafogada-castanheira-do-ribatejo-IDJFoEe",
-   "apartamento-t1-pao-de-arcos-perto-da-escola-naval-IDJFoCw"
+   "apartamento-t1-pao-de-arcos-perto-da-escola-naval-IDJFoCw",
+   "arrendar-apartamento-porto-salvo-IDJFpYt",
+   "arrendamento-de-t0-IDJFpA6",
+   "arrenda-se-t1-individual-IDJFpxs"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3585,7 +3588,8 @@
    "apartments/1738927",
    "apartments/1739306",
    "apartments/268360",
-   "apartments/1739536"
+   "apartments/1739536",
+   "apartments/421700"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4507,13 +4511,14 @@
    "1262549185235639721",
    "1551410651307509674",
    "5883344",
-   "586130390726226334"
+   "586130390726226334",
+   "1113515444213804603"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 11,
+   "bos": 12,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4555,7 +4560,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 9,
+  "elenen": 10,
   "tekrar": 3
  },
  "imzalar": [
@@ -5493,7 +5498,10 @@
   "1421f5189639ccd2",
   "dfef70ac59621f14",
   "a0e13d76d1fa6136",
-  "464d1ee46767b7b0"
+  "464d1ee46767b7b0",
+  "9d011178ae1ff9b1",
+  "e1655e6e01b02bf7",
+  "3365e43fcb06880d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 600 €\n600 € · T0 Apartmento Saldanha · 1050-053 | Avenidas Novas, Lisboa, Avenida 5 de Outubro, Gulbenkian - Praça Espanha, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 33 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-apartmento-saldanha-ID1j4oQ",
@@ -5506,7 +5514,10 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Campolide, Lisboa · 850 € · Campo De Ourique - Hoje às 21:24\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-campolide-lisboa-IDJFocS.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Benfica, Lisboa · 850 € · Carnide - Hoje às 21:00\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-IDJFo1m.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.380 €\nT1 flat for rent in Costa do Castelo, Lisbon · 1.380 € · Negociável · Santa Maria Maior - 24 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t1-flat-for-rent-in-costa-do-castelo-lisbon-IDJFoFd.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 - Paço de Arcos - perto da Escola Naval · 950 € · Negociável · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - 24 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t1-pao-de-arcos-perto-da-escola-naval-IDJFoCw.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 - Paço de Arcos - perto da Escola Naval · 950 € · Negociável · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - 24 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t1-pao-de-arcos-perto-da-escola-naval-IDJFoCw.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nArrendamento de t0 · 700 € · Falagueira-Venda Nova - Hoje às 10:22\nhttps://www.olx.pt/d/anuncio/arrendamento-de-t0-IDJFpA6.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nArrenda-se T1 individual · 900 € · Falagueira-Venda Nova - Hoje às 10:12\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-individual-IDJFpxs.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Santa Maria Maior · Flat moderno na histórica Mouraria · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.886 USD · $ 2.236 USD · $ 2.236 USD mensal, preço original: $ 2.886 USD · mensal · Desconto mensal · Apartamento ⋅ Estrela · 4,78 de uma avaliação mé…\nhttps://www.airbnb.com/rooms/1113515444213804603"
  ],
  "son_gonderim": "2026-10-24"
 }
