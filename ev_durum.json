@@ -1796,7 +1796,11 @@
    "apartamento-4-quartos-100-m2-terraco-ID9P5lkp",
    "t1-1-com-pateo-santa-catarina-chiado-lisboa-ID1j4qA",
    "apartamento-1-quartos-74-m2-luminoso-ID9P5lkq",
-   "apartamento-1-quartos-96-m2-novo-ID9P5lkr"
+   "apartamento-1-quartos-96-m2-novo-ID9P5lkr",
+   "apartamento-t0-com-ar-condicionado-e-garagem-ID1j4st",
+   "excelente-t1-1-remodelado-equipado-e-mobilado-zona-calma-ID1j4tj",
+   "lha1969-t2-em-benfica-para-arrendar-ID1j4ti",
+   "t0-mobilado-com-varanda-na-penha-de-franca-ID1j4t0"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2578,7 +2582,8 @@
    "arrendar-apartamento-porto-salvo-IDJFpYt",
    "arrendamento-de-t0-IDJFpA6",
    "arrenda-se-t1-individual-IDJFpxs",
-   "arrenda-se-t3-algs-de-cima-IDJFqOX"
+   "arrenda-se-t3-algs-de-cima-IDJFqOX",
+   "apartamento-t2-arrendamneto-odivelas-IDJFsNh"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3591,7 +3596,8 @@
    "apartments/1739306",
    "apartments/268360",
    "apartments/1739536",
-   "apartments/421700"
+   "apartments/421700",
+   "apartments/1068983"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4515,13 +4521,14 @@
    "1551410651307509674",
    "5883344",
    "586130390726226334",
-   "1113515444213804603"
+   "1113515444213804603",
+   "47809298"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4563,7 +4570,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 3,
   "tekrar": 0
  },
  "imzalar": [
@@ -5504,8 +5511,17 @@
   "464d1ee46767b7b0",
   "9d011178ae1ff9b1",
   "e1655e6e01b02bf7",
-  "3365e43fcb06880d"
+  "3365e43fcb06880d",
+  "88489cfb012bafd1",
+  "baa511b763cef8cf",
+  "ea9b07655cc4bb28",
+  "fa22ff4327cd91bf"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · + taxa: 630 €/mês · Apartamento T0 com ar condicionado e garagem · 1600-236 | Lumiar, Lisboa, Rua Professor Francisco Gentil, Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 32 m² · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-com-ar-condicionado-e-garagem-ID1j4st",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Excelente T1+1 remodelado, equipado e mobilado zona calma. · Travessa do Giestal, Alto de Alcântara, Alcântara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 51 m² · Euro Estates · Profissional\nhttps://www.imovirtual.com/pt/anuncio/excelente-t1-1-remodelado-equipado-e-mobilado-zona-calma-ID1j4tj",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 600 €\n600 € · T0 mobilado com varanda na Penha de França · 1900-150 | Beato, Lisboa, Estrada de Chelas, Alto de São João - Alto do Varejão, Penha de França, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 30 m² · Andar · 1 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-com-varanda-na-penha-de-franca-ID1j4t0",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · Flat moderno na histórica Mouraria · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.886 USD · $ 2.236 USD · $ 2.236 USD mensal, preço original: $ 2.886 USD · mensal · Desconto mensal · 4,36 de uma avaliação média de 5, 67 avaliações · 4,36 (67)…\nhttps://www.airbnb.com/rooms/47809298"
+ ],
  "son_gonderim": "2026-10-25"
 }
