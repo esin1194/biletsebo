@@ -1794,7 +1794,8 @@
    "apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-ID1j4qf",
    "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-ID1j4q2",
    "apartamento-4-quartos-100-m2-terraco-ID9P5lkp",
-   "t1-1-com-pateo-santa-catarina-chiado-lisboa-ID1j4qA"
+   "t1-1-com-pateo-santa-catarina-chiado-lisboa-ID1j4qA",
+   "apartamento-1-quartos-74-m2-luminoso-ID9P5lkq"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3583,7 +3584,8 @@
    "apartments/928694",
    "apartments/1738927",
    "apartments/1739306",
-   "apartments/268360"
+   "apartments/268360",
+   "apartments/1739536"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4207,7 +4209,8 @@
    "900832",
    "900998",
    "900860",
-   "892215"
+   "892215",
+   "717037"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4510,7 +4513,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 10,
+   "bos": 11,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4552,7 +4555,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
+  "elenen": 9,
   "tekrar": 3
  },
  "imzalar": [
