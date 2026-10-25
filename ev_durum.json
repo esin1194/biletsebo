@@ -1792,7 +1792,8 @@
    "apartamento-t4-remodelado-para-arrendamento-nos-olivais-lisboa-ID1j4oL",
    "apartamento-t1-para-arrendamento-ID1j4oh",
    "apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-ID1j4qf",
-   "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-ID1j4q2"
+   "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-ID1j4q2",
+   "apartamento-4-quartos-100-m2-terraco-ID9P5lkp"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2567,7 +2568,10 @@
    "monte-estoril-t2-c-terrao-e-box-IDJBluy",
    "apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-IDJFona",
    "apartamento-t1-mobilado-e-equipado-para-arrendamento-campolide-lisboa-IDJFocS",
-   "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-IDJFo1m"
+   "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-IDJFo1m",
+   "t1-flat-for-rent-in-costa-do-castelo-lisbon-IDJFoFd",
+   "luminoso-apartamento-t2-com-varandas-e-vista-desafogada-castanheira-do-ribatejo-IDJFoEe",
+   "apartamento-t1-pao-de-arcos-perto-da-escola-naval-IDJFoCw"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3642,7 +3646,8 @@
    "ut1747667",
    "ut1740478",
    "ut1745969",
-   "ut1539445"
+   "ut1539445",
+   "ut1343424"
   ],
   "uniplaces.com": [
    "890027",
@@ -4497,13 +4502,14 @@
    "668567403515734585",
    "1262549185235639721",
    "1551410651307509674",
-   "5883344"
+   "5883344",
+   "586130390726226334"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4545,8 +4551,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
-  "tekrar": 2
+  "elenen": 6,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5481,7 +5487,9 @@
   "36d429439057cbcf",
   "c2cb2f41eddbcd10",
   "1421f5189639ccd2",
-  "dfef70ac59621f14"
+  "dfef70ac59621f14",
+  "a0e13d76d1fa6136",
+  "464d1ee46767b7b0"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 600 €\n600 € · T0 Apartmento Saldanha · 1050-053 | Avenidas Novas, Lisboa, Avenida 5 de Outubro, Gulbenkian - Praça Espanha, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 33 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-apartmento-saldanha-ID1j4oQ",
@@ -5492,7 +5500,9 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · Apartamento T1 mobilado e equipado para arrendamento – Benfica, Lisboa · Quinta da Luz - Colombo, Carnide, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 42 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-ID1j4q2",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Arroios, Lisboa · 850 € · Arroios - Hoje às 21:46\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-IDJFona.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Campolide, Lisboa · 850 € · Campo De Ourique - Hoje às 21:24\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-campolide-lisboa-IDJFocS.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Benfica, Lisboa · 850 € · Carnide - Hoje às 21:00\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-IDJFo1m.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 mobilado e equipado para arrendamento – Benfica, Lisboa · 850 € · Carnide - Hoje às 21:00\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-IDJFo1m.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.380 €\nT1 flat for rent in Costa do Castelo, Lisbon · 1.380 € · Negociável · Santa Maria Maior - 24 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t1-flat-for-rent-in-costa-do-castelo-lisbon-IDJFoFd.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 - Paço de Arcos - perto da Escola Naval · 950 € · Negociável · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - 24 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t1-pao-de-arcos-perto-da-escola-naval-IDJFoCw.html"
  ],
  "son_gonderim": "2026-10-24"
 }
