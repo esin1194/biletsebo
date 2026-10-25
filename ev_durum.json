@@ -1793,7 +1793,8 @@
    "apartamento-t1-para-arrendamento-ID1j4oh",
    "apartamento-t1-mobilado-e-equipado-para-arrendamento-arroios-lisboa-ID1j4qf",
    "apartamento-t1-mobilado-e-equipado-para-arrendamento-benfica-lisboa-ID1j4q2",
-   "apartamento-4-quartos-100-m2-terraco-ID9P5lkp"
+   "apartamento-4-quartos-100-m2-terraco-ID9P5lkp",
+   "t1-1-com-pateo-santa-catarina-chiado-lisboa-ID1j4qA"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4509,7 +4510,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4551,7 +4552,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 7,
   "tekrar": 3
  },
  "imzalar": [
