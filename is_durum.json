@@ -646,7 +646,9 @@
    "escriturario-mfx_oeiras_OTS-2026-186029",
    "assistentes-gestao-telefonica-de-sinistros-mfx_lisboa_OTS-2026-186021",
    "associado-contencioso-reestruturacoes-e-insolvencias_lisboa_PTS-2026-183759",
-   "tecnicocomercial-mfx_lisboa_PTS-2026-186052"
+   "tecnicocomercial-mfx_lisboa_PTS-2026-186052",
+   "net-developer-mfx_lisboa_DTS-2026-186086",
+   "key-account-manager-mfx_lisboa_PTS-2026-186043"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1413,7 +1415,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 151,
+   "bos": 152,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1475,7 +1477,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 748,
+  "elenen": 750,
   "tekrar": 24
  }
 }
