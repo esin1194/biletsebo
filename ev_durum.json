@@ -1800,7 +1800,9 @@
    "apartamento-t0-com-ar-condicionado-e-garagem-ID1j4st",
    "excelente-t1-1-remodelado-equipado-e-mobilado-zona-calma-ID1j4tj",
    "lha1969-t2-em-benfica-para-arrendar-ID1j4ti",
-   "t0-mobilado-com-varanda-na-penha-de-franca-ID1j4t0"
+   "t0-mobilado-com-varanda-na-penha-de-franca-ID1j4t0",
+   "t2-arrendamento-cozinha-equipada-e-lugar-de-estacionamento-ID1j4tK",
+   "apartamento-4-quartos-108-m2-jardim-ID9P5lks"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4522,13 +4524,14 @@
    "5883344",
    "586130390726226334",
    "1113515444213804603",
-   "47809298"
+   "47809298",
+   "1456349071535202380"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4570,8 +4573,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
-  "tekrar": 0
+  "elenen": 5,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
