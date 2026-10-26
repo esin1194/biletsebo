@@ -648,7 +648,10 @@
    "associado-contencioso-reestruturacoes-e-insolvencias_lisboa_PTS-2026-183759",
    "tecnicocomercial-mfx_lisboa_PTS-2026-186052",
    "net-developer-mfx_lisboa_DTS-2026-186086",
-   "key-account-manager-mfx_lisboa_PTS-2026-186043"
+   "key-account-manager-mfx_lisboa_PTS-2026-186043",
+   "rececionista-mfx_lisboa_OTS-2026-186094",
+   "procurement-mfx_lisboa_OTS-2026-185882",
+   "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-186088"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1415,7 +1418,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 152,
+   "bos": 153,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1477,7 +1480,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 750,
+  "elenen": 753,
   "tekrar": 24
  }
 }
