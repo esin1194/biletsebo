@@ -1806,7 +1806,28 @@
    "apartamento-t1-mobilado-parque-das-nacoes-ID1j29u",
    "t3-no-centro-do-lumiar-totalmente-remodelado-ID17ofe",
    "t1-mobilado-com-estacionamento-bairro-da-ajuda-lisboa-ID1j4wy",
-   "apartamento-4-quartos-60-m2-luminoso-ID9P5lkt"
+   "apartamento-4-quartos-60-m2-luminoso-ID9P5lkt",
+   "apartamento-t2-benfica-ID1j4NH",
+   "apartamento-t2-para-arrendamento-na-estrada-da-luz-sao-domingos-d-ID1j4NF",
+   "t2-luxo-a-nao-perder-equi-e-mobil-r-matim-vaz-lisboa-ID1j4N4",
+   "apartamento-t1-1-no-principe-real-ID1j4Iy",
+   "alugo-t1-1-remodelado-lisboa-excelente-vista-ID1j4GC",
+   "apartamento-t1-as-amoreiras-em-lisboa-ID1j4Gn",
+   "t2-para-arrendamento-olivais-lisboa-ID1j4Gb",
+   "t1-mobilado-com-estacionamento-para-arrendamento-em-telheiras-ID1j4Dw",
+   "apartamento-t2-santo-amaro-alcantara-renovado-ID1j4By",
+   "apartamento-t2-para-arrendar-em-sao-vicente-equipado-e-mobilado-com-ID1j4Bu",
+   "apartamento-t1-com-piscina-telheiras-lisboa-ID1j4B6",
+   "estudio-localizado-em-santa-apolonia-lisbon-ID1j4Ax",
+   "t2-em-alvalade-com-garagem-e-varanda-ID1j4A6",
+   "t1-1-no-centro-de-lisboa-com-terraco-e-muita-luz-solar-a-sua-espera-ID1j4zJ",
+   "apartamento-arrendamiento-santos-ID1j4zI",
+   "praca-espanha-av-columbano-bordalo-pinheiro-ID1j4zf",
+   "t1-renovado-com-longa-varanda-vista-para-os-jardins-do-palacio-sotto-ID1j4yH",
+   "apartamento-t1-em-alvalade-de-58-00-m2-ID1j4y6",
+   "t1-av-columbano-bordalo-pinheiro-bem-conservado-cozinha-equipada-ID1j4xJ",
+   "t1-flat-for-rent-in-costa-do-castelo-lisbon-ID1j4qs",
+   "apartamento-5-quartos-89-m2-garagem-ID9P5lku"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2590,7 +2611,15 @@
    "arrenda-se-t1-individual-IDJFpxs",
    "arrenda-se-t3-algs-de-cima-IDJFqOX",
    "apartamento-t2-arrendamneto-odivelas-IDJFsNh",
-   "apartamento-t0-remodelado-completo-despesas-includas-IDJy6QL"
+   "apartamento-t0-remodelado-completo-despesas-includas-IDJy6QL",
+   "apartamento-t1-para-arrendamento-em-agualva-cacm-IDJFBk0",
+   "apartamento-t2-benfica-IDJFAw5",
+   "arrenda-se-t2-santo-antnio-dos-cavaleiros-IDJFAuA",
+   "apartamento-t1-s-amoreiras-em-lisboa-IDJFyn2",
+   "t0-no-centro-da-amadora-IDJFzwC",
+   "t1-na-rua-da-guin-IDJFzeG",
+   "alugo-t1-1-remodelado-lisboa-excelente-vista-IDJFyt6",
+   "aluguer-temporrio-t2-queluz-20-de-novembro-a-12-de-dezembro-2026-IDJo4No"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4234,7 +4263,16 @@
    "901169",
    "901137",
    "852480",
-   "789284"
+   "789284",
+   "767046",
+   "841282",
+   "901255",
+   "891250",
+   "66345",
+   "71359",
+   "250947",
+   "58073",
+   "884369"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4534,13 +4572,17 @@
    "586130390726226334",
    "1113515444213804603",
    "47809298",
-   "1456349071535202380"
+   "1456349071535202380",
+   "17854895",
+   "920032811716133552",
+   "23940075",
+   "1713098634988380523"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4582,8 +4624,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 10,
-  "tekrar": 1
+  "elenen": 40,
+  "tekrar": 5
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5531,7 +5573,14 @@
   "8402e934aec5cbbf",
   "209ee71f4f48d43f",
   "af4eab098482e845",
-  "506a3604bcb287e5"
+  "506a3604bcb287e5",
+  "380364a3e818d424",
+  "f0cde55f6fc6bdfe",
+  "cb860348950bce5b",
+  "190402f7b90dee7d",
+  "1df7546f8a27f0f7",
+  "6781584753d27039",
+  "284d41ac142dbeed"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · + taxa: 630 €/mês · Apartamento T0 com ar condicionado e garagem · 1600-236 | Lumiar, Lisboa, Rua Professor Francisco Gentil, Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 32 m² · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-com-ar-condicionado-e-garagem-ID1j4st",
@@ -5541,7 +5590,14 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · 24,55 €/m² · Apartamento T1 | Mobilado | Parque das Nações · Expo Sul, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 55 m² · Andar · 3 andar · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-parque-das-nacoes-ID1j29u",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.250 €\n1250 € · T1 Mobilado com Estacionamento | Bairro da Ajuda, Lisboa · Lisboa, Boa Hora, Ajuda, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Comprarcasa Torres Novas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-estacionamento-bairro-da-ajuda-lisboa-ID1j4wy",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.250 €\n1250 €T1 Mobilado com Estacionamento | Bairro da Ajuda, LisboaLisboa, Boa Hora, Ajuda, Lisboa, LisboaTipologiaT1Preço por metro quadrado60 m²Comprarcasa Torres NovasProfissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-4-quartos-60-m2-luminoso-ID9P5lkt",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 740 €\nApartamento T0 remodelado Completo - despesas Incluídas! · 740 € · Agualva E Mira-Sintra - Hoje às 09:17\nhttps://www.olx.pt/d/anuncio/apartamento-t0-remodelado-completo-despesas-includas-IDJy6QL.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 740 €\nApartamento T0 remodelado Completo - despesas Incluídas! · 740 € · Agualva E Mira-Sintra - Hoje às 09:17\nhttps://www.olx.pt/d/anuncio/apartamento-t0-remodelado-completo-despesas-includas-IDJy6QL.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · T1 mobilado com estacionamento para arrendamento em Telheiras · Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 63 m² · Andar · 4 andar · Habita Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-estacionamento-para-arrendamento-em-telheiras-ID1j4Dw",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · Apartamento T2 Para arrendar em São Vicente equipado e mobilado com... · Graça, São Vicente, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 80 m² · Andar · 5 andar · Fátima &amp; Mário - Mediação Imobiliária, Lda. · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendar-em-sao-vicente-equipado-e-mobilado-com-ID1j4Bu",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · T1 flat for rent in Costa do Castelo, Lisbon · São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 51 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-flat-for-rent-in-costa-do-castelo-lisbon-ID1j4qs",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 420 €\nT0 no centro da Amadora · 420 € · Negociável · Venteira - Hoje às 17:41\nhttps://www.olx.pt/d/anuncio/t0-no-centro-da-amadora-IDJFzwC.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT1 na Rua da Guiné · 750 € · Arroios - Hoje às 17:15\nhttps://www.olx.pt/d/anuncio/t1-na-rua-da-guin-IDJFzeG.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.050 €\nAlugo T1 + 1 Remodelado - Lisboa - Excelente Vista · 1.050 € · Penha De França - Hoje às 15:49\nhttps://www.olx.pt/d/anuncio/alugo-t1-1-remodelado-lisboa-excelente-vista-IDJFyt6.html",
+  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 900 €\nUp to 2 people • 25 bedrooms · Beautiful ensuite double bedroom in Downtown · From 01 Nov 2026 · €900 €850 /month · Bills included\nhttps://www.uniplaces.com/accommodation/lisbon/884369"
  ],
  "son_gonderim": "2026-10-25"
 }
