@@ -1831,7 +1831,18 @@
    "t1-recuperado-cozinha-equipada-um-lugar-de-estacionamento-estrada-ID1iEog",
    "apartamento-t3-av-eua-lisboa-ID1j4OX",
    "apartamento-4-quartos-48-m2-varanda-ID9P5lkw",
-   "apartamento-t3-em-areeiro-de-100-00-m2-ID1j4Pt"
+   "apartamento-t3-em-areeiro-de-100-00-m2-ID1j4Pt",
+   "apartamento-com-1-quartos-localizado-em-santa-apolonia-lisbon-ID1j4Zd",
+   "apartamento-t1-para-arrendamento-ID1j4Ym",
+   "t1-em-lisboa-com-patio-privativo-ID1j4Up",
+   "apartment-in-avenida-alvaro-pais-lisboa-ID1j4U6",
+   "apartamento-t1-1-no-bairro-alto-para-arrendamento-ID1j4TA",
+   "apartamento-t0-em-avenidas-novas-lisboa-ID1j4SE",
+   "t2-para-arrendar-em-benfica-ID1j4Rn",
+   "apartamento-t1-1-mobilado-para-arrendar-no-centro-de-lisboa-ID1j4Q5",
+   "t0-estudio-com-pateo-santa-catarina-chiado-lisboa-ID1j4OZ",
+   "t2-luxo-a-nao-perder-equi-e-mobil-r-martim-vaz-lisboa-ID1j4N4",
+   "apartamento-5-quartos-38-m2-garagem-ID9P5lkv"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2627,7 +2638,9 @@
    "apartamento-t3-mobilado-e-equipado-para-arrendamento-prior-velho-125-m-IDJFCfA",
    "t3-com-vista-desafogada-para-a-serra-de-sintra-mira-sintra-IDJFBY1",
    "t0-na-zona-de-a-dos-cunhados-IDJFBHH",
-   "arrendo-t2-duplex-junto-av-de-roma-em-lisboa-IDJBxSi"
+   "arrendo-t2-duplex-junto-av-de-roma-em-lisboa-IDJBxSi",
+   "apartamento-t2-em-algueiro-mem-martins-tapada-das-mercs-IDJFEjh",
+   "t2-para-arrendar-em-benfica-IDJFE02"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3710,7 +3723,8 @@
    "ut1740478",
    "ut1745969",
    "ut1539445",
-   "ut1343424"
+   "ut1343424",
+   "ut1748690"
   ],
   "uniplaces.com": [
    "890027",
@@ -4286,7 +4300,14 @@
    "58073",
    "884369",
    "694692",
-   "525241"
+   "525241",
+   "157432",
+   "901699",
+   "901700",
+   "901698",
+   "514308",
+   "539746",
+   "722756"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4590,13 +4611,14 @@
    "17854895",
    "920032811716133552",
    "23940075",
-   "1713098634988380523"
+   "1713098634988380523",
+   "1799954545043634156"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 21,
+   "bos": 22,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4606,7 +4628,7 @@
   },
   "https://www.olx.pt/imoveis/apartamento-casa-a-venda/apartamentos-arrenda/lisboa/?search%5Bfilter_float_price:to%5D=2000&search%5Border%5D=created_at:desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.spotahome.com/s/lisbon/for-rent:apartments": {
@@ -4638,7 +4660,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 48,
+  "elenen": 65,
   "tekrar": 5
  },
  "imzalar": [
@@ -5599,7 +5621,12 @@
   "507f068ee7ecf71a",
   "a5ae200f142f9311",
   "cff37cd950f7c5a9",
-  "e90f69faec7d00db"
+  "e90f69faec7d00db",
+  "0b1d909ebdd33880",
+  "46a231f5ece18b2c",
+  "517d3aecc17863bc",
+  "033032eac16b0aad",
+  "def5d91e95f55f65"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · + taxa: 630 €/mês · Apartamento T0 com ar condicionado e garagem · 1600-236 | Lumiar, Lisboa, Rua Professor Francisco Gentil, Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 32 m² · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-com-ar-condicionado-e-garagem-ID1j4st",
@@ -5621,7 +5648,12 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 500 €\nT0 na zona de A-dos-Cunhados · 500 € · Negociável · A Dos Cunhados E Maceira - 26 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/t0-na-zona-de-a-dos-cunhados-IDJFBHH.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nArrendo T2 duplex junto à Av. de Roma em Lisboa · 1.750 € · Negociável · Areeiro - 26 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-t2-duplex-junto-av-de-roma-em-lisboa-IDJBxSi.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 03 NOV · star · 5 (1) · 2-bedroom apartment for rent in Lisboa · 1500 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/574657",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 27 OCT · 1-bedroom apartment for rent in Lisbon · 1500 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1646753"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 27 OCT · 1-bedroom apartment for rent in Lisbon · 1500 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1646753",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T1 para arrendamento · Largo do Contador-Mor, Santiago, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 30 m² · Andar · 2 andar · Remax Grupo Team · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j4Ym",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T1 em Lisboa com pátio privativo · Rua Possidónio da Silva, Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 54 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-em-lisboa-com-patio-privativo-ID1j4Up",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.150 €\n1150 € · Apartamento T1+1 no Bairro Alto para arrendamento · Bairro Alto, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 36 m² · A Predial Liz · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-1-no-bairro-alto-para-arrendamento-ID1j4TA",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1+1 mobilado para arrendar no centro de Lisboa · Lisboa, Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 57.1 m² · Andar · 1 andar · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-1-mobilado-para-arrendar-no-centro-de-lisboa-ID1j4Q5",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Misericórdia · 4,68 de uma avaliação média de 5, 538 avaliações · 4,68 (538) · Duplex Charmoso no Centro | Chiado &amp; Bairro Alto · 1 quarto · 2 camas · $ 2.601 USD · $ 2.018 USD · $ 2.018 USD mensal, preço original: $ 2.601 USD · mensal · Desconto mensa…\nhttps://www.airbnb.com/rooms/1799954545043634156"
  ],
  "son_gonderim": "2026-10-25"
 }
