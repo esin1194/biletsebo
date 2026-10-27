@@ -651,7 +651,8 @@
    "key-account-manager-mfx_lisboa_PTS-2026-186043",
    "rececionista-mfx_lisboa_OTS-2026-186094",
    "procurement-mfx_lisboa_OTS-2026-185882",
-   "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-186088"
+   "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-186088",
+   "empregado-mesa-mfx_lisboa_OTS-2026-186122"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1418,7 +1419,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 153,
+   "bos": 154,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1480,7 +1481,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 753,
+  "elenen": 754,
   "tekrar": 24
  }
 }
