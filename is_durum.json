@@ -652,7 +652,9 @@
    "rececionista-mfx_lisboa_OTS-2026-186094",
    "procurement-mfx_lisboa_OTS-2026-185882",
    "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-186088",
-   "empregado-mesa-mfx_lisboa_OTS-2026-186122"
+   "empregado-mesa-mfx_lisboa_OTS-2026-186122",
+   "assistente-operacional-e-de-servico-de-apoio-ao-cliente_povoa-de-santa-iria_OTS-2026-183645",
+   "insurance-customer-support-assistant-spanish-speaker-mfx_alges-oeiras_OTS-2026-186125"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1419,7 +1421,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 155,
+   "bos": 156,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1481,7 +1483,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 754,
+  "elenen": 756,
   "tekrar": 24
  }
 }
