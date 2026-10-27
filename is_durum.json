@@ -660,7 +660,13 @@
    "estampador-textil-serigrafo-mf-pontinha_lisboa_OTS-2026-186130",
    "assistente-de-operacoes-e-instalacoes-mxf_lisboa_OTS-2026-185904",
    "operador-de-reposicao-mfx-parttime_ericeira_OTS-2026-186135",
-   "operador-de-reposicao-mfx-parttime_colares_OTS-2026-186134"
+   "operador-de-reposicao-mfx-parttime_colares_OTS-2026-186134",
+   "operador-de-reposicao-mfx-parttime_queluzmonte-abraao_OTS-2026-186167",
+   "farmaceutico-adjunto-mfx-figueiros_figueiros-cadaval_PTS-2026-184618",
+   "enfermeiro-bloco-operatorio-mfx-lisboa_lisboa_PTS-2025-178373",
+   "enfermeiro-internamento-de-medicina-e-cuidados-paliativos-mfx-lisboa_lisboa_PTS-2025-178375",
+   "enfermeiro-de-internamento-medico-cirurgico-mfx-lisboa_lisboa_PTS-2025-178374",
+   "tecnico-radiologia-mfx-lisboa_lisboa_PTS-2025-178365"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1430,7 +1436,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 157,
+   "bos": 158,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1492,7 +1498,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 762,
+  "elenen": 768,
   "tekrar": 25
  }
 }
