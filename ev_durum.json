@@ -1856,7 +1856,14 @@
    "arrendo-t1-na-ajuda-mobiliado-equipado-e-totalmente-remodelado-ID1j51w",
    "apartamento-t1-para-arrendamento-ID1j51s",
    "apartamento-2-quartos-lisboa-sao-domingos-de-be-ID1j4ZE",
-   "apartamento-2-quartos-127-m2-garagem-ID9P5lkx"
+   "apartamento-2-quartos-127-m2-garagem-ID9P5lkx",
+   "apartamento-t2-1-mobilado-com-estacionamento-para-arrendar-em-belem-ID1j5fI",
+   "t2-penha-de-franca-ID1j5fq",
+   "arrenda-t0-penha-de-franca-ID1j5fm",
+   "penthouse-t3-em-campolide-lisboa-ID1j5eW",
+   "apartamento-t3-em-olivais-de-72-00-m2-ID1j5ei",
+   "apartamento-t2-para-arrendamento-ID1j5cL",
+   "apartamento-t2-para-arrendamento-ID1j5cB"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2661,7 +2668,12 @@
    "reservado-apartamento-de-4-ass-em-sintra-mem-martins-IDJmNTi",
    "arrendo-t1-na-ajuda-mobiliado-equipado-e-totalmente-remodelado-IDJFFez",
    "alugo-t2-renovado-zona-tranquila-sacavem-IDJFF2f",
-   "damaia-apartamento-t0-IDJgXhg"
+   "damaia-apartamento-t0-IDJgXhg",
+   "t1-em-torres-vedras-IDJFBOu",
+   "t2-penha-de-frana-IDJFIDv",
+   "arrenda-t0-penha-de-frana-IDJFIzy",
+   "penthouse-t3-em-campolide-lisboa-IDJFI21",
+   "apartamento-t2-sacavem-IDJFHc3"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3679,7 +3691,11 @@
    "apartments/574657",
    "apartments/1285731",
    "apartments/1182877",
-   "apartments/1646753"
+   "apartments/1646753",
+   "apartments/1666766",
+   "apartments/1635973",
+   "apartments/1740922",
+   "apartments/1273208"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4640,13 +4656,15 @@
    "1799954545043634156",
    "1128415769258201823",
    "1542753875241080438",
-   "1799956371204697624"
+   "1799956371204697624",
+   "1603119729487812920",
+   "1203003981273975626"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 23,
+   "bos": 24,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4688,8 +4706,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 9,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5661,8 +5679,19 @@
   "0ee2b4a28cf3c512",
   "6c43c5889cf496a2",
   "051b3fd20d2be144",
-  "3d170c150b39ba5d"
+  "3d170c150b39ba5d",
+  "b02af1a0d6b06b43",
+  "7fad0e2668a156cd",
+  "8b94d839a77ad49a",
+  "8b7e708092f5f2da",
+  "4ba36f13cbf12f42"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T2+1 Mobilado com Estacionamento para Arrendar em Belém... · Pedrouços, Belém, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 67 m² · Andar · 2 andar · Vista Plaza · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-1-mobilado-com-estacionamento-para-arrendar-em-belem-ID1j5fI",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Apartamento T3 em Olivais de 72,00 m2 · Olivais Sul, Olivais, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 72 m² · Andar · rés do chão · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-em-olivais-de-72-00-m2-ID1j5ei",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrenda T0 Penha de França · 850 € · Penha De França - Hoje às 21:21\nhttps://www.olx.pt/d/anuncio/arrenda-t0-penha-de-frana-IDJFIzy.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nPenthouse T3 em Campolide, Lisboa · 1.600 € · Campolide - Hoje às 20:22\nhttps://www.olx.pt/d/anuncio/penthouse-t3-em-campolide-lisboa-IDJFI21.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 27 OCT · 2-bedroom apartment for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1666766"
+ ],
  "son_gonderim": "2026-10-27"
 }
