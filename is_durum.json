@@ -654,7 +654,13 @@
    "gestor-de-contato-mfx_paco-de-arcos_OTS-2026-186088",
    "empregado-mesa-mfx_lisboa_OTS-2026-186122",
    "assistente-operacional-e-de-servico-de-apoio-ao-cliente_povoa-de-santa-iria_OTS-2026-183645",
-   "insurance-customer-support-assistant-spanish-speaker-mfx_alges-oeiras_OTS-2026-186125"
+   "insurance-customer-support-assistant-spanish-speaker-mfx_alges-oeiras_OTS-2026-186125",
+   "assistente-de-apoio-ao-cliente-banca-mfx_lisboa_OTS-2026-186141",
+   "servente-mfx_ponte-do-rol-torres-vedras_OTS-2026-186152",
+   "estampador-textil-serigrafo-mf-pontinha_lisboa_OTS-2026-186130",
+   "assistente-de-operacoes-e-instalacoes-mxf_lisboa_OTS-2026-185904",
+   "operador-de-reposicao-mfx-parttime_ericeira_OTS-2026-186135",
+   "operador-de-reposicao-mfx-parttime_colares_OTS-2026-186134"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1041,7 +1047,9 @@
    "aFyiuVgUvUzTanWzKCfSwC",
    "h3S9xXDZtvyAzTjEk5ZcAK",
    "s9iB3cYC78Jkbf37Mxh7aA",
-   "w7JsBEACmobWGn3E43WcMK"
+   "w7JsBEACmobWGn3E43WcMK",
+   "mEpGGf5JQoMBWk6yPD5NVj",
+   "s7QxvMmFZYooUniebSBJEC"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1416,12 +1424,13 @@
   "15a14a814946eac8",
   "33ba2cafb7908ce4",
   "f877f293a11b6e27",
-  "d61ff818d55a315d"
+  "d61ff818d55a315d",
+  "0767e1e38785a4e8"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 156,
+   "bos": 157,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1483,7 +1492,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 756,
-  "tekrar": 24
+  "elenen": 762,
+  "tekrar": 25
  }
 }
