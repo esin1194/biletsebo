@@ -666,7 +666,14 @@
    "enfermeiro-bloco-operatorio-mfx-lisboa_lisboa_PTS-2025-178373",
    "enfermeiro-internamento-de-medicina-e-cuidados-paliativos-mfx-lisboa_lisboa_PTS-2025-178375",
    "enfermeiro-de-internamento-medico-cirurgico-mfx-lisboa_lisboa_PTS-2025-178374",
-   "tecnico-radiologia-mfx-lisboa_lisboa_PTS-2025-178365"
+   "tecnico-radiologia-mfx-lisboa_lisboa_PTS-2025-178365",
+   "operador-de-armazem-turnos-rotativos-mfx_olivais_OTS-2026-186204",
+   "tecnico-de-payroll-mfx_lisboa_PTS-2026-186184",
+   "gestor-de-atendimento-fidelizacao-mfx_lisboa_OTS-2026-186181",
+   "gestor-operacional-comercial-area-energia-mfx_zona-centro-lisboa_PTS-2026-186191",
+   "assistant-administrative-support-fmx_castanheira-do-ribatejo_PTS-2026-186150",
+   "assistente-de-loja-mfx_lisboa_OTS-2026-186173",
+   "gestora-de-projetos-pmes-mfx_porto_OTS-2026-183798"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1055,7 +1062,8 @@
    "s9iB3cYC78Jkbf37Mxh7aA",
    "w7JsBEACmobWGn3E43WcMK",
    "mEpGGf5JQoMBWk6yPD5NVj",
-   "s7QxvMmFZYooUniebSBJEC"
+   "s7QxvMmFZYooUniebSBJEC",
+   "1RChGJ1g9RK5iukKbrRRnu"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1436,7 +1444,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 160,
+   "bos": 161,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1498,7 +1506,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 768,
-  "tekrar": 25
+  "elenen": 774,
+  "tekrar": 27
  }
 }
