@@ -1864,7 +1864,8 @@
    "apartamento-t3-em-olivais-de-72-00-m2-ID1j5ei",
    "apartamento-t2-para-arrendamento-ID1j5cL",
    "apartamento-t2-para-arrendamento-ID1j5cB",
-   "apartamento-5-quartos-115-m2-luminoso-ID9P5lky"
+   "apartamento-5-quartos-115-m2-luminoso-ID9P5lky",
+   "apartamento-1-quartos-113-m2-garagem-ID9P5lkz"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4661,13 +4662,14 @@
    "1542753875241080438",
    "1799956371204697624",
    "1603119729487812920",
-   "1203003981273975626"
+   "1203003981273975626",
+   "506047"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 25,
+   "bos": 26,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4710,7 +4712,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 9,
-  "tekrar": 3
+  "tekrar": 5
  },
  "imzalar": [
   "f6afeff342d106a9",
