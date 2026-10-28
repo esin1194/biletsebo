@@ -1863,7 +1863,8 @@
    "penthouse-t3-em-campolide-lisboa-ID1j5eW",
    "apartamento-t3-em-olivais-de-72-00-m2-ID1j5ei",
    "apartamento-t2-para-arrendamento-ID1j5cL",
-   "apartamento-t2-para-arrendamento-ID1j5cB"
+   "apartamento-t2-para-arrendamento-ID1j5cB",
+   "apartamento-5-quartos-115-m2-luminoso-ID9P5lky"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2673,7 +2674,8 @@
    "t2-penha-de-frana-IDJFIDv",
    "arrenda-t0-penha-de-frana-IDJFIzy",
    "penthouse-t3-em-campolide-lisboa-IDJFI21",
-   "apartamento-t2-sacavem-IDJFHc3"
+   "apartamento-t2-sacavem-IDJFHc3",
+   "arrenda-se-t1-loures-IDJFK64"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3695,7 +3697,8 @@
    "apartments/1666766",
    "apartments/1635973",
    "apartments/1740922",
-   "apartments/1273208"
+   "apartments/1273208",
+   "apartments/1067198"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4664,7 +4667,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 24,
+   "bos": 25,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4707,7 +4710,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 9,
-  "tekrar": 2
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5684,14 +5687,16 @@
   "7fad0e2668a156cd",
   "8b94d839a77ad49a",
   "8b7e708092f5f2da",
-  "4ba36f13cbf12f42"
+  "4ba36f13cbf12f42",
+  "af9600e99168259d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T2+1 Mobilado com Estacionamento para Arrendar em Belém... · Pedrouços, Belém, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 67 m² · Andar · 2 andar · Vista Plaza · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-1-mobilado-com-estacionamento-para-arrendar-em-belem-ID1j5fI",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Apartamento T3 em Olivais de 72,00 m2 · Olivais Sul, Olivais, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 72 m² · Andar · rés do chão · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-em-olivais-de-72-00-m2-ID1j5ei",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrenda T0 Penha de França · 850 € · Penha De França - Hoje às 21:21\nhttps://www.olx.pt/d/anuncio/arrenda-t0-penha-de-frana-IDJFIzy.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nPenthouse T3 em Campolide, Lisboa · 1.600 € · Campolide - Hoje às 20:22\nhttps://www.olx.pt/d/anuncio/penthouse-t3-em-campolide-lisboa-IDJFI21.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 27 OCT · 2-bedroom apartment for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1666766"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 27 OCT · 2-bedroom apartment for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1666766",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrenda-se T1 loures · 850 € · Loures - Hoje às 00:51\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-loures-IDJFK64.html"
  ],
  "son_gonderim": "2026-10-27"
 }
