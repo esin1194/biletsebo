@@ -682,7 +682,8 @@
    "gestora-de-projetos-pmes-mfx_porto_OTS-2026-183798",
    "operario-linha-de-producao-mfx_algueirao-mem-martins_OTS-2026-186231",
    "engenheiro-de-estudos-e-propostas-mfx_lisboa_OTS-2026-186221",
-   "empregado-de-bar-loja-celeiro-horario-rotativo-entre-as-9h-e-as-23h-subsidio-de-turno-folgas_alcabideche-cascais-shopping_OTS-2026-185159"
+   "empregado-de-bar-loja-celeiro-horario-rotativo-entre-as-9h-e-as-23h-subsidio-de-turno-folgas_alcabideche-cascais-shopping_OTS-2026-185159",
+   "business-developer-mfx_lisboa_PTS-2026-186242"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1454,7 +1455,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1516,7 +1517,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 784,
+  "elenen": 785,
   "tekrar": 27
  }
 }
