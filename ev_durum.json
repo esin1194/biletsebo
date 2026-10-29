@@ -4737,13 +4737,15 @@
    "17830439",
    "1715444089084379033",
    "1805804757943174978",
-   "1629746589517670426"
+   "1629746589517670426",
+   "755780762801738937",
+   "1396408504913063395"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 29,
+   "bos": 30,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4786,7 +4788,7 @@
   "tarih": "2026-09-17",
   "gonderilen": 75,
   "elenen": 5,
-  "tekrar": 4
+  "tekrar": 5
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5786,10 +5788,12 @@
   "1b859808696a86f4",
   "c9976fc4b799a86d",
   "7f11825e42104710",
-  "583d720ef98778df"
+  "583d720ef98778df",
+  "7be828310dae527e"
  ],
  "kuyruk": [
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · FROM 29 OCT · 2-bedroom apartment for rent in Lisbon · 1250 €/month · info · savings · NO DEPOSIT · electric_bolt · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1742114"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · FROM 29 OCT · 2-bedroom apartment for rent in Lisbon · 1250 €/month · info · savings · NO DEPOSIT · electric_bolt · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1742114",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 4,52 de uma avaliação média de 5, 29 avaliações · 4,52 (29) · Lisboa Típica 2 | Charming Flat by Homeful Homes · 1 quarto · 2 camas · 1 banheiro · $ 2.847 USD · $ 1.935 USD · $ 1.935 USD mensal, preço original: $ 2.847 USD · mensal · Desconto …\nhttps://www.airbnb.com/rooms/1396408504913063395"
  ],
  "son_gonderim": "2026-10-28"
 }
