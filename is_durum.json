@@ -693,7 +693,13 @@
    "promotor-telecomunicacoes-mfx-fulltime-amigo-quiosque-alfragide_alfragide_OTS-2026-186282",
    "senior-consultant-comercial-due-diligences_lisboa-or-porto_PTS-2026-181770",
    "gestora-de-portefolio-e-articulacao-de-negocio-mfx_lisboa_OTS-2026-186219",
-   "gestora-de-projetos-pmes-mfx_porto-ou-lisboa_OTS-2026-183798"
+   "gestora-de-projetos-pmes-mfx_porto-ou-lisboa_OTS-2026-183798",
+   "gestor-comercial-de-exportacao-mfx_corroios_PTS-2026-186334",
+   "tecnicoa-de-contabilidade-mfx_carnaxide_PTS-2026-186332",
+   "operador-de-armazemembalagem-mfx_azambuja_OTS-2026-186328",
+   "administrativoa_sintra-linho_OTS-2026-186324",
+   "assistente-de-inventario-mfx_sao-domingos-de-rana_OTS-2026-186318",
+   "ajudante-serralheiromontador_sao-domingos-de-rana-cascais_OTS-2026-186316"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1092,7 +1098,9 @@
    "qnCa66eJQ9skJjdhc3Nso2",
    "uhmC9EsgHTsdVER6mtf3ex",
    "jdSSYDzPqJLtHJqh4oEddv",
-   "rLNspyxNrYkhwfjFZHCgou"
+   "rLNspyxNrYkhwfjFZHCgou",
+   "rTj1pMf9K6doNNqzNzXt8Q",
+   "n5EQ6gYBBwixmMxkThvgXS"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1476,7 +1484,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1538,7 +1546,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 800,
-  "tekrar": 27
+  "elenen": 806,
+  "tekrar": 29
  }
 }
