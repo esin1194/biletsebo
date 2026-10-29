@@ -1895,7 +1895,9 @@
    "apartamento-t2-para-arrendamento-ID1j5sL",
    "arrendo-t2-olivais-encarnacao-lisboa-ID1j5r9",
    "t1-com-logradouro-e-garagem-nas-avenidas-novas-rua-pedro-nunes-ID1j5qQ",
-   "apartamento-1-quartos-74-m2-novo-ID9P5lkA"
+   "apartamento-1-quartos-74-m2-novo-ID9P5lkA",
+   "apartamento-t1-com-estacionamento-telheiras-lisboa-ID1j5Cm",
+   "apartamento-4-quartos-124-m2-varanda-ID9P5lkB"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2723,7 +2725,9 @@
    "t2-na-av-de-berlim-lisboa-100-m-garagem-2-wc-cozinha-equipada-e-2-elevadores-7-andar-1-850-ms-disponvel-em-dezembro-IDJFPA3",
    "arrendo-apartamento-t3-em-lisboa-IDJFPuJ",
    "t2-5-andar-monte-abrao-IDJFOzd",
-   "arrendo-t2-olivais-encarnao-lisboa-IDJFO1K"
+   "arrendo-t2-olivais-encarnao-lisboa-IDJFO1K",
+   "apartamento-t2-pontinha-metro-entrada-imediata-IDJFQZQ",
+   "arrendamento-t3-totalmente-remodelado-IDJFQoH"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3751,7 +3755,8 @@
    "apartments/1741324",
    "apartments/1717033",
    "apartments/1741328",
-   "apartments/1742109"
+   "apartments/1742109",
+   "apartments/1742114"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3817,7 +3822,8 @@
    "ut1745969",
    "ut1539445",
    "ut1343424",
-   "ut1748690"
+   "ut1748690",
+   "ut1749117"
   ],
   "uniplaces.com": [
    "890027",
@@ -4727,13 +4733,17 @@
    "1203003981273975626",
    "506047",
    "1805200125177218399",
-   "1323747372402211778"
+   "1323747372402211778",
+   "17830439",
+   "1715444089084379033",
+   "1805804757943174978",
+   "1629746589517670426"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 28,
+   "bos": 29,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4775,8 +4785,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 5,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5775,8 +5785,11 @@
   "50f603ea66203ca4",
   "1b859808696a86f4",
   "c9976fc4b799a86d",
-  "7f11825e42104710"
+  "7f11825e42104710",
+  "583d720ef98778df"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · FROM 29 OCT · 2-bedroom apartment for rent in Lisbon · 1250 €/month · info · savings · NO DEPOSIT · electric_bolt · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1742114"
+ ],
  "son_gonderim": "2026-10-28"
 }
