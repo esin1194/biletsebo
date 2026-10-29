@@ -683,7 +683,17 @@
    "operario-linha-de-producao-mfx_algueirao-mem-martins_OTS-2026-186231",
    "engenheiro-de-estudos-e-propostas-mfx_lisboa_OTS-2026-186221",
    "empregado-de-bar-loja-celeiro-horario-rotativo-entre-as-9h-e-as-23h-subsidio-de-turno-folgas_alcabideche-cascais-shopping_OTS-2026-185159",
-   "business-developer-mfx_lisboa_PTS-2026-186242"
+   "business-developer-mfx_lisboa_PTS-2026-186242",
+   "tecnico-de-maquinagem-e-programacao-cnc-mfx_carnaxide_OTS-2026-186315",
+   "porteiro-mfx-substituicao-de-ferias_lisboa_OTS-2026-186313",
+   "tecnico-comercial-construcao-mfx_lisboa_PTS-2026-186291",
+   "motorista-de-ligeiros-mxf-reforco-de-natal_prior-velho_OTS-2026-186290",
+   "auditor-de-qualidade-mfx_lisboa_OTS-2026-186286",
+   "tecnico-de-controlo-de-gestao_lisboa_PTS-2023-184597",
+   "promotor-telecomunicacoes-mfx-fulltime-amigo-quiosque-alfragide_alfragide_OTS-2026-186282",
+   "senior-consultant-comercial-due-diligences_lisboa-or-porto_PTS-2026-181770",
+   "gestora-de-portefolio-e-articulacao-de-negocio-mfx_lisboa_OTS-2026-186219",
+   "gestora-de-projetos-pmes-mfx_porto-ou-lisboa_OTS-2026-183798"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1078,7 +1088,11 @@
    "rM15o2mWaH2iqa3w7ULtgH",
    "6YoEB9e7rLQy55akX1jeFY",
    "jeMAFXWVNDucEjmvYD7nuR",
-   "o3UaNNE5cT9mSBUH1ofdic"
+   "o3UaNNE5cT9mSBUH1ofdic",
+   "qnCa66eJQ9skJjdhc3Nso2",
+   "uhmC9EsgHTsdVER6mtf3ex",
+   "jdSSYDzPqJLtHJqh4oEddv",
+   "rLNspyxNrYkhwfjFZHCgou"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1455,12 +1469,14 @@
   "f877f293a11b6e27",
   "d61ff818d55a315d",
   "0767e1e38785a4e8",
-  "71206f4959a86b4d"
+  "71206f4959a86b4d",
+  "8985d42f5be024ab",
+  "e1d66a8c785bb778"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1522,7 +1538,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 788,
+  "elenen": 800,
   "tekrar": 27
  }
 }
