@@ -1924,7 +1924,10 @@
    "apartamento-t1-para-arrendamento-ID1j5Oy",
    "apartamento-t2-para-arrendamento-ID1j5NS",
    "apartamento-t1-rua-de-sao-miguel-alfama-ID1j5NN",
-   "apartamento-5-quartos-121-m2-terraco-ID9P5lkD"
+   "apartamento-5-quartos-121-m2-terraco-ID9P5lkD",
+   "apartamento-t1-mobilado-em-lisboa-ID1j65d",
+   "arrenda-se-apartamento-t3-em-lisboa-ID1j659",
+   "apartamento-t2-a-1-min-metro-encarnacao-olivais-norte-ID1j64Y"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2763,7 +2766,12 @@
    "apartamento-santa-iria-de-azoia-t3-IDJENwt",
    "arrendamento-de-quarto-IDJFRmA",
    "arrendo-t0-novo-totalmente-equipado-IDJFTsT",
-   "t0-para-arrendar-mafra-IDJFSUV"
+   "t0-para-arrendar-mafra-IDJFSUV",
+   "apartamento-t1-mobilado-em-lisboa-IDJFWEj",
+   "arrenda-se-apartamento-t3-em-lisboa-IDJFWCc",
+   "arrendo-t2-duplex-remodelado-3-andar-virado-a-sul-com-muita-luz-natural-por-mobilar-sem-elevador-IDJFWu8",
+   "t2-totalmente-mobilado-IDJd6eQ",
+   "t1-costa-da-caparica-alugar-perto-da-praia-IDJzTWK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3797,7 +3805,9 @@
    "apartments/309237",
    "apartments/1738501",
    "apartments/1741330",
-   "apartments/1656267"
+   "apartments/1656267",
+   "apartments/1742092",
+   "apartments/1742972"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4794,13 +4804,15 @@
    "1151494290489577488",
    "1523971900335666086",
    "806627048810311964",
-   "1437571484904676856"
+   "1437571484904676856",
+   "1483303166998605667",
+   "1633416559577617551"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 32,
+   "bos": 33,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4842,8 +4854,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 6,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5858,8 +5870,17 @@
   "535b0728514163da",
   "aa05e52a9db9febd",
   "8a62d71c61af5b2b",
-  "dfd710d3834a67df"
+  "dfd710d3834a67df",
+  "32cebb1d91a7fc96",
+  "d13ab240fe4e72f8",
+  "a79fbc19bb6c4643",
+  "1f018eb8895ca3db"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 750 €\n750 € · Apartamento T1 mobilado em Lisboa · Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-em-lisboa-ID1j65d",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T1 mobilado em Lisboa · 750 € · Alvalade - Hoje às 20:50\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-em-lisboa-IDJFWEj.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1650 €/month · info · electric_bolt · INSTANT BOOKING · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1742092",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · Novo lugar para ficar · Novo · Apartamento elegante e iluminado no centro da cidade · 2 quartos · 2 camas queen · 1 banheiro · $ 3.935 USD · $ 3.044 USD · $ 3.044 USD mensal, preço original: $ 3.935 USD · mensal · Desconto mensal · Apartament…\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/1483303166998605667"
+ ],
  "son_gonderim": "2026-10-29"
 }
