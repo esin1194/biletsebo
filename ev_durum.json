@@ -1897,7 +1897,20 @@
    "t1-com-logradouro-e-garagem-nas-avenidas-novas-rua-pedro-nunes-ID1j5qQ",
    "apartamento-1-quartos-74-m2-novo-ID9P5lkA",
    "apartamento-t1-com-estacionamento-telheiras-lisboa-ID1j5Cm",
-   "apartamento-4-quartos-124-m2-varanda-ID9P5lkB"
+   "apartamento-4-quartos-124-m2-varanda-ID9P5lkB",
+   "apartamento-t1-com-garagem-para-arrendamento-junto-ao-saldanha-lisboa-ID1j5Mq",
+   "apartamento-com-1-quartos-localizado-em-anjos-lisbon-ID1j5Mc",
+   "apartamento-com-3-quartos-localizado-em-lapa-lisbon-ID1j5Mb",
+   "apartamento-com-2-quartos-localizado-em-rato-lisbon-ID1j5M6",
+   "apartamento-t2-para-arrendamento-zona-do-rato-estrela-ID1j5LA",
+   "t3-belem-totalmente-renovado-cozinha-equipada-excelente-ID1j5IH",
+   "t2-alcntara-mobilado-ID1j5If",
+   "apartamento-t1-para-arrendamento-ID1j5HF",
+   "apartamento-t1-com-varanda-em-avenidas-novas-ID1j5GO",
+   "arrendamento-apartamento-t2-88m2-terraco-80m2-estrada-de-ben-ID1j5Gu",
+   "t4-mobilado-e-equipado-em-lisboa-ID1j5DJ",
+   "apartamento-t0-para-arrendar-sem-moveis-em-campo-de-ourique-ID1j5Dc",
+   "apartamento-2-quartos-92-m2-garagem-ID9P5lkC"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2727,7 +2740,14 @@
    "t2-5-andar-monte-abrao-IDJFOzd",
    "arrendo-t2-olivais-encarnao-lisboa-IDJFO1K",
    "apartamento-t2-pontinha-metro-entrada-imediata-IDJFQZQ",
-   "arrendamento-t3-totalmente-remodelado-IDJFQoH"
+   "arrendamento-t3-totalmente-remodelado-IDJFQoH",
+   "t2-com-quintal-ramada-IDJFSy7",
+   "t3-belm-totalmente-renovado-cozinha-equipada-excelente-IDJFSj0",
+   "t4-oportunidade-sto-antnio-dos-cavaleiros-IDJFS0J",
+   "t4-mobilado-e-equipado-em-lisboa-IDJFRIA",
+   "t2-casal-de-sao-bras-amadora-zona-central-IDJFRuY",
+   "apartamento-santa-iria-de-azoia-t3-IDJENwt",
+   "arrendamento-de-quarto-IDJFRmA"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3756,7 +3776,12 @@
    "apartments/1717033",
    "apartments/1741328",
    "apartments/1742109",
-   "apartments/1742114"
+   "apartments/1742114",
+   "apartments/637986",
+   "apartments/309237",
+   "apartments/1738501",
+   "apartments/1741330",
+   "apartments/1656267"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3823,7 +3848,8 @@
    "ut1539445",
    "ut1343424",
    "ut1748690",
-   "ut1749117"
+   "ut1749117",
+   "ut1700272"
   ],
   "uniplaces.com": [
    "890027",
@@ -4420,7 +4446,11 @@
    "902080",
    "902070",
    "96238",
-   "55219"
+   "55219",
+   "902244",
+   "902227",
+   "902181",
+   "902162"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4739,13 +4769,16 @@
    "1805804757943174978",
    "1629746589517670426",
    "755780762801738937",
-   "1396408504913063395"
+   "1396408504913063395",
+   "1151494290489577488",
+   "1523971900335666086",
+   "806627048810311964"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 30,
+   "bos": 31,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4787,8 +4820,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 5,
-  "tekrar": 5
+  "elenen": 23,
+  "tekrar": 9
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5789,11 +5822,27 @@
   "c9976fc4b799a86d",
   "7f11825e42104710",
   "583d720ef98778df",
-  "7be828310dae527e"
+  "7be828310dae527e",
+  "3b87d88fefce9a8f",
+  "7b5091aebcdaf1f0",
+  "71479cc313e151bc",
+  "4098774ff4943bc3",
+  "997036eea2e86578",
+  "cc3e81c7da16206f",
+  "362507797b47d33d",
+  "713f9b5f8211f6fd"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · FROM 29 OCT · 2-bedroom apartment for rent in Lisbon · 1250 €/month · info · savings · NO DEPOSIT · electric_bolt · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1742114",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 4,52 de uma avaliação média de 5, 29 avaliações · 4,52 (29) · Lisboa Típica 2 | Charming Flat by Homeful Homes · 1 quarto · 2 camas · 1 banheiro · $ 2.847 USD · $ 1.935 USD · $ 1.935 USD mensal, preço original: $ 2.847 USD · mensal · Desconto …\nhttps://www.airbnb.com/rooms/1396408504913063395"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 4,52 de uma avaliação média de 5, 29 avaliações · 4,52 (29) · Lisboa Típica 2 | Charming Flat by Homeful Homes · 1 quarto · 2 camas · 1 banheiro · $ 2.847 USD · $ 1.935 USD · $ 1.935 USD mensal, preço original: $ 2.847 USD · mensal · Desconto …\nhttps://www.airbnb.com/rooms/1396408504913063395",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · Apartamento T1 com Garagem para Arrendamento junto ao Saldanha, Lisboa · Saldanha - Picoas, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 58.42 m² · LT Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-garagem-para-arrendamento-junto-ao-saldanha-lisboa-ID1j5Mq",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · Apartamento T1 com varanda em Avenidas Novas · São Sebastião da Pedreira, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-varanda-em-avenidas-novas-ID1j5GO",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.900 €\n1900 € · T4 mobilado e equipado em Lisboa · Baixa, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T4 · Preço por metro quadrado · 83 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t4-mobilado-e-equipado-em-lisboa-ID1j5DJ",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT2 com quintal ramada · 1.000 € · Ramada E Caneças - Hoje às 12:23\nhttps://www.olx.pt/d/anuncio/t2-com-quintal-ramada-IDJFSy7.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nT3 Belém, totalmente renovado, cozinha equipada, excelente! · 1.600 € · Belém - Hoje às 11:42\nhttps://www.olx.pt/d/anuncio/t3-belm-totalmente-renovado-cozinha-equipada-excelente-IDJFSj0.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nApartamento Santa Iria de Azoia t3 · 1.250 € · Santa Iria De Azoia, São João Da Talha E Bobadela - Hoje às 08:11\n<i>⚠️ T3 ama m² bilgisi yok.</i>\nhttps://www.olx.pt/d/anuncio/apartamento-santa-iria-de-azoia-t3-IDJENwt.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 500 €\nArrendamento de quarto · 500 € · Avenidas Novas - Hoje às 06:14\nhttps://www.olx.pt/d/anuncio/arrendamento-de-quarto-IDJFRmA.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 25 NOV · star · 5 (18) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1741330"
  ],
  "son_gonderim": "2026-10-28"
 }
