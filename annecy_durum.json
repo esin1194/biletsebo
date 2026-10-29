@@ -653,7 +653,9 @@
    "84927900",
    "84926379",
    "84935736",
-   "84927737"
+   "84927737",
+   "84953939",
+   "84958572"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -1028,7 +1030,9 @@
   "3765e010e2b54ba7",
   "72ac17b7f07aa3c5",
   "bb91d61f8c3f1d71",
-  "3ca60c9d40d3b550"
+  "3ca60c9d40d3b550",
+  "f06772bfbdc48341",
+  "bfd3677777eb009c"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -1073,7 +1077,7 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 87,
+   "bos": 88,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
