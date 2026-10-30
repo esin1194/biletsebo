@@ -203,7 +203,8 @@
    "215RQDV",
    "215SPBX",
    "215SQSC",
-   "215TKFH"
+   "215TKFH",
+   "215VPSY"
   ],
   "hellowork.com": [
    "83399370",
@@ -665,7 +666,9 @@
    "84977516",
    "84977522",
    "84977376",
-   "84977385"
+   "84977385",
+   "84988672",
+   "84987928"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -1044,12 +1047,15 @@
   "f06772bfbdc48341",
   "bfd3677777eb009c",
   "7148b297afd40141",
-  "24ff7786f50c36d0"
+  "24ff7786f50c36d0",
+  "5f5689f4c71e2b52",
+  "a569004ed3467440",
+  "4114023872f2afb2"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?l=Annecy&d=20&t=0": {
@@ -1089,7 +1095,7 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 91,
+   "bos": 92,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
