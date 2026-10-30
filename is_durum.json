@@ -699,7 +699,14 @@
    "operador-de-armazemembalagem-mfx_azambuja_OTS-2026-186328",
    "administrativoa_sintra-linho_OTS-2026-186324",
    "assistente-de-inventario-mfx_sao-domingos-de-rana_OTS-2026-186318",
-   "ajudante-serralheiromontador_sao-domingos-de-rana-cascais_OTS-2026-186316"
+   "ajudante-serralheiromontador_sao-domingos-de-rana-cascais_OTS-2026-186316",
+   "react-developer-mfx_lisboa_DTS-2026-186087",
+   "team-leader-de-producao-mfx_sintra_OTS-2026-186353",
+   "assistente-comercial-mfx_lisboa-quinta-lambert_OTS-2026-186312",
+   "office-manager-mfx_lisboa_PTS-2026-186351",
+   "operador-de-embalamento-amadoraalfragide_lisboa_OTS-2026-186349",
+   "it-service-desk-porto-mfx_porto_DTS-2025-169575",
+   "procurement-tecnico-mfx_lisboa_OTS-2026-185882"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1102,7 +1109,8 @@
    "rTj1pMf9K6doNNqzNzXt8Q",
    "n5EQ6gYBBwixmMxkThvgXS",
    "jqViQUNetDqS4rnHSD7nKR",
-   "qdC2hVkNV1CqZsfw6YHMP5"
+   "qdC2hVkNV1CqZsfw6YHMP5",
+   "hjUJAoh8xbuviJc9PSxTae"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1481,12 +1489,13 @@
   "0767e1e38785a4e8",
   "71206f4959a86b4d",
   "8985d42f5be024ab",
-  "e1d66a8c785bb778"
+  "e1d66a8c785bb778",
+  "a0ae26dc84f3aea7"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1548,7 +1557,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 807,
+  "elenen": 814,
   "tekrar": 30
  }
 }
