@@ -1929,7 +1929,44 @@
    "arrenda-se-apartamento-t3-em-lisboa-ID1j659",
    "apartamento-t2-a-1-min-metro-encarnacao-olivais-norte-ID1j64Y",
    "apartamento-5-quartos-140-m2-remodelado-ID9P5lkE",
-   "apartamento-3-quartos-41-m2-luminoso-ID9P5lkF"
+   "apartamento-3-quartos-41-m2-luminoso-ID9P5lkF",
+   "t2-mobilado-junto-ao-metro-martim-moniz-pronto-a-habitar-ID1j45f",
+   "t0-novo-de-51-m-junto-a-universidades-hospital-e-aeroporto-elevado-ID1j6R9",
+   "t2-totalmente-remodelado-em-benfica-ID1j6QJ",
+   "t2-no-coracao-de-lisboa-poiais-de-sao-bento-ID1j6PL",
+   "t2-com-garagem-e-arrecadacao-parque-das-nacoes-ID1j6OI",
+   "apartamento-t1-para-arrendamento-ID1j6NM",
+   "apartamento-t2-para-arrendamento-ID1j6NJ",
+   "apartamento-t1-no-paco-do-lumiar-cozinha-modernizada-e-vista-para-es-ID1j6Nu",
+   "loft-a-ID1j6Nf",
+   "avenida-townhouse-ID1j6Ls",
+   "casa-dias-studio-d2-ID1j6Ld",
+   "cozy-new-t1-apartment-in-ajuda-ID1j6Lc",
+   "apartamento-em-rua-doutor-antonio-cndido-lisboa-ID1j6L3",
+   "apartamento-em-rua-doutor-antonio-cndido-lisboa-ID1j6L2",
+   "estudio-em-avenida-antonio-augusto-de-aguiar-lisboa-ID1j6L0",
+   "cozy-3-bedroom-apartment-in-entrecampos-ID1j6KV",
+   "1-bedroom-and-balcony-in-arroios-ID1j6KR",
+   "modern-and-lovely-apartment-in-graca-ID1j6KI",
+   "1-bedroom-parking-in-parque-das-nacoes-ID1j6K1",
+   "t1-roma-apartment-ID1j6JP",
+   "apartamento-em-rua-doutor-antonio-cndido-lisboa-ID1j6JJ",
+   "bright-1-bedroom-apartment-with-terrace-near-saldanha-lisbon-ID1j6Ji",
+   "cozy-1-bedroom-apartment-with-balcony-in-arroios-lisbon-ID1j6IT",
+   "modern-furnished-studio-with-in-arroios-lisbon-ID1j6IQ",
+   "apartment-in-rua-da-boavista-lisboa-ID1j6IE",
+   "cozy-apartment-in-rossio-ID1j6HN",
+   "cdoqo-comfy-duplex-studio-in-campo-de-ourique-ID1j6HP",
+   "lovely-and-modern-apartment-in-rossio-ID1j6HM",
+   "apartamento-em-rua-castelo-branco-saraiva-lisboa-ID1j6Hr",
+   "cozy-studio-in-rua-almeida-e-sousa-lisboa-ID1j6H7",
+   "2bdr-apartment-in-rua-camilo-pessanha-lisbon-ID1j6H0",
+   "1-bedroom-and-pool-in-areeiro-ID1j6GT",
+   "spacious-2-bedroom-in-santos-ID1j6GO",
+   "cozy-house-in-avenida-ID1j6Gs",
+   "casa-sanches-ap6-ID1j6Df",
+   "1-bedroom-apartment-with-balcony-in-saldanha-lisbon-ID1j6BQ",
+   "exquisite-apartment-in-lisbon-ID1j6BK"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2775,7 +2812,8 @@
    "t2-totalmente-mobilado-IDJd6eQ",
    "t1-costa-da-caparica-alugar-perto-da-praia-IDJzTWK",
    "arrenda-se-t1-em-loures-r-c-de-moradia-parcialmente-mobilado-IDJFWXf",
-   "apartamento-t1-IDJFVvq"
+   "apartamento-t1-IDJFVvq",
+   "t2-odivelas-colinas-do-cruzeiro-com-box-para-2-carros-IDJFYNB"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4487,7 +4525,14 @@
    "235428",
    "63826",
    "723178",
-   "837039"
+   "837039",
+   "96080",
+   "902417",
+   "902415",
+   "902404",
+   "902457",
+   "902447",
+   "902425"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4815,13 +4860,16 @@
    "1633416559577617551",
    "29581678",
    "1799952470363600390",
-   "1004112381021696229"
+   "1004112381021696229",
+   "942546004168088394",
+   "29417758",
+   "590496022830931752"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 35,
+   "bos": 36,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4863,8 +4911,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 10,
-  "tekrar": 2
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5887,17 +5935,16 @@
   "d64939c3a1287f18",
   "6106bc943f13a339",
   "2b5583868d0e280c",
-  "87f3cec00c6faba3"
+  "87f3cec00c6faba3",
+  "da2c63bc25eb7bb9",
+  "1640adaab3006f33",
+  "4ce61abc200258de",
+  "f160a2a15a1c5ea7",
+  "2f6523e3295d6988",
+  "cd39c49dbf13b6b7",
+  "cd9bd8491655ec8b",
+  "3ef13ec735206574"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 750 €\n750 € · Apartamento T1 mobilado em Lisboa · Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-em-lisboa-ID1j65d",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T1 mobilado em Lisboa · 750 € · Alvalade - Hoje às 20:50\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-em-lisboa-IDJFWEj.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1650 €/month · info · electric_bolt · INSTANT BOOKING · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1742092",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · Novo lugar para ficar · Novo · Apartamento elegante e iluminado no centro da cidade · 2 quartos · 2 camas queen · 1 banheiro · $ 3.935 USD · $ 3.044 USD · $ 3.044 USD mensal, preço original: $ 3.935 USD · mensal · Desconto mensal · Apartament…\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/1483303166998605667",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrenda-se T1 em Loures (R/C de Moradia) – Parcialmente Mobilado · 850 € · Loures - 29 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-em-loures-r-c-de-moradia-parcialmente-mobilado-IDJFWXf.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 31 OCT · star · 5 (18) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1741326",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 10 de nov.  a  9 de fev. · 10 de nov. – 9 de fev. · Apartamento ⋅ Areeiro · 4,74 de uma avaliação média de 5, 133 avaliações · 4,74 (133) · A Casa do Porteiro: um caso urbano ao lado do metrô · 1 quarto · 2 camas · 1 banheiro · $ 4.133 USD · $ 2.806 USD · $ 2.806…\nhttps://www.airbnb.com/rooms/29581678",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ São Paulo · Apartamento clássico com vista para o rio Tejo por LovelyStay · 1 quarto · 1 cama queen · 1 banheiro · $ 2.428 USD · $ 2.212 USD · $ 2.212 USD mensal, preço original: $ 2.428 USD · mensal · Preferido dos hóspedes · 4,94 de uma avaliação méd…\nhttps://www.airbnb.com/rooms/1799952470363600390"
- ],
- "son_gonderim": "2026-10-29"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-30"
 }
