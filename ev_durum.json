@@ -1966,7 +1966,24 @@
    "cozy-house-in-avenida-ID1j6Gs",
    "casa-sanches-ap6-ID1j6Df",
    "1-bedroom-apartment-with-balcony-in-saldanha-lisbon-ID1j6BQ",
-   "exquisite-apartment-in-lisbon-ID1j6BK"
+   "exquisite-apartment-in-lisbon-ID1j6BK",
+   "alugo-duplex-loft-espacoso-mobilado-equipado-e-central-1100-por-18m-ID1j2zN",
+   "apartamento-t2-para-arrendamento-ID1j74b",
+   "t2-areeiro-com-varanda-e-ar-condicionado-ID1j744",
+   "apartamento-t1-com-vista-avenida-da-liberdade-lisboa-ID1j727",
+   "apartamento-t1-mobilado-e-equipado-ID1j709",
+   "apartamento-t2-para-arrendamento-ID1j6YL",
+   "estudio-para-arrendamento-no-chiado-ID1j6YB",
+   "apartamento-t2-para-arrendamento-ID1j6YA",
+   "apartamento-t2-para-arrendamento-ID1j6Yf",
+   "apartamento-t1-para-arrendamento-ID1j6UV",
+   "t2-remodelado-no-restelo-com-varandas-e-excelente-luz-natural-ID1j6UO",
+   "apartamento-t2-com-cozinha-equipada-varandas-e-excelente-luminosidade-ID1j6Ur",
+   "t1-mobilado-para-arrendamento-no-marques-de-pombal-lisboa-ID1j6Ul",
+   "apartamento-t2-1-em-alcntara-ID1j6SQ",
+   "estudio-mobilado-para-arrendamento-em-alfama-ID1j6RA",
+   "t3-quinta-do-lambert-ID1j6Rp",
+   "apartamento-5-quartos-118-m2-remodelado-ID9P5lkG"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2813,7 +2830,10 @@
    "t1-costa-da-caparica-alugar-perto-da-praia-IDJzTWK",
    "arrenda-se-t1-em-loures-r-c-de-moradia-parcialmente-mobilado-IDJFWXf",
    "apartamento-t1-IDJFVvq",
-   "t2-odivelas-colinas-do-cruzeiro-com-box-para-2-carros-IDJFYNB"
+   "t2-odivelas-colinas-do-cruzeiro-com-box-para-2-carros-IDJFYNB",
+   "t-1-mobilado-equipado-centro-lisboa-s-1-renda-1-cauo-entrada-imediata-IDJG0Kb",
+   "t1-figueirinha-oeiras-IDJG01S",
+   "t3-mobilado-para-arrendar-ramada-caneas-1-499-IDJFWuF"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4863,13 +4883,14 @@
    "1004112381021696229",
    "942546004168088394",
    "29417758",
-   "590496022830931752"
+   "590496022830931752",
+   "33747620"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 36,
+   "bos": 37,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4911,8 +4932,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 13,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5943,8 +5964,23 @@
   "2f6523e3295d6988",
   "cd39c49dbf13b6b7",
   "cd9bd8491655ec8b",
-  "3ef13ec735206574"
+  "3ef13ec735206574",
+  "5c64b8bb2a12be48",
+  "559a638ea98b8794",
+  "e2833f3730c99cd0",
+  "f37ba6a3baf7cb40",
+  "d5ddd1bc0809ee9e",
+  "e3821b989649021c",
+  "3270dfe56975f8bd"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.150 €\n1150 € · Alugo Duplex-Loft. Espacoso Mobilado Equipado e Central-1100. Por 18M · 1100-514 | Santa Maria Maior, Lisboa, Rua de São Cristóvão, São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 85 m² · Andar · 3 andar · Des…\nhttps://www.imovirtual.com/pt/anuncio/alugo-duplex-loft-espacoso-mobilado-equipado-e-central-1100-por-18m-ID1j2zN",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T1 com vista, Avenida da Liberdade, Lisboa · Av. da Liberdade - Marquês de Pombal, Santo António, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · Andar · 5 andar · Porta da Frente Christie's International Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-vista-avenida-da-liberdade-lisboa-ID1j727",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 para arrendamento · Escadinhas Oliveira, Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 46.57 m² · Andar · 3 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j6UV",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · T1 Mobilado para Arrendamento no Marquês de Pombal – Lisboa · Praceta da Rua Duque de Palmela, Av. da Liberdade - Marquês de Pombal, Santo António, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · KW Ábaco · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-para-arrendamento-no-marques-de-pombal-lisboa-ID1j6Ul",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Estúdio mobilado para arrendamento em Alfama · Beco da Cardosa, Alfama, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 35 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/estudio-mobilado-para-arrendamento-em-alfama-ID1j6RA",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT-1 mobilado equipado, Centro Lisboa. Só 1 renda+1 caução. Entrada imediata · 1.000 € · Santa Maria Maior - Hoje às 19:45\nhttps://www.olx.pt/d/anuncio/t-1-mobilado-equipado-centro-lisboa-s-1-renda-1-cauo-entrada-imediata-IDJG0Kb.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 980 €\nT1 Figueirinha Oeiras · 980 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 17:14\nhttps://www.olx.pt/d/anuncio/t1-figueirinha-oeiras-IDJG01S.html"
+ ],
  "son_gonderim": "2026-10-30"
 }
