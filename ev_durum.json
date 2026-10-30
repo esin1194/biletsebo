@@ -1928,7 +1928,8 @@
    "apartamento-t1-mobilado-em-lisboa-ID1j65d",
    "arrenda-se-apartamento-t3-em-lisboa-ID1j659",
    "apartamento-t2-a-1-min-metro-encarnacao-olivais-norte-ID1j64Y",
-   "apartamento-5-quartos-140-m2-remodelado-ID9P5lkE"
+   "apartamento-5-quartos-140-m2-remodelado-ID9P5lkE",
+   "apartamento-3-quartos-41-m2-luminoso-ID9P5lkF"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2773,7 +2774,8 @@
    "arrendo-t2-duplex-remodelado-3-andar-virado-a-sul-com-muita-luz-natural-por-mobilar-sem-elevador-IDJFWu8",
    "t2-totalmente-mobilado-IDJd6eQ",
    "t1-costa-da-caparica-alugar-perto-da-praia-IDJzTWK",
-   "arrenda-se-t1-em-loures-r-c-de-moradia-parcialmente-mobilado-IDJFWXf"
+   "arrenda-se-t1-em-loures-r-c-de-moradia-parcialmente-mobilado-IDJFWXf",
+   "apartamento-t1-IDJFVvq"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4810,13 +4812,16 @@
    "806627048810311964",
    "1437571484904676856",
    "1483303166998605667",
-   "1633416559577617551"
+   "1633416559577617551",
+   "29581678",
+   "1799952470363600390",
+   "1004112381021696229"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 34,
+   "bos": 35,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4858,8 +4863,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
-  "tekrar": 1
+  "elenen": 10,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5880,7 +5885,9 @@
   "a79fbc19bb6c4643",
   "1f018eb8895ca3db",
   "d64939c3a1287f18",
-  "6106bc943f13a339"
+  "6106bc943f13a339",
+  "2b5583868d0e280c",
+  "87f3cec00c6faba3"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 750 €\n750 € · Apartamento T1 mobilado em Lisboa · Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-em-lisboa-ID1j65d",
@@ -5888,7 +5895,9 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1650 €/month · info · electric_bolt · INSTANT BOOKING · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1742092",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Arroios · Novo lugar para ficar · Novo · Apartamento elegante e iluminado no centro da cidade · 2 quartos · 2 camas queen · 1 banheiro · $ 3.935 USD · $ 3.044 USD · $ 3.044 USD mensal, preço original: $ 3.935 USD · mensal · Desconto mensal · Apartament…\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/1483303166998605667",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrenda-se T1 em Loures (R/C de Moradia) – Parcialmente Mobilado · 850 € · Loures - 29 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-t1-em-loures-r-c-de-moradia-parcialmente-mobilado-IDJFWXf.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 31 OCT · star · 5 (18) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1741326"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 31 OCT · star · 5 (18) · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · savings · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1741326",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 10 de nov.  a  9 de fev. · 10 de nov. – 9 de fev. · Apartamento ⋅ Areeiro · 4,74 de uma avaliação média de 5, 133 avaliações · 4,74 (133) · A Casa do Porteiro: um caso urbano ao lado do metrô · 1 quarto · 2 camas · 1 banheiro · $ 4.133 USD · $ 2.806 USD · $ 2.806…\nhttps://www.airbnb.com/rooms/29581678",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ São Paulo · Apartamento clássico com vista para o rio Tejo por LovelyStay · 1 quarto · 1 cama queen · 1 banheiro · $ 2.428 USD · $ 2.212 USD · $ 2.212 USD mensal, preço original: $ 2.428 USD · mensal · Preferido dos hóspedes · 4,94 de uma avaliação méd…\nhttps://www.airbnb.com/rooms/1799952470363600390"
  ],
  "son_gonderim": "2026-10-29"
 }
