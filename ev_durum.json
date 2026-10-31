@@ -1984,7 +1984,11 @@
    "estudio-mobilado-para-arrendamento-em-alfama-ID1j6RA",
    "t3-quinta-do-lambert-ID1j6Rp",
    "apartamento-5-quartos-118-m2-remodelado-ID9P5lkG",
-   "apartamento-2-quartos-115-m2-terraco-ID9P5lkH"
+   "apartamento-2-quartos-115-m2-terraco-ID9P5lkH",
+   "apartamento-t1-mobilado-em-lisboa-ID1j77h",
+   "arrendar-apartamento-t1-ID1j76Z",
+   "t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-ID1j76f",
+   "apartamento-5-quartos-59-m2-garagem-ID9P5lkI"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2835,7 +2839,12 @@
    "t-1-mobilado-equipado-centro-lisboa-s-1-renda-1-cauo-entrada-imediata-IDJG0Kb",
    "t1-figueirinha-oeiras-IDJG01S",
    "t3-mobilado-para-arrendar-ramada-caneas-1-499-IDJFWuF",
-   "alugo-apartamento-t1-pendao-queluz-IDJtNdD"
+   "alugo-apartamento-t1-pendao-queluz-IDJtNdD",
+   "apartamento-t1-mobilado-em-lisboa-IDJG34o",
+   "arrendar-apartamento-t1-IDJG2Zf",
+   "t2-1-sete-rios-praa-de-espanha-ideal-para-estudantes-da-catolica-ou-do-polo-universitario-IDJy7KU",
+   "t1-como-novo-em-alhandra-IDJG2HC",
+   "t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-IDJG2F7"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3878,7 +3887,12 @@
    "apartments/1739397",
    "apartments/1739388",
    "apartments/1739401",
-   "apartments/1535099"
+   "apartments/1535099",
+   "apartments/1739380",
+   "apartments/1739394",
+   "apartments/1739392",
+   "apartments/1739384",
+   "apartments/1743364"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4560,7 +4574,8 @@
    "902404",
    "902457",
    "902447",
-   "902425"
+   "902425",
+   "745193"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4895,13 +4910,14 @@
    "33747620",
    "30757101",
    "9196303",
-   "1377778871457594112"
+   "1377778871457594112",
+   "1736273043615978921"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 39,
+   "bos": 40,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4943,8 +4959,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 16,
-  "tekrar": 4
+  "elenen": 21,
+  "tekrar": 5
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -5983,7 +5999,14 @@
   "d5ddd1bc0809ee9e",
   "e3821b989649021c",
   "3270dfe56975f8bd",
-  "65dcb36a349de570"
+  "65dcb36a349de570",
+  "de0aace4cc19a5b2",
+  "ac499ecf5ecde1c9",
+  "85e12d5ec98fad79",
+  "9529840530fc0ad2",
+  "8efdaaeb0d804bf5",
+  "b0407837062747c7",
+  "bd0844db1f957e6b"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.150 €\n1150 € · Alugo Duplex-Loft. Espacoso Mobilado Equipado e Central-1100. Por 18M · 1100-514 | Santa Maria Maior, Lisboa, Rua de São Cristóvão, São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 85 m² · Andar · 3 andar · Des…\nhttps://www.imovirtual.com/pt/anuncio/alugo-duplex-loft-espacoso-mobilado-equipado-e-central-1100-por-18m-ID1j2zN",
@@ -5993,7 +6016,14 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Estúdio mobilado para arrendamento em Alfama · Beco da Cardosa, Alfama, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 35 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/estudio-mobilado-para-arrendamento-em-alfama-ID1j6RA",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT-1 mobilado equipado, Centro Lisboa. Só 1 renda+1 caução. Entrada imediata · 1.000 € · Santa Maria Maior - Hoje às 19:45\nhttps://www.olx.pt/d/anuncio/t-1-mobilado-equipado-centro-lisboa-s-1-renda-1-cauo-entrada-imediata-IDJG0Kb.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 980 €\nT1 Figueirinha Oeiras · 980 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 17:14\nhttps://www.olx.pt/d/anuncio/t1-figueirinha-oeiras-IDJG01S.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nAlugo apartamento T1 Pendao/Queluz · 800 € · Queluz E Belas - 30 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/alugo-apartamento-t1-pendao-queluz-IDJtNdD.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nAlugo apartamento T1 Pendao/Queluz · 800 € · Queluz E Belas - 30 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/alugo-apartamento-t1-pendao-queluz-IDJtNdD.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.580 €\n1580 € · arrendar apartamento t1 · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendar-apartamento-t1-ID1j76Z",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · T1 em Moscavide semi mobilado, perto do Metro e comboios · Moscavide, Moscavide e Portela, Loures, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-ID1j76f",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 750 €\n750 €Apartamento T1 mobilado em LisboaCampo Grande, Alvalade, Lisboa, LisboaTipologiaT1Preço por metro quadrado45 m²OLXProfissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-5-quartos-59-m2-garagem-ID9P5lkI",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T1 mobilado em Lisboa · 750 € · Alvalade - Hoje às 11:36\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-em-lisboa-IDJG34o.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.580 €\narrendar apartamento t1 · 1.580 € · Negociável · Parque das Nações - Hoje às 11:18\nhttps://www.olx.pt/d/anuncio/arrendar-apartamento-t1-IDJG2Zf.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nT1 em Moscavide semi mobilado, perto do Metro e comboios · 700 € · Moscavide E Portela - Hoje às 09:55\nhttps://www.olx.pt/d/anuncio/t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-IDJG2F7.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Graça · 4,76 de uma avaliação média de 5, 194 avaliações · 4,76 (194) · Flat 2D na Mouraria da InSightHome · 2 quartos · 3 camas · 1 banheiro · $ 3.067 USD · $ 2.139 USD · $ 2.139 USD mensal, preço original: $ 3.067 USD · mensal · Desconto …\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/1736273043615978921"
  ],
  "son_gonderim": "2026-10-30"
 }
