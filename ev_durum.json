@@ -1988,7 +1988,14 @@
    "apartamento-t1-mobilado-em-lisboa-ID1j77h",
    "arrendar-apartamento-t1-ID1j76Z",
    "t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-ID1j76f",
-   "apartamento-5-quartos-59-m2-garagem-ID9P5lkI"
+   "apartamento-5-quartos-59-m2-garagem-ID9P5lkI",
+   "apartamento-t2-para-arrendamento-estrada-de-benfica-ID17OXy",
+   "apartamento-t2-para-arrendamento-ID1j7ds",
+   "apartamento-t0-para-arrendamento-ID1j7ck",
+   "apartamento-t0-para-arrendamento-ID1j7aE",
+   "apartamento-t2-para-arrendamento-ID1j7aA",
+   "apartamento-t2-para-arrendamento-ID1j77U",
+   "apartamento-2-quartos-137-m2-luminoso-ID9P5lkJ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2844,7 +2851,10 @@
    "arrendar-apartamento-t1-IDJG2Zf",
    "t2-1-sete-rios-praa-de-espanha-ideal-para-estudantes-da-catolica-ou-do-polo-universitario-IDJy7KU",
    "t1-como-novo-em-alhandra-IDJG2HC",
-   "t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-IDJG2F7"
+   "t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-IDJG2F7",
+   "t2-centro-de-odivelas-IDJBDnD",
+   "apartamento-t3-odivelas-metro-para-arrendar-IDJG3PT",
+   "camarate-arrendot2-IDJG3yR"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3892,7 +3902,8 @@
    "apartments/1739394",
    "apartments/1739392",
    "apartments/1739384",
-   "apartments/1743364"
+   "apartments/1743364",
+   "apartments/1743447"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4911,13 +4922,14 @@
    "30757101",
    "9196303",
    "1377778871457594112",
-   "1736273043615978921"
+   "1736273043615978921",
+   "1807921510511814994"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 40,
+   "bos": 41,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4959,8 +4971,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 21,
-  "tekrar": 5
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6006,24 +6018,10 @@
   "9529840530fc0ad2",
   "8efdaaeb0d804bf5",
   "b0407837062747c7",
-  "bd0844db1f957e6b"
+  "bd0844db1f957e6b",
+  "cc729c0a30d6c0f5",
+  "2ea731a4c4a045bc"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.150 €\n1150 € · Alugo Duplex-Loft. Espacoso Mobilado Equipado e Central-1100. Por 18M · 1100-514 | Santa Maria Maior, Lisboa, Rua de São Cristóvão, São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 85 m² · Andar · 3 andar · Des…\nhttps://www.imovirtual.com/pt/anuncio/alugo-duplex-loft-espacoso-mobilado-equipado-e-central-1100-por-18m-ID1j2zN",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T1 com vista, Avenida da Liberdade, Lisboa · Av. da Liberdade - Marquês de Pombal, Santo António, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · Andar · 5 andar · Porta da Frente Christie's International Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-vista-avenida-da-liberdade-lisboa-ID1j727",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 para arrendamento · Escadinhas Oliveira, Chiado, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 46.57 m² · Andar · 3 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j6UV",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · T1 Mobilado para Arrendamento no Marquês de Pombal – Lisboa · Praceta da Rua Duque de Palmela, Av. da Liberdade - Marquês de Pombal, Santo António, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · KW Ábaco · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-para-arrendamento-no-marques-de-pombal-lisboa-ID1j6Ul",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Estúdio mobilado para arrendamento em Alfama · Beco da Cardosa, Alfama, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 35 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/estudio-mobilado-para-arrendamento-em-alfama-ID1j6RA",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT-1 mobilado equipado, Centro Lisboa. Só 1 renda+1 caução. Entrada imediata · 1.000 € · Santa Maria Maior - Hoje às 19:45\nhttps://www.olx.pt/d/anuncio/t-1-mobilado-equipado-centro-lisboa-s-1-renda-1-cauo-entrada-imediata-IDJG0Kb.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 980 €\nT1 Figueirinha Oeiras · 980 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 17:14\nhttps://www.olx.pt/d/anuncio/t1-figueirinha-oeiras-IDJG01S.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nAlugo apartamento T1 Pendao/Queluz · 800 € · Queluz E Belas - 30 de outubro de 2026\nhttps://www.olx.pt/d/anuncio/alugo-apartamento-t1-pendao-queluz-IDJtNdD.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.580 €\n1580 € · arrendar apartamento t1 · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendar-apartamento-t1-ID1j76Z",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · T1 em Moscavide semi mobilado, perto do Metro e comboios · Moscavide, Moscavide e Portela, Loures, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-ID1j76f",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 750 €\n750 €Apartamento T1 mobilado em LisboaCampo Grande, Alvalade, Lisboa, LisboaTipologiaT1Preço por metro quadrado45 m²OLXProfissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-5-quartos-59-m2-garagem-ID9P5lkI",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nApartamento T1 mobilado em Lisboa · 750 € · Alvalade - Hoje às 11:36\nhttps://www.olx.pt/d/anuncio/apartamento-t1-mobilado-em-lisboa-IDJG34o.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.580 €\narrendar apartamento t1 · 1.580 € · Negociável · Parque das Nações - Hoje às 11:18\nhttps://www.olx.pt/d/anuncio/arrendar-apartamento-t1-IDJG2Zf.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nT1 em Moscavide semi mobilado, perto do Metro e comboios · 700 € · Moscavide E Portela - Hoje às 09:55\nhttps://www.olx.pt/d/anuncio/t1-em-moscavide-semi-mobilado-perto-do-metro-e-comboios-IDJG2F7.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Graça · 4,76 de uma avaliação média de 5, 194 avaliações · 4,76 (194) · Flat 2D na Mouraria da InSightHome · 2 quartos · 3 camas · 1 banheiro · $ 3.067 USD · $ 2.139 USD · $ 2.139 USD mensal, preço original: $ 3.067 USD · mensal · Desconto …\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/1736273043615978921"
- ],
- "son_gonderim": "2026-10-30"
+ "kuyruk": [],
+ "son_gonderim": "2026-10-31"
 }
