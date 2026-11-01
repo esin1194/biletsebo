@@ -711,7 +711,11 @@
    "eletricista-tecn-ited_marvila_OTS-2026-186404",
    "eletricista_marvila_OTS-2026-186403",
    "operador_azambuja_OTS-2026-186400",
-   "client-onboarding-executive-mfx_lisboa_PTS-2026-186405"
+   "client-onboarding-executive-mfx_lisboa_PTS-2026-186405",
+   "encarregado-de-obra-mfx_lisboa_OTS-2026-184688",
+   "diretor-de-obra-mfx_lisboa_OTS-2026-184686",
+   "engenheiroa-civil-diretora-de-obra_lisboa_OTS-2025-184526",
+   "accounting-manager_lisboasao-tome-e-principe_PTS-2026-180121"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1562,7 +1566,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 819,
+  "elenen": 823,
   "tekrar": 30
  }
 }
