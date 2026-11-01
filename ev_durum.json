@@ -2012,7 +2012,12 @@
    "ao-corte-ingles-t5-ID1j7ks",
    "apartamento-t1-para-arrendamento-ID1j7js",
    "apartamento-t2-para-arrendamento-em-belem-lisboa-estacionamen-ID1j7j7",
-   "apartamento-4-quartos-91-m2-novo-ID9P5lkM"
+   "apartamento-4-quartos-91-m2-novo-ID9P5lkM",
+   "t2-amplo-e-luminoso-em-telheiras-ID1j7nq",
+   "t1-mobilado-para-arrendamento-no-marques-de-pomb-ID1j7np",
+   "apartamento-t1-remodelado-em-alcntara-com-logra-ID1j7n0",
+   "arrenda-se-apartamento-t2-em-benfica-lisboa-ID1j7l9",
+   "alugo-apartamento-t1-remodelado-em-benfica-lisboa-ID1j7kU"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2881,7 +2886,13 @@
    "ao-corte-ingls-t5-IDJG8Qi",
    "aluga-se-apartamento-duplex-santa-cruz-IDJG8AO",
    "t1-na-encosta-do-sol-amadora-IDJG8b0",
-   "studio-t0-odivelas-IDJvSzp"
+   "studio-t0-odivelas-IDJvSzp",
+   "t2-amplo-e-luminoso-em-telheiras-IDJGaJa",
+   "apartamento-t3-mobilado-IDJGaC4",
+   "arrenda-se-apartamento-t2-em-benfica-lisboa-IDJG9Vc",
+   "alugo-apartamento-t1-remodelado-em-benfica-lisboa-IDJG9DB",
+   "t1-totalmente-mobilado-e-equipado-na-venda-nova-ideal-p-jovens-casais-professores-ou-nmadas-digitais-IDJG9Cm",
+   "aluguer-de-apartamento-semi-mobilado-t1-1-no-parque-das-naes-IDJxntG"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -3972,7 +3983,18 @@
    "apartments/1656399",
    "apartments/345421",
    "apartments/1180161",
-   "apartments/1667419"
+   "apartments/1667419",
+   "apartments/1517702",
+   "apartments/1348561",
+   "apartments/1180354",
+   "apartments/1084125",
+   "apartments/1594716",
+   "apartments/1181319",
+   "apartments/1594720",
+   "apartments/1175744",
+   "apartments/1594616",
+   "apartments/421718",
+   "apartments/1180418"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5008,13 +5030,15 @@
    "17875720",
    "1358201723404287952",
    "1239880690844384260",
-   "975321993299794869"
+   "975321993299794869",
+   "1808806494686221828",
+   "1070961956703086825"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 46,
+   "bos": 47,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5056,8 +5080,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 9,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6117,8 +6141,21 @@
   "4b3388090855dbc4",
   "c658b71f46b3a1a5",
   "1bd6b0f1ba1e645f",
-  "dab4de38b888607c"
+  "dab4de38b888607c",
+  "3e8ab8bd3af8959a",
+  "6b9fff982cc36cfb",
+  "cb084f16b6165a68",
+  "3b2f1f64f0e213f1",
+  "bc30c39f57d50089",
+  "3dd66e47e460c6fd"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T2 amplo e luminoso em Telheiras · Carriche - Hospital das Forças Armadas, Lumiar, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 110 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-amplo-e-luminoso-em-telheiras-ID1j7nq",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · T1 Mobilado para Arrendamento no Marquês de Pomb · Praceta da Rua Duque de Palmela, Av. da Liberdade - Marquês de Pombal, Santo António, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-para-arrendamento-no-marques-de-pomb-ID1j7np",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nT2 amplo e luminoso em Telheiras · 1.450 € · Lumiar - Hoje às 19:43\nhttps://www.olx.pt/d/anuncio/t2-amplo-e-luminoso-em-telheiras-IDJGaJa.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T3 mobilado · 1.500 € · Negociável · São Domingos de Benfica - Hoje às 19:27\nhttps://www.olx.pt/d/anuncio/apartamento-t3-mobilado-IDJGaC4.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT1 Totalmente Mobilado e Equipado na Venda Nova – Ideal p/ Jovens Casais, Professores ou Nómadas Digitais · 1.000 € · Negociável · Falagueira-Venda Nova - Hoje às 17:03\nhttps://www.olx.pt/d/anuncio/t1-totalmente-mobilado-e-equipado-na-venda-nova-ideal-p-jovens-casais-professores-ou-nmadas-digitais-IDJG9Cm.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · 4,63 de uma avaliação média de 5, 24 avaliações · 4,63 (24) · Apartamento muito pequeno com terraço · 1 cama · 1 banheiro · $ 2.287 USD · $ 1.233 USD · $ 1.233 USD mensal, preço original: $ 2.287 USD · mensal · Desconto mensal · Apartamento ⋅…\nhttps://www.airbnb.com/rooms/1808806494686221828"
+ ],
  "son_gonderim": "2026-11-01"
 }
