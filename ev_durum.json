@@ -2004,7 +2004,8 @@
    "apartamento-t1-junto-ao-parque-das-conchas-ID1j7dU",
    "apartamento-t3-para-arrendamento-ID1j7hZ",
    "apartamento-t2-para-arrendamento-ID1j7hx",
-   "apartamento-t0-com-varanda-em-lisboa-ID1j7gV"
+   "apartamento-t0-com-varanda-em-lisboa-ID1j7gV",
+   "apartamento-5-quartos-81-m2-novo-ID9P5lkK"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3919,7 +3920,8 @@
    "apartments/1739384",
    "apartments/1743364",
    "apartments/1743447",
-   "apartments/1739390"
+   "apartments/1739390",
+   "apartments/628711"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4603,7 +4605,8 @@
    "902447",
    "902425",
    "745193",
-   "882479"
+   "882479",
+   "344788"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4944,13 +4947,17 @@
    "609113787503079656",
    "691706702063440304",
    "2544170",
-   "1645281864390835739"
+   "1645281864390835739",
+   "13027755",
+   "1790592102766624986",
+   "17875720",
+   "1358201723404287952"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 43,
+   "bos": 44,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4992,8 +4999,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 11,
-  "tekrar": 3
+  "elenen": 13,
+  "tekrar": 6
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6047,7 +6054,9 @@
   "64ff735b676502a5",
   "d53ca13054c19353",
   "6dc4fab0e079db08",
-  "43f1a75ec5d09e5d"
+  "43f1a75ec5d09e5d",
+  "1dcf3793175219f3",
+  "362096b62bafc9dc"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · Apartamento T1 para arrendamento · Praça Nuno Rodrigues dos Santos, Laranjeiras, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 77 m² · Andar · 4 andar · RE/MAX + Grupo Vantagem · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1j7eU",
@@ -6055,7 +6064,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT0 para arrendar na reboleira · 750 € · Alfragide - Hoje às 19:37\nhttps://www.olx.pt/d/anuncio/t0-para-arrendar-na-reboleira-IDJG5na.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 4,33 de uma avaliação média de 5, 9 avaliações · 4,33 (9) · Trabalhe em casa e experimente a cidade do centro de Lisboa · 1 quarto · 1 cama · 1 banheiro · $ 1.963 USD · $ 1.339 USD · $ 1.339 USD mensal, preço original: $ 1.963 USD · mensal · D…\nhttps://www.airbnb.com/rooms/609113787503079656",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\nAdicionados hoje · ...\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1j7hx",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento T2+1 Fitares · 1.150 € · Negociável · Rio de Mouro - Hoje às 21:17\nhttps://www.olx.pt/d/anuncio/apartamento-t2-1-fitares-IDJG5Ak.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento T2+1 Fitares · 1.150 € · Negociável · Rio de Mouro - Hoje às 21:17\nhttps://www.olx.pt/d/anuncio/apartamento-t2-1-fitares-IDJG5Ak.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAPARTMENT · FROM 05 NOV · 1-bedroom apartment for rent in Lisbon · 1000 €/month · info · savings · NO DEPOSIT · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/628711",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 12 de nov.  a  11 de fev. · 12 de nov. – 11 de fev. · Condomínio ⋅ Lisboa · 4,91 de uma avaliação média de 5, 159 avaliações · 4,91 (159) · Retiro encantador no jardim com vista para o rio · 1 quarto · 2 camas · 1 banheiro · $ 3.369 USD · $ 1.639 USD · $ 1.639 US…\nhttps://www.airbnb.com/rooms/13027755"
  ],
  "son_gonderim": "2026-10-31"
 }
