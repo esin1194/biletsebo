@@ -2005,7 +2005,9 @@
    "apartamento-t3-para-arrendamento-ID1j7hZ",
    "apartamento-t2-para-arrendamento-ID1j7hx",
    "apartamento-t0-com-varanda-em-lisboa-ID1j7gV",
-   "apartamento-5-quartos-81-m2-novo-ID9P5lkK"
+   "apartamento-5-quartos-81-m2-novo-ID9P5lkK",
+   "apartamento-t2-em-penha-de-franca-de-78-00-m2-ID1j7if",
+   "apartamento-5-quartos-140-m2-luminoso-ID9P5lkL"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3921,7 +3923,33 @@
    "apartments/1743364",
    "apartments/1743447",
    "apartments/1739390",
-   "apartments/628711"
+   "apartments/628711",
+   "apartments/817162",
+   "apartments/1739378",
+   "apartments/1739399",
+   "apartments/1594594",
+   "apartments/1183075",
+   "apartments/1739386",
+   "apartments/1652344",
+   "apartments/1176418",
+   "apartments/1181334",
+   "apartments/1176402",
+   "apartments/995716",
+   "apartments/1182787",
+   "apartments/1183055",
+   "apartments/1179942",
+   "apartments/1594649",
+   "apartments/1181397",
+   "apartments/1181599",
+   "apartments/1180370",
+   "apartments/1182710",
+   "apartments/1182959",
+   "apartments/1181344",
+   "apartments/1181381",
+   "apartments/1176398",
+   "apartments/1183193",
+   "apartments/1181316",
+   "apartments/1594586"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -3990,7 +4018,8 @@
    "ut1748690",
    "ut1749117",
    "ut1700272",
-   "ut1701487"
+   "ut1701487",
+   "ut1543620"
   ],
   "uniplaces.com": [
    "890027",
@@ -4606,7 +4635,9 @@
    "902425",
    "745193",
    "882479",
-   "344788"
+   "344788",
+   "799631",
+   "693556"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -4957,7 +4988,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 44,
+   "bos": 45,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -4999,7 +5030,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 23,
   "tekrar": 6
  },
  "imzalar": [
