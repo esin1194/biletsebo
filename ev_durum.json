@@ -2018,7 +2018,9 @@
    "apartamento-t1-remodelado-em-alcntara-com-logra-ID1j7n0",
    "arrenda-se-apartamento-t2-em-benfica-lisboa-ID1j7l9",
    "alugo-apartamento-t1-remodelado-em-benfica-lisboa-ID1j7kU",
-   "apartamento-1-quartos-71-m2-remodelado-ID9P5lkN"
+   "apartamento-1-quartos-71-m2-remodelado-ID9P5lkN",
+   "encantador-t1-no-restelo-luminoso-com-terraco-e-vista-desafogada-ID1j7oA",
+   "apartamento-t3-mobilado-ID1j7ow"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3999,7 +4001,15 @@
    "apartments/1594616",
    "apartments/421718",
    "apartments/1180418",
-   "apartments/861641"
+   "apartments/861641",
+   "apartments/1182990",
+   "apartments/1327575",
+   "apartments/1343872",
+   "apartments/1594606",
+   "apartments/444485",
+   "apartments/1180143",
+   "apartments/1181749",
+   "apartments/939364"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5043,7 +5053,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 48,
+   "bos": 49,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5078,14 +5088,14 @@
   },
   "https://www.airbnb.com/s/Lisbon--Portugal/homes?date_picker_type=monthly_stay&monthly_start_date=2026-11-01&monthly_length=3&room_types%5B%5D=Entire%20home%2Fapt": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   }
  },
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 16,
   "tekrar": 1
  },
  "imzalar": [
@@ -6153,7 +6163,9 @@
   "3b2f1f64f0e213f1",
   "bc30c39f57d50089",
   "3dd66e47e460c6fd",
-  "6eedf0f50aefeecd"
+  "6eedf0f50aefeecd",
+  "2b159312bdb865b0",
+  "dbf61dec283362a7"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T2 amplo e luminoso em Telheiras · Carriche - Hospital das Forças Armadas, Lumiar, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 110 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-amplo-e-luminoso-em-telheiras-ID1j7nq",
@@ -6162,7 +6174,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nApartamento T3 mobilado · 1.500 € · Negociável · São Domingos de Benfica - Hoje às 19:27\nhttps://www.olx.pt/d/anuncio/apartamento-t3-mobilado-IDJGaC4.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT1 Totalmente Mobilado e Equipado na Venda Nova – Ideal p/ Jovens Casais, Professores ou Nómadas Digitais · 1.000 € · Negociável · Falagueira-Venda Nova - Hoje às 17:03\nhttps://www.olx.pt/d/anuncio/t1-totalmente-mobilado-e-equipado-na-venda-nova-ideal-p-jovens-casais-professores-ou-nmadas-digitais-IDJG9Cm.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · 4,63 de uma avaliação média de 5, 24 avaliações · 4,63 (24) · Apartamento muito pequeno com terraço · 1 cama · 1 banheiro · $ 2.287 USD · $ 1.233 USD · $ 1.233 USD mensal, preço original: $ 2.287 USD · mensal · Desconto mensal · Apartamento ⋅…\nhttps://www.airbnb.com/rooms/1808806494686221828",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.395 €\nCHECKED · APARTMENT · AVAILABLE NOW · star · 5 (16) · 1-bedroom apartment for rent in Reboleira, Lisbon · From 1395 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/861641"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.395 €\nCHECKED · APARTMENT · AVAILABLE NOW · star · 5 (16) · 1-bedroom apartment for rent in Reboleira, Lisbon · From 1395 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/861641",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.550 €\n1550 € · Encantador T1 no Restelo, luminoso, com terraço e vista desafogada · Restelo, Belém, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 100 m² · Andar · 5 andar · Destacado\nhttps://www.imovirtual.com/pt/anuncio/encantador-t1-no-restelo-luminoso-com-terraco-e-vista-desafogada-ID1j7oA",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T3 mobilado · Alto dos Moinhos, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 120 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-mobilado-ID1j7ow"
  ],
  "son_gonderim": "2026-11-01"
 }
