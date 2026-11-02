@@ -717,7 +717,15 @@
    "engenheiroa-civil-diretora-de-obra_lisboa_OTS-2025-184526",
    "accounting-manager_lisboasao-tome-e-principe_PTS-2026-180121",
    "promotor-de-loja-mf-e-x_sintra_OTS-2026-185440",
-   "project-electrical-engineer-media-e-alta-tensao-mfx_lisboa_OTS-2026-185450"
+   "project-electrical-engineer-media-e-alta-tensao-mfx_lisboa_OTS-2026-185450",
+   "consultor-comercial-b2b-inside-sales_sacavem_OTS-1900-186468",
+   "gerente-de-restaurante-mfx_ajuda-lisboa_OTS-2026-186478",
+   "tecnico-administrativo-de-operacoes-mxf_lisboa_OTS-2026-186476",
+   "repositor-mfx-substituicao-de-ferias_cascais_OTS-2026-186171",
+   "tecnico-comercial-mfx_zona-centro-e-sul_PTS-2026-186453",
+   "java-backend-developer-gestao-documental_lisboa_ETS-2026-186456",
+   "office-assistant-mfx_funchal-madeira_PTS-2026-186449",
+   "assistente-de-loja-reparacao-de-smartphones-e-tablets-loures_loures_OTS-2026-186101"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1125,7 +1133,11 @@
    "66M7cHBb8S7ehCZg7V5bfh",
    "5pNq8D1im6RWuyx5HcLcCn",
    "cVcTHGs649pJvmJkLhtrLf",
-   "uggqdCGgQxnLxgbLUqvT4x"
+   "uggqdCGgQxnLxgbLUqvT4x",
+   "4nbDpLzxuDC4G4r9mTL8fN",
+   "jXrRMDt1bYEaN3VBUqb6jK",
+   "dghDrtgCzZ94Vr28Ed4bjh",
+   "4bs67i511ihHWCCc1teiWy"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1505,12 +1517,13 @@
   "71206f4959a86b4d",
   "8985d42f5be024ab",
   "e1d66a8c785bb778",
-  "a0ae26dc84f3aea7"
+  "a0ae26dc84f3aea7",
+  "6bceffee46ec0658"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1572,7 +1585,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 828,
+  "elenen": 839,
   "tekrar": 31
  }
 }
