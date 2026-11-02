@@ -204,7 +204,8 @@
    "215SPBX",
    "215SQSC",
    "215TKFH",
-   "215VPSY"
+   "215VPSY",
+   "215XFWX"
   ],
   "hellowork.com": [
    "83399370",
@@ -1095,7 +1096,7 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 104,
+   "bos": 105,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
@@ -1108,6 +1109,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 63,
-  "tekrar": 126
+  "tekrar": 127
  }
 }
