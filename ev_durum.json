@@ -2034,7 +2034,8 @@
    "t1-condominio-parque-colombo-piscina-lugar-garagem-e-arrecadacao-ID1j7Eq",
    "apartamento-t3-com-vista-alvalade-lisboa-ID1j7Di",
    "t3-para-arrendamento-em-benfica-califa-4-andar-ID1j7Df",
-   "apartamento-t2-para-arrendar-na-penha-de-franca-ID1j7zI"
+   "apartamento-t2-para-arrendar-na-penha-de-franca-ID1j7zI",
+   "apartamento-5-quartos-67-m2-luminoso-ID9P5lkQ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4036,7 +4037,8 @@
    "apartments/1180143",
    "apartments/1181749",
    "apartments/939364",
-   "apartments/1180427"
+   "apartments/1180427",
+   "apartments/1746436"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5094,7 +5096,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 51,
+   "bos": 52,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5129,14 +5131,14 @@
   },
   "https://www.airbnb.com/s/Lisbon--Portugal/homes?date_picker_type=monthly_stay&monthly_start_date=2026-11-01&monthly_length=3&room_types%5B%5D=Entire%20home%2Fapt": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   }
  },
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 7,
+  "elenen": 8,
   "tekrar": 0
  },
  "imzalar": [
@@ -6214,14 +6216,16 @@
   "e66c3edf8a17203f",
   "a9a993c4ade47335",
   "d068ba55b667182d",
-  "e5d540c6e69b0748"
+  "e5d540c6e69b0748",
+  "97965756cc87509d"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T2 para arrendar na Penha de França · Rua Doutor Lacerda e Almeida, Centro, Penha de França, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 65 m² · Andar · 1 andar · Century21 Nações · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendar-na-penha-de-franca-ID1j7zI",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nEstudio mobilafo para 2 pessoas · 850 € · Negociável · Queluz E Belas - Para o topo hoje às 22:15\nhttps://www.olx.pt/d/anuncio/estudio-mobilafo-para-2-pessoas-IDJGi5D.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrendo T2 por temporada temporada de 4 meses · 1.250 € · Mafra - Hoje às 21:45\nhttps://www.olx.pt/d/anuncio/arrendo-t2-por-temporada-temporada-de-4-meses-IDJGi1X.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nVista Mar Total na Marginal Acorde em Frente ao Oceano em São Pedro do Estoril · 1.900 € · Negociável · Santo António - Hoje às 21:07\nhttps://www.olx.pt/d/anuncio/vista-mar-total-na-marginal-acorde-em-frente-ao-oceano-em-so-pedro-do-estoril-IDJxuEA.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT2 mobiliado na Amadora · 1.000 € · Falagueira-Venda Nova - Hoje às 16:56\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.olx.pt/d/anuncio/t2-mobiliado-na-amadora-IDJGgyF.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT2 mobiliado na Amadora · 1.000 € · Falagueira-Venda Nova - Hoje às 16:56\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.olx.pt/d/anuncio/t2-mobiliado-na-amadora-IDJGgyF.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAPARTMENT · FROM 03 NOV · 1-bedroom apartment for rent in Lisbon · 1000 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1746436"
  ],
  "son_gonderim": "2026-11-02"
 }
