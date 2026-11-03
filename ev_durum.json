@@ -2035,7 +2035,18 @@
    "apartamento-t3-com-vista-alvalade-lisboa-ID1j7Di",
    "t3-para-arrendamento-em-benfica-califa-4-andar-ID1j7Df",
    "apartamento-t2-para-arrendar-na-penha-de-franca-ID1j7zI",
-   "apartamento-5-quartos-67-m2-luminoso-ID9P5lkQ"
+   "apartamento-5-quartos-67-m2-luminoso-ID9P5lkQ",
+   "t2-luminoso-junto-ao-mercado-s-d-benfica-ID1j7JA",
+   "apartamento-t2-olivais-sul-lisboa-ID1j7Jn",
+   "charmoso-t2-em-belem-com-varanda-pronto-a-habitar-ID1j7J6",
+   "apartamento-t1-luminoso-e-equipado-alto-de-sao-joao-lisboa-ID1j7HA",
+   "rua-margarida-de-abreu-ID1j7GU",
+   "single-balcony-studio-areeiro-lisbon-ID1j7GT",
+   "single-deluxe-studio-in-lisbon-ID1j7GR",
+   "single-standard-studio-in-lisbon-ID1j7GQ",
+   "aluga-se-t2-nas-olaias-ID1j7GO",
+   "apartamento-t0-com-ar-condicionado-em-lisboa-ID1j7GB",
+   "apartamento-2-quartos-119-m2-novo-ID9P5lkR"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2925,7 +2936,15 @@
    "arrendo-t2-por-temporada-temporada-de-4-meses-IDJGi1X",
    "vista-mar-total-na-marginal-acorde-em-frente-ao-oceano-em-so-pedro-do-estoril-IDJxuEA",
    "excelente-apartamento-para-arrendamento-conforto-elegncia-e-localizao-privilegiada-IDJGhw5",
-   "t2-mobiliado-na-amadora-IDJGgyF"
+   "t2-mobiliado-na-amadora-IDJGgyF",
+   "t2-luminoso-junto-ao-mercado-s-d-benfica-IDJGkbo",
+   "arrendamento-t-1-espaoso-remodelado-IDJCpmp",
+   "charmoso-t2-em-belm-com-varanda-pronto-a-habitar-IDJGjWV",
+   "t3-unhos-espaoso-100m2-IDJGjG6",
+   "t1-em-tires-pequeno-no-tamanho-grande-no-potencial-IDJGjA7",
+   "aluga-se-t2-nas-olaias-IDJGj7s",
+   "t2-para-arrendar-IDJGj19",
+   "arrenda-se-t3-tapada-das-mers-IDJGiT8"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4038,7 +4057,9 @@
    "apartments/1181749",
    "apartments/939364",
    "apartments/1180427",
-   "apartments/1746436"
+   "apartments/1746436",
+   "apartments/1166062",
+   "apartments/1724357"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4741,7 +4762,10 @@
    "809402",
    "801903",
    "856583",
-   "391641"
+   "391641",
+   "902936",
+   "902916",
+   "843657"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5090,13 +5114,25 @@
    "1239880690844384260",
    "975321993299794869",
    "1808806494686221828",
-   "1070961956703086825"
+   "1070961956703086825",
+   "606937929436022219",
+   "37155573",
+   "6372871",
+   "14895436",
+   "1001799626325440617",
+   "1608970202754285529",
+   "31730648",
+   "1628350945795614817",
+   "18884182",
+   "702190634393339877",
+   "1791356295979372140",
+   "714952728902981332"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 52,
+   "bos": 53,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5131,15 +5167,15 @@
   },
   "https://www.airbnb.com/s/Lisbon--Portugal/homes?date_picker_type=monthly_stay&monthly_start_date=2026-11-01&monthly_length=3&room_types%5B%5D=Entire%20home%2Fapt": {
    "ilk": false,
-   "bos": 5,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   }
  },
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
-  "tekrar": 0
+  "elenen": 26,
+  "tekrar": 10
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6217,7 +6253,13 @@
   "a9a993c4ade47335",
   "d068ba55b667182d",
   "e5d540c6e69b0748",
-  "97965756cc87509d"
+  "97965756cc87509d",
+  "d2947feff6bbcce9",
+  "23276a59b49c4c03",
+  "e2a724b0458709bb",
+  "32bc1990e8b93073",
+  "db44e5482681e073",
+  "e45851bffd622acf"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T2 para arrendar na Penha de França · Rua Doutor Lacerda e Almeida, Centro, Penha de França, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 65 m² · Andar · 1 andar · Century21 Nações · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendar-na-penha-de-franca-ID1j7zI",
@@ -6225,7 +6267,13 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nArrendo T2 por temporada temporada de 4 meses · 1.250 € · Mafra - Hoje às 21:45\nhttps://www.olx.pt/d/anuncio/arrendo-t2-por-temporada-temporada-de-4-meses-IDJGi1X.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nVista Mar Total na Marginal Acorde em Frente ao Oceano em São Pedro do Estoril · 1.900 € · Negociável · Santo António - Hoje às 21:07\nhttps://www.olx.pt/d/anuncio/vista-mar-total-na-marginal-acorde-em-frente-ao-oceano-em-so-pedro-do-estoril-IDJxuEA.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT2 mobiliado na Amadora · 1.000 € · Falagueira-Venda Nova - Hoje às 16:56\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.olx.pt/d/anuncio/t2-mobiliado-na-amadora-IDJGgyF.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAPARTMENT · FROM 03 NOV · 1-bedroom apartment for rent in Lisbon · 1000 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1746436"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAPARTMENT · FROM 03 NOV · 1-bedroom apartment for rent in Lisbon · 1000 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1746436",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · Charmoso T2 em Belém com Varanda — Pronto a Habitar · Palácio da Ajuda, Ajuda, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 67 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/charmoso-t2-em-belem-com-varanda-pronto-a-habitar-ID1j7J6",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 890 €\nArrendamento T 1 espaçoso remodelado · 890 € · Negociável · Moscavide E Portela - Hoje às 11:13\nhttps://www.olx.pt/d/anuncio/arrendamento-t-1-espaoso-remodelado-IDJCpmp.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 em Tires - Pequeno no tamanho, grande no potencial · 1.100 € · Negociável · São Domingos de Rana - Hoje às 10:29\nhttps://www.olx.pt/d/anuncio/t1-em-tires-pequeno-no-tamanho-grande-no-potencial-IDJGjA7.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 675 €\nARRENDA-SE T3 - Tapada das Merês · 675 € · Negociável · Algueirão-Mem Martins - Para o topo hoje às 07:30\nhttps://www.olx.pt/d/anuncio/arrenda-se-t3-tapada-das-mers-IDJGiT8.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 4,5 de uma avaliação média de 5, 10 avaliações · 4,5 (10) · FLH Martim Moniz Apartamento urbano chique · 1 quarto · 1 cama de casal · 2 banheiros · $ 1.795 USD · $ 1.738 USD · $ 1.738 USD mensal, preço original: $ 1.795 USD · mensal · 5,0 de u…\nhttps://www.airbnb.com/rooms/606937929436022219",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 1 de dez.  a  28 de fev. · 1 de dez. – 28 de fev. · Apartamento ⋅ Lisboa · 4,96 de uma avaliação média de 5, 114 avaliações · 4,96 (114) · Zen Newton - Apartamento ensolarado no centro da cidade de Lisboa · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.496 USD · …\nhttps://www.airbnb.com/rooms/14895436"
  ],
  "son_gonderim": "2026-11-02"
 }
