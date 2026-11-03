@@ -726,7 +726,20 @@
    "java-backend-developer-gestao-documental_lisboa_ETS-2026-186456",
    "office-assistant-mfx_funchal-madeira_PTS-2026-186449",
    "assistente-de-loja-reparacao-de-smartphones-e-tablets-loures_loures_OTS-2026-186101",
-   "advogado-senior-corporate-e-ma_lisboa_PTS-2026-186480"
+   "advogado-senior-corporate-e-ma_lisboa_PTS-2026-186480",
+   "operador-de-armazem-parttime-mfx-manha-04h4509h45_lisboa-povoa-de-santa-iria_OTS-2026-185936",
+   "assistente-de-loja-parttime-mfx_el-corte-ingles-lisboa_OTS-2026-186424",
+   "contabilista-certificado-mfx_lisboa_PTS-2026-186240",
+   "ajudante-de-cozinha-mfx_estoril_OTS-2026-186516",
+   "operador-de-limpeza-mxf_olivais_OTS-2026-186515",
+   "export-control-compliance-manager_lisboa_PTS-2026-186058",
+   "administrativoa_sintra-linho_OTS-2026-186512",
+   "office-administrative-assistant-mfx_funchal-madeira_PTS-2026-186449",
+   "corporate-controller-mfx_lisboa_PTS-2026-186509",
+   "client-onboarding-executive-mfx_lisboa_PTS-2026-186501",
+   "customer-support-advisor-spanish-speaker-mfx_lisbon-portugal_OTS-2026-186500",
+   "customer-support-in-german-mfx_remote-in-portugal_OTS-2026-186493",
+   "advogado-senior-imobiliario_lisboa_PTS-2026-186480"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1140,7 +1153,11 @@
    "dghDrtgCzZ94Vr28Ed4bjh",
    "4bs67i511ihHWCCc1teiWy",
    "tQm19eA9jG2wb2URQJBT63",
-   "51iF9vzcLH6mhSgwKczQJ9"
+   "51iF9vzcLH6mhSgwKczQJ9",
+   "wB1p8ux8AYgVr8aNWw6Rr6",
+   "jsdxB6zUyf3cQFLAwNFnGQ",
+   "rrLCFs55nKxsnodB8cNjAZ",
+   "9rwinLzYus9rw18o4spYdj"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1526,7 +1543,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1588,7 +1605,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 841,
-  "tekrar": 32
+  "elenen": 857,
+  "tekrar": 33
  }
 }
