@@ -739,7 +739,8 @@
    "client-onboarding-executive-mfx_lisboa_PTS-2026-186501",
    "customer-support-advisor-spanish-speaker-mfx_lisbon-portugal_OTS-2026-186500",
    "customer-support-in-german-mfx_remote-in-portugal_OTS-2026-186493",
-   "advogado-senior-imobiliario_lisboa_PTS-2026-186480"
+   "advogado-senior-imobiliario_lisboa_PTS-2026-186480",
+   "operador-de-armazem-mfx_azambuja_OTS-2026-186537"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1157,7 +1158,12 @@
    "wB1p8ux8AYgVr8aNWw6Rr6",
    "jsdxB6zUyf3cQFLAwNFnGQ",
    "rrLCFs55nKxsnodB8cNjAZ",
-   "9rwinLzYus9rw18o4spYdj"
+   "9rwinLzYus9rw18o4spYdj",
+   "rft2xYjWsZwaMdjTDAun3s",
+   "hMTqAzovTUtdhe1XqFJmj5",
+   "c7kTY7cMgvSkK9kyPJnprn",
+   "km9tT8jp78QcJhpddTa54i",
+   "bdSuXXJuLFNWxNpBLqgeZT"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1543,7 +1549,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1605,7 +1611,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 857,
+  "elenen": 863,
   "tekrar": 33
  }
 }
