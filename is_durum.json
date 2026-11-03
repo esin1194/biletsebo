@@ -725,7 +725,8 @@
    "tecnico-comercial-mfx_zona-centro-e-sul_PTS-2026-186453",
    "java-backend-developer-gestao-documental_lisboa_ETS-2026-186456",
    "office-assistant-mfx_funchal-madeira_PTS-2026-186449",
-   "assistente-de-loja-reparacao-de-smartphones-e-tablets-loures_loures_OTS-2026-186101"
+   "assistente-de-loja-reparacao-de-smartphones-e-tablets-loures_loures_OTS-2026-186101",
+   "advogado-senior-corporate-e-ma_lisboa_PTS-2026-186480"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1523,7 +1524,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1585,7 +1586,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 839,
+  "elenen": 840,
   "tekrar": 31
  }
 }
