@@ -2069,7 +2069,11 @@
    "apartamento-com-1-quartos-localizado-em-estrela-lisbon-ID1j7M8",
    "estudio-localizado-em-bairro-alto-lisbon-ID1j7M4",
    "t1-alto-santo-amaro-ID1j7M1",
-   "apartamento-3-quartos-35-m2-novo-ID9P5lkS"
+   "apartamento-3-quartos-35-m2-novo-ID9P5lkS",
+   "t1-mobilado-com-vista-panormica-e-parqueamento-parque-das-nacoes-ID1j84i",
+   "estudio-na-graca-ID1j846",
+   "apartamento-t1-para-arrendamento-ID1j81I",
+   "apartamento-4-quartos-59-m2-novo-ID9P5lkT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2973,7 +2977,10 @@
    "t1-remodelado-com-terrao-junto-s-portas-de-benfica-IDJGneL",
    "t1-mobilado-no-centro-de-colares-despesas-includas-IDJGmIE",
    "arrenda-se-apartamento-t3-em-carnide-junto-universidade-europeia-IDJGmxi",
-   "apartamento-t2-carnaxide-IDJGmiU"
+   "apartamento-t2-carnaxide-IDJGmiU",
+   "t1-soto-estao-algueiro-IDJGp60",
+   "excelente-t2-rio-de-mouro-pronto-a-habitar-remodelado-IDJGpfk",
+   "arrendamento-t1-penha-de-frana-IDJywnB"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4089,7 +4096,11 @@
    "apartments/1746436",
    "apartments/1166062",
    "apartments/1724357",
-   "apartments/930352"
+   "apartments/930352",
+   "apartments/1747170",
+   "apartments/1746643",
+   "apartments/291987",
+   "apartments/1528473"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5164,13 +5175,20 @@
    "1491174315621971551",
    "1510946044915692161",
    "944735092847897760",
-   "1809557412843172504"
+   "1809557412843172504",
+   "1808975864909830012",
+   "6499",
+   "1563135853187227278",
+   "1779264316826350924",
+   "1408597558442632938",
+   "729380120038947612",
+   "1774748830220600057"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 54,
+   "bos": 55,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5212,8 +5230,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 4,
+  "tekrar": 8
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6308,8 +6326,19 @@
   "a09263f167eab9f3",
   "595b721e6e6529e1",
   "6702b537f34403d6",
-  "2af8d3dfbbe6d2ea"
+  "2af8d3dfbbe6d2ea",
+  "afd6fca423ce8449",
+  "baa8cd9c7aa11555",
+  "4ef946787f9d1e47",
+  "74d18c6d5a54867d",
+  "7e7230fde48b4f80"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Vista Panorâmica e Parqueamento | Parque das Nações · Gare do Oriente - Zona Sul, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 52 m² · Andar · 10+ andar · Destacado · Casas na Hora Loja de Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-vista-panormica-e-parqueamento-parque-das-nacoes-ID1j84i",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT1 Sotão Estação Algueirão · 750 € · Algueirão-Mem Martins - 03 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-soto-estao-algueiro-IDJGp60.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 980 €\nArrendamento T1 Penha de França · 980 € · Penha De França - 03 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-penha-de-frana-IDJywnB.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1650 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1747170",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1250 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1746643"
+ ],
  "son_gonderim": "2026-11-03"
 }
