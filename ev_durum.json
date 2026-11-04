@@ -2076,7 +2076,45 @@
    "apartamento-4-quartos-59-m2-novo-ID9P5lkT",
    "excelente-t1-1-remodelado-totalmente-equipado-e-mobilado-zona-calm-ID1j4tj",
    "t3-remodelado-a-estrear-para-arrendar-alto-de-alcntara-lisboa-ID1j84z",
-   "t1-renovado-em-telheiras-zona-calma-junto-ao-metro-ID1j84u"
+   "t1-renovado-em-telheiras-zona-calma-junto-ao-metro-ID1j84u",
+   "t2-mobilado-kichenette-equipada-elevador-video-porteiro-cp-ourique-ID1j8Sf",
+   "t1-mobilado-e-remodelado-para-arrendar-na-lapa-com-ar-condicionado-ID1ja5q",
+   "apartamento-t2-para-arrendamento-ID1ja3W",
+   "apartamento-t1-para-arrendamento-ID1ja3I",
+   "o-seu-lugar-em-lisboa-junto-ao-parque-da-bela-vista-ID1ja0T",
+   "escritorios-no-campo-pequeno-52m-para-arrendar-ID1j9SA",
+   "t3-acabdo-de-remodelar-na-rua-filipe-da-mata-ID1j9Qy",
+   "apartamento-t1-remodelado-em-alcntara-com-logra-ID1j9Pa",
+   "t2-renovado-e-mobilado-com-varanda-e-garagem-e-ID1j9MZ",
+   "arrendamento-t1-mobilado-com-estacionamento-ID1j9LU",
+   "t3-remodelado-sem-mobilia-benfica-c-elevad-ID1j9KS",
+   "escritorio-com-98-m2-abl-situado-no-edificio-ta-ID1j9J2",
+   "t3-duplex-mobilado-e-equipado-com-2-varandas-p-ID1j9Il",
+   "apartamento-para-arrendar-t2-campolide-rc-dt-ID1j9Id",
+   "apartamento-t2-no-principe-real-com-elevador-ID1j9Fg",
+   "arrendamento-t1-no-principe-real-ID1j9F7",
+   "t2-mobilado-no-campo-de-santa-clara-vista-rio-ID1j9F0",
+   "t1-totalmente-renovado-em-telheiras-com-garagem-ID1j9D2",
+   "t2-na-rua-luciano-cordeiro-charme-e-centralida-ID1j9Cz",
+   "excelente-t2-com-elevador-na-rua-cidade-de-cadiz-ID1j9Ct",
+   "t2-laranjeiras-mobilado-equipado-1-lugar-d-ID1j9yN",
+   "apartamento-em-alcntara-para-arrendamento-tempo-ID1j9yc",
+   "apartamento-t1-para-arrendamento-mobilado-e-equ-ID1j9xJ",
+   "apartamento-t2-1-com-patio-para-arrendamento-na-ID1j9xo",
+   "apartamento-t1-na-junqueira-ID1j9wT",
+   "apartamento-com-3-quartos-localizado-em-santa-apolonia-lisbon-ID1j9uB",
+   "apartamento-com-1-quartos-localizado-em-parque-das-nacoes-lisbon-ID1j9ud",
+   "t2-luminoso-e-renovado-campo-de-ourique-ID1j9tI",
+   "apartamento-com-1-quartos-localizado-em-arroios-lisbon-ID1j9sb",
+   "apartamento-t2-na-ajuda-ID1j9oY",
+   "arrenda-espetacular-apartamento-t3-4-assoalhada-ID1j9oB",
+   "principe-real-t2-mobilado-com-todas-as-despe-ID1j9o7",
+   "apartamento-de-charme-no-centro-de-lisboa-ID1j9n2",
+   "apartamento-t1-com-estacionamento-telheiras-li-ID1j9n3",
+   "arrendamento-t1-rua-azinhaga-das-galhardas-ID1j9mC",
+   "apartamento-t3-nas-avenidas-novas-ID1j9is",
+   "apartamento-t3-com-125-m-nas-avenidas-novas-ID1j9h9",
+   "apartamento-5-quartos-107-m2-novo-ID9P5lkU"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2985,7 +3023,10 @@
    "excelente-t2-rio-de-mouro-pronto-a-habitar-remodelado-IDJGpfk",
    "arrendamento-t1-penha-de-frana-IDJywnB",
    "aluguel-odivelas-apartamento-t2-IDJGqC5",
-   "t3-remodelado-a-estrear-para-arrendar-alto-de-alcntara-lisboa-IDJGqz7"
+   "t3-remodelado-a-estrear-para-arrendar-alto-de-alcntara-lisboa-IDJGqz7",
+   "t1-em-bom-estado-no-prior-velho-IDJGtZL",
+   "arrenda-se-apartamento-t1-IDJGvio",
+   "apartamento-t1-em-sacavem-IDJGvid"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4106,7 +4147,8 @@
    "apartments/1746643",
    "apartments/291987",
    "apartments/1528473",
-   "apartments/1746688"
+   "apartments/1746688",
+   "apartments/1747162"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4815,7 +4857,11 @@
    "843657",
    "82284",
    "720748",
-   "652481"
+   "652481",
+   "903070",
+   "903066",
+   "903044",
+   "891145"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5195,13 +5241,15 @@
    "1808037667958558724",
    "53740700",
    "31881758",
-   "700599458232615517"
+   "700599458232615517",
+   "13060521",
+   "1623990352360697236"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 56,
+   "bos": 57,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5243,8 +5291,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 10,
-  "tekrar": 13
+  "elenen": 27,
+  "tekrar": 14
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6346,7 +6394,20 @@
   "74d18c6d5a54867d",
   "7e7230fde48b4f80",
   "06d6be3d26d657b7",
-  "f200c93e146e92bb"
+  "f200c93e146e92bb",
+  "133c0cedb03ca0d6",
+  "4341ab550c76a0fb",
+  "eb7993719b32ecbf",
+  "121b5b34484d15b6",
+  "aec51163b5c3db36",
+  "ac4f85693d5340fd",
+  "80d92663a7f9ebe3",
+  "fef218595ee92164",
+  "09510858923b92f2",
+  "44866aea9a355679",
+  "0f4d00c4a4064aa1",
+  "764f9f039a13b3b1",
+  "9de39f0b8ccc7082"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Vista Panorâmica e Parqueamento | Parque das Nações · Gare do Oriente - Zona Sul, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 52 m² · Andar · 10+ andar · Destacado · Casas na Hora Loja de Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-vista-panormica-e-parqueamento-parque-das-nacoes-ID1j84i",
@@ -6355,7 +6416,21 @@
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1650 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1747170",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1250 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1746643",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Excelente T1+1 remodelado, totalmente equipado e mobilado zona calm... · Travessa do Giestal, Alto de Alcântara, Alcântara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 51 m² · Destacado · Euro Estates · Profissional\nhttps://www.imovirtual.com/pt/anuncio/excelente-t1-1-remodelado-totalmente-equipado-e-mobilado-zona-calm-ID1j4tj",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Santo António · 5,0 de uma avaliação média de 5, 6 avaliações · 5,0 (6) · FLH Marquês Apartamento sofisticado · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.201 USD · $ 2.131 USD · $ 2.131 USD mensal, preço original: $ 2.201 USD · mensal · Apartamento…\nhttps://www.airbnb.com/rooms/47044514"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Santo António · 5,0 de uma avaliação média de 5, 6 avaliações · 5,0 (6) · FLH Marquês Apartamento sofisticado · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.201 USD · $ 2.131 USD · $ 2.131 USD mensal, preço original: $ 2.201 USD · mensal · Apartamento…\nhttps://www.airbnb.com/rooms/47044514",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T1 Mobilado e remodelado para Arrendar na Lapa com Ar Condicionado ... · Lapa, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 32 m² · Euro Estates · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-e-remodelado-para-arrendar-na-lapa-com-ar-condicionado-ID1ja5q",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T1 para arrendamento · Rua do Arco de Alcântara, Alcântara, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · Andar · rés do chão · Remax Grupo Team · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1ja3I",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · T2 renovado e mobilado, com varanda e garagem, e · Rua Embaixador Teixeira de Sampaio, Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 93 m² · KW LEAD · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-renovado-e-mobilado-com-varanda-e-garagem-e-ID1j9MZ",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Arrendamento | T1 Mobilado com Estacionamento | · Expo Sul, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-t1-mobilado-com-estacionamento-ID1j9LU",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.740 €\n1740 € · T3 Duplex mobilado e equipado com 2 varandas | P · Centro, Penha de França, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 98 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t3-duplex-mobilado-e-equipado-com-2-varandas-p-ID1j9Il",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · T2 Mobilado no Campo de Santa Clara | Vista Rio · Campo de Santa Clara, São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 69 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-mobilado-no-campo-de-santa-clara-vista-rio-ID1j9F0",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · T2 na Rua Luciano Cordeiro - Charme e Centralida · Campo de Santana - Santa Marta, Santo António, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 139 m² · KW LEAD · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-na-rua-luciano-cordeiro-charme-e-centralida-ID1j9Cz",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · T2 Laranjeiras | Mobilado | Equipado | 1 lugar d · Rua Joly Braga Santos, Laranjeiras, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 87 m² · KW Ábaco · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-laranjeiras-mobilado-equipado-1-lugar-d-ID1j9yN",
+  "…ve <b>Imovirtual</b> sitesinde 17 yeni ilan daha. Hepsi burada:\nhttps://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT1 em bom estado no Prior Velho · 750 € · Sacavém E Prior Velho - Hoje às 14:02\nhttps://www.olx.pt/d/anuncio/t1-em-bom-estado-no-prior-velho-IDJGtZL.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nArrenda-se apartamento T1 · 1.100 € · Cacém E São Marcos - Hoje às 13:50\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-IDJGvio.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\napartamento t1 em sacavem · 800 € · Sacavém E Prior Velho - Hoje às 13:50\nhttps://www.olx.pt/d/anuncio/apartamento-t1-em-sacavem-IDJGvid.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.900 €\nAPARTMENT · FROM 04 NOV · 2-bedroom apartment for rent in Lisbon · 1900 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1747162",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 1 de dez.  a  28 de fev. · 1 de dez. – 28 de fev. · Apartamento ⋅ Arroios · 4,96 de uma avaliação média de 5, 114 avaliações · 4,96 (114) · Zen Newton - Apartamento ensolarado no centro da cidade de Lisboa · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.499 USD ·…\nhttps://www.airbnb.com/rooms/13060521"
  ],
  "son_gonderim": "2026-11-03"
 }
