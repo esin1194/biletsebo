@@ -2073,7 +2073,10 @@
    "t1-mobilado-com-vista-panormica-e-parqueamento-parque-das-nacoes-ID1j84i",
    "estudio-na-graca-ID1j846",
    "apartamento-t1-para-arrendamento-ID1j81I",
-   "apartamento-4-quartos-59-m2-novo-ID9P5lkT"
+   "apartamento-4-quartos-59-m2-novo-ID9P5lkT",
+   "excelente-t1-1-remodelado-totalmente-equipado-e-mobilado-zona-calm-ID1j4tj",
+   "t3-remodelado-a-estrear-para-arrendar-alto-de-alcntara-lisboa-ID1j84z",
+   "t1-renovado-em-telheiras-zona-calma-junto-ao-metro-ID1j84u"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -2980,7 +2983,9 @@
    "apartamento-t2-carnaxide-IDJGmiU",
    "t1-soto-estao-algueiro-IDJGp60",
    "excelente-t2-rio-de-mouro-pronto-a-habitar-remodelado-IDJGpfk",
-   "arrendamento-t1-penha-de-frana-IDJywnB"
+   "arrendamento-t1-penha-de-frana-IDJywnB",
+   "aluguel-odivelas-apartamento-t2-IDJGqC5",
+   "t3-remodelado-a-estrear-para-arrendar-alto-de-alcntara-lisboa-IDJGqz7"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4100,7 +4105,8 @@
    "apartments/1747170",
    "apartments/1746643",
    "apartments/291987",
-   "apartments/1528473"
+   "apartments/1528473",
+   "apartments/1746688"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4808,7 +4814,8 @@
    "902916",
    "843657",
    "82284",
-   "720748"
+   "720748",
+   "652481"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5182,13 +5189,19 @@
    "1779264316826350924",
    "1408597558442632938",
    "729380120038947612",
-   "1774748830220600057"
+   "1774748830220600057",
+   "47044514",
+   "644171996077248227",
+   "1808037667958558724",
+   "53740700",
+   "31881758",
+   "700599458232615517"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 55,
+   "bos": 56,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5230,8 +5243,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
-  "tekrar": 8
+  "elenen": 10,
+  "tekrar": 13
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6331,14 +6344,18 @@
   "baa8cd9c7aa11555",
   "4ef946787f9d1e47",
   "74d18c6d5a54867d",
-  "7e7230fde48b4f80"
+  "7e7230fde48b4f80",
+  "06d6be3d26d657b7",
+  "f200c93e146e92bb"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Vista Panorâmica e Parqueamento | Parque das Nações · Gare do Oriente - Zona Sul, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 52 m² · Andar · 10+ andar · Destacado · Casas na Hora Loja de Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-vista-panormica-e-parqueamento-parque-das-nacoes-ID1j84i",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT1 Sotão Estação Algueirão · 750 € · Algueirão-Mem Martins - 03 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-soto-estao-algueiro-IDJGp60.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 980 €\nArrendamento T1 Penha de França · 980 € · Penha De França - 03 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-penha-de-frana-IDJywnB.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1650 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1747170",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1250 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1746643"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.250 €\nAPARTMENT · AVAILABLE NOW · 2-bedroom apartment for rent in Lisbon · 1250 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1746643",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Excelente T1+1 remodelado, totalmente equipado e mobilado zona calm... · Travessa do Giestal, Alto de Alcântara, Alcântara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 51 m² · Destacado · Euro Estates · Profissional\nhttps://www.imovirtual.com/pt/anuncio/excelente-t1-1-remodelado-totalmente-equipado-e-mobilado-zona-calm-ID1j4tj",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Santo António · 5,0 de uma avaliação média de 5, 6 avaliações · 5,0 (6) · FLH Marquês Apartamento sofisticado · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.201 USD · $ 2.131 USD · $ 2.131 USD mensal, preço original: $ 2.201 USD · mensal · Apartamento…\nhttps://www.airbnb.com/rooms/47044514"
  ],
  "son_gonderim": "2026-11-03"
 }
