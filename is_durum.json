@@ -741,7 +741,15 @@
    "customer-support-in-german-mfx_remote-in-portugal_OTS-2026-186493",
    "advogado-senior-imobiliario_lisboa_PTS-2026-186480",
    "operador-de-armazem-mfx_azambuja_OTS-2026-186537",
-   "operario-linha-de-producao-mfx_algueirao-mem-martins_OTS-2026-186546"
+   "operario-linha-de-producao-mfx_algueirao-mem-martins_OTS-2026-186546",
+   "purchasing-supervisor-fra_lisboa_PTS-2026-186591",
+   "product-management-services-specialist-german_lisboa_PTS-2026-186586",
+   "assistente-de-recuperacao-de-credito-mfx_lisboa_OTS-2026-186321",
+   "operador-de-caixa-em-parttime-mfx_loures_OTS-2026-185669",
+   "gestor-de-contacto-equipa-helpdesk-mfx_lisboa_OTS-2026-186557",
+   "assistente-de-apoio-ao-cliente-espanhol-mfx_lisboa_OTS-2026-186556",
+   "gestor-comercial-mfx_lisboa_OTS-2026-186550",
+   "tecnico-de-manutencao-mfx_carregado_OTS-2026-186549"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1167,7 +1175,10 @@
    "bdSuXXJuLFNWxNpBLqgeZT",
    "w5tjk2SuktbBwuga5GCV9K",
    "mBLwWq23MEVjqXsYZB3m2x",
-   "i3nwyksHa5tZLreyK1DKCa"
+   "i3nwyksHa5tZLreyK1DKCa",
+   "ghEDks9wCbicuBrgRHTqWU",
+   "4vwHdvoyLjubNHDJNWH1Bw",
+   "9ujwvaVP12sYkNQKxs9LZX"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1548,12 +1559,17 @@
   "8985d42f5be024ab",
   "e1d66a8c785bb778",
   "a0ae26dc84f3aea7",
-  "6bceffee46ec0658"
+  "6bceffee46ec0658",
+  "e5a5bc41ad3ba936",
+  "8682e0050f64f20e",
+  "1d9f6d4a49d0f971",
+  "b5158fb755d4d182",
+  "1bdc0ef3ce10d601"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 11,
+   "bos": 12,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1615,7 +1631,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 867,
-  "tekrar": 33
+  "elenen": 872,
+  "tekrar": 34
  }
 }
