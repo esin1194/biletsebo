@@ -34,7 +34,10 @@
    "16179987/engenheiro-civil-senior-m-f",
    "16113651/eng-eletrotecnico-orcamentacao-m-f",
    "16173602/eng-mecanico-orcamentacao-m-f",
-   "15636048/apoio-ao-cliente-vila-nova-de-famalicao"
+   "15636048/apoio-ao-cliente-vila-nova-de-famalicao",
+   "16217789/aprendiz-chapeiro-automovel-goios",
+   "16097323/operateur-gestion-de-dossier-d-assurance-en-langue-francaise-braga",
+   "16208239/fiel-de-armazem"
   ],
   "emprego.sapo.pt": [],
   "olx.pt": [],
@@ -749,7 +752,11 @@
    "gestor-de-contacto-equipa-helpdesk-mfx_lisboa_OTS-2026-186557",
    "assistente-de-apoio-ao-cliente-espanhol-mfx_lisboa_OTS-2026-186556",
    "gestor-comercial-mfx_lisboa_OTS-2026-186550",
-   "tecnico-de-manutencao-mfx_carregado_OTS-2026-186549"
+   "tecnico-de-manutencao-mfx_carregado_OTS-2026-186549",
+   "terapeuta-da-fala-mfx_lisboa_PTS-2026-186630",
+   "medico-dentista-mfx_lisboa_PTS-2026-186629",
+   "operador-de-armazem-mfx_lisboa_OTS-2026-186616",
+   "empregado-de-bar-mfx_lisboa_OTS-2026-183018"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1178,7 +1185,10 @@
    "i3nwyksHa5tZLreyK1DKCa",
    "ghEDks9wCbicuBrgRHTqWU",
    "4vwHdvoyLjubNHDJNWH1Bw",
-   "9ujwvaVP12sYkNQKxs9LZX"
+   "9ujwvaVP12sYkNQKxs9LZX",
+   "s6hn3xESvuZDuS8zcyqi7q",
+   "cijThsPaQuLpPgLEvhrXmH",
+   "2vHszZADR3PNPsWpxQ6uJy"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1564,13 +1574,15 @@
   "8682e0050f64f20e",
   "1d9f6d4a49d0f971",
   "b5158fb755d4d182",
-  "1bdc0ef3ce10d601"
+  "1bdc0ef3ce10d601",
+  "c6417523a0825091",
+  "01811491f524b620"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 14,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -1631,7 +1643,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 872,
+  "elenen": 880,
   "tekrar": 34
  }
 }
