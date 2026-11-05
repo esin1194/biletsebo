@@ -759,7 +759,36 @@
    "35426500",
    "35426492",
    "35426494",
-   "35426476"
+   "35426476",
+   "31314725",
+   "35454684",
+   "35460274",
+   "35460271",
+   "35460258",
+   "35457358",
+   "35222072",
+   "35457968",
+   "35457974",
+   "35458011",
+   "35458304",
+   "35458351",
+   "35458472",
+   "35458445",
+   "35458260",
+   "35395033",
+   "35395034",
+   "35387136",
+   "35457991",
+   "35454224",
+   "35453535",
+   "31495083",
+   "35457333",
+   "35136291",
+   "30402263",
+   "35455288",
+   "35456585",
+   "35454134",
+   "35455651"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -2133,7 +2162,8 @@
    "t1-107-m-com-vista-tejo-penha-de-franca-ID1ja9V",
    "apartamento-3-quartos-80-m2-varanda-ID9P5lkW",
    "t1-60-m2-renovado-condominio-fechado-1-estacionamento-ajuda-ID1jaFg",
-   "apartamento-5-quartos-36-m2-luminoso-ID9P5lkV"
+   "apartamento-5-quartos-36-m2-luminoso-ID9P5lkV",
+   "apartamento-3-quartos-133-m2-terraco-ID9P5lkX"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3050,7 +3080,8 @@
    "arrendamento-t3-IDJGnZz",
    "apartamento-t2-mem-martins-IDJGxPq",
    "estdio-numa-moradia-IDJGCtb",
-   "arrenda-se-aparta-IDJGCCN"
+   "arrenda-se-aparta-IDJGCCN",
+   "t2-remodelado-com-vista-de-mar-e-garagem-monte-estoril-IDJvcdW"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5278,14 +5309,15 @@
    "54401734",
    "887594505809285452",
    "25504138",
-   "31305431"
+   "31305431",
+   "26948621"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 59,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -5326,8 +5358,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 43,
-  "tekrar": 16
+  "elenen": 45,
+  "tekrar": 17
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6454,7 +6486,15 @@
   "983315f17770a092",
   "0da9fc792470acfe",
   "96a4ae606cd77661",
-  "5f96ca7a7b61a81b"
+  "5f96ca7a7b61a81b",
+  "7a0145ec461a587d",
+  "4c4a1dbc602fb0d0",
+  "49aa17dd6c9335b0",
+  "a105e92fb884b067",
+  "3b864e63465d8f0c",
+  "3b508c300981ef78",
+  "daa359628cd649cf",
+  "ec023cc198b35bbf"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Vista Panorâmica e Parqueamento | Parque das Nações · Gare do Oriente - Zona Sul, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 52 m² · Andar · 10+ andar · Destacado · Casas na Hora Loja de Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-vista-panormica-e-parqueamento-parque-das-nacoes-ID1j84i",
@@ -6490,7 +6530,16 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nApartamento T1 no Restelo · 1.250 € · Belém - Hoje às 20:00\nhttps://www.olx.pt/d/anuncio/apartamento-t1-no-restelo-IDJGBne.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 5,0 de uma avaliação média de 5, 6 avaliações · 5,0 (6) · FLH Marquês Apartamento sofisticado · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.201 USD · $ 2.131 USD · $ 2.131 USD mensal, preço original: $ 2.201 USD · mensal · 4,5 de uma avaliaç…\nhttps://www.airbnb.com/rooms/887594505809285452",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 875 €\nArrenda-se aparta · 875 € · Águas Livres - 04 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-aparta-IDJGCCN.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 5 de dez.  a  4 de mar. · 5 de dez. – 4 de mar. · Apartamento ⋅ Lisboa · 5,0 de uma avaliação média de 5, 10 avaliações · 5,0 (10) · Pausa — Apartamento Atelier · 1 quarto · 1 cama queen · 1 banheiro · $ 3.398 USD · $ 2.803 USD · $ 2.803 USD mensal, preço origina…\nhttps://www.airbnb.com/rooms/31305431"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 5 de dez.  a  4 de mar. · 5 de dez. – 4 de mar. · Apartamento ⋅ Lisboa · 5,0 de uma avaliação média de 5, 10 avaliações · 5,0 (10) · Pausa — Apartamento Atelier · 1 quarto · 1 cama queen · 1 banheiro · $ 3.398 USD · $ 2.803 USD · $ 2.803 USD mensal, preço origina…\nhttps://www.airbnb.com/rooms/31305431",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.690 €\nDuplex na Calçada da Rosa, 3 a, Mouraria - Castelo, Santa Maria Maior · 1.690€/mês · T1 70 m² área bruta 1º andar sem elevador 16 minutos · O duplex está localizado no centro de Lisboa. Castelo de São Jorge, Baixa, Alfama, Chiado, Bairro Alto.. . estão a poucos minutos a pé. Está…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/31314725/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 2.000 €\nApartamento T1 no Largo Santo Antoninho, 12, Bica, Misericórdia · 2.000€/mês · T1 80 m² área bruta 4º andar sem elevador 3 horas · Disponível em: 28/12/2026. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA O SPACEST. COM? Spacest. c…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35454684/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.550 €\nApartamento T1 na Rua de São Paulo, 172, Chiado - Pç. de Camões, Misericórdia · 1.550€/mês · T1 45 m² área bruta 5º andar com elevador 3 horas · Disponível em: 20/11/2026. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA O SPACEST.CO…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35460274/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.750 €\nApartamento T2 no Alto de São João - Alto do Varejão, Penha de França · 1.750€/mês · T2 101 m² área bruta 9º andar com elevador 3 horas · Disponível em: 11/11/2026. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA O SPACEST.COM? Spac…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35460271/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.550 €\nApartamento T1 na Gare do Oriente - Zona Sul, Parque das Nações · 1.550€/mês · T1 58 m² área bruta com elevador 3 horas · Disponível em: 05/11/2026. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA O SPACEST.COM? Spacest.com é uma pl…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35460258/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.900 €\nApartamento T2 na Rua Leite de Vasconcelos, 42, Santa Engrácia, São Vicente · 1.900€/mês · T2 90 m² área bruta sem elevador 3 horas · Disponível em: 05/11/2026. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA O SPACEST.COM? Spacest.…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35457358/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.090 €\nApartamento T1 na Avenida Duque de Loulé, 91, Av. da Liberdade - Marquês de Pombal, Santo António · 1.090€/mês · T1 48 m² área bruta Sub cave sem elevador 10 horas · Arrenda-se a estudante universitária, a 1 minuto do Marquês de Pombal (linhas amarela e azul). Despesas não incluí…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35222072/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.420 €\nApartamento T1 na Rua do Lumiar, Carriche - Hospital das Forças Armadas, Lumiar · 1.420€/mês · T1 44 m² área bruta sem elevador 12 horas · RESERVAS E PEDIDOS DE INFORMAÇÃO Para obter informações detalhadas e reservar online, clique abaixo do mapa em “Link Adicional”. TERMOS E CON…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35457968/",
+  "…ve <b>Idealista</b> sitesinde 21 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc"
  ],
  "son_gonderim": "2026-11-03"
 }
