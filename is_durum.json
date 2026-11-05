@@ -756,7 +756,11 @@
    "terapeuta-da-fala-mfx_lisboa_PTS-2026-186630",
    "medico-dentista-mfx_lisboa_PTS-2026-186629",
    "operador-de-armazem-mfx_lisboa_OTS-2026-186616",
-   "empregado-de-bar-mfx_lisboa_OTS-2026-183018"
+   "empregado-de-bar-mfx_lisboa_OTS-2026-183018",
+   "assistente-ao-cliente-atendimento-balcao-mxf_lisboa_OTS-2026-186644",
+   "eletricista-industrial-mfx_carregado_OTS-2026-186549",
+   "psicologo-mfx_lisboa_PTS-2026-186636",
+   "assistente-de-producao-mfx_sao-domingos-de-rana_OTS-2026-186318"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1188,7 +1192,10 @@
    "9ujwvaVP12sYkNQKxs9LZX",
    "s6hn3xESvuZDuS8zcyqi7q",
    "cijThsPaQuLpPgLEvhrXmH",
-   "2vHszZADR3PNPsWpxQ6uJy"
+   "2vHszZADR3PNPsWpxQ6uJy",
+   "odhb7QowVSmcTpcQi41ntK",
+   "62V5vZ2WC7hGbivEgwH7hy",
+   "htvLLcG6RJHHxiQ4uJK7Hi"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1576,12 +1583,13 @@
   "b5158fb755d4d182",
   "1bdc0ef3ce10d601",
   "c6417523a0825091",
-  "01811491f524b620"
+  "01811491f524b620",
+  "6cbf9488cbb1fb9c"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1643,7 +1651,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 880,
+  "elenen": 886,
   "tekrar": 34
  }
 }
