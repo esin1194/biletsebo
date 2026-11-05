@@ -2131,7 +2131,9 @@
    "apartamento-t3-remodelado-no-areeiro-ID1jabS",
    "apartamento-t4-remodelado-com-terraco-privativo-ID1jabR",
    "t1-107-m-com-vista-tejo-penha-de-franca-ID1ja9V",
-   "apartamento-3-quartos-80-m2-varanda-ID9P5lkW"
+   "apartamento-3-quartos-80-m2-varanda-ID9P5lkW",
+   "t1-60-m2-renovado-condominio-fechado-1-estacionamento-ajuda-ID1jaFg",
+   "apartamento-5-quartos-36-m2-luminoso-ID9P5lkV"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3046,7 +3048,9 @@
    "apartamento-t1-em-sacavem-IDJGvid",
    "apartamento-t1-no-restelo-IDJGBne",
    "arrendamento-t3-IDJGnZz",
-   "apartamento-t2-mem-martins-IDJGxPq"
+   "apartamento-t2-mem-martins-IDJGxPq",
+   "estdio-numa-moradia-IDJGCtb",
+   "arrenda-se-aparta-IDJGCCN"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4887,7 +4891,8 @@
    "717621",
    "903567",
    "902709",
-   "51442"
+   "51442",
+   "399810"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5272,13 +5277,14 @@
    "1623990352360697236",
    "54401734",
    "887594505809285452",
-   "25504138"
+   "25504138",
+   "31305431"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 58,
+   "bos": 59,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5320,7 +5326,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 39,
+  "elenen": 43,
   "tekrar": 16
  },
  "imzalar": [
@@ -6446,7 +6452,9 @@
   "31ee3d8282a9e8a7",
   "634a6757702da0ca",
   "983315f17770a092",
-  "0da9fc792470acfe"
+  "0da9fc792470acfe",
+  "96a4ae606cd77661",
+  "5f96ca7a7b61a81b"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Vista Panorâmica e Parqueamento | Parque das Nações · Gare do Oriente - Zona Sul, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 52 m² · Andar · 10+ andar · Destacado · Casas na Hora Loja de Odivelas · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-vista-panormica-e-parqueamento-parque-das-nacoes-ID1j84i",
@@ -6480,7 +6488,9 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.950 €\n1950 € · Apartamento T3 Mobilado para Arrendamento em Arr · Rua Ferreira Lapa, Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 110 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-mobilado-para-arrendamento-em-arr-ID1jami",
   "…ve <b>Imovirtual</b> sitesinde 5 yeni ilan daha. Hepsi burada:\nhttps://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nApartamento T1 no Restelo · 1.250 € · Belém - Hoje às 20:00\nhttps://www.olx.pt/d/anuncio/apartamento-t1-no-restelo-IDJGBne.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 5,0 de uma avaliação média de 5, 6 avaliações · 5,0 (6) · FLH Marquês Apartamento sofisticado · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.201 USD · $ 2.131 USD · $ 2.131 USD mensal, preço original: $ 2.201 USD · mensal · 4,5 de uma avaliaç…\nhttps://www.airbnb.com/rooms/887594505809285452"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 5,0 de uma avaliação média de 5, 6 avaliações · 5,0 (6) · FLH Marquês Apartamento sofisticado · 1 quarto · 1 cama de casal · 1 banheiro · $ 2.201 USD · $ 2.131 USD · $ 2.131 USD mensal, preço original: $ 2.201 USD · mensal · 4,5 de uma avaliaç…\nhttps://www.airbnb.com/rooms/887594505809285452",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 875 €\nArrenda-se aparta · 875 € · Águas Livres - 04 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-aparta-IDJGCCN.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 5 de dez.  a  4 de mar. · 5 de dez. – 4 de mar. · Apartamento ⋅ Lisboa · 5,0 de uma avaliação média de 5, 10 avaliações · 5,0 (10) · Pausa — Apartamento Atelier · 1 quarto · 1 cama queen · 1 banheiro · $ 3.398 USD · $ 2.803 USD · $ 2.803 USD mensal, preço origina…\nhttps://www.airbnb.com/rooms/31305431"
  ],
  "son_gonderim": "2026-11-03"
 }
