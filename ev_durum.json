@@ -2194,7 +2194,14 @@
    "apartamento-t1-para-arrendamento-ID1jb3z",
    "t1-de-excelencia-na-estrela-ID1jaYF",
    "t3-em-marvila-equipado-central-disp-1-jan-ID1jaXg",
-   "apartamento-5-quartos-138-m2-remodelado-ID9P5lkZ"
+   "apartamento-5-quartos-138-m2-remodelado-ID9P5lkZ",
+   "apartamento-t2-renovado-no-principe-real-em-lisboa-ID1jb6R",
+   "t0-com-terraco-privativo-na-rua-cidade-liverpool-arroios-lisboa-ID1jb6P",
+   "apartamento-t0-com-ar-condicionado-em-alvalade-ID1jb6N",
+   "apartamento-t1-para-arrendamento-ID1jb6M",
+   "apartamento-t2-lumiar-lisboa-ID1jb6G",
+   "apartamento-t1-em-campolide-de-48-00-m2-ID1jb6x",
+   "apartamento-3-quartos-91-m2-jardim-ID9P5ll0"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3118,7 +3125,9 @@
    "apartamento-t1-graa-IDJGN7e",
    "t3-em-marvila-equipado-central-disp-1-jan-IDJGL6m",
    "apartamento-t2-rua-rainha-d-amlia-odivelas-IDJGOmM",
-   "apartamento-t3-para-arrendamento-IDJGNJJ"
+   "apartamento-t3-para-arrendamento-IDJGNJJ",
+   "t0-com-terrao-privativo-na-rua-cidade-liverpool-arroios-lisboa-IDJGRLm",
+   "arrendamento-apartamento-estdio-cobertura-moscavide-IDJzAGX"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4971,7 +4980,8 @@
    "66695",
    "745760",
    "745759",
-   "193056"
+   "193056",
+   "680841"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5367,7 +5377,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5409,7 +5419,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
+  "elenen": 12,
   "tekrar": 0
  },
  "imzalar": [
@@ -6559,7 +6569,11 @@
   "235ca501d0054cf3",
   "36e5267774b4832f",
   "238983ada4422b7a",
-  "bb3142b70b347154"
+  "bb3142b70b347154",
+  "17f327fe82edf9b0",
+  "35c2f2696711185f",
+  "d8015f74dbccc738",
+  "18bdd492adf2e267"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T1 Graça · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-graca-ID1jb5f",
@@ -6567,7 +6581,11 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\n1700 € · Apartamento T1 para arrendamento · Rua Fernanda Botelho, Avenida do Uruguai, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 66 m² · Andar · 4 andar · Remax Prime · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jb3z",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nApartamento T1 Graça · 1.400 € · Negociável · São Vicente - Hoje às 21:03\nhttps://www.olx.pt/d/anuncio/apartamento-t1-graa-IDJGN7e.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nAPARTMENT · FROM 05 NOV · star · 4 (8) · 2-bedroom apartment for rent in Lisbon · From 1800 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1748097",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nApartamento T3 para arrendamento · 1.450 € · Barcarena - 05 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t3-para-arrendamento-IDJGNJJ.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nApartamento T3 para arrendamento · 1.450 € · Barcarena - 05 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t3-para-arrendamento-IDJGNJJ.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T1 para arrendamento · Rua Doutor Nicolau Bettencourt, Gulbenkian - Praça Espanha, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 41 m² · Andar · 3 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jb6M",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Apartamento T1 em Campolide de 48,00 m2 · Praça de Espanha - Sete Rios, Campolide, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · 3 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-campolide-de-48-00-m2-ID1jb6x",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.130 €\nT0 com terraço privativo na Rua Cidade Liverpool, Arroios, Lisboa · 1.130 € · Arroios - Hoje às 09:20\nhttps://www.olx.pt/d/anuncio/t0-com-terrao-privativo-na-rua-cidade-liverpool-arroios-lisboa-IDJGRLm.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nArrendamento Apartamento Estúdio/Cobertura Moscavide · 1.000 € · Moscavide E Portela - Hoje às 08:01\nhttps://www.olx.pt/d/anuncio/arrendamento-apartamento-estdio-cobertura-moscavide-IDJzAGX.html"
  ],
  "son_gonderim": "2026-11-05"
 }
