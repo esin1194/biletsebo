@@ -760,7 +760,9 @@
    "assistente-ao-cliente-atendimento-balcao-mxf_lisboa_OTS-2026-186644",
    "eletricista-industrial-mfx_carregado_OTS-2026-186549",
    "psicologo-mfx_lisboa_PTS-2026-186636",
-   "assistente-de-producao-mfx_sao-domingos-de-rana_OTS-2026-186318"
+   "assistente-de-producao-mfx_sao-domingos-de-rana_OTS-2026-186318",
+   "jardineiro-greenkeeper-mfx_carvalhal-comporta_OTS-2026-182256",
+   "apoio-ao-cliente-banca-digital-full-time-mfx_lisboa_OTS-2026-186656"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1591,8 +1593,8 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -1653,7 +1655,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 888,
-  "tekrar": 34
+  "elenen": 889,
+  "tekrar": 35
  }
 }
