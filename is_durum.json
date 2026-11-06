@@ -37,7 +37,8 @@
    "15636048/apoio-ao-cliente-vila-nova-de-famalicao",
    "16217789/aprendiz-chapeiro-automovel-goios",
    "16097323/operateur-gestion-de-dossier-d-assurance-en-langue-francaise-braga",
-   "16208239/fiel-de-armazem"
+   "16208239/fiel-de-armazem",
+   "16218755/assistente-de-balcao-m-f-material-eletrico-braga"
   ],
   "emprego.sapo.pt": [],
   "olx.pt": [],
@@ -762,7 +763,14 @@
    "psicologo-mfx_lisboa_PTS-2026-186636",
    "assistente-de-producao-mfx_sao-domingos-de-rana_OTS-2026-186318",
    "jardineiro-greenkeeper-mfx_carvalhal-comporta_OTS-2026-182256",
-   "apoio-ao-cliente-banca-digital-full-time-mfx_lisboa_OTS-2026-186656"
+   "apoio-ao-cliente-banca-digital-full-time-mfx_lisboa_OTS-2026-186656",
+   "consultor-loja-vodafone-negocios_lisboa_OTS-2026-186707",
+   "assistente-de-relacionamento-ao-clientemfx_lisboa_OTS-2026-186566",
+   "tech-lead-java-gestao-documental-ocr-genai_lisboa_ETS-2026-186456",
+   "empregado-mesa-mfx-09-e-10-de-novembro-8h-as-16h30_estoril_OTS-2024-146925",
+   "junior-process-automation-analyst-mfx_hibrido-lisboa_DTS-2026-186680",
+   "gestor-de-ponto-de-venda-mfx_lisboa_PTS-2026-186043",
+   "software-support-specialist-mfx_oeiras_DTS-2026-186660"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1199,7 +1207,10 @@
    "62V5vZ2WC7hGbivEgwH7hy",
    "htvLLcG6RJHHxiQ4uJK7Hi",
    "iBqkEoakHphjqUpryh73sy",
-   "hQRYqeCtwTDZTmfL6w1Tjj"
+   "hQRYqeCtwTDZTmfL6w1Tjj",
+   "saCRmvCE9XBNmYm4GiZP9s",
+   "kvuc5APwihkAWjSX5uPHey",
+   "m1uJSVR3dEmpw3A2T5PqSy"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1588,13 +1599,15 @@
   "1bdc0ef3ce10d601",
   "c6417523a0825091",
   "01811491f524b620",
-  "6cbf9488cbb1fb9c"
+  "6cbf9488cbb1fb9c",
+  "0febc76f3acae784",
+  "ee5a86d089140bfc"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 3,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -1655,7 +1668,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 889,
-  "tekrar": 35
+  "elenen": 897,
+  "tekrar": 36
  }
 }
