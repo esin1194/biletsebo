@@ -2214,7 +2214,16 @@
    "apartamento-t3-duplex-ID1jbg6",
    "apartamento-t1-para-arrendamento-ID1jbfu",
    "apartamento-t1-para-arrendamento-ID1jbe8",
-   "apartamento-3-quartos-106-m2-varanda-ID9P5ll1"
+   "apartamento-3-quartos-106-m2-varanda-ID9P5ll1",
+   "t1-com-open-space-em-arroios-lisboa-ID1jbAV",
+   "arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-ID1jbxd",
+   "apartamento-no-centro-de-lisboa-para-arrendamento-ID1jbvY",
+   "apartamento-t2-junto-ao-campo-pequeno-em-lisboa-ID1jbvW",
+   "apartamento-t2-remodelado-em-campolide-ID1jbvT",
+   "t1-em-campo-de-ourique-possibilidade-de-reconv-ID1jbvR",
+   "t0-em-predio-com-elevador-benfica-ID1jbvQ",
+   "t2-com-varanda-marquisada-e-elevador-benfica-ID1jbvP",
+   "t2-na-rua-da-bempostinha-com-72m2-ID1jbvE"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3144,7 +3153,10 @@
    "t1-em-fames-odivelas-IDJGVRg",
    "t1-mobilado-encarnao-olivais-norte-1-100-IDJGVWu",
    "arrendamento-de-apartamento-t1-IDJGVeI",
-   "t3-marvila-remodelado-semi-equipado-central-IDJGUOA"
+   "t3-marvila-remodelado-semi-equipado-central-IDJGUOA",
+   "apartamento-t2-linda-velha-IDJGZSL",
+   "apartamento-t2-mem-martins-IDJFPbi",
+   "arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-IDJGXub"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5388,13 +5400,14 @@
    "26948621",
    "1811535731238746149",
    "1811629841161238578",
-   "7235525"
+   "7235525",
+   "1211716765073617147"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5436,8 +5449,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 10,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6597,8 +6610,13 @@
   "886e4218441ed85a",
   "6e2c7ead3f2fdabc",
   "31a413758686c19d",
-  "4a809403fd3cd65b"
+  "4a809403fd3cd65b",
+  "075ce252b2f30c77",
+  "9df121c97ddfeca7"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.280 €\n1280 € · arrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 46 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-ID1jbxd",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.280 €\narrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · 1.280 € · São Vicente - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-IDJGXub.html"
+ ],
  "son_gonderim": "2026-11-06"
 }
