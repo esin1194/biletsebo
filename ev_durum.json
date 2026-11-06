@@ -2193,7 +2193,8 @@
    "novo-apartamento-t1-com-terraco-de-35m2-ID1jb46",
    "apartamento-t1-para-arrendamento-ID1jb3z",
    "t1-de-excelencia-na-estrela-ID1jaYF",
-   "t3-em-marvila-equipado-central-disp-1-jan-ID1jaXg"
+   "t3-em-marvila-equipado-central-disp-1-jan-ID1jaXg",
+   "apartamento-5-quartos-138-m2-remodelado-ID9P5lkZ"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3115,7 +3116,9 @@
    "t2-com-terrao-mobilado-algs-IDJGKzm",
    "arrenda-se-estdio-deluxe-com-ginasio-incluido-no-lumiar-lisboa-800-ms-IDJGJEo",
    "apartamento-t1-graa-IDJGN7e",
-   "t3-em-marvila-equipado-central-disp-1-jan-IDJGL6m"
+   "t3-em-marvila-equipado-central-disp-1-jan-IDJGL6m",
+   "apartamento-t2-rua-rainha-d-amlia-odivelas-IDJGOmM",
+   "apartamento-t3-para-arrendamento-IDJGNJJ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5364,8 +5367,8 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -5406,7 +5409,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 6,
   "tekrar": 0
  },
  "imzalar": [
@@ -6555,14 +6558,16 @@
   "13aa0a4a6c92eb32",
   "235ca501d0054cf3",
   "36e5267774b4832f",
-  "238983ada4422b7a"
+  "238983ada4422b7a",
+  "bb3142b70b347154"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T1 Graça · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-graca-ID1jb5f",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · Novo Apartamento T1 com Terraço de 35m2 · Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 49 m² · Profissional\nhttps://www.imovirtual.com/pt/anuncio/novo-apartamento-t1-com-terraco-de-35m2-ID1jb46",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.700 €\n1700 € · Apartamento T1 para arrendamento · Rua Fernanda Botelho, Avenida do Uruguai, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 66 m² · Andar · 4 andar · Remax Prime · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jb3z",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nApartamento T1 Graça · 1.400 € · Negociável · São Vicente - Hoje às 21:03\nhttps://www.olx.pt/d/anuncio/apartamento-t1-graa-IDJGN7e.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nAPARTMENT · FROM 05 NOV · star · 4 (8) · 2-bedroom apartment for rent in Lisbon · From 1800 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1748097"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.800 €\nAPARTMENT · FROM 05 NOV · star · 4 (8) · 2-bedroom apartment for rent in Lisbon · From 1800 €/month · info · lock · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1748097",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.450 €\nApartamento T3 para arrendamento · 1.450 € · Barcarena - 05 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t3-para-arrendamento-IDJGNJJ.html"
  ],
  "son_gonderim": "2026-11-05"
 }
