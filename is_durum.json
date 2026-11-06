@@ -770,7 +770,10 @@
    "empregado-mesa-mfx-09-e-10-de-novembro-8h-as-16h30_estoril_OTS-2024-146925",
    "junior-process-automation-analyst-mfx_hibrido-lisboa_DTS-2026-186680",
    "gestor-de-ponto-de-venda-mfx_lisboa_PTS-2026-186043",
-   "software-support-specialist-mfx_oeiras_DTS-2026-186660"
+   "software-support-specialist-mfx_oeiras_DTS-2026-186660",
+   "preparador-de-cozinha-pastelaria-mfx_lisboa_OTS-2026-186716",
+   "gestor-de-cliente-mfx_alges_PTS-2026-186698",
+   "sop-data-ai-automation-analyst-mfx_paco-de-arcos_PTS-2026-186703"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1210,7 +1213,10 @@
    "hQRYqeCtwTDZTmfL6w1Tjj",
    "saCRmvCE9XBNmYm4GiZP9s",
    "kvuc5APwihkAWjSX5uPHey",
-   "m1uJSVR3dEmpw3A2T5PqSy"
+   "m1uJSVR3dEmpw3A2T5PqSy",
+   "gRaQrnpUufC5oeA38Fk7LZ",
+   "hegs7KV2CwfiT7KyE68th7",
+   "96yc7JCvU6drdRjdkvMVPp"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1606,7 +1612,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1668,7 +1674,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 897,
+  "elenen": 903,
   "tekrar": 36
  }
 }
