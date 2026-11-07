@@ -2227,7 +2227,15 @@
    "apartamento-t2-ID1jbDn",
    "apartamento-3-quartos-126-m2-remodelado-ID9P5ll2",
    "apartamento-t0-com-ar-condicionado-em-alvalade-ID1jbEJ",
-   "apartamento-4-quartos-124-m2-garagem-ID9P5ll3"
+   "apartamento-4-quartos-124-m2-garagem-ID9P5ll3",
+   "apartamento-t1-para-arrendamento-ID1jbIP",
+   "apartamento-com-3-quartos-localizado-em-sete-rios-lisbon-ID1jbH8",
+   "arrenda-estudio-na-misericordia-lisboa-ID1jbG9",
+   "apartamento-t2-para-arrendamento-ID1jbFN",
+   "apartamento-t2-para-arrendamento-ID1jbFw",
+   "apartamento-t1-para-arrendamento-ID1jbFn",
+   "loft-b-ID1jbEY",
+   "apolonia-train-spot-ID1jbEU"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3164,7 +3172,14 @@
    "espao-independente-em-moradia-2-quartos-sala-IDJH2q2",
    "excelente-apartamento-t4-junto-av-duque-de-loul-IDIX6hM",
    "t3-espaoso-junto-ao-metro-de-alfornelos-IDJH0yA",
-   "apartamento-t2-IDJH0wT"
+   "apartamento-t2-IDJH0wT",
+   "t2-em-moradia-na-zona-de-pro-pinheiro-sintra-IDJCVOD",
+   "arrendamento-reboleira-IDJH7Nb",
+   "arrenda-se-t3-em-alenquer-IDJH6Ea",
+   "apartamento-para-arrendar-IDJH7ie",
+   "apartamento-t2-para-alugar-vialonga-1-100-IDJH6FU",
+   "arrenda-estudio-na-misericrdia-lisboa-IDJH63b",
+   "arrenda-se-apartamento-t3-algueiro-IDJH6ay"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5021,7 +5036,8 @@
    "745759",
    "193056",
    "680841",
-   "750178"
+   "750178",
+   "276596"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5413,13 +5429,14 @@
    "1811629841161238578",
    "7235525",
    "1211716765073617147",
-   "12851158"
+   "12851158",
+   "621613578204990635"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5461,8 +5478,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 18,
-  "tekrar": 2
+  "elenen": 30,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6627,14 +6644,22 @@
   "9df121c97ddfeca7",
   "d8e77486e4b3312f",
   "4a0d88a997912a1d",
-  "a793c794f4cc9d87"
+  "a793c794f4cc9d87",
+  "783d8a215f4bb9ef",
+  "a36c1903bb6b49f0",
+  "48202235f604a4a8",
+  "4555e044a027ef25"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.280 €\n1280 € · arrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 46 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-ID1jbxd",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.280 €\narrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · 1.280 € · São Vicente - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-IDJGXub.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nT3 Espaçoso| Junto ao Metro de Alfornelos · 1.400 € · Encosta do Sol - 06 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t3-espaoso-junto-ao-metro-de-alfornelos-IDJH0yA.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nApartamento t2 · 2.000 € · Lumiar - 06 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-IDJH0wT.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 07 NOV · star · 3.8 (26) · 2-bedroom apartment for rent in Lisbon · From 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1440660"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 07 NOV · star · 3.8 (26) · 2-bedroom apartment for rent in Lisbon · From 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1440660",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1 para arrendamento · Rua José Maria Nicolau, Alto dos Moinhos, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 83 m² · Andar · rés do chão · RE/MAX + Grupo Vantagem · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jbIP",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 750 €\n750 € · Arrenda estudio na Misericórdia Lisboa · Baixa, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 18 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-estudio-na-misericordia-lisboa-ID1jbG9",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 875 €\nArrendamento Reboleira · 875 € · Águas Livres - Hoje às 14:55\nhttps://www.olx.pt/d/anuncio/arrendamento-reboleira-IDJH7Nb.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nArrenda estudio na Misericórdia Lisboa · 750 € · Misericórdia - Hoje às 11:44\nhttps://www.olx.pt/d/anuncio/arrenda-estudio-na-misericrdia-lisboa-IDJH63b.html"
  ],
  "son_gonderim": "2026-11-06"
 }
