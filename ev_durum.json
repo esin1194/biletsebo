@@ -2225,7 +2225,9 @@
    "t2-com-varanda-marquisada-e-elevador-benfica-ID1jbvP",
    "t2-na-rua-da-bempostinha-com-72m2-ID1jbvE",
    "apartamento-t2-ID1jbDn",
-   "apartamento-3-quartos-126-m2-remodelado-ID9P5ll2"
+   "apartamento-3-quartos-126-m2-remodelado-ID9P5ll2",
+   "apartamento-t0-com-ar-condicionado-em-alvalade-ID1jbEJ",
+   "apartamento-4-quartos-124-m2-garagem-ID9P5ll3"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -5018,7 +5020,8 @@
    "745760",
    "745759",
    "193056",
-   "680841"
+   "680841",
+   "750178"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5409,13 +5412,14 @@
    "1811535731238746149",
    "1811629841161238578",
    "7235525",
-   "1211716765073617147"
+   "1211716765073617147",
+   "12851158"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5457,8 +5461,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 15,
-  "tekrar": 1
+  "elenen": 18,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
