@@ -2235,7 +2235,18 @@
    "apartamento-t2-para-arrendamento-ID1jbFw",
    "apartamento-t1-para-arrendamento-ID1jbFn",
    "loft-b-ID1jbEY",
-   "apolonia-train-spot-ID1jbEU"
+   "apolonia-train-spot-ID1jbEU",
+   "charming-bright-1-bedroom-apartment-in-historic-graca-top-wi-fi-ID1jbMG",
+   "fantastico-t3-junto-ao-parque-das-conchas-e-estacao-de-metro-do-lumiar-ID1jbLO",
+   "apartamento-t4-para-arrendamento-ID1jbLf",
+   "apartamento-t1-para-arrendamento-ID1jbLe",
+   "t1-localizado-no-bairro-alto-sossegado-ID1jbKy",
+   "apartamento-t2-para-arrendamento-ID1jbK9",
+   "t1-premium-nas-olaias-com-vista-rio-varanda-e-garagem-perto-do-ist-ID1jbK3",
+   "apartamento-t2-para-arrendamento-ID1jbJO",
+   "apartamento-t2-para-arrendamento-ID1jbJK",
+   "apartamento-t1-para-arrendamento-ID1jbJE",
+   "apartamento-1-quartos-88-m2-jardim-ID9P5ll4"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3179,7 +3190,11 @@
    "apartamento-para-arrendar-IDJH7ie",
    "apartamento-t2-para-alugar-vialonga-1-100-IDJH6FU",
    "arrenda-estudio-na-misericrdia-lisboa-IDJH63b",
-   "arrenda-se-apartamento-t3-algueiro-IDJH6ay"
+   "arrenda-se-apartamento-t3-algueiro-IDJH6ay",
+   "t1-localizado-no-bairro-alto-sossegado-IDJH8P2",
+   "t1-premium-nas-olaias-com-vista-rio-varanda-e-garagem-perto-do-ist-IDJH8Km",
+   "apartamento-t2-so-marcos-IDJH8tP",
+   "apartamento-t1-falagueira-IDJH7Un"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5037,7 +5052,9 @@
    "193056",
    "680841",
    "750178",
-   "276596"
+   "276596",
+   "733205",
+   "742031"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5430,13 +5447,14 @@
    "7235525",
    "1211716765073617147",
    "12851158",
-   "621613578204990635"
+   "621613578204990635",
+   "44293395"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5478,8 +5496,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 30,
-  "tekrar": 3
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6648,18 +6666,11 @@
   "783d8a215f4bb9ef",
   "a36c1903bb6b49f0",
   "48202235f604a4a8",
-  "4555e044a027ef25"
+  "4555e044a027ef25",
+  "85f81f72a77c6eb4",
+  "aa9eb1531fff75cb",
+  "9cf04e4f12fc5537"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.280 €\n1280 € · arrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 46 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-ID1jbxd",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.280 €\narrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · 1.280 € · São Vicente - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-IDJGXub.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nT3 Espaçoso| Junto ao Metro de Alfornelos · 1.400 € · Encosta do Sol - 06 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t3-espaoso-junto-ao-metro-de-alfornelos-IDJH0yA.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nApartamento t2 · 2.000 € · Lumiar - 06 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-IDJH0wT.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 07 NOV · star · 3.8 (26) · 2-bedroom apartment for rent in Lisbon · From 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1440660",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1 para arrendamento · Rua José Maria Nicolau, Alto dos Moinhos, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 83 m² · Andar · rés do chão · RE/MAX + Grupo Vantagem · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jbIP",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 750 €\n750 € · Arrenda estudio na Misericórdia Lisboa · Baixa, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 18 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrenda-estudio-na-misericordia-lisboa-ID1jbG9",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 875 €\nArrendamento Reboleira · 875 € · Águas Livres - Hoje às 14:55\nhttps://www.olx.pt/d/anuncio/arrendamento-reboleira-IDJH7Nb.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nArrenda estudio na Misericórdia Lisboa · 750 € · Misericórdia - Hoje às 11:44\nhttps://www.olx.pt/d/anuncio/arrenda-estudio-na-misericrdia-lisboa-IDJH63b.html"
- ],
- "son_gonderim": "2026-11-06"
+ "kuyruk": [],
+ "son_gonderim": "2026-11-07"
 }
