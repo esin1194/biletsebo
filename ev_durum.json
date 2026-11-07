@@ -2246,7 +2246,8 @@
    "apartamento-t2-para-arrendamento-ID1jbJO",
    "apartamento-t2-para-arrendamento-ID1jbJK",
    "apartamento-t1-para-arrendamento-ID1jbJE",
-   "apartamento-1-quartos-88-m2-jardim-ID9P5ll4"
+   "apartamento-1-quartos-88-m2-jardim-ID9P5ll4",
+   "t1-graca-arrendamento-ID1jbN3"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3194,7 +3195,10 @@
    "t1-localizado-no-bairro-alto-sossegado-IDJH8P2",
    "t1-premium-nas-olaias-com-vista-rio-varanda-e-garagem-perto-do-ist-IDJH8Km",
    "apartamento-t2-so-marcos-IDJH8tP",
-   "apartamento-t1-falagueira-IDJH7Un"
+   "apartamento-t1-falagueira-IDJH7Un",
+   "arrendamento-de-apartamento-t2-com-garagem-e-vistas-desafogadas-IDJHaTs",
+   "t1-graa-arrendamento-IDJHa6j",
+   "charming-bright-1-bedroom-apartment-in-historic-graa-top-wi-fi-IDJH9Ry"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5448,13 +5452,14 @@
    "1211716765073617147",
    "12851158",
    "621613578204990635",
-   "44293395"
+   "44293395",
+   "26716428"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 10,
+   "bos": 11,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5496,8 +5501,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 1,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6669,8 +6674,15 @@
   "4555e044a027ef25",
   "85f81f72a77c6eb4",
   "aa9eb1531fff75cb",
-  "9cf04e4f12fc5537"
+  "9cf04e4f12fc5537",
+  "6649f5583d06bc55",
+  "585fb28d0e837f12",
+  "3d314ad0f8db79aa"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · T1 Graça arrendamento · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-graca-arrendamento-ID1jbN3",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nT1 Graça arrendamento · 1.400 € · São Vicente - Hoje às 19:52\nhttps://www.olx.pt/d/anuncio/t1-graa-arrendamento-IDJHa6j.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nCharming &amp; Bright 1-Bedroom Apartment in Historic Graça (Top Wi-Fi) · 1.400 € · São Vicente - Hoje às 19:24\nhttps://www.olx.pt/d/anuncio/charming-bright-1-bedroom-apartment-in-historic-graa-top-wi-fi-IDJH9Ry.html"
+ ],
  "son_gonderim": "2026-11-07"
 }
