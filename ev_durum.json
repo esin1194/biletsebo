@@ -2223,7 +2223,9 @@
    "t1-em-campo-de-ourique-possibilidade-de-reconv-ID1jbvR",
    "t0-em-predio-com-elevador-benfica-ID1jbvQ",
    "t2-com-varanda-marquisada-e-elevador-benfica-ID1jbvP",
-   "t2-na-rua-da-bempostinha-com-72m2-ID1jbvE"
+   "t2-na-rua-da-bempostinha-com-72m2-ID1jbvE",
+   "apartamento-t2-ID1jbDn",
+   "apartamento-3-quartos-126-m2-remodelado-ID9P5ll2"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3156,7 +3158,11 @@
    "t3-marvila-remodelado-semi-equipado-central-IDJGUOA",
    "apartamento-t2-linda-velha-IDJGZSL",
    "apartamento-t2-mem-martins-IDJFPbi",
-   "arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-IDJGXub"
+   "arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-IDJGXub",
+   "espao-independente-em-moradia-2-quartos-sala-IDJH2q2",
+   "excelente-apartamento-t4-junto-av-duque-de-loul-IDIX6hM",
+   "t3-espaoso-junto-ao-metro-de-alfornelos-IDJH0yA",
+   "apartamento-t2-IDJH0wT"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4280,7 +4286,8 @@
    "apartments/1746688",
    "apartments/1747162",
    "apartments/1745019",
-   "apartments/1748097"
+   "apartments/1748097",
+   "apartments/1440660"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4355,7 +4362,8 @@
    "ut1749747",
    "ut1710340",
    "ut1750181",
-   "ut1750377"
+   "ut1750377",
+   "ut1539507"
   ],
   "uniplaces.com": [
    "890027",
@@ -5407,7 +5415,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5449,7 +5457,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 10,
+  "elenen": 15,
   "tekrar": 1
  },
  "imzalar": [
@@ -6612,11 +6620,17 @@
   "31a413758686c19d",
   "4a809403fd3cd65b",
   "075ce252b2f30c77",
-  "9df121c97ddfeca7"
+  "9df121c97ddfeca7",
+  "d8e77486e4b3312f",
+  "4a0d88a997912a1d",
+  "a793c794f4cc9d87"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.280 €\n1280 € · arrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 46 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-ID1jbxd",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.280 €\narrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · 1.280 € · São Vicente - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-IDJGXub.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.280 €\narrendamento apartamento t1 Lisboa Rua Leite de Vasconcelos · 1.280 € · São Vicente - Hoje às 17:37\nhttps://www.olx.pt/d/anuncio/arrendamento-apartamento-t1-lisboa-rua-leite-de-vasconcelos-IDJGXub.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nT3 Espaçoso| Junto ao Metro de Alfornelos · 1.400 € · Encosta do Sol - 06 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t3-espaoso-junto-ao-metro-de-alfornelos-IDJH0yA.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 2.000 €\nApartamento t2 · 2.000 € · Lumiar - 06 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-IDJH0wT.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 07 NOV · star · 3.8 (26) · 2-bedroom apartment for rent in Lisbon · From 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1440660"
  ],
  "son_gonderim": "2026-11-06"
 }
