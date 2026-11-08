@@ -1219,7 +1219,8 @@
    "96yc7JCvU6drdRjdkvMVPp",
    "ju131Xd8dAytdDqi5tk8ur",
    "tvR2hBVhbo2WzpJ6WX7Ncv",
-   "sUcPwRbZzX865ktxgqYXb8"
+   "sUcPwRbZzX865ktxgqYXb8",
+   "fe1hYKZusZSNJr456rSUFh"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1611,13 +1612,14 @@
   "6cbf9488cbb1fb9c",
   "0febc76f3acae784",
   "ee5a86d089140bfc",
-  "190884d01dc7953b"
+  "190884d01dc7953b",
+  "727ad44ef07f0761"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
