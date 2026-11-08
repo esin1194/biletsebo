@@ -2250,7 +2250,10 @@
    "t1-graca-arrendamento-ID1jbN3",
    "apartamento-1-quartos-78-m2-jardim-ID9P5ll5",
    "t2-renovado-em-benfica-ID1jbO0",
-   "apartamento-4-quartos-82-m2-remodelado-ID9P5ll6"
+   "apartamento-4-quartos-82-m2-remodelado-ID9P5ll6",
+   "apartamento-t2-em-alvalade-ID1jbPQ",
+   "apartamento-t2-pequeno-beato-ID1jbPB",
+   "apartamento-3-quartos-76-m2-remodelado-ID9P5ll7"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3204,7 +3207,12 @@
    "charming-bright-1-bedroom-apartment-in-historic-graa-top-wi-fi-IDJH9Ry",
    "t2-remodelado-mobilado-e-equipado-IDJdL9P",
    "t2-renovado-em-benfica-IDJHdBU",
-   "t3-para-arrendanento-IDJHchh"
+   "t3-para-arrendanento-IDJHchh",
+   "arrendo-studio-mobilado-e-cozinha-equipada-IDJqdKX",
+   "apartamento-t2-pequeno-beato-IDJHfvY",
+   "alugo-apartamento-t2-s-vicente-de-fora-optima-localizao-com-estacionamento-IDJz3Qg",
+   "apartamento-rua-lus-de-cames-IDJjqaA",
+   "arrendamento-campo-de-ourique-IDJHe98"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5065,7 +5073,8 @@
    "276596",
    "733205",
    "742031",
-   "731972"
+   "731972",
+   "890748"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5462,13 +5471,14 @@
    "44293395",
    "26716428",
    "679764814954335428",
-   "559305472441356168"
+   "559305472441356168",
+   "1396368566609236174"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 13,
+   "bos": 14,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5510,8 +5520,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
-  "tekrar": 3
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6687,13 +6697,11 @@
   "6649f5583d06bc55",
   "585fb28d0e837f12",
   "3d314ad0f8db79aa",
-  "6e84511e1e8af753"
+  "6e84511e1e8af753",
+  "8a32b66b839c8625",
+  "72bcdc0d9d08cce4",
+  "82f34f7a3a6edb00"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · T1 Graça arrendamento · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 60 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-graca-arrendamento-ID1jbN3",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nT1 Graça arrendamento · 1.400 € · São Vicente - Hoje às 19:52\nhttps://www.olx.pt/d/anuncio/t1-graa-arrendamento-IDJHa6j.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nCharming &amp; Bright 1-Bedroom Apartment in Historic Graça (Top Wi-Fi) · 1.400 € · São Vicente - Hoje às 19:24\nhttps://www.olx.pt/d/anuncio/charming-bright-1-bedroom-apartment-in-historic-graa-top-wi-fi-IDJH9Ry.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT3 para arrendanento · 1.150 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 02:41\nhttps://www.olx.pt/d/anuncio/t3-para-arrendanento-IDJHchh.html"
- ],
- "son_gonderim": "2026-11-07"
+ "kuyruk": [],
+ "son_gonderim": "2026-11-08"
 }
