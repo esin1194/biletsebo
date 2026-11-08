@@ -1218,7 +1218,8 @@
    "hegs7KV2CwfiT7KyE68th7",
    "96yc7JCvU6drdRjdkvMVPp",
    "ju131Xd8dAytdDqi5tk8ur",
-   "tvR2hBVhbo2WzpJ6WX7Ncv"
+   "tvR2hBVhbo2WzpJ6WX7Ncv",
+   "sUcPwRbZzX865ktxgqYXb8"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1615,7 +1616,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1677,7 +1678,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 903,
+  "elenen": 904,
   "tekrar": 37
  }
 }
