@@ -2247,7 +2247,8 @@
    "apartamento-t2-para-arrendamento-ID1jbJK",
    "apartamento-t1-para-arrendamento-ID1jbJE",
    "apartamento-1-quartos-88-m2-jardim-ID9P5ll4",
-   "t1-graca-arrendamento-ID1jbN3"
+   "t1-graca-arrendamento-ID1jbN3",
+   "apartamento-1-quartos-78-m2-jardim-ID9P5ll5"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3198,7 +3199,8 @@
    "apartamento-t1-falagueira-IDJH7Un",
    "arrendamento-de-apartamento-t2-com-garagem-e-vistas-desafogadas-IDJHaTs",
    "t1-graa-arrendamento-IDJHa6j",
-   "charming-bright-1-bedroom-apartment-in-historic-graa-top-wi-fi-IDJH9Ry"
+   "charming-bright-1-bedroom-apartment-in-historic-graa-top-wi-fi-IDJH9Ry",
+   "t2-remodelado-mobilado-e-equipado-IDJdL9P"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5058,7 +5060,8 @@
    "750178",
    "276596",
    "733205",
-   "742031"
+   "742031",
+   "731972"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5453,13 +5456,15 @@
    "12851158",
    "621613578204990635",
    "44293395",
-   "26716428"
+   "26716428",
+   "679764814954335428",
+   "559305472441356168"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 11,
+   "bos": 12,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5501,8 +5506,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 1,
-  "tekrar": 1
+  "elenen": 3,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
