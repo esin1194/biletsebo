@@ -2253,7 +2253,10 @@
    "apartamento-4-quartos-82-m2-remodelado-ID9P5ll6",
    "apartamento-t2-em-alvalade-ID1jbPQ",
    "apartamento-t2-pequeno-beato-ID1jbPB",
-   "apartamento-3-quartos-76-m2-remodelado-ID9P5ll7"
+   "apartamento-3-quartos-76-m2-remodelado-ID9P5ll7",
+   "aluga-se-apartamento-t1-generoso-junto-a-alameda-ID1jbRb",
+   "apartamento-t2-telheiras-ID1jbQl",
+   "apartamento-t1-com-charme-e-conforto-marques-de-pombal-ID1jbQc"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3212,7 +3215,10 @@
    "apartamento-t2-pequeno-beato-IDJHfvY",
    "alugo-apartamento-t2-s-vicente-de-fora-optima-localizao-com-estacionamento-IDJz3Qg",
    "apartamento-rua-lus-de-cames-IDJjqaA",
-   "arrendamento-campo-de-ourique-IDJHe98"
+   "arrendamento-campo-de-ourique-IDJHe98",
+   "aluga-se-apartamento-t1-generoso-junto-alameda-IDJHiPJ",
+   "apartamento-t2-telheiras-IDJHgUh",
+   "apartamento-t2-mobiliado-em-alcabideche-cascais-IDJHh9J"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5478,7 +5484,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5520,7 +5526,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 2,
   "tekrar": 0
  },
  "imzalar": [
@@ -6700,8 +6706,17 @@
   "6e84511e1e8af753",
   "8a32b66b839c8625",
   "72bcdc0d9d08cce4",
-  "82f34f7a3a6edb00"
+  "82f34f7a3a6edb00",
+  "29fdcc3c8b3c474e",
+  "3f9aa1502b3c28bd",
+  "9d5d4095d143b7b1",
+  "46fd80f648e054d3"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T2 Telheiras · Ameixoeira, Santa Clara, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 120 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-telheiras-ID1jbQl",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.850 €\n1850 € · Apartamento T1 com charme e conforto – Marquês de Pombal · Parque Eduardo VII, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · Andar · rés do chão · Destacado\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-charme-e-conforto-marques-de-pombal-ID1jbQc",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nAluga-se apartamento T1 generoso - junto à Alameda · 1.100 € · Penha De França - Hoje às 20:11\nhttps://www.olx.pt/d/anuncio/aluga-se-apartamento-t1-generoso-junto-alameda-IDJHiPJ.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T2 Telheiras · 1.300 € · Santa Clara - Hoje às 16:24\nhttps://www.olx.pt/d/anuncio/apartamento-t2-telheiras-IDJHgUh.html"
+ ],
  "son_gonderim": "2026-11-08"
 }
