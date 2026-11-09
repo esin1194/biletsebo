@@ -773,7 +773,14 @@
    "software-support-specialist-mfx_oeiras_DTS-2026-186660",
    "preparador-de-cozinha-pastelaria-mfx_lisboa_OTS-2026-186716",
    "gestor-de-cliente-mfx_alges_PTS-2026-186698",
-   "sop-data-ai-automation-analyst-mfx_paco-de-arcos_PTS-2026-186703"
+   "sop-data-ai-automation-analyst-mfx_paco-de-arcos_PTS-2026-186703",
+   "lead-security-engineer_lisbon-hybrid_DTS-2026-186774",
+   "buyer_lisboa_PTS-2024-107654",
+   "operador-logistico_odivelas-famoes_OTS-2026-186763",
+   "empregadoa-de-limpeza-mfx_roma_OTS-2026-186765",
+   "empregadoa-de-limpeza-mfx_biomercadoduque-davila_OTS-2026-186768",
+   "office-assistant-mfx_lisboa_PTS-2026-186351",
+   "tecnico-comercial-mfx_lisboa_PTS-2026-183887"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1223,7 +1230,10 @@
    "fe1hYKZusZSNJr456rSUFh",
    "2supHc6JMeS3xtARW5J7Av",
    "qkoBUHyrbst1ywFEcQhE7f",
-   "uDzheQpTLA7jdazSMMMgKF"
+   "uDzheQpTLA7jdazSMMMgKF",
+   "51Z4Mhd1qZXgP19Ppt37bp",
+   "v7KDuSGctJpf3YV5L2X5TZ",
+   "nUcxe48pDRHu9tooreZTEj"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1617,12 +1627,14 @@
   "ee5a86d089140bfc",
   "190884d01dc7953b",
   "727ad44ef07f0761",
-  "f33563585bd0b57b"
+  "f33563585bd0b57b",
+  "40874bca23e0e975",
+  "9dc662f2b1e8569c"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1684,7 +1696,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 905,
+  "elenen": 913,
   "tekrar": 38
  }
 }
