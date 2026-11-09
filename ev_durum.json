@@ -2256,7 +2256,10 @@
    "apartamento-3-quartos-76-m2-remodelado-ID9P5ll7",
    "aluga-se-apartamento-t1-generoso-junto-a-alameda-ID1jbRb",
    "apartamento-t2-telheiras-ID1jbQl",
-   "apartamento-t1-com-charme-e-conforto-marques-de-pombal-ID1jbQc"
+   "apartamento-t1-com-charme-e-conforto-marques-de-pombal-ID1jbQc",
+   "apartamento-t2-arrendamento-em-benfica-calcada-do-tojal-ID1gPzJ",
+   "excelente-t1-com-terraco-e-garagem-ID1jbTa",
+   "apartamento-5-quartos-76-m2-varanda-ID9P5ll8"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3218,7 +3221,12 @@
    "arrendamento-campo-de-ourique-IDJHe98",
    "aluga-se-apartamento-t1-generoso-junto-alameda-IDJHiPJ",
    "apartamento-t2-telheiras-IDJHgUh",
-   "apartamento-t2-mobiliado-em-alcabideche-cascais-IDJHh9J"
+   "apartamento-t2-mobiliado-em-alcabideche-cascais-IDJHh9J",
+   "arrendo-t1-renovado-nas-avenidas-novas-lisboa-IDJzAuy",
+   "excelente-t1-com-terrao-e-garagem-IDJHjHw",
+   "arrendo-t2-c-terrao-campo-de-ourique-jardim-da-parada-IDJ29D6",
+   "t2-queluz-de-baixo-barcarena-oeiras-IDJHjMO",
+   "apartamento-t2-para-arrendamento-em-torres-vedras-com-lugar-de-estacionamento-com-carregador-de-carro-eltrico-IDJHjJo"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5080,7 +5088,8 @@
    "733205",
    "742031",
    "731972",
-   "890748"
+   "890748",
+   "405366"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5478,13 +5487,15 @@
    "26716428",
    "679764814954335428",
    "559305472441356168",
-   "1396368566609236174"
+   "1396368566609236174",
+   "1706400614144846889",
+   "815915542433113359"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5526,8 +5537,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 2,
-  "tekrar": 0
+  "elenen": 7,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6710,13 +6721,23 @@
   "29fdcc3c8b3c474e",
   "3f9aa1502b3c28bd",
   "9d5d4095d143b7b1",
-  "46fd80f648e054d3"
+  "46fd80f648e054d3",
+  "72a36b347c965117",
+  "767b157e5e232cfa",
+  "7b9193f5737dd37a",
+  "443bb4ba17727f4c",
+  "5569e9d8ca6bd109"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T2 Telheiras · Ameixoeira, Santa Clara, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 120 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-telheiras-ID1jbQl",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.850 €\n1850 € · Apartamento T1 com charme e conforto – Marquês de Pombal · Parque Eduardo VII, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · Andar · rés do chão · Destacado\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-charme-e-conforto-marques-de-pombal-ID1jbQc",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nAluga-se apartamento T1 generoso - junto à Alameda · 1.100 € · Penha De França - Hoje às 20:11\nhttps://www.olx.pt/d/anuncio/aluga-se-apartamento-t1-generoso-junto-alameda-IDJHiPJ.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T2 Telheiras · 1.300 € · Santa Clara - Hoje às 16:24\nhttps://www.olx.pt/d/anuncio/apartamento-t2-telheiras-IDJHgUh.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T2 Telheiras · 1.300 € · Santa Clara - Hoje às 16:24\nhttps://www.olx.pt/d/anuncio/apartamento-t2-telheiras-IDJHgUh.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · Excelente T1 com Terraço e Garagem · Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 70 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/excelente-t1-com-terraco-e-garagem-ID1jbTa",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nArrendo T1 renovado nas Avenidas Novas, Lisboa · 1.400 € · Avenidas Novas - 08 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-t1-renovado-nas-avenidas-novas-lisboa-IDJzAuy.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nExcelente T1 com Terraço e Garagem · 1.750 € · Arroios - 08 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/excelente-t1-com-terrao-e-garagem-IDJHjHw.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.750 €\nArrendo T2 c terraço campo de ourique jardim da parada · 1.750 € · Campo De Ourique - 08 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-t2-c-terrao-campo-de-ourique-jardim-da-parada-IDJ29D6.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · Novo lugar para ficar · Novo · Acomodação central e charmosa de 1 quarto com entrada privativa · 1 quarto · 2 camas · 1 banheiro · $ 2.037 USD · $ 1.389 USD · $ 1.389 USD mensal, preço original: $ 2.037 USD · mensal · Desconto mensal · Aparta…\nhttps://www.airbnb.com/rooms/1706400614144846889"
  ],
  "son_gonderim": "2026-11-08"
 }
