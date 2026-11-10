@@ -2281,7 +2281,22 @@
    "alugo-apartamento-t1-lisboa-mobilado-ID1jc8I",
    "arrendo-t1-em-campo-de-ourique-ID1jc7e",
    "apartamento-t0-mobilado-com-estacionamento-no-lumiar-ID1jc5I",
-   "apartamento-3-quartos-41-m2-terraco-ID9P5llb"
+   "apartamento-3-quartos-41-m2-terraco-ID9P5llb",
+   "telheiras-t3-com-garagem-ID1f9kd",
+   "apartamento-t1-em-misericordia-de-48-00-m2-ID1jckH",
+   "apartamento-t2-para-arrendamento-ID1jcjP",
+   "apartamento-t2-para-arrendamento-ID1jcgN",
+   "apartamento-t2-para-arrendamento-ID1jcgG",
+   "apartamento-com-1-quartos-localizado-em-saldanha-lisbon-ID1jcfI",
+   "apartamento-t3-para-arrendamento-ID1jce9",
+   "t2-mobilado-alto-da-graca-ID1jcd1",
+   "apartamento-t1-para-arrendamento-ID1jcbO",
+   "t2-em-arroios-metro-alameda-ID1jcbm",
+   "comfortable-new-studio-in-ajuda-ID1jcaq",
+   "classic-tagus-river-view-apartment-ID1jcam",
+   "arrendamento-apartamento-t1-novo-em-alvalade-lisboa-ID1jcad",
+   "apartamento-t1-para-arrendamento-na-av-do-brasi-ID1jbUt",
+   "apartamento-5-quartos-127-m2-remodelado-ID9P5lld"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3256,7 +3271,9 @@
    "t1-1-mobilado-para-arrendar-em-algs-centro-IDJHtEL",
    "alugo-apartamento-t1-lisboa-mobilado-IDJHtg2",
    "arrendo-t1-em-campo-de-ourique-IDJHsnx",
-   "apartamento-t2-para-alugarr-IDJHwnV"
+   "apartamento-t2-para-alugarr-IDJHwnV",
+   "t3-duplex-mobilado-com-garagem-e-arrecadao-3-casas-de-banho-completas-1-sute-master-centro-da-amadora-IDJHAJ7",
+   "arrenda-se-t3-damaia-junto-estao-IDJHzOb"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5136,7 +5153,14 @@
    "178763",
    "158193",
    "159063",
-   "178758"
+   "178758",
+   "581007",
+   "465727",
+   "905069",
+   "905030",
+   "905017",
+   "594869",
+   "544958"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5540,13 +5564,15 @@
    "1782599844627655063",
    "30493254",
    "627458992952155681",
-   "4403140"
+   "4403140",
+   "1660927031550163996",
+   "13834469"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 20,
+   "bos": 21,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5588,8 +5614,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
-  "tekrar": 2
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6791,14 +6817,11 @@
   "1371b7d8d6535ba1",
   "e56ff1c2b41e560f",
   "c4eccb41910ebf60",
-  "cb071e5fa8a71399"
+  "cb071e5fa8a71399",
+  "875c96b08a494fd9",
+  "b10d5b45e212d8a2",
+  "c572852938212628"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.030 €\n1030 € · Alugo apartamento T1 Lisboa mobilado · Bairro do Condado, Marvila, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/alugo-apartamento-t1-lisboa-mobilado-ID1jc8I",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T0 mobilado com estacionamento no Lumiar · Rua Teófilo Carvalho dos Santos, Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 37 m² · Codigo Zebra Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-mobilado-com-estacionamento-no-lumiar-ID1jc5I",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1+1 mobilado para arrendar em Algés Centro · 1.100 € · Negociável · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - 09 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-1-mobilado-para-arrendar-em-algs-centro-IDJHtEL.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.030 €\nAlugo apartamento T1 Lisboa mobilado · 1.030 € · Marvila - 09 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/alugo-apartamento-t1-lisboa-mobilado-IDJHtg2.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nArrendo T1 em Campo de Ourique · 1.200 € · Campo De Ourique - 09 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-t1-em-campo-de-ourique-IDJHsnx.html"
- ],
- "son_gonderim": "2026-11-09"
+ "kuyruk": [],
+ "son_gonderim": "2026-11-10"
 }
