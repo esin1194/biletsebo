@@ -3255,7 +3255,8 @@
    "apartamento-para-arrendar-IDJHurb",
    "t1-1-mobilado-para-arrendar-em-algs-centro-IDJHtEL",
    "alugo-apartamento-t1-lisboa-mobilado-IDJHtg2",
-   "arrendo-t1-em-campo-de-ourique-IDJHsnx"
+   "arrendo-t1-em-campo-de-ourique-IDJHsnx",
+   "apartamento-t2-para-alugarr-IDJHwnV"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5545,7 +5546,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 19,
+   "bos": 20,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5587,7 +5588,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
+  "elenen": 4,
   "tekrar": 2
  },
  "imzalar": [
