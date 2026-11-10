@@ -780,7 +780,11 @@
    "empregadoa-de-limpeza-mfx_roma_OTS-2026-186765",
    "empregadoa-de-limpeza-mfx_biomercadoduque-davila_OTS-2026-186768",
    "office-assistant-mfx_lisboa_PTS-2026-186351",
-   "tecnico-comercial-mfx_lisboa_PTS-2026-183887"
+   "tecnico-comercial-mfx_lisboa_PTS-2026-183887",
+   "operador-de-embalamento-turnos-rotativos-mfx_lisboa_OTS-2026-186803",
+   "medico-veterinario-mfx_lisboa_PTS-2026-186802",
+   "office-sales-mfx_lisboa_OTS-2026-186550",
+   "tecnico-administrativo-ambiental-mfx_lisboa_OTS-2026-186796"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1233,7 +1237,8 @@
    "uDzheQpTLA7jdazSMMMgKF",
    "51Z4Mhd1qZXgP19Ppt37bp",
    "v7KDuSGctJpf3YV5L2X5TZ",
-   "nUcxe48pDRHu9tooreZTEj"
+   "nUcxe48pDRHu9tooreZTEj",
+   "jvhq8YMLKafx6w5axduECJ"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1629,12 +1634,13 @@
   "727ad44ef07f0761",
   "f33563585bd0b57b",
   "40874bca23e0e975",
-  "9dc662f2b1e8569c"
+  "9dc662f2b1e8569c",
+  "8402d6df877ec161"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1696,7 +1702,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 913,
+  "elenen": 917,
   "tekrar": 38
  }
 }
