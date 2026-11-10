@@ -784,7 +784,18 @@
    "operador-de-embalamento-turnos-rotativos-mfx_lisboa_OTS-2026-186803",
    "medico-veterinario-mfx_lisboa_PTS-2026-186802",
    "office-sales-mfx_lisboa_OTS-2026-186550",
-   "tecnico-administrativo-ambiental-mfx_lisboa_OTS-2026-186796"
+   "tecnico-administrativo-ambiental-mfx_lisboa_OTS-2026-186796",
+   "motorista-de-distribuicao_vialonga_OTS-2026-186842",
+   "advogado-senior-imobiliario-mf_lisboa_PTS-2026-186841",
+   "tecnico-de-contabilidade-mfx_queluz_PTS-2026-186838",
+   "advogado-imigracao-mf_lisboa_PTS-2026-186839",
+   "torneiro-mecanico-mfx_carnaxide_OTS-2026-183317",
+   "corporate-strategy-senior-mfx_lisboa_PTS-2026-177224",
+   "international-tax-and-transaction-services-mfx_lisboaporto_PTS-2026-177217",
+   "accounting-compliance-reporting-mfx_lisboa_PTS-2026-177218",
+   "supervisora-setor-banca-mfx_lisboa_OTS-2026-186751",
+   "advogado-imigracao-mf_lisboa_PTS-2026-186824",
+   "lider-de-equipa-setor-energetico-mfx_lisboa_OTS-1900-186821"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1238,7 +1249,10 @@
    "51Z4Mhd1qZXgP19Ppt37bp",
    "v7KDuSGctJpf3YV5L2X5TZ",
    "nUcxe48pDRHu9tooreZTEj",
-   "jvhq8YMLKafx6w5axduECJ"
+   "jvhq8YMLKafx6w5axduECJ",
+   "mMCraUwqwDfU6YDEFdN55o",
+   "43vJpKAuGZ6VXWCyVdUsKA",
+   "6d2dX7g7tLAwEf8Nk9h7N5"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1635,12 +1649,13 @@
   "f33563585bd0b57b",
   "40874bca23e0e975",
   "9dc662f2b1e8569c",
-  "8402d6df877ec161"
+  "8402d6df877ec161",
+  "0fe7cef2b95a06c5"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1702,7 +1717,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 917,
+  "elenen": 930,
   "tekrar": 38
  }
 }
