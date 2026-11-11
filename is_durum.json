@@ -795,7 +795,8 @@
    "accounting-compliance-reporting-mfx_lisboa_PTS-2026-177218",
    "supervisora-setor-banca-mfx_lisboa_OTS-2026-186751",
    "advogado-imigracao-mf_lisboa_PTS-2026-186824",
-   "lider-de-equipa-setor-energetico-mfx_lisboa_OTS-1900-186821"
+   "lider-de-equipa-setor-energetico-mfx_lisboa_OTS-1900-186821",
+   "manager-de-contabilidade-mfx_lisboa_PTS-2026-186241"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1655,7 +1656,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 10,
+   "bos": 11,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1717,7 +1718,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 930,
+  "elenen": 931,
   "tekrar": 38
  }
 }
