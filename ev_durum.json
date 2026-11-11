@@ -2342,7 +2342,32 @@
    "apartamento-t1-com-garagem-para-arrendamento-junto-ao-saldanha-lisboa-ID1jcuK",
    "apartamento-1-quartos-135-m2-jardim-ID9P5lle",
    "studio-junto-hosp-luz-centro-comercial-colombo-e-metro-ID1eh2g",
-   "apartamento-2-quartos-82-m2-jardim-ID9P5llf"
+   "apartamento-2-quartos-82-m2-jardim-ID9P5llf",
+   "apartamento-t1-em-campo-pequeno-ID1i3HG",
+   "t2-renovado-para-arrendamento-em-edificio-reabilitado-ID1jcMu",
+   "apartamento-t1-para-arrendamento-ID1jcMe",
+   "apartamento-t1-para-arrendamento-ID1jcKi",
+   "apartamento-t2-para-arrendamento-ID1jcFM",
+   "2bdr-apartment-right-at-the-centre-of-historical-lisbon-baixa-3-ID1jcEH",
+   "estudio-em-beco-de-santa-helena-lisboa-ID1jcEC",
+   "apartamento-t3-em-alvalade-lisboa-ID1jcEs",
+   "apartamento-em-beco-de-santa-helena-lisboa-ID1jcEm",
+   "arrendamento-do-t1-ID1jcEg",
+   "t1-com-logradouro-privativo-em-benfica-ID1jcDt",
+   "t3-mobilado-e-equipado-excelente-estado-pronto-a-habitar-longa-d-ID1jcCD",
+   "apartamento-t1-para-arrendamento-ID1jcCo",
+   "apartamento-t2-para-arrendamento-ID1jcBm",
+   "apartamento-t3-para-arrendamento-ID1jcBl",
+   "apartamento-com-3-quartos-localizado-em-benfica-lisbon-ID1jcAL",
+   "apartamento-com-1-quartos-localizado-em-santos-lisbon-ID1jcAI",
+   "apartamento-com-1-quartos-localizado-em-sao-bento-lisbon-ID1jcAB",
+   "apartamento-t1-para-arrendamento-ID1jczJ",
+   "apartamento-t1-para-arrendamento-ID1jczs",
+   "t2-com-garagem-e-varandas-em-condominio-fechado-alto-dos-moinhos-ID1jcz8",
+   "apartamento-t2-estrada-da-luz-cozinha-equipada-estacionamento-e-ID1jcy2",
+   "apartamento-t0-1-com-varanda-em-lisboa-ID1jcxl",
+   "excelente-t3-na-quinta-da-luz-para-arrendamento-ID1jcvJ",
+   "apartamento-3-quartos-52-m2-remodelado-ID9P5llg"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3321,7 +3346,13 @@
    "t3-duplex-mobilado-com-garagem-e-arrecadao-3-casas-de-banho-completas-1-sute-master-centro-da-amadora-IDJHAJ7",
    "arrenda-se-t3-damaia-junto-estao-IDJHzOb",
    "alugo-t3-com-quintal-na-penha-de-frana-IDJHDE0",
-   "alugo-apartamento-t2-penha-de-frana-IDJHBzC"
+   "alugo-apartamento-t2-penha-de-frana-IDJHBzC",
+   "apartamento-com-vista-panoramica-IDJHRpE",
+   "aluga-se-estudio-nao-para-habitar-IDJHR3j",
+   "alugo-apartamento-venda-do-pinheiro-t2-IDJHODd",
+   "moradia-4-quartos-IDJsksh",
+   "aluga-se-t2-com-ptio-assenta-IDJHNGf",
+   "arrendamento-do-t1-IDJHMM2"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4523,7 +4554,8 @@
    "ut1750181",
    "ut1750377",
    "ut1539507",
-   "ut1751324"
+   "ut1751324",
+   "ut1610613"
   ],
   "uniplaces.com": [
    "890027",
@@ -5213,7 +5245,18 @@
    "905140",
    "905119",
    "905117",
-   "905118"
+   "905118",
+   "743475",
+   "883487",
+   "905215",
+   "905212",
+   "905198",
+   "905188",
+   "905242",
+   "905236",
+   "905164",
+   "905178",
+   "905170"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5622,14 +5665,16 @@
    "13834469",
    "1759522904445643204",
    "1115204096356737796",
-   "1722630479030328122"
+   "1722630479030328122",
+   "17750289",
+   "20740961"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -5670,8 +5715,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 16,
-  "tekrar": 5
+  "elenen": 45,
+  "tekrar": 7
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6892,7 +6937,19 @@
   "a65943d7f81c9b85",
   "f0b37d249d26defd",
   "7a840c8721b48bb2",
-  "23e15ca50189a798"
+  "23e15ca50189a798",
+  "8ff54efbb033121b",
+  "6754844353ed5c5e",
+  "a52269df61aebedb",
+  "1e417c9669ef6139",
+  "9081c442f853ae41",
+  "a55cde37cf968e64",
+  "b4f476455e8aac45",
+  "18647f0f081d5982",
+  "988c16b7debdb101",
+  "d227fc0249bfa703",
+  "9d3d44f1b705fd67",
+  "742ab1a5e0957329"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.100 €\nApartamento T2 na Rua do Terreirinho, 66, Mouraria - Castelo, Santa Maria Maior · 1.100€/mês · T2 150 m² área bruta 1º andar sem elevador 5 horas · IMPORTANTE - O APARTAMENTO ESTÁ DISPONIVEL UNICAMENTE POR 4 MESES, A PARTIR DE 5 DE DEZEMBRO DE 2026 ATÉ FINAL DE MARÇO DE 2027. Est…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35473328/",
@@ -6911,7 +6968,20 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · ARRENDAR - T2 no Príncipe Real | Mobilado - Lisboa! · Calçada Engenheiro Miguel Pais, Príncipe Real, Santo António, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 54 m² · Andar · 2 andar · Century21 Nações · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendar-t2-no-principe-real-mobilado-lisboa-ID1jcqy",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · T+1 para arrendamento nas Necessidades! · Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t-1-para-arrendamento-nas-necessidades-ID1jcqc",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1 com Garagem para Arrendamento junto ao Saldanha, Lisboa · Saldanha - Picoas, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 58.42 m² · LT Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-garagem-para-arrendamento-junto-ao-saldanha-lisboa-ID1jcuK",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 895 €\n895 € · STUDIO junto Hosp Luz, centro comercial Colombo e metro · Arneiros, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 19 m² · Andar · 1 andar · Destacado · Estudios Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/studio-junto-hosp-luz-centro-comercial-colombo-e-metro-ID1eh2g"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 895 €\n895 € · STUDIO junto Hosp Luz, centro comercial Colombo e metro · Arneiros, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 19 m² · Andar · 1 andar · Destacado · Estudios Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/studio-junto-hosp-luz-centro-comercial-colombo-e-metro-ID1eh2g",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T1 em Campo Pequeno · Rua Chaby Pinheiro, Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 31 m² · Andar · 1 andar · Destacado · UKIO PORTUGAL · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-campo-pequeno-ID1i3HG",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · Apartamento T1 para arrendamento · Rua Francisco Lyon de Castro - Entrecampos, Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Andar · 7 andar · Remax Yes · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jcKi",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 980 €\n980 € · Arrendamento do t1 · Moscavide, Moscavide e Portela, Loures, Lisboa · Tipologia · T1 · Preço por metro quadrado · 30 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-do-t1-ID1jcEg",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.690 €\n1690 € · T3 Mobilado e Equipado | Excelente Estado | Pronto a Habitar | Longa D · Rua da Beneficência, Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 87 m² · Andar · 2 andar · CENTURY 21 Colombo · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t3-mobilado-e-equipado-excelente-estado-pronto-a-habitar-longa-d-ID1jcCD",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · Apartamento T1 para arrendamento · Rua do Crucifixo, Baixa, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Andar · 1 andar · Remax Grupo Team · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jcCo",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Apartamento T1 para arrendamento · Rua Carrilho Videira, Centro, Penha de França, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 33 m² · Andar · rés do chão · Grupo RE/MAX Latina · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jczJ",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · Apartamento T1 para arrendamento · Rua Ilha de São Tomé, Anjos, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 55 m² · Grupo RE/MAX Latina · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jczs",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T0+1, com varanda, em Lisboa · Conde Barão, Misericórdia, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 42 m² · Andar · 5 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-1-com-varanda-em-lisboa-ID1jcxl",
+  "…ve <b>Imovirtual</b> sitesinde 2 yeni ilan daha. Hepsi burada:\nhttps://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento com vista panoramica · 1.150 € · Negociável · Loures - Hoje às 23:10\nhttps://www.olx.pt/d/anuncio/apartamento-com-vista-panoramica-IDJHRpE.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 350 €\nAluga-se estudio (nao é para habitar) · 350 € · Águas Livres - Hoje às 22:22\nhttps://www.olx.pt/d/anuncio/aluga-se-estudio-nao-para-habitar-IDJHR3j.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 980 €\nArrendamento do t1 · 980 € · Moscavide E Portela - Hoje às 15:29\nhttps://www.olx.pt/d/anuncio/arrendamento-do-t1-IDJHMM2.html",
+  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 1.800 €\nUp to 2 people • 1 bedroom · Astonishing 1 Bedroom Apartment with outside area close to Santos Train Station · From 19 Nov 2026 · €1,800 /month · Bills included\n<i>⚠️ Bu turda sayfa kontrol limiti doldu, filtreler uygulanmadı.</i>\nhttps://www.uniplaces.com/accommodation/lisbon/905170"
  ],
  "son_gonderim": "2026-11-10"
 }
