@@ -2337,7 +2337,10 @@
    "alugo-apartamento-t2-penha-de-franca-ID1jcpA",
    "apartamento-t0-para-arrendamento-ID1jcnL",
    "t1-arrendamento-parque-das-nacoes-junto-a-marina-ID1jcnH",
-   "apartamento-t0-em-avenidas-novas-lisboa-ID1jcmX"
+   "apartamento-t0-em-avenidas-novas-lisboa-ID1jcmX",
+   "t0-a-estrear-nas-av-novas-junto-as-universidades-ID1f1hc",
+   "apartamento-t1-com-garagem-para-arrendamento-junto-ao-saldanha-lisboa-ID1jcuK",
+   "apartamento-1-quartos-135-m2-jardim-ID9P5lle"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -5614,13 +5617,15 @@
    "4403140",
    "1660927031550163996",
    "13834469",
-   "1759522904445643204"
+   "1759522904445643204",
+   "1115204096356737796",
+   "1722630479030328122"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5662,8 +5667,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 14,
-  "tekrar": 1
+  "elenen": 15,
+  "tekrar": 4
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6882,7 +6887,8 @@
   "36efec9ac843b277",
   "8b417d7e48e0a1d8",
   "a65943d7f81c9b85",
-  "f0b37d249d26defd"
+  "f0b37d249d26defd",
+  "7a840c8721b48bb2"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.100 €\nApartamento T2 na Rua do Terreirinho, 66, Mouraria - Castelo, Santa Maria Maior · 1.100€/mês · T2 150 m² área bruta 1º andar sem elevador 5 horas · IMPORTANTE - O APARTAMENTO ESTÁ DISPONIVEL UNICAMENTE POR 4 MESES, A PARTIR DE 5 DE DEZEMBRO DE 2026 ATÉ FINAL DE MARÇO DE 2027. Est…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35473328/",
@@ -6899,7 +6905,8 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T2, em São Vicente · Lisboa, Santa Engrácia, São Vicente, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · ELITE HOMES Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-em-sao-vicente-ID1jcs4",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T3 para arrendamento · Rua Branca Gonta Colaço, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 64 m² · Andar · rés do chão · ExpoGroup - Remax Expo · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1jcqS",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · ARRENDAR - T2 no Príncipe Real | Mobilado - Lisboa! · Calçada Engenheiro Miguel Pais, Príncipe Real, Santo António, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 54 m² · Andar · 2 andar · Century21 Nações · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendar-t2-no-principe-real-mobilado-lisboa-ID1jcqy",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · T+1 para arrendamento nas Necessidades! · Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t-1-para-arrendamento-nas-necessidades-ID1jcqc"
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · T+1 para arrendamento nas Necessidades! · Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t-1-para-arrendamento-nas-necessidades-ID1jcqc",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1 com Garagem para Arrendamento junto ao Saldanha, Lisboa · Saldanha - Picoas, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 58.42 m² · LT Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-garagem-para-arrendamento-junto-ao-saldanha-lisboa-ID1jcuK"
  ],
  "son_gonderim": "2026-11-10"
 }
