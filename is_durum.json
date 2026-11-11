@@ -796,7 +796,18 @@
    "supervisora-setor-banca-mfx_lisboa_OTS-2026-186751",
    "advogado-imigracao-mf_lisboa_PTS-2026-186824",
    "lider-de-equipa-setor-energetico-mfx_lisboa_OTS-1900-186821",
-   "manager-de-contabilidade-mfx_lisboa_PTS-2026-186241"
+   "manager-de-contabilidade-mfx_lisboa_PTS-2026-186241",
+   "empregado-de-mesa-bar_lisboa_OTS-2026-181163",
+   "ajudante-de-impressao-offset_massama_OTS-2026-186905",
+   "operador-fabril-maquina-de-dobrarmfx_massama_OTS-2026-186902",
+   "operador-de-producao-horario-fixo_rio-de-mouro_OTS-2026-186900",
+   "operador-fabril-mfx_aboboda_OTS-2026-186899",
+   "servente-mfx_vialonga_OTS-2026-186895",
+   "pedreiro-mfx_vialonga_OTS-2026-186893",
+   "tecnico-de-telecomunicacoes-mfx_vialonga_OTS-2026-186897",
+   "responsavel-de-loja-setor-energetico-mfx_almada-e-loures_OTS-2026-186877",
+   "eletricista-preoficial-ajudante-de-eletricista-mfx-tria_lisboa_OTS-2026-186884",
+   "empregadoa-de-limpeza-mfx_av-duque-davila_OTS-2026-186768"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1253,7 +1264,13 @@
    "jvhq8YMLKafx6w5axduECJ",
    "mMCraUwqwDfU6YDEFdN55o",
    "43vJpKAuGZ6VXWCyVdUsKA",
-   "6d2dX7g7tLAwEf8Nk9h7N5"
+   "6d2dX7g7tLAwEf8Nk9h7N5",
+   "bHeyRktpHw6qvKehvDKiag",
+   "3FDcEW9xVTktih4LG5WQZM",
+   "dgDSkpMRoujmAJh48EHWUn",
+   "5EL9qiqRzjwEd1NKA1PJ3x",
+   "3L1nPR2UbZuufT77dkBZgk",
+   "6wrK4dzDWa4KP3M48Gqpnx"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1656,7 +1673,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 12,
+   "bos": 13,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1718,7 +1735,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 931,
+  "elenen": 948,
   "tekrar": 38
  }
 }
