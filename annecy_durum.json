@@ -780,7 +780,8 @@
    "63919168",
    "85392568",
    "85392456",
-   "85317726"
+   "85317726",
+   "85399039"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -1254,7 +1255,7 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 137,
+   "bos": 138,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
@@ -1267,6 +1268,6 @@
  "son_gonderim": "",
  "sayaclar": {
   "elenen": 74,
-  "tekrar": 180
+  "tekrar": 181
  }
 }
