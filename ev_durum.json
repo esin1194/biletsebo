@@ -2380,7 +2380,25 @@
    "apartment-in-rua-de-santo-estevao-lisboa-ID1jcQo",
    "cosy-studio-near-bairro-alto-ID1jcQn",
    "apartamento-t1-para-arrendamento-ID1jcPr",
-   "apartamento-2-quartos-73-m2-jardim-ID9P5lli"
+   "apartamento-2-quartos-73-m2-jardim-ID9P5lli",
+   "arrendamento-de-apartamento-t2-em-lisboa-santa-maria-maior-ID1jda0",
+   "apartamento-t3-para-arrendamento-ID1jd9w",
+   "apartamento-t2-para-arrendamento-ID1jd9s",
+   "apartamento-t2-para-arrendamento-ID1jd9q",
+   "t3-em-zona-de-referencia-para-arrendar-em-benfica-ID1jd8H",
+   "apartamento-t3-para-arrendamento-ID1jd7U",
+   "apartamento-t4-para-arrendamento-ID1jd7T",
+   "t1-com-terraco-para-arrendamento-aguas-livres-ID1jd7O",
+   "charme-e-luz-no-coracao-de-lisboa-t1-renovado-na-rua-nova-do-almada-ID1jd7t",
+   "t1-remodelado-mobilado-e-equipado-alcntara-ID1jd5x",
+   "ajuda-convento-da-boa-hora-1piso-duplex-t1-1-ID1jd5h",
+   "apartamento-em-travessa-do-rosario-de-santa-clara-lisboa-ID1jd33",
+   "amazing-apartment-in-estrela-ID1jd2Y",
+   "apartamento-em-avenida-joao-crisostomo-lisboa-para-45-m-ID1jd2V",
+   "cozy-apartment-in-lisbon-ID1jd2U",
+   "arrenda-t2-duplex-rua-bela-vista-a-graca-com-vis-ID1jd2F",
+   "apartamento-t3-com-2-casas-banho-junto-ao-corte-ingles-ID1jd0P",
+   "apartamento-1-quartos-93-m2-garagem-ID9P5llj"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3369,7 +3387,12 @@
    "apartamento-em-sintra-t3-IDJHLQQ",
    "apartamento-t2-em-lisboa-IDJHWY7",
    "apartamento-t2-santo-antnio-dos-cavaleiros-loures-IDJHWW4",
-   "t1-para-alugar-em-sacavem-IDJHW2W"
+   "t1-para-alugar-em-sacavem-IDJHW2W",
+   "aluga-se-t3-mobilado-e-seminovo-centro-de-torres-vedras-junto-a-escolas-e-hospital-IDJzo5D",
+   "aluga-se-t1-em-alcabideche-renovado-IDIOMGP",
+   "aluga-se-t3-em-algueiro-IDJxjzJ",
+   "aluga-se-sto-em-manique-IDIYoSb",
+   "aluguer-t3-porto-salvo-IDJHYU4"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5279,7 +5302,12 @@
    "862819",
    "838211",
    "836896",
-   "664182"
+   "664182",
+   "905545",
+   "905544",
+   "905372",
+   "905333",
+   "905558"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5692,13 +5720,14 @@
    "17750289",
    "20740961",
    "1599325093775896232",
-   "36349577"
+   "36349577",
+   "1806626594479534873"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5740,8 +5769,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 66,
-  "tekrar": 9
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6976,41 +7005,12 @@
   "9d3d44f1b705fd67",
   "742ab1a5e0957329",
   "ea663a5a6bee383c",
-  "20f1dd76c6314fc9"
+  "20f1dd76c6314fc9",
+  "dc553421fccfb820",
+  "a73c0fa55346ded3",
+  "6ca914a50e00c051",
+  "b3ca692b4cd2f3b7"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.100 €\nApartamento T2 na Rua do Terreirinho, 66, Mouraria - Castelo, Santa Maria Maior · 1.100€/mês · T2 150 m² área bruta 1º andar sem elevador 5 horas · IMPORTANTE - O APARTAMENTO ESTÁ DISPONIVEL UNICAMENTE POR 4 MESES, A PARTIR DE 5 DE DEZEMBRO DE 2026 ATÉ FINAL DE MARÇO DE 2027. Est…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35473328/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T2 na Rua Cidade de Tomar, Santa Clara · 1.800€/mês · T2 92 m² área bruta 1º andar sem elevador 6 horas · Apresentamos este excelente apartamento, originalmente de tipologia T1, atualmente transformado em T2, situado na Rua Cidade de Tomar em Lisboa. Com uma área de 9…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35473426/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.600 €\nApartamento T1 na Rua Eduardo Coelho, Príncipe Real - São Bento, Misericórdia · 1.600€/mês · T1 60 m² área bruta Rés do chão sem elevador 7 horas · T1 remodelado para arrendar no Centro Histórico da Cidade junto à Igreja das Mercês. Edifício Séc XVIII no Bairro das Mercês, zona c…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35473253/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.500 €\nApartamento T1 na Rua dos Ferreiros a Santa Catarina, 16, Santa Catarina, Misericórdia · 1.500€/mês · T1 70 m² área bruta 2º andar sem elevador 10 horas · Arrendamento temporário · Contactar · Ver telefone\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34952584/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Rua do Salvador, São Vicente de Fora, São Vicente · 1.300€/mês · T1 52 m² área bruta 2º andar com elevador 10 horas · ** DISPONIVEL A PARTIR DE 1 DE JULHO ** Entre neste acolhedor e luminoso apartamento de 1 quarto onde o conforto moderno se encontra com a verda…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34683015/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.895 €\nApartamento T2 na Rua das Trinas, Lapa, Estrela · 1.895€/mês · T2 55 m² área bruta 3º andar sem elevador 10 horas · Desperte todos os dias com uma vista deslumbrante da Ponte 25 de Abril neste acolhedor apartamento T2 em Lapa, Lisboa. Localizado na Rua das Trinas, este elegante T…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/34735027/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.350 €\nApartamento T0 na Avenida António Augusto de Aguiar, 11, Bairro Azul - Parque Eduardo VII, Avenidas Novas · 1.350€/mês · T0 40 m² área bruta 5º andar sem elevador 12 horas · Disponível em: 10/11/2026. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COM…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35472183/",
-  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.050 €\nApartamento T0 na Rua Carlos Malheiro Dias, 11, Bairro de Alvalade, Alvalade · 1.050€/mês · T0 55 m² área bruta sem elevador 12 horas · Disponível em: 01/03/2027. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA O SPACEST.COM? Spaces…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35463631/",
-  "…ve <b>Idealista</b> sitesinde 19 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · + taxa: 0 €/mês · Apartamento, 120 m², Olivais · Olivais Norte, Olivais, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 120 m² · Andar · rés do chão · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-120-m-olivais-ID1jcsB",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Alugo T3 com quintal na Penha de França · Alto de São João - Alto do Varejão, Penha de França, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 80 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/alugo-t3-com-quintal-na-penha-de-franca-ID1jcuc",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T2, em São Vicente · Lisboa, Santa Engrácia, São Vicente, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · ELITE HOMES Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-em-sao-vicente-ID1jcs4",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T3 para arrendamento · Rua Branca Gonta Colaço, Campo Grande, Alvalade, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 64 m² · Andar · rés do chão · ExpoGroup - Remax Expo · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1jcqS",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · ARRENDAR - T2 no Príncipe Real | Mobilado - Lisboa! · Calçada Engenheiro Miguel Pais, Príncipe Real, Santo António, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 54 m² · Andar · 2 andar · Century21 Nações · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendar-t2-no-principe-real-mobilado-lisboa-ID1jcqy",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · T+1 para arrendamento nas Necessidades! · Prazeres, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Blue Select - Mediação Imobiliária, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t-1-para-arrendamento-nas-necessidades-ID1jcqc",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T1 com Garagem para Arrendamento junto ao Saldanha, Lisboa · Saldanha - Picoas, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 58.42 m² · LT Real Estate · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-com-garagem-para-arrendamento-junto-ao-saldanha-lisboa-ID1jcuK",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 895 €\n895 € · STUDIO junto Hosp Luz, centro comercial Colombo e metro · Arneiros, Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 19 m² · Andar · 1 andar · Destacado · Estudios Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/studio-junto-hosp-luz-centro-comercial-colombo-e-metro-ID1eh2g",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T1 em Campo Pequeno · Rua Chaby Pinheiro, Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 31 m² · Andar · 1 andar · Destacado · UKIO PORTUGAL · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-campo-pequeno-ID1i3HG",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · Apartamento T1 para arrendamento · Rua Francisco Lyon de Castro - Entrecampos, Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Andar · 7 andar · Remax Yes · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jcKi",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 980 €\n980 € · Arrendamento do t1 · Moscavide, Moscavide e Portela, Loures, Lisboa · Tipologia · T1 · Preço por metro quadrado · 30 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-do-t1-ID1jcEg",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.690 €\n1690 € · T3 Mobilado e Equipado | Excelente Estado | Pronto a Habitar | Longa D · Rua da Beneficência, Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 87 m² · Andar · 2 andar · CENTURY 21 Colombo · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t3-mobilado-e-equipado-excelente-estado-pronto-a-habitar-longa-d-ID1jcCD",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.350 €\n1350 € · Apartamento T1 para arrendamento · Rua do Crucifixo, Baixa, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · Andar · 1 andar · Remax Grupo Team · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jcCo",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Apartamento T1 para arrendamento · Rua Carrilho Videira, Centro, Penha de França, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 33 m² · Andar · rés do chão · Grupo RE/MAX Latina · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jczJ",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.100 €\n1100 € · Apartamento T1 para arrendamento · Rua Ilha de São Tomé, Anjos, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 55 m² · Grupo RE/MAX Latina · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jczs",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Apartamento T0+1, com varanda, em Lisboa · Conde Barão, Misericórdia, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 42 m² · Andar · 5 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-1-com-varanda-em-lisboa-ID1jcxl",
-  "…ve <b>Imovirtual</b> sitesinde 2 yeni ilan daha. Hepsi burada:\nhttps://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento com vista panoramica · 1.150 € · Negociável · Loures - Hoje às 23:10\nhttps://www.olx.pt/d/anuncio/apartamento-com-vista-panoramica-IDJHRpE.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 350 €\nAluga-se estudio (nao é para habitar) · 350 € · Águas Livres - Hoje às 22:22\nhttps://www.olx.pt/d/anuncio/aluga-se-estudio-nao-para-habitar-IDJHR3j.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 980 €\nArrendamento do t1 · 980 € · Moscavide E Portela - Hoje às 15:29\nhttps://www.olx.pt/d/anuncio/arrendamento-do-t1-IDJHMM2.html",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 1.800 €\nUp to 2 people • 1 bedroom · Astonishing 1 Bedroom Apartment with outside area close to Santos Train Station · From 19 Nov 2026 · €1,800 /month · Bills included\n<i>⚠️ Bu turda sayfa kontrol limiti doldu, filtreler uygulanmadı.</i>\nhttps://www.uniplaces.com/accommodation/lisbon/905170",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T1 para arrendamento · Rua Roberto Duarte Silva, Laranjeiras, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 25 m² · Andar · rés do chão · G4 New Cycle · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jcPr",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT1 para alugar em sacavem · 750 € · Camarate, Unhos E Apelação - Hoje às 10:22\nhttps://www.olx.pt/d/anuncio/t1-para-alugar-em-sacavem-IDJHW2W.html"
- ],
- "son_gonderim": "2026-11-10"
+ "kuyruk": [],
+ "son_gonderim": "2026-11-12"
 }
