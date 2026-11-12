@@ -2368,7 +2368,19 @@
    "apartamento-t0-1-com-varanda-em-lisboa-ID1jcxl",
    "excelente-t3-na-quinta-da-luz-para-arrendamento-ID1jcvJ",
    "apartamento-3-quartos-52-m2-remodelado-ID9P5llg",
-   "apartamento-2-quartos-71-m2-varanda-ID9P5llh"
+   "apartamento-2-quartos-71-m2-varanda-ID9P5llh",
+   "apartamento-com-1-quartos-localizado-em-lumiar-lisbon-ID1jcYl",
+   "estudio-localizado-em-sao-bento-lisbon-ID1jcYi",
+   "apartamento-com-1-quartos-localizado-em-sao-bento-lisbon-ID1jcYf",
+   "estudio-localizado-em-benfica-lisbon-ID1jcYd",
+   "apartamento-com-1-quartos-localizado-em-sao-bento-lisbon-ID1jcYb",
+   "estudio-localizado-em-sao-bento-lisbon-ID1jcY9",
+   "apartamento-t0-em-marvila-com-ar-condicionado-ID1jcXA",
+   "apartamento-2-quartos-lisboa-sao-domingos-de-be-ID1jcRK",
+   "apartment-in-rua-de-santo-estevao-lisboa-ID1jcQo",
+   "cosy-studio-near-bairro-alto-ID1jcQn",
+   "apartamento-t1-para-arrendamento-ID1jcPr",
+   "apartamento-2-quartos-73-m2-jardim-ID9P5lli"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3354,7 +3366,10 @@
    "moradia-4-quartos-IDJsksh",
    "aluga-se-t2-com-ptio-assenta-IDJHNGf",
    "arrendamento-do-t1-IDJHMM2",
-   "apartamento-em-sintra-t3-IDJHLQQ"
+   "apartamento-em-sintra-t3-IDJHLQQ",
+   "apartamento-t2-em-lisboa-IDJHWY7",
+   "apartamento-t2-santo-antnio-dos-cavaleiros-loures-IDJHWW4",
+   "t1-para-alugar-em-sacavem-IDJHW2W"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4557,7 +4572,8 @@
    "ut1750377",
    "ut1539507",
    "ut1751324",
-   "ut1610613"
+   "ut1610613",
+   "ut1752167"
   ],
   "uniplaces.com": [
    "890027",
@@ -5258,7 +5274,12 @@
    "905236",
    "905164",
    "905178",
-   "905170"
+   "905170",
+   "862805",
+   "862819",
+   "838211",
+   "836896",
+   "664182"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5670,13 +5691,14 @@
    "1722630479030328122",
    "17750289",
    "20740961",
-   "1599325093775896232"
+   "1599325093775896232",
+   "36349577"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5718,8 +5740,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 47,
-  "tekrar": 8
+  "elenen": 66,
+  "tekrar": 9
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -6952,7 +6974,9 @@
   "988c16b7debdb101",
   "d227fc0249bfa703",
   "9d3d44f1b705fd67",
-  "742ab1a5e0957329"
+  "742ab1a5e0957329",
+  "ea663a5a6bee383c",
+  "20f1dd76c6314fc9"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.100 €\nApartamento T2 na Rua do Terreirinho, 66, Mouraria - Castelo, Santa Maria Maior · 1.100€/mês · T2 150 m² área bruta 1º andar sem elevador 5 horas · IMPORTANTE - O APARTAMENTO ESTÁ DISPONIVEL UNICAMENTE POR 4 MESES, A PARTIR DE 5 DE DEZEMBRO DE 2026 ATÉ FINAL DE MARÇO DE 2027. Est…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35473328/",
@@ -6984,7 +7008,9 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento com vista panoramica · 1.150 € · Negociável · Loures - Hoje às 23:10\nhttps://www.olx.pt/d/anuncio/apartamento-com-vista-panoramica-IDJHRpE.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 350 €\nAluga-se estudio (nao é para habitar) · 350 € · Águas Livres - Hoje às 22:22\nhttps://www.olx.pt/d/anuncio/aluga-se-estudio-nao-para-habitar-IDJHR3j.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 980 €\nArrendamento do t1 · 980 € · Moscavide E Portela - Hoje às 15:29\nhttps://www.olx.pt/d/anuncio/arrendamento-do-t1-IDJHMM2.html",
-  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 1.800 €\nUp to 2 people • 1 bedroom · Astonishing 1 Bedroom Apartment with outside area close to Santos Train Station · From 19 Nov 2026 · €1,800 /month · Bills included\n<i>⚠️ Bu turda sayfa kontrol limiti doldu, filtreler uygulanmadı.</i>\nhttps://www.uniplaces.com/accommodation/lisbon/905170"
+  "<b>🏠 Yeni ilan · Uniplaces</b>\n💶 1.800 €\nUp to 2 people • 1 bedroom · Astonishing 1 Bedroom Apartment with outside area close to Santos Train Station · From 19 Nov 2026 · €1,800 /month · Bills included\n<i>⚠️ Bu turda sayfa kontrol limiti doldu, filtreler uygulanmadı.</i>\nhttps://www.uniplaces.com/accommodation/lisbon/905170",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 900 €\n900 € · Apartamento T1 para arrendamento · Rua Roberto Duarte Silva, Laranjeiras, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 25 m² · Andar · rés do chão · G4 New Cycle · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jcPr",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT1 para alugar em sacavem · 750 € · Camarate, Unhos E Apelação - Hoje às 10:22\nhttps://www.olx.pt/d/anuncio/t1-para-alugar-em-sacavem-IDJHW2W.html"
  ],
  "son_gonderim": "2026-11-10"
 }
