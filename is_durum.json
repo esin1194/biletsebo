@@ -809,7 +809,14 @@
    "eletricista-preoficial-ajudante-de-eletricista-mfx-tria_lisboa_OTS-2026-186884",
    "empregadoa-de-limpeza-mfx_av-duque-davila_OTS-2026-186768",
    "supervisora-banca-mfx_lisboa-oriente_OTS-2026-186916",
-   "administrativo-de-backoffice-marvila_lisboa_OTS-2026-186919"
+   "administrativo-de-backoffice-marvila_lisboa_OTS-2026-186919",
+   "advogado-senior-imigracao-mf_lisboa_PTS-2026-186839",
+   "serralheiro-mfx_sintra_OTS-2026-186959",
+   "gestor-de-clientes-em-seguros-patrimoniais-multirriscos-m-f-x_lisboa_PTS-2026-186896",
+   "gestor-comercial-de-seguros-m-f-x_lisboa_PTS-2026-186894",
+   "global-ethics-senior-manager-mfx_oeiras_PTS-2026-186953",
+   "gestora-comercial-b2b_lisboa_OTS-2026-186930",
+   "operador-de-expedicao_carregado_OTS-2026-186903"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1273,7 +1280,9 @@
    "5EL9qiqRzjwEd1NKA1PJ3x",
    "3L1nPR2UbZuufT77dkBZgk",
    "6wrK4dzDWa4KP3M48Gqpnx",
-   "wybvipSjXXnSs5yBPEgjDy"
+   "wybvipSjXXnSs5yBPEgjDy",
+   "5zHy62UYH8XkM62kTEDbsg",
+   "kiKfxv8Kinxrn1fBKJ9peV"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1672,12 +1681,14 @@
   "9dc662f2b1e8569c",
   "8402d6df877ec161",
   "0fe7cef2b95a06c5",
-  "16695d5d2ab5999a"
+  "16695d5d2ab5999a",
+  "0bae4eed25fc2eb5",
+  "7dd66af1b77f673e"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1739,7 +1750,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 950,
-  "tekrar": 38
+  "elenen": 956,
+  "tekrar": 39
  }
 }
