@@ -2367,7 +2367,8 @@
    "apartamento-t2-estrada-da-luz-cozinha-equipada-estacionamento-e-ID1jcy2",
    "apartamento-t0-1-com-varanda-em-lisboa-ID1jcxl",
    "excelente-t3-na-quinta-da-luz-para-arrendamento-ID1jcvJ",
-   "apartamento-3-quartos-52-m2-remodelado-ID9P5llg"
+   "apartamento-3-quartos-52-m2-remodelado-ID9P5llg",
+   "apartamento-2-quartos-71-m2-varanda-ID9P5llh"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3352,7 +3353,8 @@
    "alugo-apartamento-venda-do-pinheiro-t2-IDJHODd",
    "moradia-4-quartos-IDJsksh",
    "aluga-se-t2-com-ptio-assenta-IDJHNGf",
-   "arrendamento-do-t1-IDJHMM2"
+   "arrendamento-do-t1-IDJHMM2",
+   "apartamento-em-sintra-t3-IDJHLQQ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5667,13 +5669,14 @@
    "1115204096356737796",
    "1722630479030328122",
    "17750289",
-   "20740961"
+   "20740961",
+   "1599325093775896232"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5715,8 +5718,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 45,
-  "tekrar": 7
+  "elenen": 47,
+  "tekrar": 8
  },
  "imzalar": [
   "f6afeff342d106a9",
