@@ -807,7 +807,9 @@
    "tecnico-de-telecomunicacoes-mfx_vialonga_OTS-2026-186897",
    "responsavel-de-loja-setor-energetico-mfx_almada-e-loures_OTS-2026-186877",
    "eletricista-preoficial-ajudante-de-eletricista-mfx-tria_lisboa_OTS-2026-186884",
-   "empregadoa-de-limpeza-mfx_av-duque-davila_OTS-2026-186768"
+   "empregadoa-de-limpeza-mfx_av-duque-davila_OTS-2026-186768",
+   "supervisora-banca-mfx_lisboa-oriente_OTS-2026-186916",
+   "administrativo-de-backoffice-marvila_lisboa_OTS-2026-186919"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1270,7 +1272,8 @@
    "dgDSkpMRoujmAJh48EHWUn",
    "5EL9qiqRzjwEd1NKA1PJ3x",
    "3L1nPR2UbZuufT77dkBZgk",
-   "6wrK4dzDWa4KP3M48Gqpnx"
+   "6wrK4dzDWa4KP3M48Gqpnx",
+   "wybvipSjXXnSs5yBPEgjDy"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1668,12 +1671,13 @@
   "40874bca23e0e975",
   "9dc662f2b1e8569c",
   "8402d6df877ec161",
-  "0fe7cef2b95a06c5"
+  "0fe7cef2b95a06c5",
+  "16695d5d2ab5999a"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1735,7 +1739,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 948,
+  "elenen": 950,
   "tekrar": 38
  }
 }
