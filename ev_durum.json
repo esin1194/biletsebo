@@ -2399,7 +2399,8 @@
    "arrenda-t2-duplex-rua-bela-vista-a-graca-com-vis-ID1jd2F",
    "apartamento-t3-com-2-casas-banho-junto-ao-corte-ingles-ID1jd0P",
    "apartamento-1-quartos-93-m2-garagem-ID9P5llj",
-   "apartamento-4-quartos-61-m2-varanda-ID9P5llk"
+   "apartamento-4-quartos-61-m2-varanda-ID9P5llk",
+   "apartamento-5-quartos-45-m2-terraco-ID9P5lll"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4597,7 +4598,8 @@
    "ut1539507",
    "ut1751324",
    "ut1610613",
-   "ut1752167"
+   "ut1752167",
+   "ut1675800"
   ],
   "uniplaces.com": [
    "890027",
@@ -5729,7 +5731,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5771,7 +5773,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 1,
+  "elenen": 3,
   "tekrar": 1
  },
  "imzalar": [
