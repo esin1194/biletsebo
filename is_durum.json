@@ -816,7 +816,15 @@
    "gestor-comercial-de-seguros-m-f-x_lisboa_PTS-2026-186894",
    "global-ethics-senior-manager-mfx_oeiras_PTS-2026-186953",
    "gestora-comercial-b2b_lisboa_OTS-2026-186930",
-   "operador-de-expedicao_carregado_OTS-2026-186903"
+   "operador-de-expedicao_carregado_OTS-2026-186903",
+   "auxiliar-de-armazem_sintra_OTS-2026-186958",
+   "farmaceutico-mfx_farmacia-sacavem_PTS-2026-187013",
+   "operador-de-loja-e-armazem_alverca_OTS-2026-187015",
+   "diretor-de-obra_lisboa_OTS-2026-187004",
+   "preparador-de-obra_lisboa_OTS-2026-187005",
+   "fiscal-de-obra_lisboa_OTS-2025-183656",
+   "finance-treasury-manager_lisboa_PTS-2026-186874",
+   "assistente-backoffice-segmento-empresarial-mfx_lisboa_OTS-2026-186970"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1282,7 +1290,12 @@
    "6wrK4dzDWa4KP3M48Gqpnx",
    "wybvipSjXXnSs5yBPEgjDy",
    "5zHy62UYH8XkM62kTEDbsg",
-   "kiKfxv8Kinxrn1fBKJ9peV"
+   "kiKfxv8Kinxrn1fBKJ9peV",
+   "4ysWsD6BAGGcyymdzhYi3H",
+   "5JoETHwA1rj5aJ6KaEqQo6",
+   "4FatqF9dGzGEZCfu3Pbtbi",
+   "8TCCVGZUKwfyHUJGsJQAU6",
+   "wq4JxaxBJkSBGV9g7GDJ6m"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1683,12 +1696,14 @@
   "0fe7cef2b95a06c5",
   "16695d5d2ab5999a",
   "0bae4eed25fc2eb5",
-  "7dd66af1b77f673e"
+  "7dd66af1b77f673e",
+  "a58776d2d998e2c4",
+  "7e9cad7d8ea12803"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1750,7 +1765,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 956,
-  "tekrar": 39
+  "elenen": 966,
+  "tekrar": 40
  }
 }
