@@ -2400,7 +2400,18 @@
    "apartamento-t3-com-2-casas-banho-junto-ao-corte-ingles-ID1jd0P",
    "apartamento-1-quartos-93-m2-garagem-ID9P5llj",
    "apartamento-4-quartos-61-m2-varanda-ID9P5llk",
-   "apartamento-5-quartos-45-m2-terraco-ID9P5lll"
+   "apartamento-5-quartos-45-m2-terraco-ID9P5lll",
+   "alvaro-castro-1c-studio-in-lisbon-by-lisbeyond-ID1jdm9",
+   "arrenda-t2-elevador-e-garagem-ID1jdlb",
+   "t2-renovado-em-campo-de-ourique-ID1jdjo",
+   "apartamento-t2-para-arrendamento-ID1jdiZ",
+   "apartamento-t0-para-arrendamento-ID1jdiM",
+   "apartamento-com-1-quartos-localizado-em-santa-apolonia-lisbon-ID1jdhT",
+   "apartamento-t2-na-graca-lisboa-ID1jdhJ",
+   "t3-para-arrendamento-2-suites-gaiola-pombalina-70-26-m-calcad-ID1jdd7",
+   "apartamento-t1-para-arrendamento-ID1jdd6",
+   "conforto-funcionalidade-e-excelente-localizacao-ID1jdcS",
+   "apartamento-2-quartos-59-m2-jardim-ID9P5llm"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3394,7 +3405,12 @@
    "aluga-se-t1-em-alcabideche-renovado-IDIOMGP",
    "aluga-se-t3-em-algueiro-IDJxjzJ",
    "aluga-se-sto-em-manique-IDIYoSb",
-   "aluguer-t3-porto-salvo-IDJHYU4"
+   "aluguer-t3-porto-salvo-IDJHYU4",
+   "t1-remodelado-na-rua-morais-soares-em-lisboa-entrada-imediata-t1-rent-lisbon-IDJDWkS",
+   "excelente-apartamento-t2-remodelado-para-arrendamento-na-anta-de-agualva-procura-conforto-tranquilidade-e-centralidade-clique-aqui-IDJE5ku",
+   "arrendo-t1-a-sete-rios-IDJHWSl",
+   "apartamento-t1-totalmente-remodelado-e-equipado-na-vrzea-de-sintra-IDJI1fj",
+   "apartamento-t2-na-graa-lisboa-IDJI0QC"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5310,7 +5326,12 @@
    "905544",
    "905372",
    "905333",
-   "905558"
+   "905558",
+   "905812",
+   "905810",
+   "905809",
+   "905808",
+   "905807"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5731,7 +5752,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 8,
+   "bos": 9,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5773,8 +5794,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
-  "tekrar": 1
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7013,8 +7034,13 @@
   "dc553421fccfb820",
   "a73c0fa55346ded3",
   "6ca914a50e00c051",
-  "b3ca692b4cd2f3b7"
+  "b3ca692b4cd2f3b7",
+  "f6a723871c379606",
+  "61f4b3773c7fe171",
+  "521cae3b966e1feb",
+  "1ccfd703bd12867b",
+  "b18847ac9a552a48"
  ],
  "kuyruk": [],
- "son_gonderim": "2026-11-12"
+ "son_gonderim": "2026-11-13"
 }
