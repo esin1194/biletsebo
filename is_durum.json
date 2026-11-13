@@ -824,7 +824,15 @@
    "preparador-de-obra_lisboa_OTS-2026-187005",
    "fiscal-de-obra_lisboa_OTS-2025-183656",
    "finance-treasury-manager_lisboa_PTS-2026-186874",
-   "assistente-backoffice-segmento-empresarial-mfx_lisboa_OTS-2026-186970"
+   "assistente-backoffice-segmento-empresarial-mfx_lisboa_OTS-2026-186970",
+   "accounting-general-ledger-associate_lisboa_PTS-2025-166911",
+   "eletricista-mfx_vialonga_OTS-2026-186917",
+   "tecnicoa-administrativo-de-recursos-humanos_sintra_PTS-2026-187032",
+   "sap-master-data-domain-supervisor_lisboa_DTS-2026-187041",
+   "master-data-specialist_lisboa_DTS-2026-187040",
+   "consultor-comercial-de-seguros-m-f-x_lisboa_PTS-2026-186869",
+   "operador-de-armazem_vialonga_OTS-2026-186714",
+   "supervisor-mfx_lisboa_OTS-2026-173234"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1295,7 +1303,11 @@
    "5JoETHwA1rj5aJ6KaEqQo6",
    "4FatqF9dGzGEZCfu3Pbtbi",
    "8TCCVGZUKwfyHUJGsJQAU6",
-   "wq4JxaxBJkSBGV9g7GDJ6m"
+   "wq4JxaxBJkSBGV9g7GDJ6m",
+   "uk5dCyDotqxRZgtZjXbBoU",
+   "37NGqAr9wVAGv8FPvPn2Sw",
+   "4tTddXDfgXXX92WCXhkZXy",
+   "g3hEeLKNWREFbDN7WbVvNK"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1703,7 +1715,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 19,
+   "bos": 20,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1765,7 +1777,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 966,
+  "elenen": 978,
   "tekrar": 40
  }
 }
