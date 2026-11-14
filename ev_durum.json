@@ -2422,7 +2422,9 @@
    "imovel-t3-em-alvalade-com-varanda-quase-terraco-na-sala-de-35m2-ID1jdrz",
    "apartamento-t2-para-arrendamento-ID1jdqX",
    "apartamento-t2-novo-no-condominio-zen-a-estrear-no-lumiar-em-lisboa-ID1jdzB",
-   "apartamento-3-quartos-74-m2-luminoso-ID9P5lln"
+   "apartamento-3-quartos-74-m2-luminoso-ID9P5lln",
+   "arrendamento-apartamento-t2-em-alcntara-ID1jdAd",
+   "apartamento-2-quartos-29-m2-garagem-ID9P5llo"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3423,7 +3425,9 @@
    "apartamento-t1-totalmente-remodelado-e-equipado-na-vrzea-de-sintra-IDJI1fj",
    "apartamento-t2-na-graa-lisboa-IDJI0QC",
    "apartamento-t0-tudo-incluido-IDJwllY",
-   "arrendo-t1-open-space-num-palcio-amoreiras-lisboa-IDJI4la"
+   "arrendo-t1-open-space-num-palcio-amoreiras-lisboa-IDJI4la",
+   "t2-para-arrendar-torres-vedras-IDJI5ol",
+   "arrendamento-apartamento-t2-em-alcntara-IDJI5nQ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5766,13 +5770,14 @@
    "1599325093775896232",
    "36349577",
    "1806626594479534873",
-   "697819074928829714"
+   "697819074928829714",
+   "790474166929833945"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 11,
+   "bos": 12,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5814,8 +5819,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 10,
-  "tekrar": 0
+  "elenen": 13,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7066,7 +7071,8 @@
   "8912acde6d534359",
   "dbc75c240142ceea",
   "085cf295b4a1973c",
-  "29f03cc10d914127"
+  "29f03cc10d914127",
+  "9609b53d0dd00b81"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Arrendo T1 Open Space num Palácio, Amoreiras, Lisboa · Amoreiras, Campo de Ourique, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 50 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendo-t1-open-space-num-palacio-amoreiras-lisboa-ID1jdxP",
@@ -7075,7 +7081,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nArrendo T1 Open Space num Palácio, Amoreiras, Lisboa · 1.500 € · Campo De Ourique - Hoje às 19:32\nhttps://www.olx.pt/d/anuncio/arrendo-t1-open-space-num-palcio-amoreiras-lisboa-IDJI4la.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.690 €\nCHECKED · APARTMENT · FROM 13 NOV · 1-bedroom apartment for rent in Lisbon · 1690 €/month · info · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1753536",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nAPARTMENT · FROM 01 DEC · 1-bedroom flat for rent in Lisbon · 1650 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1752807",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.850 €\nCHECKED · APARTMENT · FROM 19 NOV · star · 5 (8) · 2-bedroom apartment for rent in Lisbon · From 1850 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1075744"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.850 €\nCHECKED · APARTMENT · FROM 19 NOV · star · 5 (8) · 2-bedroom apartment for rent in Lisbon · From 1850 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1075744",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nT2 para arrendar Torres Vedras · 1.200 € · Torres Vedras (São Pedro, Santiago, Santa Maria Do Castelo E São Miguel) E Matacães - Hoje às 08:15\nhttps://www.olx.pt/d/anuncio/t2-para-arrendar-torres-vedras-IDJI5ol.html"
  ],
  "son_gonderim": "2026-11-13"
 }
