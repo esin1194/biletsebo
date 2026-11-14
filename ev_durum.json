@@ -2420,7 +2420,9 @@
    "apartamento-para-arrendar-nos-olivais-lisboa-ID1jds6",
    "t2-com-suite-no-parque-das-nacoes-115-m-mobilado-varandas-e-parq-ID1jdrK",
    "imovel-t3-em-alvalade-com-varanda-quase-terraco-na-sala-de-35m2-ID1jdrz",
-   "apartamento-t2-para-arrendamento-ID1jdqX"
+   "apartamento-t2-para-arrendamento-ID1jdqX",
+   "apartamento-t2-novo-no-condominio-zen-a-estrear-no-lumiar-em-lisboa-ID1jdzB",
+   "apartamento-3-quartos-74-m2-luminoso-ID9P5lln"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4552,7 +4554,8 @@
    "apartments/1751007",
    "apartments/1753536",
    "apartments/1752807",
-   "apartments/1075744"
+   "apartments/1075744",
+   "apartments/1182070"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5769,7 +5772,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 10,
+   "bos": 11,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5811,7 +5814,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 8,
+  "elenen": 10,
   "tekrar": 0
  },
  "imzalar": [
