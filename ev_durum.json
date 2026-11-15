@@ -2442,7 +2442,13 @@
    "apartamento-t0-1-arrenda-se-lisboa-ID1jdJs",
    "apartamento-t1-estrela-lapa-ID1jdIX",
    "t3-arrentela-seixal-suite-lareira-e-perto-do-barco-lisboa-ID1jdIW",
-   "apartamento-2-quartos-117-m2-garagem-ID9P5llr"
+   "apartamento-2-quartos-117-m2-garagem-ID9P5llr",
+   "t2-luxo-a-nao-perder-equip-e-mobil-r-martim-vaz-lisboa-ID1j4N4",
+   "apartamento-t0-no-marques-de-pombal-ID1jdKv",
+   "arrendamento-de-apartamento-t3-em-santa-engracia-ID1jdKi",
+   "estudio-em-telheiras-ID1jdK9",
+   "apartamento-t1-rooftop-de-charme-no-centro-de-lisboa-ID1jdJU",
+   "apartamento-4-quartos-143-m2-luminoso-ID9P5lls"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3456,7 +3462,12 @@
    "apartamento-t0-1-arrenda-se-lisboa-IDJIak3",
    "arrendo-t2-em-odivelas-IDJIa9Z",
    "t3-arrentela-seixal-sute-lareira-e-perto-do-barco-lisboa-IDJI9CH",
-   "arrendamento-apartamento-t3-novo-com-acabamentos-de-qualidade-superior-em-paredes-alenquer-IDJI9v4"
+   "arrendamento-apartamento-t3-novo-com-acabamentos-de-qualidade-superior-em-paredes-alenquer-IDJI9v4",
+   "apartamento-t0-no-marqus-de-pombal-IDJIbHG",
+   "apartamento-t2-novo-IDJktN2",
+   "ericeira-apartamento-t2-IDJIbg3",
+   "estdio-em-telheiras-IDJIaRs",
+   "apartamento-t1-rooftop-de-charme-no-centro-de-lisboa-IDJIaMq"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4668,7 +4679,8 @@
    "ut1751324",
    "ut1610613",
    "ut1752167",
-   "ut1675800"
+   "ut1675800",
+   "ut1541518"
   ],
   "uniplaces.com": [
    "890027",
@@ -5803,13 +5815,14 @@
    "790474166929833945",
    "15526339",
    "1785556692412257384",
-   "557936766407348586"
+   "557936766407348586",
+   "1239215696233108233"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 17,
+   "bos": 18,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5851,7 +5864,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 11,
+  "elenen": 0,
   "tekrar": 0
  },
  "imzalar": [
@@ -7119,19 +7132,13 @@
   "eb4f7144b736d5a4",
   "ef9d0950d32244f0",
   "5c307fea6b0396f0",
-  "9cb22cba0f8f1c48"
+  "9cb22cba0f8f1c48",
+  "bbcdd0ae0e3518ff",
+  "2e332fad8e9f0ba2",
+  "fbfc613e13f7fe2b",
+  "f1141ad87a1eb11f",
+  "e54ad7601e805330"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · T1 parque das nações · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-parque-das-nacoes-ID1jdEz",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 560 €\nT1 em Famões - Leia todo anuncio. · 560 € · Pontinha E Famões - Hoje às 19:30\nhttps://www.olx.pt/d/anuncio/t1-em-fames-leia-todo-anuncio-IDJI87M.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT3 em Lisboa (Santa Apolonia) · 1.500 € · São Vicente - Hoje às 16:33\nhttps://www.olx.pt/d/anuncio/t3-em-lisboa-santa-apolonia-IDJI7jP.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nT1 parque das nações · 700 € · Parque das Nações - Hoje às 15:59\nhttps://www.olx.pt/d/anuncio/t1-parque-das-naes-IDJI7a5.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Loft ⋅ Lisboa · 4,51 de uma avaliação média de 5, 103 avaliações · 4,51 (103) · Loft no coração de Lisboa antiga · 1 quarto · 1 cama · 1 banheiro · $ 2.527 USD · $ 1.380 USD · $ 1.380 USD mensal, preço original: $ 2.527 USD · mensal · Desconto mensal · Superhost · A…\nhttps://www.airbnb.com/rooms/1785556692412257384",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nApartamento T1 T novo e Equipado na Várzea de Sintra · 1.600 € · Sintra (Santa Maria E São Miguel, São Martinho E São Pedro De Penaferrim) - 13 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t1-t-novo-e-equipado-na-vrzea-de-sintra-IDJI1fj.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T0+1 Arrenda-se Lisboa · Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-1-arrenda-se-lisboa-ID1jdJs",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nApartamento T0+1 Arrenda-se Lisboa · 1.200 € · Arroios - Hoje às 14:00\nhttps://www.olx.pt/d/anuncio/apartamento-t0-1-arrenda-se-lisboa-IDJIak3.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nArrendamento – Apartamento T3 Novo, com acabamentos de qualidade superior, em Paredes - Alenquer · 1.500 € · Alenquer (Santo Estêvão E Triana) - Hoje às 10:57\nhttps://www.olx.pt/d/anuncio/arrendamento-apartamento-t3-novo-com-acabamentos-de-qualidade-superior-em-paredes-alenquer-IDJI9v4.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Microcasa ⋅ Graça · Estúdio aconchegante na Graça com espaço de trabalho perto do elétrico 28 · 1 quarto · 1 cama de casal · 1 banheiro · $ 1.349 USD · $ 1.045 USD · $ 1.045 USD mensal, preço original: $ 1.349 USD · mensal · Loft ⋅ Lisboa · 4,51 de uma avaliação méd…\nhttps://www.airbnb.com/rooms/557936766407348586"
- ],
- "son_gonderim": "2026-11-14"
+ "kuyruk": [],
+ "son_gonderim": "2026-11-15"
 }
