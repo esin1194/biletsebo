@@ -38,7 +38,9 @@
    "16217789/aprendiz-chapeiro-automovel-goios",
    "16097323/operateur-gestion-de-dossier-d-assurance-en-langue-francaise-braga",
    "16208239/fiel-de-armazem",
-   "16218755/assistente-de-balcao-m-f-material-eletrico-braga"
+   "16218755/assistente-de-balcao-m-f-material-eletrico-braga",
+   "16255956/operador-central-de-marcacoes-sector-automovel",
+   "16251783/empresa-trading-com-sede-em-guimaraes-procura-assistente-de-importacao"
   ],
   "emprego.sapo.pt": [],
   "olx.pt": [],
@@ -1716,8 +1718,8 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 25,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -1778,7 +1780,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 978,
+  "elenen": 980,
   "tekrar": 41
  }
 }
