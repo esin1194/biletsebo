@@ -2436,7 +2436,8 @@
    "excelente-t3-para-arrendamento-em-benfica-ID1jdGg",
    "apartamento-t4-para-arrendamento-ID1jdFD",
    "apartamento-t2-para-arrendamento-ID1jdFB",
-   "t1-parque-das-nacoes-ID1jdEz"
+   "t1-parque-das-nacoes-ID1jdEz",
+   "apartamento-5-quartos-127-m2-terraco-ID9P5llq"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3445,7 +3446,8 @@
    "t1-em-fames-leia-todo-anuncio-IDJI87M",
    "excelente-t2-com-terrao-parqueamento-e-arrecadao-prximo-de-lisboa-IDJI81N",
    "t3-em-lisboa-santa-apolonia-IDJI7jP",
-   "t1-parque-das-naes-IDJI7a5"
+   "t1-parque-das-naes-IDJI7a5",
+   "apartamento-t1-t-novo-e-equipado-na-vrzea-de-sintra-IDJI1fj"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5797,7 +5799,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5839,7 +5841,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 5,
   "tekrar": 0
  },
  "imzalar": [
@@ -7102,14 +7104,16 @@
   "1d20e59a927b03ae",
   "96a45ae2fbe059cd",
   "76f655a50aabfcd1",
-  "628fdc2acf5f5257"
+  "628fdc2acf5f5257",
+  "b9d9e9d3a342bd9e"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · T1 parque das nações · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-parque-das-nacoes-ID1jdEz",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 560 €\nT1 em Famões - Leia todo anuncio. · 560 € · Pontinha E Famões - Hoje às 19:30\nhttps://www.olx.pt/d/anuncio/t1-em-fames-leia-todo-anuncio-IDJI87M.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT3 em Lisboa (Santa Apolonia) · 1.500 € · São Vicente - Hoje às 16:33\nhttps://www.olx.pt/d/anuncio/t3-em-lisboa-santa-apolonia-IDJI7jP.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nT1 parque das nações · 700 € · Parque das Nações - Hoje às 15:59\nhttps://www.olx.pt/d/anuncio/t1-parque-das-naes-IDJI7a5.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Loft ⋅ Lisboa · 4,51 de uma avaliação média de 5, 103 avaliações · 4,51 (103) · Loft no coração de Lisboa antiga · 1 quarto · 1 cama · 1 banheiro · $ 2.527 USD · $ 1.380 USD · $ 1.380 USD mensal, preço original: $ 2.527 USD · mensal · Desconto mensal · Superhost · A…\nhttps://www.airbnb.com/rooms/1785556692412257384"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Loft ⋅ Lisboa · 4,51 de uma avaliação média de 5, 103 avaliações · 4,51 (103) · Loft no coração de Lisboa antiga · 1 quarto · 1 cama · 1 banheiro · $ 2.527 USD · $ 1.380 USD · $ 1.380 USD mensal, preço original: $ 2.527 USD · mensal · Desconto mensal · Superhost · A…\nhttps://www.airbnb.com/rooms/1785556692412257384",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nApartamento T1 T novo e Equipado na Várzea de Sintra · 1.600 € · Sintra (Santa Maria E São Miguel, São Martinho E São Pedro De Penaferrim) - 13 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t1-t-novo-e-equipado-na-vrzea-de-sintra-IDJI1fj.html"
  ],
  "son_gonderim": "2026-11-14"
 }
