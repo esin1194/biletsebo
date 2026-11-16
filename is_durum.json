@@ -834,7 +834,23 @@
    "master-data-specialist_lisboa_DTS-2026-187040",
    "consultor-comercial-de-seguros-m-f-x_lisboa_PTS-2026-186869",
    "operador-de-armazem_vialonga_OTS-2026-186714",
-   "supervisor-mfx_lisboa_OTS-2026-173234"
+   "supervisor-mfx_lisboa_OTS-2026-173234",
+   "pintor-auto-mfx_oeiras_ETS-2026-187112",
+   "eletricista-mfx_lisboa_ETS-2026-187115",
+   "eletrcista-auto_oeiras_ETS-2026-187110",
+   "tecnico-de-eletronica-mfx_linda-a-velha_ETS-2026-187107",
+   "mecanico-auto-mfx_oeiras_ETS-2026-187109",
+   "qa-analyst-mfx_porto_DTS-2026-187105",
+   "ajudante-auto-pesados_oeiras_ETS-2026-187106",
+   "mecatronico_oeiras_ETS-2026-187043",
+   "pricing-specialist-english-speaker-mfx_lisbon-hybrid_OTS-2026-187093",
+   "assistente-logistica_milharado-mafra_OTS-2026-187100",
+   "sales-representative_lisboa_PTS-2026-187096",
+   "sales-representative_porto_PTS-2026-187097",
+   "assistente-de-loja-celeiro-horario-rotativo-a-partir-das-9h-ate-as-20h-ou-23h-folgas-ao-sabad_lisboa_OTS-2026-182591",
+   "medico-de-medicina-geral-e-familiar-mfx_vila-franca-de-xira_PTS-2025-187094",
+   "finance-treasury-manager-fmx_lisboa_PTS-2026-186874",
+   "operador-de-picking_povoa-de-santa-iria_OTS-2026-187078"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1311,7 +1327,13 @@
    "4tTddXDfgXXX92WCXhkZXy",
    "g3hEeLKNWREFbDN7WbVvNK",
    "nF9N4Kcfvbu4EkYJeqckUH",
-   "ddfGZNXp3kcMRrYEhiuLRy"
+   "ddfGZNXp3kcMRrYEhiuLRy",
+   "37rTpiGZRkWwYdfT3Xfyst",
+   "h8UorMJwqsKZcGhNqz4WVA",
+   "fZSBD7dXYhNwx7MMBdD3r7",
+   "f8yMhw7gMaLwvY4xEE2QfL",
+   "nei2tRdB3jofrVmYfmGce1",
+   "3xpuotJQcxETChdum9eEtd"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1715,13 +1737,15 @@
   "7dd66af1b77f673e",
   "a58776d2d998e2c4",
   "7e9cad7d8ea12803",
-  "bb0125dff5d7add2"
+  "bb0125dff5d7add2",
+  "3b12ca336ef6eb00",
+  "8ef6fd83b6b67dfe"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 2,
-   "uyarildi": false
+   "bos": 3,
+   "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
    "ilk": true,
@@ -1782,7 +1806,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 980,
-  "tekrar": 41
+  "elenen": 999,
+  "tekrar": 42
  }
 }
