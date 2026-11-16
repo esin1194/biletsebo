@@ -2448,7 +2448,9 @@
    "arrendamento-de-apartamento-t3-em-santa-engracia-ID1jdKi",
    "estudio-em-telheiras-ID1jdK9",
    "apartamento-t1-rooftop-de-charme-no-centro-de-lisboa-ID1jdJU",
-   "apartamento-4-quartos-143-m2-luminoso-ID9P5lls"
+   "apartamento-4-quartos-143-m2-luminoso-ID9P5lls",
+   "t1-open-space-num-palacio-em-lisboa-amoreiras-desps-incluidas-ID1jdLJ",
+   "apartamento-1-quartos-117-m2-luminoso-ID9P5llt"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3467,7 +3469,9 @@
    "apartamento-t2-novo-IDJktN2",
    "ericeira-apartamento-t2-IDJIbg3",
    "estdio-em-telheiras-IDJIaRs",
-   "apartamento-t1-rooftop-de-charme-no-centro-de-lisboa-IDJIaMq"
+   "apartamento-t1-rooftop-de-charme-no-centro-de-lisboa-IDJIaMq",
+   "apartamento-t3-reformado-IDJId0r",
+   "t1-open-space-num-palcio-em-lisboa-amoreiras-desps-includas-IDJiTLD"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4599,7 +4603,8 @@
    "apartments/1753536",
    "apartments/1752807",
    "apartments/1075744",
-   "apartments/1182070"
+   "apartments/1182070",
+   "apartments/1754977"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5822,7 +5827,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 18,
+   "bos": 19,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5864,8 +5869,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 1,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7137,8 +7142,15 @@
   "2e332fad8e9f0ba2",
   "fbfc613e13f7fe2b",
   "f1141ad87a1eb11f",
-  "e54ad7601e805330"
+  "e54ad7601e805330",
+  "566124a92ac5f315",
+  "b3cb2918010c70e4",
+  "7453cb22160a21b1"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · T1 Open Space num palácio em Lisboa, Amoreiras (desps. incluídas) · Amoreiras, Campo de Ourique, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-open-space-num-palacio-em-lisboa-amoreiras-desps-incluidas-ID1jdLJ",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nApartamento T3 Reformado · 1.600 € · Massamá E Monte Abraão - 15 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t3-reformado-IDJId0r.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.650 €\nT1 Open Space num palácio em Lisboa, Amoreiras (desps. incluídas) · 1.650 € · Campo De Ourique - 15 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-open-space-num-palcio-em-lisboa-amoreiras-desps-includas-IDJiTLD.html"
+ ],
  "son_gonderim": "2026-11-15"
 }
