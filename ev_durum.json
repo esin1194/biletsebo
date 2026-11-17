@@ -2468,7 +2468,12 @@
    "cdoqg2-charming-1-bedroom-in-campo-dourique-ID1jdMO",
    "bright-studio-in-saldanha-lisbon-ID1jdMN",
    "t0-1-mobilado-e-junto-ao-metro-ID1jdJw",
-   "apartamento-3-quartos-81-m2-garagem-ID9P5llw"
+   "apartamento-3-quartos-81-m2-garagem-ID9P5llw",
+   "t1-campolide-alto-carvalhao-ID1je4b",
+   "t1-mobilado-com-elevador-junto-ao-metro-ID1je2z",
+   "apartamento-renovado-com-terraco-e-a-c-ID1je10",
+   "t1-mobilado-com-terraco-de-30-m-garagem-e-arrecadacao-arroios-ID1jdYJ",
+   "apartamento-2-quartos-84-m2-luminoso-ID9P5llv"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3496,7 +3501,13 @@
    "apartamento-disponvel-em-cascais-IDJIfTG",
    "apartamento-em-lisboa-IDJIela",
    "t2-com-sto-3-minutos-do-centro-de-sintra-IDJIeSJ",
-   "t2-santa-clara-lumiar-IDJIeHk"
+   "t2-santa-clara-lumiar-IDJIeHk",
+   "arrenda-se-apartamento-IDJwDDu",
+   "apartamento-t1-para-arrendamento-na-rua-jos-pedro-da-silva-3-andar-IDJIi6F",
+   "t1-campolide-alto-carvalhao-IDJIi61",
+   "t1-amadora-lisboa-IDJIhZN",
+   "t0-anexo-em-mem-martins-arrendar-IDJIhOF",
+   "arrendamento-de-apartamento-t1-1-IDJIheV"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5434,7 +5445,9 @@
    "904476",
    "598656",
    "6260",
-   "852484"
+   "852484",
+   "735721",
+   "241002"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5854,13 +5867,15 @@
    "15526339",
    "1785556692412257384",
    "557936766407348586",
-   "1239215696233108233"
+   "1239215696233108233",
+   "903606325650154396",
+   "1787063605594615155"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 21,
+   "bos": 22,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5902,8 +5917,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 4,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7189,8 +7204,27 @@
   "94b6173260f1ecd6",
   "812856287a3d4f44",
   "be8b56ea610f7725",
-  "b406969340d0b4da"
+  "b406969340d0b4da",
+  "f1fa32df42648937",
+  "deda80b141df8617",
+  "5b1a6f9866878d08",
+  "845b0ed39794ff09",
+  "32a78c2d7311e91f",
+  "69faa8e28dc030ee",
+  "53097df1bf36b1c7",
+  "b34f7d9a3ebd51ba",
+  "dfd562bcfe579ae8"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · T1 mobilado com elevador junto ao Metro · Olaias, Areeiro, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · Andar · 10+ andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-elevador-junto-ao-metro-ID1je2z",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · T1 Mobilado com Terraço de 30 m², Garagem e Arrecadação | Arroios · Alameda - Praça do Chile - Almirante Reis, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 110 m² · Andar · 1 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-terraco-de-30-m-garagem-e-arrecadacao-arroios-ID1jdYJ",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrenda-se apartamento · 850 € · Águas Livres - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-IDJwDDu.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nApartamento T1 para arrendamento na Rua José Pedro da Silva, 3º andar · 900 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t1-para-arrendamento-na-rua-jos-pedro-da-silva-3-andar-IDJIi6F.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 Campolide (alto carvalhao) · 1.150 € · Campo De Ourique - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-campolide-alto-carvalhao-IDJIi61.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 Amadora Lisboa · 850 € · Venteira - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-amadora-lisboa-IDJIhZN.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT0 ANEXO em Mem martins ( arrendar) · 750 € · Algueirão-Mem Martins - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t0-anexo-em-mem-martins-arrendar-IDJIhOF.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrendamento de apartamento T1 + 1 · 850 € · Arruda dos Vinhos - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrendamento-de-apartamento-t1-1-IDJIheV.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Condomínio ⋅ Graça · 4,92 de uma avaliação média de 5, 60 avaliações · 4,92 (60) · Terraço com vista para a cidade no centro de Lisboa · 1 quarto · 1 cama · 1 banheiro · $ 1.842 USD · $ 1.338 USD · $ 1.338 USD mensal, preço original: $ 1.842 USD · mensal…\nhttps://www.airbnb.com/rooms/903606325650154396"
+ ],
  "son_gonderim": "2026-11-16"
 }
