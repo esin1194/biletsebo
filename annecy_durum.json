@@ -259,7 +259,11 @@
    "216LJBS",
    "216KTBM",
    "216KQPX",
-   "216MDPV"
+   "216MDPV",
+   "216NBLX",
+   "216MTYL",
+   "216MBPL",
+   "216MNKD"
   ],
   "hellowork.com": [
    "83399370",
@@ -847,7 +851,12 @@
    "85563149",
    "85556129",
    "85556131",
-   "85556106"
+   "85556106",
+   "85584756",
+   "85598619",
+   "85602061",
+   "85581219",
+   "85591420"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -1305,12 +1314,21 @@
   "71b2c617b3447863",
   "d2bf7b98213a456d",
   "7f1c5b471a5f41dc",
-  "acaec0b126f4f036"
+  "acaec0b126f4f036",
+  "34ab04385ef121e9",
+  "da7573626dc457c7",
+  "364c5e80b53fa7bc",
+  "b74a8cb1a56fc129",
+  "08ef53c042ff7ff0",
+  "47151b127a9b5a0d",
+  "1ef0962f0b8dfe2f",
+  "3d60dd7164995f88",
+  "40bd40437e38eff9"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
    "ilk": false,
-   "bos": 1,
+   "bos": 0,
    "uyarildi": false
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?l=Annecy&d=20&t=0": {
@@ -1350,7 +1368,7 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 159,
+   "bos": 160,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
