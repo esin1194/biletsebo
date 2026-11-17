@@ -850,7 +850,17 @@
    "assistente-de-loja-celeiro-horario-rotativo-a-partir-das-9h-ate-as-20h-ou-23h-folgas-ao-sabad_lisboa_OTS-2026-182591",
    "medico-de-medicina-geral-e-familiar-mfx_vila-franca-de-xira_PTS-2025-187094",
    "finance-treasury-manager-fmx_lisboa_PTS-2026-186874",
-   "operador-de-picking_povoa-de-santa-iria_OTS-2026-187078"
+   "operador-de-picking_povoa-de-santa-iria_OTS-2026-187078",
+   "manutencao-eletromecanica_alcantara_ETS-2026-187119",
+   "eletricista-energia-de-tracao_alcantara_ETS-2026-187116",
+   "tecnico-de-manutencao-civil-mfx_alcantara_ETS-2026-187118",
+   "pintor-auto-mfx_lisboa_ETS-2026-187112",
+   "eletricista-mfx_alcantara_ETS-2026-187115",
+   "eletrcista-auto_lisboa_ETS-2026-187110",
+   "tecnico-de-eletronica-mfx_lisboa_ETS-2026-187107",
+   "mecanico-auto-mfx_lisboa_ETS-2026-187109",
+   "ajudante-auto-pesados_lisboa_ETS-2026-187106",
+   "mecatronico_lisboa_ETS-2026-187043"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1333,7 +1343,10 @@
    "fZSBD7dXYhNwx7MMBdD3r7",
    "f8yMhw7gMaLwvY4xEE2QfL",
    "nei2tRdB3jofrVmYfmGce1",
-   "3xpuotJQcxETChdum9eEtd"
+   "3xpuotJQcxETChdum9eEtd",
+   "jh8tu1htmAMDbGWsWXTq65",
+   "ke8sW7zFnYDcJDfU8xQdqg",
+   "6oMoC64Jt7foNe6CeHAUHS"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1744,7 +1757,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1806,7 +1819,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 999,
+  "elenen": 1012,
   "tekrar": 42
  }
 }
