@@ -2473,7 +2473,11 @@
    "t1-mobilado-com-elevador-junto-ao-metro-ID1je2z",
    "apartamento-renovado-com-terraco-e-a-c-ID1je10",
    "t1-mobilado-com-terraco-de-30-m-garagem-e-arrecadacao-arroios-ID1jdYJ",
-   "apartamento-2-quartos-84-m2-luminoso-ID9P5llv"
+   "apartamento-2-quartos-84-m2-luminoso-ID9P5llv",
+   "t0-mobilado-com-garagem-no-parque-das-nacoes-ID1je5e",
+   "apartamento-t3-para-arrendamento-ID1je4W",
+   "apartamento-t3-para-arrendamento-ID1je4T",
+   "apartamento-4-quartos-112-m2-jardim-ID9P5llx"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3507,7 +3511,8 @@
    "t1-campolide-alto-carvalhao-IDJIi61",
    "t1-amadora-lisboa-IDJIhZN",
    "t0-anexo-em-mem-martins-arrendar-IDJIhOF",
-   "arrendamento-de-apartamento-t1-1-IDJIheV"
+   "arrendamento-de-apartamento-t1-1-IDJIheV",
+   "t-2-na-quinta-dos-lombos-a-poucos-metros-da-nova-faculdade-na-marginal-IDJIitE"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5875,7 +5880,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 22,
+   "bos": 23,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5917,7 +5922,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 4,
+  "elenen": 6,
   "tekrar": 1
  },
  "imzalar": [
@@ -7213,7 +7218,10 @@
   "69faa8e28dc030ee",
   "53097df1bf36b1c7",
   "b34f7d9a3ebd51ba",
-  "dfd562bcfe579ae8"
+  "dfd562bcfe579ae8",
+  "e05c100fc732802f",
+  "52c2b9cda740d492",
+  "6df4c8926534b8a9"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · T1 mobilado com elevador junto ao Metro · Olaias, Areeiro, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · Andar · 10+ andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-com-elevador-junto-ao-metro-ID1je2z",
@@ -7224,7 +7232,10 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT1 Amadora Lisboa · 850 € · Venteira - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-amadora-lisboa-IDJIhZN.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT0 ANEXO em Mem martins ( arrendar) · 750 € · Algueirão-Mem Martins - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t0-anexo-em-mem-martins-arrendar-IDJIhOF.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nArrendamento de apartamento T1 + 1 · 850 € · Arruda dos Vinhos - 16 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrendamento-de-apartamento-t1-1-IDJIheV.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Condomínio ⋅ Graça · 4,92 de uma avaliação média de 5, 60 avaliações · 4,92 (60) · Terraço com vista para a cidade no centro de Lisboa · 1 quarto · 1 cama · 1 banheiro · $ 1.842 USD · $ 1.338 USD · $ 1.338 USD mensal, preço original: $ 1.842 USD · mensal…\nhttps://www.airbnb.com/rooms/903606325650154396"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Condomínio ⋅ Graça · 4,92 de uma avaliação média de 5, 60 avaliações · 4,92 (60) · Terraço com vista para a cidade no centro de Lisboa · 1 quarto · 1 cama · 1 banheiro · $ 1.842 USD · $ 1.338 USD · $ 1.338 USD mensal, preço original: $ 1.842 USD · mensal…\nhttps://www.airbnb.com/rooms/903606325650154396",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 650 €\n650 € · T0 mobilado com garagem no Parque das Nações · Expo Central, Parque das Nações, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 35 m² · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-com-garagem-no-parque-das-nacoes-ID1je5e",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 650 €\n650 €T0 mobilado com garagem no Parque das NaçõesExpo Central, Parque das Nações, Lisboa, LisboaTipologiaT0Preço por metro quadrado35 m²Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-4-quartos-112-m2-jardim-ID9P5llx",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.600 €\nT 2 na quinta dos lombos a poucos metros da nova faculdade na marginal · 1.600 € · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - Hoje às 00:43\nhttps://www.olx.pt/d/anuncio/t-2-na-quinta-dos-lombos-a-poucos-metros-da-nova-faculdade-na-marginal-IDJIitE.html"
  ],
  "son_gonderim": "2026-11-16"
 }
