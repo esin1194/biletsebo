@@ -860,7 +860,15 @@
    "tecnico-de-eletronica-mfx_lisboa_ETS-2026-187107",
    "mecanico-auto-mfx_lisboa_ETS-2026-187109",
    "ajudante-auto-pesados_lisboa_ETS-2026-187106",
-   "mecatronico_lisboa_ETS-2026-187043"
+   "mecatronico_lisboa_ETS-2026-187043",
+   "assistente-logistica_mafra_OTS-2026-187100",
+   "operador-fabril-mfx_massama_OTS-2026-187170",
+   "responsavel-de-recursos-humanos-fmx_sintra_PTS-2026-187164",
+   "secretariado-juridico-fmx_lisboa_PTS-2026-187160",
+   "buyer-support-agent-german-speaker-mfx_lisbon-hybrid_OTS-2026-187158",
+   "formador-de-gestao-de-projetos_lisboa_OTS-2026-187162",
+   "eletricista-auto_lisboa_ETS-2026-187110",
+   "gestor-de-contacto-banca-1a-linha-mfx_lisboa_OTS-2026-186879"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1346,7 +1354,12 @@
    "3xpuotJQcxETChdum9eEtd",
    "jh8tu1htmAMDbGWsWXTq65",
    "ke8sW7zFnYDcJDfU8xQdqg",
-   "6oMoC64Jt7foNe6CeHAUHS"
+   "6oMoC64Jt7foNe6CeHAUHS",
+   "vREwB2D75QGAS9a28gHtb3",
+   "uWsTcphAmTrcMW9uhodGFz",
+   "1a87FumJKvJ2J4jNeyVcE8",
+   "5H3rj1U9QReF76c9xkwtGu",
+   "vHKTmNY2XyQnkNwsN1g8S1"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1752,12 +1765,14 @@
   "7e9cad7d8ea12803",
   "bb0125dff5d7add2",
   "3b12ca336ef6eb00",
-  "8ef6fd83b6b67dfe"
+  "8ef6fd83b6b67dfe",
+  "127b922bb1338309",
+  "bac00d942fae4c44"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1819,7 +1834,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1012,
-  "tekrar": 42
+  "elenen": 1022,
+  "tekrar": 43
  }
 }
