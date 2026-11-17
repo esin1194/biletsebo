@@ -258,7 +258,8 @@
    "216KMLB",
    "216LJBS",
    "216KTBM",
-   "216KQPX"
+   "216KQPX",
+   "216MDPV"
   ],
   "hellowork.com": [
    "83399370",
@@ -842,7 +843,11 @@
    "85525771",
    "85526221",
    "85536491",
-   "85539193"
+   "85539193",
+   "85563149",
+   "85556129",
+   "85556131",
+   "85556106"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -1345,7 +1350,7 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 157,
+   "bos": 158,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
@@ -1357,7 +1362,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 92,
-  "tekrar": 195
+  "elenen": 94,
+  "tekrar": 198
  }
 }
