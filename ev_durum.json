@@ -2504,7 +2504,8 @@
    "arrenda-se-t2-em-benfica-ID1jepq",
    "ardendo-t0-mobiliado-ID1jeoo",
    "apartamento-t3-para-arrendamento-ID1jemt",
-   "apartamento-1-quartos-88-m2-novo-ID9P5llz"
+   "apartamento-1-quartos-88-m2-novo-ID9P5llz",
+   "apartamento-5-quartos-96-m2-jardim-ID9P5llA"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -4683,7 +4684,9 @@
    "apartments/1754977",
    "apartments/1755231",
    "apartments/951740",
-   "apartments/1756298"
+   "apartments/1756298",
+   "apartments/1181393",
+   "apartments/1756514"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5926,13 +5929,15 @@
    "618121377429239366",
    "1820387595138247407",
    "47931808",
-   "1813166032003999732"
+   "1813166032003999732",
+   "47011797",
+   "37802555"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 25,
+   "bos": 26,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5974,8 +5979,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 6,
-  "tekrar": 2
+  "elenen": 7,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7286,13 +7291,17 @@
   "ea3cf64513172a0a",
   "8f506bc1fdb51ce7",
   "ed2b1c50663c64d2",
-  "09228b6b069c9266"
+  "09228b6b069c9266",
+  "ff90a0c4e6f33fb8",
+  "cc718b4b093ac4b8"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.470 €\n1470 € · Apartamento T1 em Alvalade · Travessa Henrique Cardoso, Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 57 m² · Andar · 1 andar · Destacado · UKIO PORTUGAL · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-alvalade-ID1i3nW",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · Ardendo t0 mobiliado · São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 39 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/ardendo-t0-mobiliado-ID1jeoo",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nArdendo t0 mobiliado · 700 € · Santa Maria Maior - 17 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/ardendo-t0-mobiliado-IDJImU6.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAPARTMENT · FROM 18 NOV · 1-bedroom apartment for rent in Lisbon · 1000 €/month · info · lock · DEPOSIT PROTECTED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1756298"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAPARTMENT · FROM 18 NOV · 1-bedroom apartment for rent in Lisbon · 1000 €/month · info · lock · DEPOSIT PROTECTED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1756298",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 18 NOV · 2-bedroom apartment for rent in Lisbon · 1500 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1756514",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 3 de dez.  a  2 de mar. · 3 de dez. – 2 de mar. · Apartamento ⋅ Arroios · 4,85 de uma avaliação média de 5, 46 avaliações · 4,85 (46) · Central Charm Lisboa c/AC+Aquecimento · 2 quartos · 3 camas · 2 banheiros · $ 3.327 USD · $ 2.653 USD · $ 2.653 USD mensal, pre…\n<i>⚠️ T2 ama m² bilgisi yok.</i>\nhttps://www.airbnb.com/rooms/37802555"
  ],
  "son_gonderim": "2026-11-17"
 }
