@@ -2498,7 +2498,13 @@
    "apartamento-t1-com-marquise-av-visconde-valmor-ID1je7W",
    "arrenda-se-t2-freguesia-de-marvila-ID1je7y",
    "t1-com-garagem-no-saldanha-residence-lisboa-ID1je5D",
-   "apartamento-2-quartos-67-m2-terraco-ID9P5lly"
+   "apartamento-2-quartos-67-m2-terraco-ID9P5lly",
+   "apartamento-t1-em-alvalade-ID1i3nW",
+   "arrendo-apartamento-rato-t1-ID1jeq5",
+   "arrenda-se-t2-em-benfica-ID1jepq",
+   "ardendo-t0-mobiliado-ID1jeoo",
+   "apartamento-t3-para-arrendamento-ID1jemt",
+   "apartamento-1-quartos-88-m2-novo-ID9P5llz"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3538,7 +3544,10 @@
    "t2-aluguer-3-piso-remodelado-IDJI1mu",
    "apartamento-t3-nas-portas-de-benfica-rea-bruta-privada-de-144-28-m2-excelente-localizao-junto-ao-metro-1-1-km-centro-comercial-colombo-2-7-km-IDJIl51",
    "apartamento-t0-alto-sto-amaro-IDJIksb",
-   "arrendo-apartamento-rato-t1-IDJIknu"
+   "arrendo-apartamento-rato-t1-IDJIknu",
+   "bright-apartment-for-rent-campo-de-ourique-lisbon-IDJInHp",
+   "arrenda-se-t2-em-benfica-IDJInGA",
+   "ardendo-t0-mobiliado-IDJImU6"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4673,7 +4682,8 @@
    "apartments/1182070",
    "apartments/1754977",
    "apartments/1755231",
-   "apartments/951740"
+   "apartments/951740",
+   "apartments/1756298"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5914,13 +5924,15 @@
    "903606325650154396",
    "1787063605594615155",
    "618121377429239366",
-   "1820387595138247407"
+   "1820387595138247407",
+   "47931808",
+   "1813166032003999732"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 24,
+   "bos": 25,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -5962,8 +5974,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 6,
+  "tekrar": 2
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7270,8 +7282,17 @@
   "113d4ccbdca751e0",
   "a1d7da85b656bf9f",
   "0888346430239bd7",
-  "e99840f00ad517d8"
+  "e99840f00ad517d8",
+  "ea3cf64513172a0a",
+  "8f506bc1fdb51ce7",
+  "ed2b1c50663c64d2",
+  "09228b6b069c9266"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.470 €\n1470 € · Apartamento T1 em Alvalade · Travessa Henrique Cardoso, Alvalade, Alvalade, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 57 m² · Andar · 1 andar · Destacado · UKIO PORTUGAL · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-alvalade-ID1i3nW",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · Ardendo t0 mobiliado · São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 39 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/ardendo-t0-mobiliado-ID1jeoo",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 700 €\nArdendo t0 mobiliado · 700 € · Santa Maria Maior - 17 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/ardendo-t0-mobiliado-IDJImU6.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.000 €\nAPARTMENT · FROM 18 NOV · 1-bedroom apartment for rent in Lisbon · 1000 €/month · info · lock · DEPOSIT PROTECTED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1756298"
+ ],
  "son_gonderim": "2026-11-17"
 }
