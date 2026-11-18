@@ -2524,7 +2524,10 @@
    "compact-furnished-studio-with-all-bills-included-in-arroios-lisbon-ID1jerZ",
    "apartment-in-travessa-do-meio-with-1-bedroom-ID1jerU",
    "t2-em-alges-com-varanda-ID1jecR",
-   "apartamento-5-quartos-63-m2-luminoso-ID9P5llB"
+   "apartamento-5-quartos-63-m2-luminoso-ID9P5llB",
+   "apartamento-t1-sao-domingos-benfica-junto-hospital-cruz-vermelha-ID1jeLN",
+   "apartamento-t2-para-arrendamento-ID1jeKU",
+   "t2-com-terraco-e-garagem-junto-ao-jardim-constantino-arroios-ID1jeJE"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3571,7 +3574,13 @@
    "apartamento-t2-odivelas-IDJItci",
    "arrenda-se-apartamento-t2-bela-vista-IDJIs1o",
    "t2-vialonga-arrendar-IDJIryC",
-   "estudio-a-5-min-a-p-do-comboio-metro-reboleira-IDJIqhx"
+   "estudio-a-5-min-a-p-do-comboio-metro-reboleira-IDJIqhx",
+   "t3-remodelado-para-arrendar-em-odivelas-IDJIvvX",
+   "t1-marteleira-prximo-paragem-autocarro-IDJIvwC",
+   "arrenda-se-apartamento-t1-IDJIv43",
+   "t3-arrentela-seixal-sute-lareira-1-renda-1-cauo-IDJI9CH",
+   "apart-t2-1-arrendar-beato-olaias-IDJIuYs",
+   "t2-com-1wc-caxias-para-arrendar-IDJIugC"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4709,7 +4718,9 @@
    "apartments/951740",
    "apartments/1756298",
    "apartments/1181393",
-   "apartments/1756514"
+   "apartments/1756514",
+   "apartments/766878",
+   "apartments/1755209"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5535,7 +5546,8 @@
    "525279",
    "562106",
    "444009",
-   "1105"
+   "1105",
+   "891929"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -5966,13 +5978,14 @@
    "37802555",
    "31789013",
    "43095476",
-   "33981678"
+   "33981678",
+   "29330369"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 27,
+   "bos": 28,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6014,8 +6027,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
-  "tekrar": 0
+  "elenen": 9,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7334,8 +7347,11 @@
   "5c4e61a6c0c02bc9",
   "659794200a39dcee",
   "ccddf83328b91a0b",
-  "5487b59d65987d3b"
+  "5487b59d65987d3b",
+  "c4ee1ea1640bb01f"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nArrenda-se Apartamento T1 · 900 € · São Domingos de Rana - Hoje às 21:48\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-IDJIv43.html"
+ ],
  "son_gonderim": "2026-11-18"
 }
