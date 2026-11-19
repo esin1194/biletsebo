@@ -879,7 +879,12 @@
    "tecnico-de-manutencao-industrial_castanheira-do-ribatejo_OTS-2025-156935",
    "tecnico-de-recursos-humanos-fmx_sintra_PTS-2026-187164",
    "promotor-conforama-mfx-parttime_sintra_OTS-2026-187195",
-   "operador-de-armazem-horario-nocturno_vialonga_OTS-2026-187243"
+   "operador-de-armazem-horario-nocturno_vialonga_OTS-2026-187243",
+   "buyer-registration-agent-italian-speaker-mfx_lisbon-hybrid_OTS-2026-187280",
+   "buyer-onboarding-support-agent-german-speaker-mfx_lisbon-hybrid_OTS-2026-187278",
+   "it-project-manager-mfx_lisboa_DTS-2026-187259",
+   "promotor-de-loja-mfx_colombo_OTS-2026-186885",
+   "pricing-specialist-english-speaker-mfx_lisbon-hybrid_OTS-2026-187165"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1374,7 +1379,9 @@
    "fTWoumLH2Kvr4Pq3fewqkA",
    "3sNd2k9G8W7qHfotH3RPuw",
    "eSW5yarfNVYtS2Brt3zKpB",
-   "nFLUWcSZVoSZQqjctwj9Xy"
+   "nFLUWcSZVoSZQqjctwj9Xy",
+   "pYYc1yaqD6RJBqdYDVLcTC",
+   "37twC9HRzmuzWus3T3qCdj"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1784,12 +1791,13 @@
   "127b922bb1338309",
   "bac00d942fae4c44",
   "42317573a418542c",
-  "6691c3677104ef8e"
+  "6691c3677104ef8e",
+  "c00b27cae5a51f72"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 11,
+   "bos": 12,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1851,7 +1859,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1034,
+  "elenen": 1040,
   "tekrar": 44
  }
 }
