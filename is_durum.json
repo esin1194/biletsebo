@@ -872,7 +872,14 @@
    "tecnicoa-eletrodomesticos-area-professional_carnaxide-lisboa_OTS-2026-185283",
    "oficial-de-instalacoes-mecanicas-mfx_castanheira-do-ribatejo_OTS-2026-187220",
    "fiel-de-armazem-mfx_castanheira-do-ribatejo_OTS-2026-187216",
-   "office-manager-mfx_lisboa_PTS-2026-187217"
+   "office-manager-mfx_lisboa_PTS-2026-187217",
+   "assistente-de-contacto-com-cliente-mfx_oeiras_OTS-2026-186339",
+   "tecnico-de-mecatronica_castanheira-do-ribatejo_OTS-2025-158512",
+   "operador-de-laboratorio-quimico_castanheira-do-ribatejo_OTS-2025-169698",
+   "tecnico-de-manutencao-industrial_castanheira-do-ribatejo_OTS-2025-156935",
+   "tecnico-de-recursos-humanos-fmx_sintra_PTS-2026-187164",
+   "promotor-conforama-mfx-parttime_sintra_OTS-2026-187195",
+   "operador-de-armazem-horario-nocturno_vialonga_OTS-2026-187243"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1782,7 +1789,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 9,
+   "bos": 10,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1844,7 +1851,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1028,
-  "tekrar": 43
+  "elenen": 1034,
+  "tekrar": 44
  }
 }
