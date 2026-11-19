@@ -884,7 +884,11 @@
    "buyer-onboarding-support-agent-german-speaker-mfx_lisbon-hybrid_OTS-2026-187278",
    "it-project-manager-mfx_lisboa_DTS-2026-187259",
    "promotor-de-loja-mfx_colombo_OTS-2026-186885",
-   "pricing-specialist-english-speaker-mfx_lisbon-hybrid_OTS-2026-187165"
+   "pricing-specialist-english-speaker-mfx_lisbon-hybrid_OTS-2026-187165",
+   "advogado-direito-da-familia-e-direito-das-sucessoes-mfx_lisboa_PTS-2026-187296",
+   "temporary-data-entry-operator-english-mfx_lisbon-portugal_OTS-2026-187294",
+   "formador-de-ia_lisboa_OTS-2026-187289",
+   "assistente-de-loja-parttime-mfx_el-corte-ingles-lisboa_OTS-2026-187286"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1797,7 +1801,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 12,
+   "bos": 13,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1859,7 +1863,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1040,
+  "elenen": 1044,
   "tekrar": 44
  }
 }
