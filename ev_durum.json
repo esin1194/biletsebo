@@ -2537,7 +2537,18 @@
    "arrenda-se-t2-com-patio-na-rua-de-sao-gens-ID1jeQW",
    "apartamento-t2-duplex-em-lisboa-ID1jeP2",
    "apartamento-t2-para-arrendamento-ID1jeP1",
-   "apartamento-3-quartos-118-m2-remodelado-ID9P5llD"
+   "apartamento-3-quartos-118-m2-remodelado-ID9P5llD",
+   "apartamento-t1-para-arrendamento-ID1jf6Q",
+   "t0-mobilado-com-ar-condicionado-nas-avenidas-novas-ID1jf5Y",
+   "apartamento-t2-para-arrendamento-ID1jf4h",
+   "apartamento-t3-para-arrendamento-ID1jf3Y",
+   "t1-totalmente-renovado-para-arrendamento-arroios-lisboa-ID1jf2j",
+   "t-2-mobilado-equipado-centro-lisboa-so-renda-caucao-pode-ter-pet-ID1jeZy",
+   "apartamento-t3-com-varandas-na-quinta-das-conchas-lumiar-em-lisboa-ID1jeZk",
+   "cdoqm-trendy-duplex-studio-in-campo-de-ourique-ID1jeY0",
+   "elegante-apartamento-t2-junto-ao-jardim-da-estrela-ID1jeXh",
+   "apartamento-t1-para-arrendamento-ID1jeV6",
+   "apartamento-3-quartos-105-m2-jardim-ID9P5llE"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3594,7 +3605,10 @@
    "apartamentos-t0-disponveis-IDJIB7Z",
    "arrenda-se-t2-oeiras-IDJIB0R",
    "arrendamento-t2-imediato-no-cacem-IDJIAEr",
-   "apartamento-t2-totalmente-renovado-com-grande-terrao-a-5min-da-estao-da-amadora-IDJIz3u"
+   "apartamento-t2-totalmente-renovado-com-grande-terrao-a-5min-da-estao-da-amadora-IDJIz3u",
+   "apartamento-t2-em-massam-norte-rua-dona-ins-de-castro-mobilado-e-totalmente-equipado-IDJIDCS",
+   "alugo-apartamento-t2-na-rua-vasco-da-gama-32-4-esquerdo-IDJICS1",
+   "t-2-mobilado-equipado-centro-lisboa-s-renda-cauo-pode-ter-pet-IDJIDik"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4735,7 +4749,8 @@
    "apartments/1756514",
    "apartments/766878",
    "apartments/1755209",
-   "apartments/1757199"
+   "apartments/1757199",
+   "apartments/1753629"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4820,7 +4835,9 @@
    "ut1753890",
    "ut1625359",
    "ut1669461",
-   "ut1753990"
+   "ut1753990",
+   "ut1754063",
+   "ut1477118"
   ],
   "uniplaces.com": [
    "890027",
@@ -5566,7 +5583,9 @@
    "1105",
    "891929",
    "906695",
-   "849401"
+   "849401",
+   "906812",
+   "681066"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6004,7 +6023,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 30,
+   "bos": 31,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6046,7 +6065,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 22,
+  "elenen": 37,
   "tekrar": 1
  },
  "imzalar": [
@@ -7373,7 +7392,11 @@
   "0346cf4686cc22e0",
   "3d9d653be2cce6b2",
   "75f14282a5079378",
-  "7a8aa10e0861a7a3"
+  "7a8aa10e0861a7a3",
+  "8c68619f157ebd33",
+  "21f5476945371741",
+  "bf9ce53981e4269b",
+  "ea812705910a5c49"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nArrenda-se Apartamento T1 · 900 € · São Domingos de Rana - Hoje às 21:48\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-IDJIv43.html",
@@ -7382,7 +7405,11 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.990 €\n1990 € · Loft T1 Duplex com varanda - garagem · Rua Tenente Valadim, Alcântara, Estrela, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 113 m² · Andar · 4 andar · KW LEAD · Profissional\nhttps://www.imovirtual.com/pt/anuncio/loft-t1-duplex-com-varanda-garagem-ID1jeQY",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 630 €\nApartamentos T0 disponíveis · 630 € · Benfica - Hoje às 12:47\nhttps://www.olx.pt/d/anuncio/apartamentos-t0-disponveis-IDJIB7Z.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nApartamento T2 totalmente renovado, com grande terraço, a 5min da estação da Amadora · 1.250 € · Águas Livres - Hoje às 09:04\nhttps://www.olx.pt/d/anuncio/apartamento-t2-totalmente-renovado-com-grande-terrao-a-5min-da-estao-da-amadora-IDJIz3u.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nAPARTMENT · FROM 01 DEC · 1-bedroom apartment for rent in Lisbon. · 1450 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1757199"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.450 €\nAPARTMENT · FROM 01 DEC · 1-bedroom apartment for rent in Lisbon. · 1450 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1757199",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · T0 mobilado com ar condicionado nas Avenidas Novas · Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 27 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-com-ar-condicionado-nas-avenidas-novas-ID1jf5Y",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · Apartamento T3 com varandas, na Quinta das Conchas, Lumiar, em Lisboa · Alto do Lumiar - Quinta das Conchas - Quinta do Lambert, Lumiar, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 123.73 m² · Andar · 3 andar · Dils · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-com-varandas-na-quinta-das-conchas-lumiar-em-lisboa-ID1jeZk",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Elegante Apartamento T2 junto ao Jardim da Estrela · Largo do Rato - Estrela, Campo de Ourique, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 69 m² · Engel &amp; Völkers Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/elegante-apartamento-t2-junto-ao-jardim-da-estrela-ID1jeXh",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T2 em Massamá Norte - Rua Dona Inês de Castro: MOBILADO E TOTALMENTE EQUIPADO · 1.300 € · Queluz E Belas - Para o topo hoje às 17:21\nhttps://www.olx.pt/d/anuncio/apartamento-t2-em-massam-norte-rua-dona-ins-de-castro-mobilado-e-totalmente-equipado-IDJIDCS.html"
  ],
  "son_gonderim": "2026-11-18"
 }
