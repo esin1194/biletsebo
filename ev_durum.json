@@ -2527,7 +2527,8 @@
    "apartamento-5-quartos-63-m2-luminoso-ID9P5llB",
    "apartamento-t1-sao-domingos-benfica-junto-hospital-cruz-vermelha-ID1jeLN",
    "apartamento-t2-para-arrendamento-ID1jeKU",
-   "t2-com-terraco-e-garagem-junto-ao-jardim-constantino-arroios-ID1jeJE"
+   "t2-com-terraco-e-garagem-junto-ao-jardim-constantino-arroios-ID1jeJE",
+   "apartamento-4-quartos-115-m2-terraco-ID9P5llC"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -5985,7 +5986,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 28,
+   "bos": 29,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6027,7 +6028,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 9,
+  "elenen": 10,
   "tekrar": 1
  },
  "imzalar": [
