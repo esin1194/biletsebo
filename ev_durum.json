@@ -2548,7 +2548,9 @@
    "cdoqm-trendy-duplex-studio-in-campo-de-ourique-ID1jeY0",
    "elegante-apartamento-t2-junto-ao-jardim-da-estrela-ID1jeXh",
    "apartamento-t1-para-arrendamento-ID1jeV6",
-   "apartamento-3-quartos-105-m2-jardim-ID9P5llE"
+   "apartamento-3-quartos-105-m2-jardim-ID9P5llE",
+   "apartamento-t2-novo-a-estrear-no-condominio-zen-no-lumiar-em-lisboa-ID1jdzB",
+   "apartamento-2-quartos-47-m2-terraco-ID9P5llF"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3608,7 +3610,9 @@
    "apartamento-t2-totalmente-renovado-com-grande-terrao-a-5min-da-estao-da-amadora-IDJIz3u",
    "apartamento-t2-em-massam-norte-rua-dona-ins-de-castro-mobilado-e-totalmente-equipado-IDJIDCS",
    "alugo-apartamento-t2-na-rua-vasco-da-gama-32-4-esquerdo-IDJICS1",
-   "t-2-mobilado-equipado-centro-lisboa-s-renda-cauo-pode-ter-pet-IDJIDik"
+   "t-2-mobilado-equipado-centro-lisboa-s-renda-cauo-pode-ter-pet-IDJIDik",
+   "t2-mobilado-e-equipado-com-vista-rio-pvoa-de-santa-iria-IDJIFT4",
+   "arrenda-se-t0-abrigada-IDJIFNq"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4750,7 +4754,9 @@
    "apartments/766878",
    "apartments/1755209",
    "apartments/1757199",
-   "apartments/1753629"
+   "apartments/1753629",
+   "apartments/1753627",
+   "apartments/1755245"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -6017,13 +6023,14 @@
    "31789013",
    "43095476",
    "33981678",
-   "29330369"
+   "29330369",
+   "1821866791183907133"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 31,
+   "bos": 32,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6065,7 +6072,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 37,
+  "elenen": 40,
   "tekrar": 1
  },
  "imzalar": [
@@ -7396,7 +7403,10 @@
   "8c68619f157ebd33",
   "21f5476945371741",
   "bf9ce53981e4269b",
-  "ea812705910a5c49"
+  "ea812705910a5c49",
+  "eb0aa3ffb1a5907d",
+  "1e25ed6cd9540d4a",
+  "3c94b1a610250772"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nArrenda-se Apartamento T1 · 900 € · São Domingos de Rana - Hoje às 21:48\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-IDJIv43.html",
@@ -7409,7 +7419,10 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · T0 mobilado com ar condicionado nas Avenidas Novas · Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 27 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-com-ar-condicionado-nas-avenidas-novas-ID1jf5Y",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · Apartamento T3 com varandas, na Quinta das Conchas, Lumiar, em Lisboa · Alto do Lumiar - Quinta das Conchas - Quinta do Lambert, Lumiar, Lisboa, Lisboa · Tipologia · T3 · Preço por metro quadrado · 123.73 m² · Andar · 3 andar · Dils · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t3-com-varandas-na-quinta-das-conchas-lumiar-em-lisboa-ID1jeZk",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Elegante Apartamento T2 junto ao Jardim da Estrela · Largo do Rato - Estrela, Campo de Ourique, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 69 m² · Engel &amp; Völkers Lisboa · Profissional\nhttps://www.imovirtual.com/pt/anuncio/elegante-apartamento-t2-junto-ao-jardim-da-estrela-ID1jeXh",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T2 em Massamá Norte - Rua Dona Inês de Castro: MOBILADO E TOTALMENTE EQUIPADO · 1.300 € · Queluz E Belas - Para o topo hoje às 17:21\nhttps://www.olx.pt/d/anuncio/apartamento-t2-em-massam-norte-rua-dona-ins-de-castro-mobilado-e-totalmente-equipado-IDJIDCS.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T2 em Massamá Norte - Rua Dona Inês de Castro: MOBILADO E TOTALMENTE EQUIPADO · 1.300 € · Queluz E Belas - Para o topo hoje às 17:21\nhttps://www.olx.pt/d/anuncio/apartamento-t2-em-massam-norte-rua-dona-ins-de-castro-mobilado-e-totalmente-equipado-IDJIDCS.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nT2 Mobilado e Equipado com Vista Rio – Póvoa de Santa Iria · 1.350 € · Póvoa De Santa Iria E Forte Da Casa - 19 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t2-mobilado-e-equipado-com-vista-rio-pvoa-de-santa-iria-IDJIFT4.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 550 €\nArrenda-se T0 Abrigada · 550 € · Abrigada E Cabanas De Torres - 19 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-t0-abrigada-IDJIFNq.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · Novo lugar para ficar · Novo · Sua acomodação aconchegante e charmosa em Lisboa, um lar fora de casa · 1 quarto · 2 camas · $ 1.953 USD · $ 1.516 USD · $ 1.516 USD mensal, preço original: $ 1.953 USD · mensal · Apartamento ⋅ Lisboa · GuestRea…\nhttps://www.airbnb.com/rooms/1821866791183907133"
  ],
  "son_gonderim": "2026-11-18"
 }
