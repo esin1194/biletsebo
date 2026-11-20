@@ -895,7 +895,12 @@
    "operador-de-armazem_telheiras_OTS-2026-182894",
    "area-manager-mfx_lisboa_PTS-2026-187249",
    "enfermeiro_vila-franca-de-xira_PTS-2026-187329",
-   "operador-de-armazem-mfx_albarraque_OTS-2026-187326"
+   "operador-de-armazem-mfx_albarraque_OTS-2026-187326",
+   "assistente-de-loja-mfx_cascais-cascaishopping_OTS-2026-182587",
+   "operador-de-armazem_vialonga_OTS-2026-187365",
+   "enfermeiro-mfx_lisboa_PTS-2026-187364",
+   "people-culture-generalist-mfx_lisboa_PTS-2026-187361",
+   "web-content-search-assistant-mfx_carnaxide_PTS-2026-187335"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1394,7 +1399,9 @@
    "pYYc1yaqD6RJBqdYDVLcTC",
    "37twC9HRzmuzWus3T3qCdj",
    "s8JkY5L9wLFtA9mw1GZ3T4",
-   "3fFwkTm4B2oNESBmsiDj51"
+   "3fFwkTm4B2oNESBmsiDj51",
+   "p3Y1VFwo5tybF699fdCGs2",
+   "omJ5yYGjyPtixcPYpoQrbD"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1806,12 +1813,13 @@
   "42317573a418542c",
   "6691c3677104ef8e",
   "c00b27cae5a51f72",
-  "d3381af195657463"
+  "d3381af195657463",
+  "0591c16ef25a04d0"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 15,
+   "bos": 16,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1873,7 +1881,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1052,
+  "elenen": 1058,
   "tekrar": 44
  }
 }
