@@ -888,7 +888,14 @@
    "advogado-direito-da-familia-e-direito-das-sucessoes-mfx_lisboa_PTS-2026-187296",
    "temporary-data-entry-operator-english-mfx_lisbon-portugal_OTS-2026-187294",
    "formador-de-ia_lisboa_OTS-2026-187289",
-   "assistente-de-loja-parttime-mfx_el-corte-ingles-lisboa_OTS-2026-187286"
+   "assistente-de-loja-parttime-mfx_el-corte-ingles-lisboa_OTS-2026-187286",
+   "tecnico-comercial-lisboa-mfx_lisboa_PTS-2026-187306",
+   "ecommerce-search-specialist-mfx-mfx_carnaxide_PTS-2026-187335",
+   "tecnicoa-de-formacao-e-gestao-de-lms-mfx_sao-domingos-de-rana_PTS-2026-187333",
+   "operador-de-armazem_telheiras_OTS-2026-182894",
+   "area-manager-mfx_lisboa_PTS-2026-187249",
+   "enfermeiro_vila-franca-de-xira_PTS-2026-187329",
+   "operador-de-armazem-mfx_albarraque_OTS-2026-187326"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1385,7 +1392,9 @@
    "eSW5yarfNVYtS2Brt3zKpB",
    "nFLUWcSZVoSZQqjctwj9Xy",
    "pYYc1yaqD6RJBqdYDVLcTC",
-   "37twC9HRzmuzWus3T3qCdj"
+   "37twC9HRzmuzWus3T3qCdj",
+   "s8JkY5L9wLFtA9mw1GZ3T4",
+   "3fFwkTm4B2oNESBmsiDj51"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1796,12 +1805,13 @@
   "bac00d942fae4c44",
   "42317573a418542c",
   "6691c3677104ef8e",
-  "c00b27cae5a51f72"
+  "c00b27cae5a51f72",
+  "d3381af195657463"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 14,
+   "bos": 15,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1863,7 +1873,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1044,
+  "elenen": 1052,
   "tekrar": 44
  }
 }
