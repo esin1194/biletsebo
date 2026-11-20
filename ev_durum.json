@@ -2550,7 +2550,19 @@
    "apartamento-t1-para-arrendamento-ID1jeV6",
    "apartamento-3-quartos-105-m2-jardim-ID9P5llE",
    "apartamento-t2-novo-a-estrear-no-condominio-zen-no-lumiar-em-lisboa-ID1jdzB",
-   "apartamento-2-quartos-47-m2-terraco-ID9P5llF"
+   "apartamento-2-quartos-47-m2-terraco-ID9P5llF",
+   "apartamento-t1-para-arrendamento-ID1jfb3",
+   "apartamento-t1-para-arrendamento-ID1jfb1",
+   "duplex-t3-com-muita-luz-natural-rua-portugal-durao-ID1jfb0",
+   "arrenda-apartamento-lisboa-ID1jf9Q",
+   "t2-semi-mobilado-na-graca-ID1jf9m",
+   "t0-alcantra-mar-ID1jf98",
+   "apartamento-t2-em-arroios-de-108-00-m2-ID1jf89",
+   "apartamento-em-avenidas-novas-de-35-00-m2-ID1jf86",
+   "apartamento-t1-em-parque-das-nacoes-de-68-00-m2-ID1jf84",
+   "apartamento-t2-em-carnide-de-69-00-m2-ID1jf83",
+   "apartamento-t2-1-em-campo-grande-ID1jf55",
+   "apartamento-3-quartos-37-m2-luminoso-ID9P5llG"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3612,7 +3624,10 @@
    "alugo-apartamento-t2-na-rua-vasco-da-gama-32-4-esquerdo-IDJICS1",
    "t-2-mobilado-equipado-centro-lisboa-s-renda-cauo-pode-ter-pet-IDJIDik",
    "t2-mobilado-e-equipado-com-vista-rio-pvoa-de-santa-iria-IDJIFT4",
-   "arrenda-se-t0-abrigada-IDJIFNq"
+   "arrenda-se-t0-abrigada-IDJIFNq",
+   "arrendamento-t1-em-massam-IDJEJbL",
+   "arrenda-apartamento-lisboa-IDJIF1h",
+   "t0-alcantra-mar-IDJIIXW"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5591,7 +5606,9 @@
    "906695",
    "849401",
    "906812",
-   "681066"
+   "681066",
+   "906841",
+   "287369"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6024,13 +6041,16 @@
    "43095476",
    "33981678",
    "29330369",
-   "1821866791183907133"
+   "1821866791183907133",
+   "546952342846568447",
+   "798391086050908388",
+   "1556637980777026459"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 32,
+   "bos": 33,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6072,8 +6092,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 40,
-  "tekrar": 1
+  "elenen": 49,
+  "tekrar": 3
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7406,7 +7426,16 @@
   "ea812705910a5c49",
   "eb0aa3ffb1a5907d",
   "1e25ed6cd9540d4a",
-  "3c94b1a610250772"
+  "3c94b1a610250772",
+  "4afa8d05ed41d41e",
+  "de7fee8b003719b9",
+  "12644969c1595e57",
+  "3b54d3c6d1965ea8",
+  "3e48f600d072270d",
+  "257e0c3dfdb1490f",
+  "a016e8a146ebd11a",
+  "352c25a00c37ffeb",
+  "727decac2cd0b662"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nArrenda-se Apartamento T1 · 900 € · São Domingos de Rana - Hoje às 21:48\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-IDJIv43.html",
@@ -7422,7 +7451,16 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nApartamento T2 em Massamá Norte - Rua Dona Inês de Castro: MOBILADO E TOTALMENTE EQUIPADO · 1.300 € · Queluz E Belas - Para o topo hoje às 17:21\nhttps://www.olx.pt/d/anuncio/apartamento-t2-em-massam-norte-rua-dona-ins-de-castro-mobilado-e-totalmente-equipado-IDJIDCS.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.350 €\nT2 Mobilado e Equipado com Vista Rio – Póvoa de Santa Iria · 1.350 € · Póvoa De Santa Iria E Forte Da Casa - 19 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t2-mobilado-e-equipado-com-vista-rio-pvoa-de-santa-iria-IDJIFT4.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 550 €\nArrenda-se T0 Abrigada · 550 € · Abrigada E Cabanas De Torres - 19 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrenda-se-t0-abrigada-IDJIFNq.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · Novo lugar para ficar · Novo · Sua acomodação aconchegante e charmosa em Lisboa, um lar fora de casa · 1 quarto · 2 camas · $ 1.953 USD · $ 1.516 USD · $ 1.516 USD mensal, preço original: $ 1.953 USD · mensal · Apartamento ⋅ Lisboa · GuestRea…\nhttps://www.airbnb.com/rooms/1821866791183907133"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Estrela · Novo lugar para ficar · Novo · Sua acomodação aconchegante e charmosa em Lisboa, um lar fora de casa · 1 quarto · 2 camas · $ 1.953 USD · $ 1.516 USD · $ 1.516 USD mensal, preço original: $ 1.953 USD · mensal · Apartamento ⋅ Lisboa · GuestRea…\nhttps://www.airbnb.com/rooms/1821866791183907133",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.450 €\n1450 € · Apartamento T1 para arrendamento · Rua Carrilho Videira, Centro, Penha de França, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 58 m² · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jfb3",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 850 €\n850 € · T0 Alcantra Mar · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 25 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t0-alcantra-mar-ID1jf98",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.400 €\n1400 € · Apartamento T2 em Arroios de 108,00 m2 · Madre de Deus, Beato, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 108 m² · Andar · 4 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-em-arroios-de-108-00-m2-ID1jf89",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.000 €\n1000 € · Apartamento em Avenidas Novas de 35,00 m2 · Gulbenkian - Praça Espanha, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 35 m² · Andar · rés do chão · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-em-avenidas-novas-de-35-00-m2-ID1jf86",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · Apartamento T1 em Parque das Nações de 68,00 m2 · Expo Norte, Parque das Nações, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 68 m² · Andar · 6 andar · IAD Portugal · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-em-parque-das-nacoes-de-68-00-m2-ID1jf84",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.050 €\nArrendamento T1 em Massamá · 1.050 € · Negociável · Massamá E Monte Abraão - Hoje às 11:29\nhttps://www.olx.pt/d/anuncio/arrendamento-t1-em-massam-IDJEJbL.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT0 Alcantra Mar · 850 € · Alcântara - Hoje às 10:13\nhttps://www.olx.pt/d/anuncio/t0-alcantra-mar-IDJIIXW.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 6 de dez.  a  18 de fev. · 6 de dez. – 18 de fev. · Apartamento ⋅ Estrela · 4,72 de uma avaliação média de 5, 225 avaliações · 4,72 (225) · Charming Tagus - Janelas Verdes Gem · 1 quarto · 2 camas · 1 banheiro · $ 1.894 USD · $ 1.475 USD · $ 1.475 USD mensal, pre…\nhttps://www.airbnb.com/rooms/546952342846568447",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Graça · 4,48 de uma avaliação média de 5, 174 avaliações · 4,48 (174) · Rock'the'Casbah - Apartamento no coração de Lisboa · 2 camas · 1 banheiro · $ 2.378 USD · $ 954 USD · $ 954 USD mensal, preço original: $ 2.378 USD · mensal · Desconto mensal · Sup…\nhttps://www.airbnb.com/rooms/798391086050908388"
  ],
  "son_gonderim": "2026-11-18"
 }
