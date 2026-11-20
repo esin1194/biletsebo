@@ -274,7 +274,10 @@
    "216QCCY",
    "216PSKZ",
    "216PWYN",
-   "216QHSW"
+   "216QHSW",
+   "216RJZP",
+   "216RCGB",
+   "216RQYL"
   ],
   "hellowork.com": [
    "83399370",
@@ -901,7 +904,12 @@
    "85717172",
    "85717166",
    "85719241",
-   "85721321"
+   "85721321",
+   "85736990",
+   "85750064",
+   "85737959",
+   "85732427",
+   "85732412"
   ],
   "meteojob.com": [],
   "jobijoba.com": [],
@@ -1386,7 +1394,10 @@
   "664d990ddbc72b8c",
   "d2131bb719f1617a",
   "f8062627224ed856",
-  "e831bc3f8e7ca7bf"
+  "e831bc3f8e7ca7bf",
+  "c2cfe8a3b5ef5c02",
+  "a9ceae5b5342ceb9",
+  "674ad15cad653d08"
  ],
  "kaynaklar": {
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=&tri=1": {
@@ -1431,7 +1442,7 @@
   },
   "https://www.hellowork.com/fr-fr/emploi/recherche.html?k=english&l=Annecy&d=30": {
    "ilk": false,
-   "bos": 169,
+   "bos": 170,
    "uyarildi": true
   },
   "https://candidat.francetravail.fr/offres/recherche?lieux=74010&motsCles=anglais&tri=1": {
@@ -1443,7 +1454,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 104,
-  "tekrar": 215
+  "elenen": 105,
+  "tekrar": 219
  }
 }
