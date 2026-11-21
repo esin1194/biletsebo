@@ -2587,7 +2587,22 @@
    "t2-mobilado-com-varanda-e-garagem-em-telheiras-ID1jftm",
    "apartamento-t2-para-arrendamento-ID1jft6",
    "apartamento-4-quartos-81-m2-remodelado-ID9P5llI",
-   "apartamento-3-quartos-83-m2-luminoso-ID9P5llJ"
+   "apartamento-3-quartos-83-m2-luminoso-ID9P5llJ",
+   "t1-mobilado-em-arroios-junto-ao-metro-ID1iSU3",
+   "lindo-apartamento-t1-no-coracao-de-lisboa-ID1iyVj",
+   "apartamento-t4-para-arrendamento-ID1jfzg",
+   "apartamento-t2-para-arrendamento-ID1jfyX",
+   "apartamento-t1-para-arrendamento-ID1jfxY",
+   "apartamento-com-2-quartos-localizado-em-parque-das-nacoes-lisbon-ID1jfvA",
+   "apartamento-com-1-quartos-localizado-em-parque-das-nacoes-lisbon-ID1jfvx",
+   "estudio-localizado-em-roma-areeiro-lisbon-ID1jfvu",
+   "estudio-localizado-em-avenida-da-liberdade-lisbon-ID1jfvt",
+   "estudio-localizado-em-avenida-da-liberdade-lisbon-ID1jfvr",
+   "apartamento-t1-para-arrendamento-ID1jfwI",
+   "apartamento-t3-para-arrendamento-ID1jfwh",
+   "apartamento-t1-parque-das-nacoes-ID1jfuN",
+   "t2-com-grande-varanda-e-vista-rio-penha-de-franca-ID1jfuo",
+   "apartamento-4-quartos-103-m2-jardim-ID9P5llK"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3665,7 +3680,9 @@
    "t2-totalmente-remodelado-90-m-com-vista-jardim-1-900-ms-carcavelos-IDJIN0R",
    "t0-para-arrendar-em-alfama-despesas-incluidas-IDJIPHB",
    "arrenda-se-apartamento-t2-em-belas-IDJIPfW",
-   "t1-mobilado-no-campo-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDJIMCG"
+   "t1-mobilado-no-campo-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDJIMCG",
+   "t3-mobilado-em-telheiras-2-casas-de-banho-estacionamento-fcil-IDJITH6",
+   "apartamento-t1-parque-das-naes-IDJISZH"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4811,7 +4828,8 @@
    "apartments/1753627",
    "apartments/1755245",
    "apartments/1015503",
-   "apartments/1647105"
+   "apartments/1647105",
+   "apartments/640747"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5651,7 +5669,8 @@
    "287369",
    "906922",
    "906934",
-   "647398"
+   "647398",
+   "120409"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6093,13 +6112,14 @@
    "1821876295021389494",
    "1710876522309929385",
    "14012219",
-   "1822613719745409522"
+   "1822613719745409522",
+   "1822409247201964083"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 36,
+   "bos": 37,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6141,8 +6161,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 3,
-  "tekrar": 5
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7498,14 +7518,15 @@
   "7a7490b122312bc1",
   "48f68cd4e25c6400",
   "f873810cb921b820",
-  "a539b298b2442632"
+  "a539b298b2442632",
+  "6f6b64f4a6366e1f",
+  "3b59f09477383727",
+  "5e4c7013d912228b",
+  "3ee6bbc8ca8650e0",
+  "f74a72146c8677a0",
+  "2cecc999b1935a5b",
+  "8aefe505d45dfcb7"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.850 €\n1850 € · T2 mobilado com varanda e garagem em Telheiras · Telheiras, Lumiar, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 80 m² · Andar · 4 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t2-mobilado-com-varanda-e-garagem-em-telheiras-ID1jftm",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · Apartamento T2 para arrendamento · Rua Cesário Verde, Centro, Penha de França, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 68 m² · Andar · 1 andar · Remax Ready · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1jft6",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT0 Para Arrendar em Alfama (despesas incluidas) · 1.000 € · São Vicente - 20 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t0-para-arrendar-em-alfama-despesas-incluidas-IDJIPHB.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.200 €\nCHECKED · APARTMENT · FROM 24 NOV · 1-bedroom apartment for rent in Lisbon. · 1200 €/month · info · UP TO 5 % OFF · 7+ month stay · lock · DEPOSIT PROTECTED · euro · SOME BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1647105",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Preferido dos hóspedes · Condomínio ⋅ Lisboa · 4,95 de uma avaliação média de 5, 122 avaliações · 4,95 (122) · Apartamento charmoso dentro de um condomínio de luxo · 1 quarto · 1 cama · 1 banheiro e meio · $ 4.108 USD · por mês (sem impostos) · $ 4.108 USD por mês ·…\nhttps://www.airbnb.com/rooms/1788909326228217336"
- ],
- "son_gonderim": "2026-11-20"
+ "kuyruk": [],
+ "son_gonderim": "2026-11-21"
 }
