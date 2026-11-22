@@ -900,7 +900,8 @@
    "operador-de-armazem_vialonga_OTS-2026-187365",
    "enfermeiro-mfx_lisboa_PTS-2026-187364",
    "people-culture-generalist-mfx_lisboa_PTS-2026-187361",
-   "web-content-search-assistant-mfx_carnaxide_PTS-2026-187335"
+   "web-content-search-assistant-mfx_carnaxide_PTS-2026-187335",
+   "hr-people-services-german_porto-salvo_PTS-2026-186436"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1814,12 +1815,13 @@
   "6691c3677104ef8e",
   "c00b27cae5a51f72",
   "d3381af195657463",
-  "0591c16ef25a04d0"
+  "0591c16ef25a04d0",
+  "7fd4ea79a8b63f0a"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 19,
+   "bos": 20,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
