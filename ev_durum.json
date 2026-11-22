@@ -2619,7 +2619,10 @@
    "apartamento-1-quartos-145-m2-remodelado-ID9P5llM",
    "bright-central-lisbon-gem-in-av-liberdade-ID1jfEm",
    "studio-in-the-heart-of-alfama-super-central-ID1jfEl",
-   "apartamento-2-quartos-30-m2-jardim-ID9P5llN"
+   "apartamento-2-quartos-30-m2-jardim-ID9P5llN",
+   "t3-renovado-para-arrendamento-em-alvalade-ID1jfFH",
+   "t3-com-varanda-e-elevador-em-alvalade-ID1jfFC",
+   "arrendamento-t3-em-alvalade-lisboa-ID1jfFB"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3710,7 +3713,12 @@
    "t1-com-garagem-em-campo-de-ourique-IDJIXBC",
    "alugo-apartamento-t2-IDJEv9S",
    "apartamento-junto-estao-sintra-centro-historico-IDJJ2M0",
-   "t2-centro-de-oeiras-IDJJ20e"
+   "t2-centro-de-oeiras-IDJJ20e",
+   "imvel-para-alugar-na-portela-de-sintra-IDJJ4xW",
+   "arrendamento-t3-em-alvalade-lisboa-IDJJ4Pt",
+   "apartamento-t3-vila-franca-de-xira-IDJJ4CE",
+   "t2-olaias-lisboa-todo-remodelado-mobilado-equipado-ideal-para-3-pessoas-poupe-2-400-euros-1-800-euros-ms-se-pagar-1-ano-de-rendas-IDJHp6P",
+   "t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5708,7 +5716,10 @@
    "890307",
    "138782",
    "58506",
-   "58504"
+   "58504",
+   "388224",
+   "190614",
+   "168845"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6155,13 +6166,14 @@
    "1823218861728487696",
    "928148805380416262",
    "17174158",
-   "1716058230129740942"
+   "1716058230129740942",
+   "1419459570761235601"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 41,
+   "bos": 42,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6203,7 +6215,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 0,
+  "elenen": 9,
   "tekrar": 0
  },
  "imzalar": [
@@ -7579,8 +7591,13 @@
   "7318699a9f99576e",
   "50cb0194a1d6cfb5",
   "04d957d91a458d80",
-  "8d9f2e7060482b9c"
+  "8d9f2e7060482b9c",
+  "56e6fb3a59738f90",
+  "d8f34f2fedbcd7fe"
  ],
- "kuyruk": [],
+ "kuyruk": [
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 6 de dez.  a  20 de fev. · 6 de dez. – 20 de fev. · Apartamento ⋅ Estrela · 4,72 de uma avaliação média de 5, 225 avaliações · 4,72 (225) · Charming Tagus - Janelas Verdes Gem · 1 quarto · 2 camas · 1 banheiro · $ 1.460 USD · por mês (sem impostos) · $ 1.460 USD …\nhttps://www.airbnb.com/rooms/1419459570761235601"
+ ],
  "son_gonderim": "2026-11-22"
 }
