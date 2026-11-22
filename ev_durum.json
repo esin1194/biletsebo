@@ -2612,7 +2612,11 @@
    "apartamento-t1-para-arrendamento-ID1jfAg",
    "apartamento-t1-para-arrendamento-ID1jfzJ",
    "apartamento-t2-para-arrendamento-ID1jfCF",
-   "apartamento-2-quartos-25-m2-terraco-ID9P5llL"
+   "apartamento-2-quartos-25-m2-terraco-ID9P5llL",
+   "t0-mobilado-com-ar-condicionado-em-entrecampos-ID1jfDe",
+   "alvaro-castro-1b-apartment-in-lisbon-by-lisbeyond-ID1jfDo",
+   "alvaro-castro-1a-apartment-in-lisbon-by-lisbeyond-ID1jfDn",
+   "apartamento-1-quartos-145-m2-remodelado-ID9P5llM"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -5694,7 +5698,8 @@
    "906934",
    "647398",
    "120409",
-   "46726"
+   "46726",
+   "890307"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6146,7 +6151,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 39,
+   "bos": 40,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6188,7 +6193,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 12,
+  "elenen": 16,
   "tekrar": 3
  },
  "imzalar": [
@@ -7562,7 +7567,8 @@
   "cff1685253c0caff",
   "9ddf7323eaaa7d56",
   "7318699a9f99576e",
-  "50cb0194a1d6cfb5"
+  "50cb0194a1d6cfb5",
+  "04d957d91a458d80"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · Apartamento T2 para arrendamento · Rua do Olival, Lapa, Estrela, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · Andar · 3 andar · Reoriente, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1jfCz",
@@ -7574,7 +7580,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nArrenda-se Apartamento T1 – Centro de Queluz · 800 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Hoje às 17:40\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-centro-de-queluz-IDJIV0g.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 Azambuja · 850 € · Azambuja - Hoje às 16:41\nhttps://www.olx.pt/d/anuncio/apartamento-t1-azambuja-IDJIWrO.html",
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · Apartamento T2 para arrendamento · Rua Tito de Morais - Alta de Lisboa, Charneca, Santa Clara, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 96.25 m² · Andar · 3 andar · RE/MAX + Grupo Vantagem · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1jfCF",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 Com garagem em Campo de Ourique · 1.100 € · Campo De Ourique - 21 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-com-garagem-em-campo-de-ourique-IDJIXBC.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 Com garagem em Campo de Ourique · 1.100 € · Campo De Ourique - 21 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-com-garagem-em-campo-de-ourique-IDJIXBC.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 640 €\n640 € · T0 mobilado com ar condicionado em Entrecampos · Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 32 m² · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-com-ar-condicionado-em-entrecampos-ID1jfDe"
  ],
  "son_gonderim": "2026-11-21"
 }
