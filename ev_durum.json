@@ -2616,7 +2616,10 @@
    "t0-mobilado-com-ar-condicionado-em-entrecampos-ID1jfDe",
    "alvaro-castro-1b-apartment-in-lisbon-by-lisbeyond-ID1jfDo",
    "alvaro-castro-1a-apartment-in-lisbon-by-lisbeyond-ID1jfDn",
-   "apartamento-1-quartos-145-m2-remodelado-ID9P5llM"
+   "apartamento-1-quartos-145-m2-remodelado-ID9P5llM",
+   "bright-central-lisbon-gem-in-av-liberdade-ID1jfEm",
+   "studio-in-the-heart-of-alfama-super-central-ID1jfEl",
+   "apartamento-2-quartos-30-m2-jardim-ID9P5llN"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3705,7 +3708,9 @@
    "apartamento-arrendar-IDJIWL6",
    "apartamento-t1-azambuja-IDJIWrO",
    "t1-com-garagem-em-campo-de-ourique-IDJIXBC",
-   "alugo-apartamento-t2-IDJEv9S"
+   "alugo-apartamento-t2-IDJEv9S",
+   "apartamento-junto-estao-sintra-centro-historico-IDJJ2M0",
+   "t2-centro-de-oeiras-IDJJ20e"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4943,7 +4948,8 @@
    "ut1754063",
    "ut1477118",
    "ut1754635",
-   "ut1754639"
+   "ut1754639",
+   "ut1754640"
   ],
   "uniplaces.com": [
    "890027",
@@ -5699,7 +5705,10 @@
    "647398",
    "120409",
    "46726",
-   "890307"
+   "890307",
+   "138782",
+   "58506",
+   "58504"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6145,13 +6154,14 @@
    "1822409247201964083",
    "1823218861728487696",
    "928148805380416262",
-   "17174158"
+   "17174158",
+   "1716058230129740942"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 40,
+   "bos": 41,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6193,8 +6203,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 16,
-  "tekrar": 3
+  "elenen": 0,
+  "tekrar": 0
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7568,20 +7578,9 @@
   "9ddf7323eaaa7d56",
   "7318699a9f99576e",
   "50cb0194a1d6cfb5",
-  "04d957d91a458d80"
+  "04d957d91a458d80",
+  "8d9f2e7060482b9c"
  ],
- "kuyruk": [
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.750 €\n1750 € · Apartamento T2 para arrendamento · Rua do Olival, Lapa, Estrela, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 70 m² · Andar · 3 andar · Reoriente, Lda · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1jfCz",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.650 €\n1650 € · T0 estúdio mobilado com garagem em Lisboa · Santa Catarina, Misericórdia, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 43 m² · Andar · 1 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-estudio-mobilado-com-garagem-em-lisboa-ID1jfAE",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 700 €\n700 € · T1 mobilado e equipado junto ao Jardim Constantino · Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 48 m² · Andar · 2 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t1-mobilado-e-equipado-junto-ao-jardim-constantino-ID1jfAA",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nApartamento T1 na Reboleira para arrendamento · 900 € · Negociável · Águas Livres - Hoje às 20:56\nhttps://www.olx.pt/d/anuncio/apartamento-t1-na-reboleira-para-arrendamento-IDJIXjA.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nEstudio Arrenda-se em Alfama (despesas incluidas) · 1.000 € · São Vicente - Para o topo hoje às 20:18\nhttps://www.olx.pt/d/anuncio/estudio-arrenda-se-em-alfama-despesas-incluidas-IDJIPHB.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 400 €\nT 1 para arrendar · 400 € · Sobral de Monte Agraço - Hoje às 18:25\nhttps://www.olx.pt/d/anuncio/t-1-para-arrendar-IDJnFCt.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nArrenda-se Apartamento T1 – Centro de Queluz · 800 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Hoje às 17:40\nhttps://www.olx.pt/d/anuncio/arrenda-se-apartamento-t1-centro-de-queluz-IDJIV0g.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nApartamento T1 Azambuja · 850 € · Azambuja - Hoje às 16:41\nhttps://www.olx.pt/d/anuncio/apartamento-t1-azambuja-IDJIWrO.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.800 €\n1800 € · Apartamento T2 para arrendamento · Rua Tito de Morais - Alta de Lisboa, Charneca, Santa Clara, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 96.25 m² · Andar · 3 andar · RE/MAX + Grupo Vantagem · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1jfCF",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nT1 Com garagem em Campo de Ourique · 1.100 € · Campo De Ourique - 21 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-com-garagem-em-campo-de-ourique-IDJIXBC.html",
-  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 640 €\n640 € · T0 mobilado com ar condicionado em Entrecampos · Entrecampos, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 32 m² · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-com-ar-condicionado-em-entrecampos-ID1jfDe"
- ],
- "son_gonderim": "2026-11-21"
+ "kuyruk": [],
+ "son_gonderim": "2026-11-22"
 }
