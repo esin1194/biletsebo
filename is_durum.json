@@ -904,7 +904,13 @@
    "hr-people-services-german_porto-salvo_PTS-2026-186436",
    "operador-de-armazem-repositor-mfx_alverca_OTS-2026-187205",
    "temporary-data-entry-operator-english-speaker-mfx_lisbon-portugal_OTS-2026-187294",
-   "assistente-banca-telefonica-mfx_lisboa_OTS-2026-187372"
+   "assistente-banca-telefonica-mfx_lisboa_OTS-2026-187372",
+   "boutique-manager-mfx_porto_PTS-2026-187264",
+   "software-engineer-support_lisbon_DTS-2026-187417",
+   "site-reliability-engineer-psre_lisbon_DTS-2026-187416",
+   "test-engineer-embedded-hil-test-automation-fmx_ovar_DTS-2026-186834",
+   "tecnico-de-gestao-logistica-e-operacoes-mfx_porto-salvo-oeiras_OTS-2026-187407",
+   "eletricista-predial-mfx_lisboa_OTS-2026-187400"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1408,7 +1414,10 @@
    "omJ5yYGjyPtixcPYpoQrbD",
    "vXaqVhRtaW96fP2kom52Gm",
    "4kxKRgyZACdEofrjHCxuAY",
-   "jVTTTDX63jLHV2EYY3intm"
+   "jVTTTDX63jLHV2EYY3intm",
+   "1fTF9nqTAQThdHDbV5ERce",
+   "wGcRa5qCjXxJodJNCojTtN",
+   "u4RfqK3XD7Pb14KBY5QJUG"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1823,12 +1832,13 @@
   "d3381af195657463",
   "0591c16ef25a04d0",
   "7fd4ea79a8b63f0a",
-  "f6418004845f6896"
+  "f6418004845f6896",
+  "48e8ce8aca317839"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 25,
+   "bos": 26,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1890,7 +1900,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1062,
+  "elenen": 1070,
   "tekrar": 45
  }
 }
