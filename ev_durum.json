@@ -2623,7 +2623,12 @@
    "t3-renovado-para-arrendamento-em-alvalade-ID1jfFH",
    "t3-com-varanda-e-elevador-em-alvalade-ID1jfFC",
    "arrendamento-t3-em-alvalade-lisboa-ID1jfFB",
-   "apartamento-2-quartos-94-m2-luminoso-ID9P5llO"
+   "apartamento-2-quartos-94-m2-luminoso-ID9P5llO",
+   "t0-de-30-m-no-res-do-chao-bairroalto-baixa-chiado-ID1jfLd",
+   "arrendamento-t2-em-benfica-ID1jfJy",
+   "duplex-luminoso-e-cheio-de-charme-ID1jfIZ",
+   "loft-boemio-fantastico-em-lisboa-ID1jfIx",
+   "apartamento-3-quartos-89-m2-novo-ID9P5llP"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3722,7 +3727,11 @@
    "t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK",
    "ap-t2-arrendamento-idanha-queluz-e-belas-IDJJ5Wb",
    "t1-mobilado-e-equipado-numa-quinta-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDJJ5GS",
-   "arrenda-se-t2-na-caveleira-IDJJ5wY"
+   "arrenda-se-t2-na-caveleira-IDJJ5wY",
+   "apartamento-t1-amadora-IDJJ9ha",
+   "apartamento-t1-ex-t2-em-odivelas-a-500-metros-do-metro-de-odivelas-e-do-sr-roubado-IDJJ94p",
+   "arrendamento-t2-em-benfica-IDJJ8E7",
+   "arrendo-t0-em-fanhoes-IDJJ7Ry"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4961,7 +4970,11 @@
    "ut1477118",
    "ut1754635",
    "ut1754639",
-   "ut1754640"
+   "ut1754640",
+   "ut1754623",
+   "ut1754448",
+   "ut1753987",
+   "ut1754632"
   ],
   "uniplaces.com": [
    "890027",
@@ -5724,7 +5737,21 @@
    "388224",
    "190614",
    "168845",
-   "841132"
+   "841132",
+   "907094",
+   "902206",
+   "891512",
+   "549270",
+   "7411",
+   "13812",
+   "13214",
+   "7408",
+   "7410",
+   "7409",
+   "882233",
+   "570710",
+   "444326",
+   "735724"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6173,13 +6200,14 @@
    "17174158",
    "1716058230129740942",
    "1419459570761235601",
-   "33186628"
+   "33186628",
+   "51581434"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 43,
+   "bos": 44,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6221,7 +6249,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 13,
+  "elenen": 37,
   "tekrar": 0
  },
  "imzalar": [
@@ -7601,13 +7629,21 @@
   "56e6fb3a59738f90",
   "d8f34f2fedbcd7fe",
   "096085bf6bfdf5e7",
-  "531cfd5bbc0e15ac"
+  "531cfd5bbc0e15ac",
+  "6816f624f42b4a63",
+  "b447550b52e21d9e",
+  "8796879952d010ba",
+  "b980175beb20259a"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 6 de dez.  a  20 de fev. · 6 de dez. – 20 de fev. · Apartamento ⋅ Estrela · 4,72 de uma avaliação média de 5, 225 avaliações · 4,72 (225) · Charming Tagus - Janelas Verdes Gem · 1 quarto · 2 camas · 1 banheiro · $ 1.460 USD · por mês (sem impostos) · $ 1.460 USD …\nhttps://www.airbnb.com/rooms/1419459570761235601",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 580 €\nT1 mobilado e equipado numa quinta p/1 pessoa sózinha a 15 minutos de Lisboa · 580 € · Bucelas - 22 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/t1-mobilado-e-equipado-numa-quinta-p-1-pessoa-szinha-a-15-minutos-de-lisboa-IDJJ5GS.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 30 de nov.  a  27 de fev. · 30 de nov. – 27 de fev. · Condomínio ⋅ Lisboa · 5,0 de uma avaliação média de 5, 7 avaliações · 5,0 (7) · Pausa - Apartamento da Costureira · 1 quarto · 1 cama queen · 1 banheiro e meio · $ 3.271 USD · por mês (sem impostos) · $ 3.271 …\nhttps://www.airbnb.com/rooms/33186628"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 30 de nov.  a  27 de fev. · 30 de nov. – 27 de fev. · Condomínio ⋅ Lisboa · 5,0 de uma avaliação média de 5, 7 avaliações · 5,0 (7) · Pausa - Apartamento da Costureira · 1 quarto · 1 cama queen · 1 banheiro e meio · $ 3.271 USD · por mês (sem impostos) · $ 3.271 …\nhttps://www.airbnb.com/rooms/33186628",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nApartamento T1 Amadora · 900 € · Mina De Água - Hoje às 12:41\nhttps://www.olx.pt/d/anuncio/apartamento-t1-amadora-IDJJ9ha.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 (ex-T2) em Odivelas, a 500 metros do Metro de Odivelas e do Sr. Roubado · 950 € · Odivelas - Hoje às 12:15\nhttps://www.olx.pt/d/anuncio/apartamento-t1-ex-t2-em-odivelas-a-500-metros-do-metro-de-odivelas-e-do-sr-roubado-IDJJ94p.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 330 €\nArrendo T0 em fanhoes · 330 € · Fanhões - Hoje às 09:05\nhttps://www.olx.pt/d/anuncio/arrendo-t0-em-fanhoes-IDJJ7Ry.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 15 de dez.  a  14 de mar. · 15 de dez. – 14 de mar. · Apartamento ⋅ Lisboa · 4,85 de uma avaliação média de 5, 13 avaliações · 4,85 (13) · Apartamento Premium — Centro de Lisboa · 1 quarto · 2 camas · 1 banheiro · $ 2.217 USD · por mês (sem impostos) · $ 2.217 US…\nhttps://www.airbnb.com/rooms/51581434"
  ],
  "son_gonderim": "2026-11-22"
 }
