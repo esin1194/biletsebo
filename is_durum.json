@@ -901,7 +901,10 @@
    "enfermeiro-mfx_lisboa_PTS-2026-187364",
    "people-culture-generalist-mfx_lisboa_PTS-2026-187361",
    "web-content-search-assistant-mfx_carnaxide_PTS-2026-187335",
-   "hr-people-services-german_porto-salvo_PTS-2026-186436"
+   "hr-people-services-german_porto-salvo_PTS-2026-186436",
+   "operador-de-armazem-repositor-mfx_alverca_OTS-2026-187205",
+   "temporary-data-entry-operator-english-speaker-mfx_lisbon-portugal_OTS-2026-187294",
+   "assistente-banca-telefonica-mfx_lisboa_OTS-2026-187372"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1402,7 +1405,10 @@
    "s8JkY5L9wLFtA9mw1GZ3T4",
    "3fFwkTm4B2oNESBmsiDj51",
    "p3Y1VFwo5tybF699fdCGs2",
-   "omJ5yYGjyPtixcPYpoQrbD"
+   "omJ5yYGjyPtixcPYpoQrbD",
+   "vXaqVhRtaW96fP2kom52Gm",
+   "4kxKRgyZACdEofrjHCxuAY",
+   "jVTTTDX63jLHV2EYY3intm"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1816,12 +1822,13 @@
   "c00b27cae5a51f72",
   "d3381af195657463",
   "0591c16ef25a04d0",
-  "7fd4ea79a8b63f0a"
+  "7fd4ea79a8b63f0a",
+  "f6418004845f6896"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 24,
+   "bos": 25,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1883,7 +1890,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1058,
-  "tekrar": 44
+  "elenen": 1062,
+  "tekrar": 45
  }
 }
