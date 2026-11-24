@@ -910,7 +910,14 @@
    "site-reliability-engineer-psre_lisbon_DTS-2026-187416",
    "test-engineer-embedded-hil-test-automation-fmx_ovar_DTS-2026-186834",
    "tecnico-de-gestao-logistica-e-operacoes-mfx_porto-salvo-oeiras_OTS-2026-187407",
-   "eletricista-predial-mfx_lisboa_OTS-2026-187400"
+   "eletricista-predial-mfx_lisboa_OTS-2026-187400",
+   "talent-acquisition-employer-branding-specialist-mfx_lisboa_PTS-2026-187468",
+   "rececionista-substituicao-ferias_carnaxide_OTS-2026-187461",
+   "repositor-loja-mfx_lisboa_OTS-2026-187450",
+   "recepcionista-mfx_lisboa_OTS-2026-187454",
+   "auxiliar-de-armazem_sintra_OTS-2026-187446",
+   "assistente-backoffice-assistencia-tecnica-mfx_lisboa_OTS-2026-187376",
+   "responsavel-financeiro-e-administrativo-contabilista-m-f-x_lisboa_PTS-2026-186870"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1417,7 +1424,8 @@
    "jVTTTDX63jLHV2EYY3intm",
    "1fTF9nqTAQThdHDbV5ERce",
    "wGcRa5qCjXxJodJNCojTtN",
-   "u4RfqK3XD7Pb14KBY5QJUG"
+   "u4RfqK3XD7Pb14KBY5QJUG",
+   "tfCKo7Q6okdXUsBMgCMvYC"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1833,12 +1841,16 @@
   "0591c16ef25a04d0",
   "7fd4ea79a8b63f0a",
   "f6418004845f6896",
-  "48e8ce8aca317839"
+  "48e8ce8aca317839",
+  "1a5c4138f3660c3d",
+  "6b7327fea1d3fe8d",
+  "05739b109cab6e4e",
+  "9dc24b523b067214"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 27,
+   "bos": 28,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1900,7 +1912,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1070,
+  "elenen": 1074,
   "tekrar": 45
  }
 }
