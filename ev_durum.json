@@ -2674,7 +2674,31 @@
    "t0-para-alugar-em-lisboa-ID1jfXb",
    "t0-mobilado-com-ar-condicionado-no-areeiro-ID1jfX7",
    "apartamento-t1-em-campolide-de-43-00-m2-ID1jfX1",
-   "apartamento-1-quartos-79-m2-jardim-ID9P5llS"
+   "apartamento-1-quartos-79-m2-jardim-ID9P5llS",
+   "t2-mobilado-com-varanda-e-ar-condicionado-ID1jggZ",
+   "sete-rios-lisboa-900-euros-ID1jghg",
+   "apartamento-t1-para-arrendamento-ID1jgfK",
+   "apartamento-t3-para-arrendamento-ID1jgfx",
+   "apartamento-t2-para-arrendamento-ID1jgfc",
+   "apartamento-t2-para-arrendamento-ID1jgeW",
+   "apartamento-t1-para-arrendamento-ID1jgez",
+   "apartamento-t2-para-arrendamento-ID1jgew",
+   "apartamento-t2-para-arrendamento-ID1jgdh",
+   "apartamento-t1-para-arrendamento-ID1jgd0",
+   "luminoso-t1-1-remodelado-em-belem-ID1jgbg",
+   "t1-com-garagem-na-rua-das-laranjeiras-lisboa-ID1jgb5",
+   "apartamento-t3-1-benfica-stadium-lisboa-ID1jg7N",
+   "apartment-in-estrada-da-luz-lisboa-for-80-m-with-2-bedrooms-ID1jg63",
+   "t2-renovado-na-penha-de-franca-com-vista-sobre-li-ID1jg4R",
+   "estudio-localizado-em-sao-bento-lisbon-ID1jg2n",
+   "apartamento-com-1-quartos-localizado-em-santa-apolonia-lisbon-ID1jg2i",
+   "5-apartments-available-in-the-same-unit-from-dezember-2026-ID1jg1w",
+   "t1-1-acolhedor-em-santos-o-velho-estrela-ID1jg10",
+   "studio-t0-mobilado-para-arrendar-s-vicente-perto-do-panteao-e-merc-ID1jfZA",
+   "duplex-t1-mobilado-para-arrendar-s-vicente-perto-do-panteao-e-merc-ID1jfZt",
+   "studio-t0-mobilado-para-arrendar-s-vicente-perto-do-panteao-e-merc-ID1jfZr",
+   "arrendamento-t2-lisboa-a-afonso-iii-muita-luz-1-andar-ID1jfWG",
+   "apartamento-4-quartos-50-m2-jardim-ID9P5llT"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3787,7 +3811,13 @@
    "arrenda-se-t2-pvoa-santo-iria-IDJJcNY",
    "t0-para-alugar-em-lisboa-IDJJcHe",
    "aluguer-t0-em-fames-IDJzNh0",
-   "arrendo-t4-1-em-marvila-lisboa-IDJr9f5"
+   "arrendo-t4-1-em-marvila-lisboa-IDJr9f5",
+   "apartamento-t1-para-arrendamento-no-monte-estoril-45-m-IDJJhiY",
+   "sete-rios-lisboa-900-euros-IDJJiaI",
+   "arrendo-t1-com-ptio-privativo-IDJpT20",
+   "apartamento-cacm-IDJgu5B",
+   "t1-linha-de-cascais-curta-durao-sem-fiador-IDJJfvp",
+   "arrenda-se-novo-t2-portimo-aqua-IDJJg0i"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4941,7 +4971,8 @@
    "apartments/327479",
    "apartments/1757956",
    "apartments/1760248",
-   "apartments/1760246"
+   "apartments/1760246",
+   "apartments/1759836"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5821,7 +5852,9 @@
    "187341",
    "818229",
    "130920",
-   "20086"
+   "20086",
+   "531262",
+   "284384"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6273,13 +6306,14 @@
    "33186628",
    "51581434",
    "1239276092544384375",
-   "926363409256481618"
+   "926363409256481618",
+   "1037496583729584453"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 0,
+   "bos": 1,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6321,8 +6355,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 61,
-  "tekrar": 5
+  "elenen": 83,
+  "tekrar": 7
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7728,7 +7762,17 @@
   "1fef75691fea7a8f",
   "9061ee0b9dfa587e",
   "124e4051f6f06eab",
-  "13006f3d5b5c25a2"
+  "13006f3d5b5c25a2",
+  "e97c2cd09ce4f287",
+  "7da7ff1265c5f2d0",
+  "13136e58c7df3172",
+  "1246a006326e3e6e",
+  "e1679efc2d6233ec",
+  "192af1247a83f759",
+  "6d20e51dc5b5e12e",
+  "a3aa92b11ad5d2d1",
+  "143f76a2919beb90",
+  "6657bb5a3e99033b"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
@@ -7762,7 +7806,17 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nAluguer T0 em Famões · 850 € · Odivelas - Hoje às 08:36\nhttps://www.olx.pt/d/anuncio/aluguer-t0-em-fames-IDJzNh0.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 24 NOV · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1757956",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 24 NOV · star · 5 (2) · 1-bedroom apartment for rent in Madragoa, Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1760248",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 6 de dez.  a  22 de fev. · 6 de dez. – 22 de fev. · Apartamento ⋅ Estrela · 4,73 de uma avaliação média de 5, 226 avaliações · 4,73 (226) · Charming Tagus - Janelas Verdes Gem · 1 quarto · 2 camas · 1 banheiro · $ 1.368 USD · por mês (sem impostos) · $ 1.368 USD …\nhttps://www.airbnb.com/rooms/926363409256481618"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 6 de dez.  a  22 de fev. · 6 de dez. – 22 de fev. · Apartamento ⋅ Estrela · 4,73 de uma avaliação média de 5, 226 avaliações · 4,73 (226) · Charming Tagus - Janelas Verdes Gem · 1 quarto · 2 camas · 1 banheiro · $ 1.368 USD · por mês (sem impostos) · $ 1.368 USD …\nhttps://www.airbnb.com/rooms/926363409256481618",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T2 mobilado com varanda e ar condicionado · Carriche - Hospital das Forças Armadas, Lumiar, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 105 m² · Andar · 3 andar · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t2-mobilado-com-varanda-e-ar-condicionado-ID1jggZ",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T1 para arrendamento · Rua Dom Vasco, Centro, Ajuda, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 49.63 m² · Andar · 2 andar · RE/MAX Siimgroup · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1jgez",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 2.000 €\n2000 € · Apartamento T2 para arrendamento · Rua Gustavo de Matos Sequeira, Príncipe Real, Santo António, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 85 m² · Andar · 3 andar · REMAX COLLECTION VALOR · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1jgew",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.660 €\n1660 € · T2 renovado na Penha de França, com vista sobre Li · Centro, Penha de França, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 73 m² · Andar · 4 andar · KW Believe · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t2-renovado-na-penha-de-franca-com-vista-sobre-li-ID1jg4R",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.250 €\n1250 € · + taxa: 60 €/mês · 5 APARTMENTS AVAILABLE IN THE SAME UNIT FROM DEZEMBER 2026 · Estefânia, Arroios, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · Andar · 1 andar · Destacado\nhttps://www.imovirtual.com/pt/anuncio/5-apartments-available-in-the-same-unit-from-dezember-2026-ID1jg1w",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 990 €\n990 € · Studio T0 mobilado para arrendar S Vicente, perto do Panteão e Merc... · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 25 m² · Garvetur - Mediação Imobiliária · Profissional\nhttps://www.imovirtual.com/pt/anuncio/studio-t0-mobilado-para-arrendar-s-vicente-perto-do-panteao-e-merc-ID1jfZA",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Duplex T1 mobilado para arrendar S Vicente, perto do Panteão e Merc... · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · Andar · 1 andar · Garvetur - Mediação Imobiliária · Profissional\nhttps://www.imovirtual.com/pt/anuncio/duplex-t1-mobilado-para-arrendar-s-vicente-perto-do-panteao-e-merc-ID1jfZt",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento T1 para arrendamento no Monte Estoril — 45 m² · 1.000 € · Cascais E Estoril - Hoje às 18:51\nhttps://www.olx.pt/d/anuncio/apartamento-t1-para-arrendamento-no-monte-estoril-45-m-IDJJhiY.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nArrendo t1 com pátio privativo · 1.000 € · Negociável · São João Das Lampas E Terrugem - Hoje às 19:59\nhttps://www.olx.pt/d/anuncio/arrendo-t1-com-ptio-privativo-IDJpT20.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nT1 Linha de Cascais Curta Duração - Sem Fiador · 1.250 € · Carcavelos E Parede - Hoje às 15:00\nhttps://www.olx.pt/d/anuncio/t1-linha-de-cascais-curta-durao-sem-fiador-IDJJfvp.html"
  ],
  "son_gonderim": "2026-11-22"
 }
