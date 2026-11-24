@@ -815,7 +815,37 @@
    "32926630",
    "35469581",
    "31593985",
-   "35469048"
+   "35469048",
+   "33916488",
+   "35498747",
+   "35498746",
+   "35498718",
+   "35498717",
+   "35498716",
+   "35498715",
+   "35498714",
+   "35498713",
+   "35498712",
+   "35498711",
+   "35498707",
+   "35498682",
+   "35498671",
+   "35498670",
+   "35498669",
+   "35498668",
+   "35498667",
+   "35498666",
+   "35498665",
+   "35498649",
+   "35498648",
+   "35498642",
+   "35498614",
+   "35498605",
+   "35498604",
+   "35498603",
+   "35498591",
+   "35498524",
+   "35498523"
   ],
   "imovirtual.com": [
    "apartamento-t2-campo-de-ourique-totalmente-mobilado-e-equipado-ID1iRkQ",
@@ -2638,7 +2668,13 @@
    "t1-no-prata-riverside-village-marvila-ID1jfNL",
    "t3-para-arrendamento-nos-olivais-com-garagem-ID1jfNg",
    "apartamento-t2-para-arrendamento-ID1jfMH",
-   "apartamento-3-quartos-130-m2-remodelado-ID9P5llR"
+   "apartamento-3-quartos-130-m2-remodelado-ID9P5llR",
+   "estudio-t0-equipado-com-wc-privado-em-benfica-ID1jeaO",
+   "charming-and-renovated-studio-in-principe-real-lisboa-ID1jfYn",
+   "t0-para-alugar-em-lisboa-ID1jfXb",
+   "t0-mobilado-com-ar-condicionado-no-areeiro-ID1jfX7",
+   "apartamento-t1-em-campolide-de-43-00-m2-ID1jfX1",
+   "apartamento-1-quartos-79-m2-jardim-ID9P5llS"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3747,7 +3783,11 @@
    "apartamento-em-alvalade-IDJJbdB",
    "apartamento-t2-odivelas-IDJJbbz",
    "apartamento-t4-para-arrendar-alcabideche-cascais-IDJJaUX",
-   "apartamento-t4-para-arrendar-alcabideche-cascais-IDJJaRJ"
+   "apartamento-t4-para-arrendar-alcabideche-cascais-IDJJaRJ",
+   "arrenda-se-t2-pvoa-santo-iria-IDJJcNY",
+   "t0-para-alugar-em-lisboa-IDJJcHe",
+   "aluguer-t0-em-fames-IDJzNh0",
+   "arrendo-t4-1-em-marvila-lisboa-IDJr9f5"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4898,7 +4938,10 @@
    "apartments/351547",
    "apartments/327500",
    "apartments/1755765",
-   "apartments/327479"
+   "apartments/327479",
+   "apartments/1757956",
+   "apartments/1760248",
+   "apartments/1760246"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4993,7 +5036,9 @@
    "ut1754448",
    "ut1753987",
    "ut1754632",
-   "ut1754628"
+   "ut1754628",
+   "ut1754993",
+   "ut1755036"
   ],
   "uniplaces.com": [
    "890027",
@@ -5773,7 +5818,10 @@
    "735724",
    "907217",
    "680833",
-   "187341"
+   "187341",
+   "818229",
+   "130920",
+   "20086"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6223,14 +6271,16 @@
    "1716058230129740942",
    "1419459570761235601",
    "33186628",
-   "51581434"
+   "51581434",
+   "1239276092544384375",
+   "926363409256481618"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 45,
-   "uyarildi": true
+   "bos": 0,
+   "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
    "ilk": false,
@@ -6271,8 +6321,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 50,
-  "tekrar": 1
+  "elenen": 61,
+  "tekrar": 5
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7662,7 +7712,23 @@
   "36f2fbeee976fe61",
   "78dfd3da784fdb35",
   "838c3b0860f197ac",
-  "371d63d1e78c984e"
+  "371d63d1e78c984e",
+  "00a3876bb8543635",
+  "f338b4909a98f775",
+  "cfea3c048751a8f2",
+  "5cb706b063c74b90",
+  "1deec7314491c268",
+  "95ef99580d746e32",
+  "597bda79b0ecece4",
+  "127991eb16f9c21b",
+  "1d4b703804e39850",
+  "e2167224fbb10f22",
+  "ad84b9b6d15dbb12",
+  "fbe6662f1a27e0d9",
+  "1fef75691fea7a8f",
+  "9061ee0b9dfa587e",
+  "124e4051f6f06eab",
+  "13006f3d5b5c25a2"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
@@ -7679,7 +7745,24 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 - Paço de Arcos - Marquise ampla · 950 € · Negociável · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - 23 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t1-pao-de-arcos-marquise-ampla-IDJFoCw.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\napartamento em Alvalade · 1.800 € · Alvalade - 23 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-em-alvalade-IDJJbdB.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nApartamento T4 para ARRENDAR – Alcabideche, Cascais · 1.900 € · Negociável · Alcabideche - 23 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t4-para-arrendar-alcabideche-cascais-IDJJaUX.html",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 24 NOV · 1-bedroom apartment for rent in Lisbon · 1500 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1755765"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 24 NOV · 1-bedroom apartment for rent in Lisbon · 1500 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1755765",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.800 €\nApartamento T2 na Rua do Conde, 65, Lapa, Estrela · 1.800€/mês · T2 70 m² área bruta 4º andar sem elevador 1 hora · Apartamento T2 no Centro de Lisboa – Totalmente Mobilado Apartamento de dois quartos, com muita luz natural, localizado no centro de Lisboa. Totalmente mobilado e e…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/33916488/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 900 €\nApartamento T0 na Alameda - Praça do Chile - Almirante Reis, Arroios · 900€/mês · T0 40 m² área bruta 2º andar sem elevador 1 hora · Disponível em: 01/02/2027. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA O SPACEST.COM? Spacest.c…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35498747/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.050 €\nApartamento T0 na Alameda - Praça do Chile - Almirante Reis, Arroios · 1.050€/mês · T0 40 m² área bruta 2º andar sem elevador 1 hora · Disponível em: 24/11/2026. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA O SPACEST.COM? Spacest…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35498746/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.700 €\nApartamento T1 na Rua Doutor António Cândido, 15, São Sebastião da Pedreira, Avenidas Novas · 1.700€/mês · T1 55 m² área bruta 3º andar sem elevador 1 hora · Disponível em: 28/02/2027. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35498718/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.900 €\nApartamento T1 na Rua Doutor António Cândido, 15, São Sebastião da Pedreira, Avenidas Novas · 1.900€/mês · T1 55 m² área bruta 3º andar sem elevador 1 hora · Disponível em: 05/02/2027. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35498717/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.950 €\nApartamento T1 na Rua Doutor António Cândido, 15, São Sebastião da Pedreira, Avenidas Novas · 1.950€/mês · T1 55 m² área bruta 2º andar sem elevador 1 hora · Disponível em: 10/01/2027. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35498715/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.650 €\nApartamento T1 na Rua Doutor António Cândido, 15, São Sebastião da Pedreira, Avenidas Novas · 1.650€/mês · T1 55 m² área bruta 2º andar sem elevador 1 hora · Disponível em: 28/02/2027. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCIONA…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35498714/",
+  "<b>🏠 Yeni ilan · Idealista</b>\n💶 1.300 €\nApartamento T1 na Rua Lucinda Simões, 12, Alameda - Praça do Chile - Almirante Reis, Arroios · 1.300€/mês · T1 55 m² área bruta 3º andar sem elevador 1 hora · Disponível em: 31/01/2027. Reserve em linha clicando abaixo do mapa em \"Link adicional\". ************* COMO É QUE FUNCION…\n<i>⚠️ Sayfa okunamadı, filtreler kontrol edilemedi.</i>\nhttps://www.idealista.pt/imovel/35498711/",
+  "…ve <b>Idealista</b> sitesinde 19 yeni ilan daha. Hepsi burada:\nhttps://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 650 €\n650 € · + taxa: 0 €/mês · Estúdio - T0 - Equipado com WC Privado em Benfica · Largo Ernesto da Silva, Arneiros, Benfica, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 35 m² · Andar · rés do chão · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/estudio-t0-equipado-com-wc-privado-em-benfica-ID1jeaO",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.250 €\n1250 € · Charming and renovated Studio in Principe Real, Lisboa · Rua Alexandre Herculano, Av. da Liberdade - Marquês de Pombal, Santo António, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 21 m² · Andar · 5 andar · Spacest.com · Profissional\nhttps://www.imovirtual.com/pt/anuncio/charming-and-renovated-studio-in-principe-real-lisboa-ID1jfYn",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · T0 mobilado com ar condicionado no Areeiro · Centro, Areeiro, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 30 m² · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-com-ar-condicionado-no-areeiro-ID1jfX7",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nT0 para alugar em Lisboa · 850 € · Misericórdia - Hoje às 08:57\nhttps://www.olx.pt/d/anuncio/t0-para-alugar-em-lisboa-IDJJcHe.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 850 €\nAluguer T0 em Famões · 850 € · Odivelas - Hoje às 08:36\nhttps://www.olx.pt/d/anuncio/aluguer-t0-em-fames-IDJzNh0.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 24 NOV · 1-bedroom apartment for rent in Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1757956",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.400 €\nAPARTMENT · FROM 24 NOV · star · 5 (2) · 1-bedroom apartment for rent in Madragoa, Lisbon · 1400 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1760248",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 6 de dez.  a  22 de fev. · 6 de dez. – 22 de fev. · Apartamento ⋅ Estrela · 4,73 de uma avaliação média de 5, 226 avaliações · 4,73 (226) · Charming Tagus - Janelas Verdes Gem · 1 quarto · 2 camas · 1 banheiro · $ 1.368 USD · por mês (sem impostos) · $ 1.368 USD …\nhttps://www.airbnb.com/rooms/926363409256481618"
  ],
  "son_gonderim": "2026-11-22"
 }
