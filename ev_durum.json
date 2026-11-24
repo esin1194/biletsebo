@@ -2628,7 +2628,17 @@
    "arrendamento-t2-em-benfica-ID1jfJy",
    "duplex-luminoso-e-cheio-de-charme-ID1jfIZ",
    "loft-boemio-fantastico-em-lisboa-ID1jfIx",
-   "apartamento-3-quartos-89-m2-novo-ID9P5llP"
+   "apartamento-3-quartos-89-m2-novo-ID9P5llP",
+   "apartamento-t2-lisboa-a-afonso-iii-muita-luz-1-andar-ID1jfWG",
+   "t1-para-arrendamento-nas-olaias-ID1jfTG",
+   "estudio-equipado-e-mobilado-sao-bento-ID1jfSV",
+   "t2-sete-rios-ID1jfSy",
+   "t0-com-terraco-privado-na-rua-cidade-liverpool-em-lisboa-ID1jfQG",
+   "arrendamento-de-t0-com-terraco-privativo-ID1jfPl",
+   "t1-no-prata-riverside-village-marvila-ID1jfNL",
+   "t3-para-arrendamento-nos-olivais-com-garagem-ID1jfNg",
+   "apartamento-t2-para-arrendamento-ID1jfMH",
+   "apartamento-3-quartos-130-m2-remodelado-ID9P5llR"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3731,7 +3741,13 @@
    "apartamento-t1-amadora-IDJJ9ha",
    "apartamento-t1-ex-t2-em-odivelas-a-500-metros-do-metro-de-odivelas-e-do-sr-roubado-IDJJ94p",
    "arrendamento-t2-em-benfica-IDJJ8E7",
-   "arrendo-t0-em-fanhoes-IDJJ7Ry"
+   "arrendo-t0-em-fanhoes-IDJJ7Ry",
+   "3-rooms-lisbon-center-with-balcomy-IDJJccY",
+   "apartamento-t1-pao-de-arcos-marquise-ampla-IDJFoCw",
+   "apartamento-em-alvalade-IDJJbdB",
+   "apartamento-t2-odivelas-IDJJbbz",
+   "apartamento-t4-para-arrendar-alcabideche-cascais-IDJJaUX",
+   "apartamento-t4-para-arrendar-alcabideche-cascais-IDJJaRJ"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4880,7 +4896,9 @@
    "apartments/1647105",
    "apartments/640747",
    "apartments/351547",
-   "apartments/327500"
+   "apartments/327500",
+   "apartments/1755765",
+   "apartments/327479"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -4974,7 +4992,8 @@
    "ut1754623",
    "ut1754448",
    "ut1753987",
-   "ut1754632"
+   "ut1754632",
+   "ut1754628"
   ],
   "uniplaces.com": [
    "890027",
@@ -5751,7 +5770,10 @@
    "882233",
    "570710",
    "444326",
-   "735724"
+   "735724",
+   "907217",
+   "680833",
+   "187341"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6207,7 +6229,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 44,
+   "bos": 45,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6249,8 +6271,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 37,
-  "tekrar": 0
+  "elenen": 50,
+  "tekrar": 1
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7633,7 +7655,14 @@
   "6816f624f42b4a63",
   "b447550b52e21d9e",
   "8796879952d010ba",
-  "b980175beb20259a"
+  "b980175beb20259a",
+  "5439699e6c01cbf9",
+  "47cf3e76af7f4a17",
+  "b1e031944bbc38f5",
+  "36f2fbeee976fe61",
+  "78dfd3da784fdb35",
+  "838c3b0860f197ac",
+  "371d63d1e78c984e"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
@@ -7643,7 +7672,14 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nApartamento T1 Amadora · 900 € · Mina De Água - Hoje às 12:41\nhttps://www.olx.pt/d/anuncio/apartamento-t1-amadora-IDJJ9ha.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 (ex-T2) em Odivelas, a 500 metros do Metro de Odivelas e do Sr. Roubado · 950 € · Odivelas - Hoje às 12:15\nhttps://www.olx.pt/d/anuncio/apartamento-t1-ex-t2-em-odivelas-a-500-metros-do-metro-de-odivelas-e-do-sr-roubado-IDJJ94p.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 330 €\nArrendo T0 em fanhoes · 330 € · Fanhões - Hoje às 09:05\nhttps://www.olx.pt/d/anuncio/arrendo-t0-em-fanhoes-IDJJ7Ry.html",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 15 de dez.  a  14 de mar. · 15 de dez. – 14 de mar. · Apartamento ⋅ Lisboa · 4,85 de uma avaliação média de 5, 13 avaliações · 4,85 (13) · Apartamento Premium — Centro de Lisboa · 1 quarto · 2 camas · 1 banheiro · $ 2.217 USD · por mês (sem impostos) · $ 2.217 US…\nhttps://www.airbnb.com/rooms/51581434"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 15 de dez.  a  14 de mar. · 15 de dez. – 14 de mar. · Apartamento ⋅ Lisboa · 4,85 de uma avaliação média de 5, 13 avaliações · 4,85 (13) · Apartamento Premium — Centro de Lisboa · 1 quarto · 2 camas · 1 banheiro · $ 2.217 USD · por mês (sem impostos) · $ 2.217 US…\nhttps://www.airbnb.com/rooms/51581434",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 975 €\n975 € · Estúdio, equipado e mobilado, São Bento · Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 40 m² · Andar · 3 andar · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/estudio-equipado-e-mobilado-sao-bento-ID1jfSV",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.500 €\n1500 € · Arrendamento de T0 com Terraço Privativo · Azinhaga do Beco, Charneca, Santa Clara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 41 m² · KW Exclusive · Profissional\nhttps://www.imovirtual.com/pt/anuncio/arrendamento-de-t0-com-terraco-privativo-ID1jfPl",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · Apartamento T2 para arrendamento · Rua Raúl Carapinha, Estrada de Benfica, São Domingos de Benfica, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 66 m² · Andar · 2 andar · Remax Yes · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1jfMH",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 950 €\nApartamento T1 - Paço de Arcos - Marquise ampla · 950 € · Negociável · Oeiras E São Julião Da Barra, Paço De Arcos E Caxias - 23 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t1-pao-de-arcos-marquise-ampla-IDJFoCw.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.800 €\napartamento em Alvalade · 1.800 € · Alvalade - 23 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-em-alvalade-IDJJbdB.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.900 €\nApartamento T4 para ARRENDAR – Alcabideche, Cascais · 1.900 € · Negociável · Alcabideche - 23 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t4-para-arrendar-alcabideche-cascais-IDJJaUX.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 24 NOV · 1-bedroom apartment for rent in Lisbon · 1500 €/month · info · lock · DEPOSIT PROTECTED · euro · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1755765"
  ],
  "son_gonderim": "2026-11-22"
 }
