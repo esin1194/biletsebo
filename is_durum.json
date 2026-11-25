@@ -923,7 +923,15 @@
    "engenheiro-civil-mfx_lisboa_OTS-2026-187447",
    "encarregado-mfx_lisboa_OTS-2026-187449",
    "delegado-comercial-zona-sul_lisboa_PTS-2026-187432",
-   "assistente-de-apoio-comercial-e-administrativo-mfx_lisboa_PTS-2026-187485"
+   "assistente-de-apoio-comercial-e-administrativo-mfx_lisboa_PTS-2026-187485",
+   "legal-secretary_lisboa_PTS-2026-187524",
+   "tecnico-de-avacmfx_lisboa_OTS-2026-187398",
+   "tecnico-de-pecas-de-balcao-mfx_mafra_OTS-2026-187100",
+   "customer-support-advisor-german-speaker-mfx_remote-portugal_OTS-2026-187516",
+   "hr-people-services_porto-salvo_PTS-2026-182386",
+   "operador-logistico-parttime-manha_odivelas-famoes_OTS-2026-187506",
+   "assistente-de-loja-vodafone-mfx_ccvasco-da-gama_OTS-2026-187498",
+   "operador-de-maquinas-producao_carregado_OTS-2026-187497"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1435,7 +1443,11 @@
    "5KDpe77cEdRfVxpJayUmUR",
    "97dQrYiVNy3fwAPCPBg749",
    "4uABfKWftBmCUePkTBzoyE",
-   "4HaHP1fJwGsuQ6T1bdnMmF"
+   "4HaHP1fJwGsuQ6T1bdnMmF",
+   "fhKZA2wz9LSVGXnrktDhDD",
+   "6huXyEGw4sC68TJJjqnqpR",
+   "mXWoCwsyXdxBTUgtNYqgF1",
+   "vX1JQSzqdYa5RLgfTgB45j"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1858,12 +1870,13 @@
   "9dc24b523b067214",
   "afd3322c7c19923e",
   "4e025848d4567e66",
-  "d617dff97fef3490"
+  "d617dff97fef3490",
+  "70644c734c973ed3"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 30,
+   "bos": 31,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1925,7 +1938,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1081,
+  "elenen": 1092,
   "tekrar": 45
  }
 }
