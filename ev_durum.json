@@ -2712,7 +2712,18 @@
    "t1-mobilado-com-terraco-e-ar-condicionado-beato-lisboa-ID1jgj8",
    "apartamento-t2-com-120m2-na-alta-de-lisboa-ID1jgj3",
    "t1-com-terraco-lumiar-junto-ao-pingo-doce-e-quinta-das-conchas-ID1jgj0",
-   "apartamento-2-quartos-41-m2-remodelado-ID9P5llW"
+   "apartamento-2-quartos-41-m2-remodelado-ID9P5llW",
+   "t2-areeiro-ID12n9v",
+   "apartamento-t2-1-para-arrendar-no-lumiar-ID1jgwh",
+   "t1-bairro-alto-proximo-metro-baixa-chiado-ID1jgw3",
+   "charmoso-apartamento-t1-na-rua-do-duque-ID1jgun",
+   "t1-rua-da-boavista-r-c-b-ID1jgt8",
+   "t3-marvila-remodelado-semi-equipado-central-ID1jgsM",
+   "arrenda-se-t2-com-patio-na-rua-de-sao-gens-ID1jgrq",
+   "apartamento-em-rua-doutor-alvaro-de-castro-lisboa-ID1jgrd",
+   "apartamento-t0-1-mobilado-cozinha-equipada-ID1jgqR",
+   "arrendamento-apartamento-lisboa-lisboa-ID1jgqM",
+   "apartamento-5-quartos-88-m2-terraco-ID9P5llV"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3842,7 +3853,17 @@
    "arrenda-apartamento-linda-a-velha-oeiras-IDJJmJU",
    "arrenda-se-t2-na-brandoa-IDJJlVq",
    "apartamento-t2-com-120m2-na-alta-de-lisboa-IDJJkZD",
-   "t1-com-terrao-lumiar-junto-ao-pingo-doce-e-quinta-das-conchas-IDJJkZm"
+   "t1-com-terrao-lumiar-junto-ao-pingo-doce-e-quinta-das-conchas-IDJJkZm",
+   "apartamento-t1-rua-de-so-miguel-alfama-IDJFSN8",
+   "apartamento-t2-venda-do-pinheiro-centro-IDJJr6L",
+   "apartamento-arrenda-se-IDJJqMg",
+   "aluga-se-t1-costa-da-caparica-IDJJqIb",
+   "apartamento-em-livramento-azueira-mafra-IDJJqwi",
+   "apartamento-t1-vila-franca-de-xira-IDJJqfx",
+   "t3-santo-antonio-dos-cavaleiros-IDJJq1U",
+   "t1-rua-da-boavista-r-c-b-IDJJq0k",
+   "aluga-se-t0-na-bobadela-IDJJpV5",
+   "t1-em-telheiras-proximo-a-universidade-de-lisboa-IDJbOM2"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -4998,7 +5019,9 @@
    "apartments/1760248",
    "apartments/1760246",
    "apartments/1759836",
-   "apartments/950053"
+   "apartments/950053",
+   "apartments/1761360",
+   "apartments/1761342"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5881,7 +5904,14 @@
    "20086",
    "531262",
    "284384",
-   "837710"
+   "837710",
+   "784681",
+   "780902",
+   "60311",
+   "396996",
+   "873810",
+   "669176",
+   "669177"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6338,13 +6368,14 @@
    "735183864821973478",
    "4902781",
    "5260471",
-   "1410837138347381256"
+   "1410837138347381256",
+   "683378930507352929"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 3,
+   "bos": 4,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6386,7 +6417,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 98,
+  "elenen": 115,
   "tekrar": 9
  },
  "imzalar": [
@@ -7816,7 +7847,20 @@
   "8f3abda8d5019f63",
   "5893f0046d7f2f63",
   "79f405ff63f85e5a",
-  "a303a461caea4ab2"
+  "a303a461caea4ab2",
+  "5fc79f0aac981f55",
+  "8a72b3fc07d4332a",
+  "471919f82bf8061b",
+  "4f57e39a31ecbeb7",
+  "dea692d9462499dd",
+  "49daeba94680525a",
+  "4ceeb315cc6c5706",
+  "bbfec6e56256c4e9",
+  "ba93f3815f937955",
+  "51aa7e19e0454f55",
+  "148fb0834cb6a772",
+  "40d3f8ca23c2ec0c",
+  "4433bbbebd6ba6d3"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
@@ -7873,7 +7917,20 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 800 €\nArrendamento de apartamento T1 · 800 € · São Domingos de Rana - Hoje às 11:06\nhttps://www.olx.pt/d/anuncio/arrendamento-de-apartamento-t1-IDJJmCa.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nT1 Lisboa mobilado longa duração · 1.000 € · Penha De França - Hoje às 11:31\nhttps://www.olx.pt/d/anuncio/t1-lisboa-mobilado-longa-durao-IDJrOt7.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nArrenda Apartamento Linda-a-Velha Oeiras · 1.500 € · Algés, Linda-A-Velha E Cruz Quebrada-Dafundo - Hoje às 11:13\nhttps://www.olx.pt/d/anuncio/arrenda-apartamento-linda-a-velha-oeiras-IDJJmJU.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nT1 com Terraço Lumiar junto ao Pingo Doce e Quinta das Conchas · 1.400 € · Lumiar - Hoje às 08:32\nhttps://www.olx.pt/d/anuncio/t1-com-terrao-lumiar-junto-ao-pingo-doce-e-quinta-das-conchas-IDJJkZm.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.400 €\nT1 com Terraço Lumiar junto ao Pingo Doce e Quinta das Conchas · 1.400 € · Lumiar - Hoje às 08:32\nhttps://www.olx.pt/d/anuncio/t1-com-terrao-lumiar-junto-ao-pingo-doce-e-quinta-das-conchas-IDJJkZm.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.600 €\n1600 € · T2 Areeiro · Bairro dos Actores, Areeiro, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 80 m² · Andar · rés do chão · Destacado · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t2-areeiro-ID12n9v",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T1 Bairro Alto - próximo Metro Baixa Chiado · Rua da Rosa, Bairro Alto, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 35 m² · Andar · rés do chão · ZOME PR1ME · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-bairro-alto-proximo-metro-baixa-chiado-ID1jgw3",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T1 Rua da Boavista R/C B · Gulbenkian - Praça Espanha, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 55 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-rua-da-boavista-r-c-b-ID1jgt8",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.550 €\n1550 € · Apartamento T0+1 Mobilado, cozinha equipada. · Rua Dona Filipa de Vilhena, Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 36 m² · Andar · 5 andar · Century 21 CasaBela · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-1-mobilado-cozinha-equipada-ID1jgqR",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento T1 Rua de São Miguel - Alfama · 1.100 € · Negociável · São Vicente - Hoje às 22:50\nhttps://www.olx.pt/d/anuncio/apartamento-t1-rua-de-so-miguel-alfama-IDJFSN8.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\naluga-se T1 - Costa da Caparica · 1.000 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 19:34\nhttps://www.olx.pt/d/anuncio/aluga-se-t1-costa-da-caparica-IDJJqIb.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.100 €\nApartamento em Livramento - Azueira (Mafra) · 1.100 € · Azueira E Sobral Da Abelheira - Hoje às 18:59\nhttps://www.olx.pt/d/anuncio/apartamento-em-livramento-azueira-mafra-IDJJqwi.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento T1 Vila Franca de Xira · 1.000 € · Vila Franca de Xira - Hoje às 17:47\nhttps://www.olx.pt/d/anuncio/apartamento-t1-vila-franca-de-xira-IDJJqfx.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.200 €\nT1 Rua da Boavista R/C B · 1.200 € · Lisboa - Hoje às 16:55\nhttps://www.olx.pt/d/anuncio/t1-rua-da-boavista-r-c-b-IDJJq0k.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nAluga-se t0 na bobadela · 600 € · Santa Iria De Azoia, São João Da Talha E Bobadela - Hoje às 16:42\nhttps://www.olx.pt/d/anuncio/aluga-se-t0-na-bobadela-IDJJpV5.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT1 em Telheiras proximo a Universidade de Lisboa · 1.500 € · Negociável · Alvalade - Hoje às 14:35\nhttps://www.olx.pt/d/anuncio/t1-em-telheiras-proximo-a-universidade-de-lisboa-IDJbOM2.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 25 NOV · 1-bedroom apartment for rent in Lisbon · 1500 €/month · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1761342",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Graça · 5,0 de uma avaliação média de 5, 3 avaliações · 5,0 (3) · Novo! Design+charm 2bd flat@Graça. Pátio, AC, WIFI · 2 quartos · 2 camas · 1 banheiro e meio · $ 3.223 USD · $ 2.664 USD · $ 2.664 USD mensal, preço original: $ 3.223 USD · m…\nhttps://www.airbnb.com/rooms/683378930507352929"
  ],
  "son_gonderim": "2026-11-22"
 }
