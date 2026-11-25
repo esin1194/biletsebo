@@ -917,7 +917,13 @@
    "recepcionista-mfx_lisboa_OTS-2026-187454",
    "auxiliar-de-armazem_sintra_OTS-2026-187446",
    "assistente-backoffice-assistencia-tecnica-mfx_lisboa_OTS-2026-187376",
-   "responsavel-financeiro-e-administrativo-contabilista-m-f-x_lisboa_PTS-2026-186870"
+   "responsavel-financeiro-e-administrativo-contabilista-m-f-x_lisboa_PTS-2026-186870",
+   "coordenador-comerciallisboa-mfx_lisboa_PTS-2026-187397",
+   "engenheiro-de-manutencao-mfx_porto-salvo_OTS-2026-187493",
+   "engenheiro-civil-mfx_lisboa_OTS-2026-187447",
+   "encarregado-mfx_lisboa_OTS-2026-187449",
+   "delegado-comercial-zona-sul_lisboa_PTS-2026-187432",
+   "assistente-de-apoio-comercial-e-administrativo-mfx_lisboa_PTS-2026-187485"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1425,7 +1431,11 @@
    "1fTF9nqTAQThdHDbV5ERce",
    "wGcRa5qCjXxJodJNCojTtN",
    "u4RfqK3XD7Pb14KBY5QJUG",
-   "tfCKo7Q6okdXUsBMgCMvYC"
+   "tfCKo7Q6okdXUsBMgCMvYC",
+   "5KDpe77cEdRfVxpJayUmUR",
+   "97dQrYiVNy3fwAPCPBg749",
+   "4uABfKWftBmCUePkTBzoyE",
+   "4HaHP1fJwGsuQ6T1bdnMmF"
   ],
   "remoteok.com": [
    "remote-customer-support-success-specialist-warehance-1137302",
@@ -1845,12 +1855,15 @@
   "1a5c4138f3660c3d",
   "6b7327fea1d3fe8d",
   "05739b109cab6e4e",
-  "9dc24b523b067214"
+  "9dc24b523b067214",
+  "afd3322c7c19923e",
+  "4e025848d4567e66",
+  "d617dff97fef3490"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 29,
+   "bos": 30,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1912,7 +1925,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1074,
+  "elenen": 1081,
   "tekrar": 45
  }
 }
