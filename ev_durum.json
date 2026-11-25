@@ -2698,7 +2698,8 @@
    "duplex-t1-mobilado-para-arrendar-s-vicente-perto-do-panteao-e-merc-ID1jfZt",
    "studio-t0-mobilado-para-arrendar-s-vicente-perto-do-panteao-e-merc-ID1jfZr",
    "arrendamento-t2-lisboa-a-afonso-iii-muita-luz-1-andar-ID1jfWG",
-   "apartamento-4-quartos-50-m2-jardim-ID9P5llT"
+   "apartamento-4-quartos-50-m2-jardim-ID9P5llT",
+   "apartamento-2-quartos-74-m2-jardim-ID9P5llU"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3817,7 +3818,10 @@
    "arrendo-t1-com-ptio-privativo-IDJpT20",
    "apartamento-cacm-IDJgu5B",
    "t1-linha-de-cascais-curta-durao-sem-fiador-IDJJfvp",
-   "arrenda-se-novo-t2-portimo-aqua-IDJJg0i"
+   "arrenda-se-novo-t2-portimo-aqua-IDJJg0i",
+   "arrendamento-de-apartamento-t3-na-avenida-mouzinho-de-albuquerque-38-lisboa-IDJJjlU",
+   "t2-com-varanda-venteira-amadora-IDJJfxh",
+   "oportunidade-arrendamento-t2-jardim-da-radial-odivelas-IDJJihE"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -6307,13 +6311,16 @@
    "51581434",
    "1239276092544384375",
    "926363409256481618",
-   "1037496583729584453"
+   "1037496583729584453",
+   "735183864821973478",
+   "4902781",
+   "5260471"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 1,
+   "bos": 2,
    "uyarildi": false
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6355,8 +6362,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 83,
-  "tekrar": 7
+  "elenen": 87,
+  "tekrar": 8
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7772,7 +7779,9 @@
   "6d20e51dc5b5e12e",
   "a3aa92b11ad5d2d1",
   "143f76a2919beb90",
-  "6657bb5a3e99033b"
+  "6657bb5a3e99033b",
+  "5e5e2edd583fc003",
+  "f7e19fd2d0957196"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
@@ -7816,7 +7825,9 @@
   "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.300 €\n1300 € · Duplex T1 mobilado para arrendar S Vicente, perto do Panteão e Merc... · São Vicente de Fora, São Vicente, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 40 m² · Andar · 1 andar · Garvetur - Mediação Imobiliária · Profissional\nhttps://www.imovirtual.com/pt/anuncio/duplex-t1-mobilado-para-arrendar-s-vicente-perto-do-panteao-e-merc-ID1jfZt",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nApartamento T1 para arrendamento no Monte Estoril — 45 m² · 1.000 € · Cascais E Estoril - Hoje às 18:51\nhttps://www.olx.pt/d/anuncio/apartamento-t1-para-arrendamento-no-monte-estoril-45-m-IDJJhiY.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.000 €\nArrendo t1 com pátio privativo · 1.000 € · Negociável · São João Das Lampas E Terrugem - Hoje às 19:59\nhttps://www.olx.pt/d/anuncio/arrendo-t1-com-ptio-privativo-IDJpT20.html",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nT1 Linha de Cascais Curta Duração - Sem Fiador · 1.250 € · Carcavelos E Parede - Hoje às 15:00\nhttps://www.olx.pt/d/anuncio/t1-linha-de-cascais-curta-durao-sem-fiador-IDJJfvp.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.250 €\nT1 Linha de Cascais Curta Duração - Sem Fiador · 1.250 € · Carcavelos E Parede - Hoje às 15:00\nhttps://www.olx.pt/d/anuncio/t1-linha-de-cascais-curta-durao-sem-fiador-IDJJfvp.html",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ São Paulo · 4,68 de uma avaliação média de 5, 62 avaliações · 4,68 (62) · Apartamento Bica Dreamy Escape · 1 quarto · 1 cama · $ 2.492 USD · $ 2.054 USD · $ 2.054 USD mensal, preço original: $ 2.492 USD · mensal · Desconto mensal · Superhost · Apartame…\nhttps://www.airbnb.com/rooms/735183864821973478",
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 6 de dez.  a  23 de fev. · 6 de dez. – 23 de fev. · Apartamento ⋅ Estrela · 4,73 de uma avaliação média de 5, 226 avaliações · 4,73 (226) · Charming Tagus - Janelas Verdes Gem · 1 quarto · 2 camas · $ 1.756 USD · $ 1.367 USD · $ 1.367 USD mensal, preço original: …\nhttps://www.airbnb.com/rooms/4902781"
  ],
  "son_gonderim": "2026-11-22"
 }
