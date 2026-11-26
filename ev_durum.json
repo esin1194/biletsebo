@@ -2723,7 +2723,9 @@
    "apartamento-em-rua-doutor-alvaro-de-castro-lisboa-ID1jgrd",
    "apartamento-t0-1-mobilado-cozinha-equipada-ID1jgqR",
    "arrendamento-apartamento-lisboa-lisboa-ID1jgqM",
-   "apartamento-5-quartos-88-m2-terraco-ID9P5llV"
+   "apartamento-5-quartos-88-m2-terraco-ID9P5llV",
+   "t1-na-mouraria-c-despesas-incluidas-ID1jgxQ",
+   "apartamento-4-quartos-106-m2-remodelado-ID9P5llX"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3863,7 +3865,8 @@
    "t3-santo-antonio-dos-cavaleiros-IDJJq1U",
    "t1-rua-da-boavista-r-c-b-IDJJq0k",
    "aluga-se-t0-na-bobadela-IDJJpV5",
-   "t1-em-telheiras-proximo-a-universidade-de-lisboa-IDJbOM2"
+   "t1-em-telheiras-proximo-a-universidade-de-lisboa-IDJbOM2",
+   "t1-na-mouraria-c-despesas-includas-IDJJrGe"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5021,7 +5024,10 @@
    "apartments/1759836",
    "apartments/950053",
    "apartments/1761360",
-   "apartments/1761342"
+   "apartments/1761342",
+   "apartments/1749271",
+   "apartments/327503",
+   "apartments/274214"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5911,7 +5917,8 @@
    "396996",
    "873810",
    "669176",
-   "669177"
+   "669177",
+   "717035"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6369,13 +6376,14 @@
    "4902781",
    "5260471",
    "1410837138347381256",
-   "683378930507352929"
+   "683378930507352929",
+   "1826243135091408023"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 4,
+   "bos": 5,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6417,8 +6425,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 115,
-  "tekrar": 9
+  "elenen": 118,
+  "tekrar": 10
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7860,7 +7868,8 @@
   "51aa7e19e0454f55",
   "148fb0834cb6a772",
   "40d3f8ca23c2ec0c",
-  "4433bbbebd6ba6d3"
+  "4433bbbebd6ba6d3",
+  "a4c079ee4abf70e7"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
@@ -7930,7 +7939,8 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 600 €\nAluga-se t0 na bobadela · 600 € · Santa Iria De Azoia, São João Da Talha E Bobadela - Hoje às 16:42\nhttps://www.olx.pt/d/anuncio/aluga-se-t0-na-bobadela-IDJJpV5.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT1 em Telheiras proximo a Universidade de Lisboa · 1.500 € · Negociável · Alvalade - Hoje às 14:35\nhttps://www.olx.pt/d/anuncio/t1-em-telheiras-proximo-a-universidade-de-lisboa-IDJbOM2.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 25 NOV · 1-bedroom apartment for rent in Lisbon · 1500 €/month · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1761342",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Graça · 5,0 de uma avaliação média de 5, 3 avaliações · 5,0 (3) · Novo! Design+charm 2bd flat@Graça. Pátio, AC, WIFI · 2 quartos · 2 camas · 1 banheiro e meio · $ 3.223 USD · $ 2.664 USD · $ 2.664 USD mensal, preço original: $ 3.223 USD · m…\nhttps://www.airbnb.com/rooms/683378930507352929"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Graça · 5,0 de uma avaliação média de 5, 3 avaliações · 5,0 (3) · Novo! Design+charm 2bd flat@Graça. Pátio, AC, WIFI · 2 quartos · 2 camas · 1 banheiro e meio · $ 3.223 USD · $ 2.664 USD · $ 2.664 USD mensal, preço original: $ 3.223 USD · m…\nhttps://www.airbnb.com/rooms/683378930507352929",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 na mouraria c despesas incluídas · 1.150 € · Negociável · Misericórdia - Hoje às 02:14\nhttps://www.olx.pt/d/anuncio/t1-na-mouraria-c-despesas-includas-IDJJrGe.html"
  ],
  "son_gonderim": "2026-11-22"
 }
