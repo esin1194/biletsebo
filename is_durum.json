@@ -931,7 +931,11 @@
    "hr-people-services_porto-salvo_PTS-2026-182386",
    "operador-logistico-parttime-manha_odivelas-famoes_OTS-2026-187506",
    "assistente-de-loja-vodafone-mfx_ccvasco-da-gama_OTS-2026-187498",
-   "operador-de-maquinas-producao_carregado_OTS-2026-187497"
+   "operador-de-maquinas-producao_carregado_OTS-2026-187497",
+   "administrativo-de-backoffice-espanhol-mfx_lisboa_OTS-2026-187544",
+   "oficial-de-instalacoes-mfx_castanheira-do-ribatejo_OTS-2026-187220",
+   "gestor-de-cafetaria-mfx_lisboa_OTS-2026-187072",
+   "tecnico-de-manutencao-mfx_lisboa-alverca_OTS-2026-187430"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1871,12 +1875,13 @@
   "afd3322c7c19923e",
   "4e025848d4567e66",
   "d617dff97fef3490",
-  "70644c734c973ed3"
+  "70644c734c973ed3",
+  "2f36a4f0339d616d"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 32,
+   "bos": 33,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1938,7 +1943,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1092,
-  "tekrar": 45
+  "elenen": 1094,
+  "tekrar": 46
  }
 }
