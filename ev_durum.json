@@ -2725,7 +2725,20 @@
    "arrendamento-apartamento-lisboa-lisboa-ID1jgqM",
    "apartamento-5-quartos-88-m2-terraco-ID9P5llV",
    "t1-na-mouraria-c-despesas-incluidas-ID1jgxQ",
-   "apartamento-4-quartos-106-m2-remodelado-ID9P5llX"
+   "apartamento-4-quartos-106-m2-remodelado-ID9P5llX",
+   "alvaro-castro-2c-apartment-in-lisbon-by-lisbeyond-ID1jgJA",
+   "arrenda-se-apartamento-t2-1-na-rua-morais-soares-lisboa-ID1jgGu",
+   "t2-para-arrendamento-na-alta-de-lisboa-varanda-parqueamento-ID1jgGq",
+   "t2-exclusivo-no-restelo-remodelado-ar-condicionado-1-700-EUR-ID1jgG5",
+   "t0-de-41-m-no-areeiro-junto-ao-metro-ID1jgFy",
+   "t3-com-lugar-de-estacionamento-coberto-para-arrendar-junto-a-estacao-ID1jgFk",
+   "estudio-localizado-em-picoas-lisbon-ID1jgE8",
+   "arrendamento-apartamento-t1-em-telheiras-ID1jgBR",
+   "apartamento-t0-arrendado-mobilado-nas-avenidas-novas-lisboa-ID1jgBc",
+   "arrendamento-em-sesimbra-ID1jgzO",
+   "t1-nas-estrela-perto-ministerio-negocios-estrangeiros-ID1jgym",
+   "apartamento-de-2-quartos-totalmente-renovado-ID1jgqM",
+   "apartamento-2-quartos-110-m2-novo-ID9P5llY"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3866,7 +3879,11 @@
    "t1-rua-da-boavista-r-c-b-IDJJq0k",
    "aluga-se-t0-na-bobadela-IDJJpV5",
    "t1-em-telheiras-proximo-a-universidade-de-lisboa-IDJbOM2",
-   "t1-na-mouraria-c-despesas-includas-IDJJrGe"
+   "t1-na-mouraria-c-despesas-includas-IDJJrGe",
+   "t1-1-para-arrendar-na-damaia-IDJJuMO",
+   "t1-alameda-afonso-henriques-IDJF7Kx",
+   "t1-nas-estrela-perto-ministrio-negcios-estrangeiros-IDJJrPP",
+   "arrendamento-de-t0-semi-mobilado-na-brandoa-IDJJrOd"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5027,7 +5044,10 @@
    "apartments/1761342",
    "apartments/1749271",
    "apartments/327503",
-   "apartments/274214"
+   "apartments/274214",
+   "apartments/516616",
+   "apartments/1009750",
+   "apartments/1431100"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -5918,7 +5938,15 @@
    "873810",
    "669176",
    "669177",
-   "717035"
+   "717035",
+   "907619",
+   "907603",
+   "907601",
+   "907600",
+   "626417",
+   "387680",
+   "387624",
+   "430527"
   ],
   "airbnb.": [
    "868041793415568119",
@@ -6377,13 +6405,14 @@
    "5260471",
    "1410837138347381256",
    "683378930507352929",
-   "1826243135091408023"
+   "1826243135091408023",
+   "1817403143452648918"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 5,
+   "bos": 6,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6425,8 +6454,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 118,
-  "tekrar": 10
+  "elenen": 137,
+  "tekrar": 11
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7869,7 +7898,15 @@
   "148fb0834cb6a772",
   "40d3f8ca23c2ec0c",
   "4433bbbebd6ba6d3",
-  "a4c079ee4abf70e7"
+  "a4c079ee4abf70e7",
+  "76803f8346d5e5cd",
+  "6d4df8597641b7e7",
+  "7ea5078b428f8c83",
+  "e0e7377f3e6a34c2",
+  "7cf25750d1508483",
+  "f68a5b55b3e1b7b5",
+  "6de1d400a58abefe",
+  "9da7091d18312931"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
@@ -7940,7 +7977,15 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.500 €\nT1 em Telheiras proximo a Universidade de Lisboa · 1.500 € · Negociável · Alvalade - Hoje às 14:35\nhttps://www.olx.pt/d/anuncio/t1-em-telheiras-proximo-a-universidade-de-lisboa-IDJbOM2.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nAPARTMENT · FROM 25 NOV · 1-bedroom apartment for rent in Lisbon · 1500 €/month · DEPOSIT PROTECTED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1761342",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Superhost · Apartamento ⋅ Graça · 5,0 de uma avaliação média de 5, 3 avaliações · 5,0 (3) · Novo! Design+charm 2bd flat@Graça. Pátio, AC, WIFI · 2 quartos · 2 camas · 1 banheiro e meio · $ 3.223 USD · $ 2.664 USD · $ 2.664 USD mensal, preço original: $ 3.223 USD · m…\nhttps://www.airbnb.com/rooms/683378930507352929",
-  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 na mouraria c despesas incluídas · 1.150 € · Negociável · Misericórdia - Hoje às 02:14\nhttps://www.olx.pt/d/anuncio/t1-na-mouraria-c-despesas-includas-IDJJrGe.html"
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nT1 na mouraria c despesas incluídas · 1.150 € · Negociável · Misericórdia - Hoje às 02:14\nhttps://www.olx.pt/d/anuncio/t1-na-mouraria-c-despesas-includas-IDJJrGe.html",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · Apartamento T0, arrendado mobilado, nas Avenidas Novas, Lisboa · Avenida da República, Campo Pequeno, Avenidas Novas, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 33 m² · Andar · 3 andar · JLL Residential · Profissional\nhttps://www.imovirtual.com/pt/anuncio/apartamento-t0-arrendado-mobilado-nas-avenidas-novas-lisboa-ID1jgBc",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 870 €\n870 € · T1 nas Estrela (Perto Ministério Negócios Estrangeiros) · Alto de Santo Amaro, Alcântara, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 26 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-nas-estrela-perto-ministerio-negocios-estrangeiros-ID1jgym",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 750 €\nT1+1 para Arrendar na Damaia · 750 € · Águas Livres - Hoje às 15:19\nhttps://www.olx.pt/d/anuncio/t1-1-para-arrendar-na-damaia-IDJJuMO.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 900 €\nT1 Alameda Afonso Henriques · 900 € · Negociável · Areeiro - Hoje às 09:56\nhttps://www.olx.pt/d/anuncio/t1-alameda-afonso-henriques-IDJF7Kx.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 870 €\nT1 nas Estrela (Perto Ministério Negócios Estrangeiros) · 870 € · Alcântara - Hoje às 08:49\nhttps://www.olx.pt/d/anuncio/t1-nas-estrela-perto-ministrio-negcios-estrangeiros-IDJJrPP.html",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 400 €\nArrendamento de T0 semi mobilado na Brandoa · 400 € · Mina De Água - Hoje às 08:27\nhttps://www.olx.pt/d/anuncio/arrendamento-de-t0-semi-mobilado-na-brandoa-IDJJrOd.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nCHECKED · APARTMENT · FROM 26 NOV · 5 (9) · 1-bedroom apartment for rent in Mouraria, Lisbon · 1650 €/month · UP TO 10 % OFF · 12+ month stay · BILLS INCLUDED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/516616",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nCHECKED · APARTMENT · FROM 26 NOV · 5 (9) · 2-bedroom apartment for rent in Mouraria, Lisbon · From 1600 €/month · UP TO 10 % OFF · 12+ month stay · BILLS INCLUDED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1009750"
  ],
  "son_gonderim": "2026-11-22"
 }
