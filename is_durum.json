@@ -935,7 +935,12 @@
    "administrativo-de-backoffice-espanhol-mfx_lisboa_OTS-2026-187544",
    "oficial-de-instalacoes-mfx_castanheira-do-ribatejo_OTS-2026-187220",
    "gestor-de-cafetaria-mfx_lisboa_OTS-2026-187072",
-   "tecnico-de-manutencao-mfx_lisboa-alverca_OTS-2026-187430"
+   "tecnico-de-manutencao-mfx_lisboa-alverca_OTS-2026-187430",
+   "empregado-de-mesa-bar-mfx_lisboa_OTS-2026-181163",
+   "operador-de-armazem-04h-as-13h_vialonga_OTS-2026-187562",
+   "gestor-de-contacto-banca-mfx_lisboa_OTS-2026-187560",
+   "operador-de-assistencia-em-escala-carga-mfx_aeroporto-de-lisboa_OTS-2026-177451",
+   "operador-de-armazem_castanheira-do-ribatejo_OTS-2026-187216"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1881,7 +1886,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 33,
+   "bos": 34,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1943,7 +1948,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1094,
-  "tekrar": 46
+  "elenen": 1098,
+  "tekrar": 47
  }
 }
