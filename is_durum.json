@@ -941,7 +941,17 @@
    "gestor-de-contacto-banca-mfx_lisboa_OTS-2026-187560",
    "operador-de-assistencia-em-escala-carga-mfx_aeroporto-de-lisboa_OTS-2026-177451",
    "operador-de-armazem_castanheira-do-ribatejo_OTS-2026-187216",
-   "empregado-mesa-mfx_estoril_OTS-2024-146925"
+   "empregado-mesa-mfx_estoril_OTS-2024-146925",
+   "promotora-de-vendas-mfx-parttime_sintra_OTS-2026-187195",
+   "trade-accounting-operations-mfx_lisbon_PTS-2026-187582",
+   "sr-analyst-treasury-mfx_lisbon_PTS-2026-187583",
+   "sr-analyst-middle-office-m-f-x_lisbon_PTS-2026-187584",
+   "operadora-de-armazem-mfx-sintra_abrunheira-sintra_OTS-2026-187546",
+   "gestor-de-operacoes-lavandaria-industrial-mfx_pero-pinheiro-sintra_OTS-2026-187575",
+   "assistente-de-apoio-ao-cliente-banca-mfx_lisboa_OTS-2026-187573",
+   "tecnico-de-instalacoes_castanheira-do-ribatejo_OTS-2026-187220",
+   "operador-logistico-mfx-parttime-manha_odivelas-famoes_OTS-2026-187506",
+   "recepcionista-mfx_oeiras_OTS-2026-186933"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1883,12 +1893,13 @@
   "d617dff97fef3490",
   "70644c734c973ed3",
   "2f36a4f0339d616d",
-  "74f8ebf896974ade"
+  "74f8ebf896974ade",
+  "1bb4a3a9d078cb88"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 35,
+   "bos": 36,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1950,7 +1961,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1098,
-  "tekrar": 47
+  "elenen": 1106,
+  "tekrar": 48
  }
 }
