@@ -940,7 +940,8 @@
    "operador-de-armazem-04h-as-13h_vialonga_OTS-2026-187562",
    "gestor-de-contacto-banca-mfx_lisboa_OTS-2026-187560",
    "operador-de-assistencia-em-escala-carga-mfx_aeroporto-de-lisboa_OTS-2026-177451",
-   "operador-de-armazem_castanheira-do-ribatejo_OTS-2026-187216"
+   "operador-de-armazem_castanheira-do-ribatejo_OTS-2026-187216",
+   "empregado-mesa-mfx_estoril_OTS-2024-146925"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1881,12 +1882,13 @@
   "4e025848d4567e66",
   "d617dff97fef3490",
   "70644c734c973ed3",
-  "2f36a4f0339d616d"
+  "2f36a4f0339d616d",
+  "74f8ebf896974ade"
  ],
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 34,
+   "bos": 35,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
