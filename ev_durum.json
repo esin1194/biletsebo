@@ -2738,7 +2738,14 @@
    "arrendamento-em-sesimbra-ID1jgzO",
    "t1-nas-estrela-perto-ministerio-negocios-estrangeiros-ID1jgym",
    "apartamento-de-2-quartos-totalmente-renovado-ID1jgqM",
-   "apartamento-2-quartos-110-m2-novo-ID9P5llY"
+   "apartamento-2-quartos-110-m2-novo-ID9P5llY",
+   "apartamento-t2-1-renovado-70-m-misericordia-lisboa-ID1jgSW",
+   "t1-45-m-mobilado-e-equipado-espaco-exterior-principe-real-ID1jgSU",
+   "apartamento-na-alameda-zona-central-e-calma-t1-1-renovado-ID1jgSo",
+   "arrendo-apartamento-t2-portas-de-benfica-1300EUR-ID1jgSn",
+   "t-2-mobilado-equipado-centro-lisboa-so-1-renda-caucao-aceita-pet-ID1jgQh",
+   "apartamento-t2-para-arrendamento-na-ajuda-varanda-e-vista-desafogada-ID1jgLr",
+   "apartamento-5-quartos-75-m2-jardim-ID9P5lm0"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -3883,7 +3890,12 @@
    "t1-1-para-arrendar-na-damaia-IDJJuMO",
    "t1-alameda-afonso-henriques-IDJF7Kx",
    "t1-nas-estrela-perto-ministrio-negcios-estrangeiros-IDJJrPP",
-   "arrendamento-de-t0-semi-mobilado-na-brandoa-IDJJrOd"
+   "arrendamento-de-t0-semi-mobilado-na-brandoa-IDJJrOd",
+   "t2-para-arrendamento-nas-fontainhas-cascais-IDJJAaq",
+   "alugar-t3-1-andar-vivenda-bifamiliar-IDJJz1o",
+   "arrendo-apartamento-t2-portas-de-benfica-1300-IDJJyOB",
+   "t-2-mobilado-equipado-centro-lisboa-s-1-renda-cauo-aceita-pet-IDJJvSU",
+   "t2-remodelado-e-soalheiro-cp-a-3-min-lisboa-oriente-a-30-min-IDJJuoy"
   ],
   "spotahome.com": [
    "apartments/1687654",
@@ -5047,7 +5059,10 @@
    "apartments/274214",
    "apartments/516616",
    "apartments/1009750",
-   "apartments/1431100"
+   "apartments/1431100",
+   "apartments/1445067",
+   "apartments/1760252",
+   "apartments/1762460"
   ],
   "housinganywhere.com": [
    "ut1734936",
@@ -6406,13 +6421,14 @@
    "1410837138347381256",
    "683378930507352929",
    "1826243135091408023",
-   "1817403143452648918"
+   "1817403143452648918",
+   "1633383201848346609"
   ]
  },
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 6,
+   "bos": 7,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6454,8 +6470,8 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 137,
-  "tekrar": 11
+  "elenen": 146,
+  "tekrar": 12
  },
  "imzalar": [
   "f6afeff342d106a9",
@@ -7906,7 +7922,13 @@
   "7cf25750d1508483",
   "f68a5b55b3e1b7b5",
   "6de1d400a58abefe",
-  "9da7091d18312931"
+  "9da7091d18312931",
+  "e724e4fbde2de277",
+  "e19bababb68ea2f6",
+  "07f985f4b79a055b",
+  "e78c2352c0bdfd30",
+  "04eb52e8aaa1ebf4",
+  "7c47efc4aae57d64"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.108 €\nT4 Renovado (2 WCs) a Estrear | CC Serra Nova (Autocarro Expo 25 min + Estacionamento) · 1.108 € · Póvoa De Santa Iria E Forte Da Casa - Hoje às 18:00\nhttps://www.olx.pt/d/anuncio/t4-renovado-2-wcs-a-estrear-cc-serra-nova-autocarro-expo-25-min-estacionamento-IDJJ3AK.html",
@@ -7985,7 +8007,13 @@
   "<b>🏠 Yeni ilan · OLX</b>\n💶 870 €\nT1 nas Estrela (Perto Ministério Negócios Estrangeiros) · 870 € · Alcântara - Hoje às 08:49\nhttps://www.olx.pt/d/anuncio/t1-nas-estrela-perto-ministrio-negcios-estrangeiros-IDJJrPP.html",
   "<b>🏠 Yeni ilan · OLX</b>\n💶 400 €\nArrendamento de T0 semi mobilado na Brandoa · 400 € · Mina De Água - Hoje às 08:27\nhttps://www.olx.pt/d/anuncio/arrendamento-de-t0-semi-mobilado-na-brandoa-IDJJrOd.html",
   "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.650 €\nCHECKED · APARTMENT · FROM 26 NOV · 5 (9) · 1-bedroom apartment for rent in Mouraria, Lisbon · 1650 €/month · UP TO 10 % OFF · 12+ month stay · BILLS INCLUDED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/516616",
-  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nCHECKED · APARTMENT · FROM 26 NOV · 5 (9) · 2-bedroom apartment for rent in Mouraria, Lisbon · From 1600 €/month · UP TO 10 % OFF · 12+ month stay · BILLS INCLUDED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1009750"
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.600 €\nCHECKED · APARTMENT · FROM 26 NOV · 5 (9) · 2-bedroom apartment for rent in Mouraria, Lisbon · From 1600 €/month · UP TO 10 % OFF · 12+ month stay · BILLS INCLUDED · BEST CHOICE\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1009750",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.200 €\n1200 € · T1 | 45 m² | Mobilado e Equipado | Espaço Exterior | Principe Real · Príncipe Real - São Bento, Misericórdia, Lisboa, Lisboa · Tipologia · T1 · Preço por metro quadrado · 45 m² · Andar · semi-cave · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t1-45-m-mobilado-e-equipado-espaco-exterior-principe-real-ID1jgSU",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 1.050 €\n1050 € · T-2 mobilado+equipado. Centro Lisboa. Só 1 renda+caução.Aceita pet · São Cristóvão e São Lourenço, Santa Maria Maior, Lisboa, Lisboa · Tipologia · T2 · Preço por metro quadrado · 55 m² · OLX · Profissional\nhttps://www.imovirtual.com/pt/anuncio/t-2-mobilado-equipado-centro-lisboa-so-1-renda-caucao-aceita-pet-ID1jgQh",
+  "<b>🏠 Yeni ilan · OLX</b>\n💶 1.300 €\nArrendo Apartamento T2 Portas de Benfica 1300€ · 1.300 € · Benfica - 26 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/arrendo-apartamento-t2-portas-de-benfica-1300-IDJJyOB.html",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.500 €\nCHECKED · APARTMENT · FROM 27 NOV · 5 (3) · 2-bedroom apartment for rent in Lisbon · 1500 €/month · DEPOSIT PROTECTED · BILLS INCLUDED\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1445067",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.240 €\nAPARTMENT · FROM 27 NOV · 1-bedroom apartment for rent in Penha de França, Lisbon · 1240 €/month · NO DEPOSIT\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1760252",
+  "<b>🏠 Yeni ilan · Spotahome</b>\n💶 1.150 €\nAPARTMENT · FROM 27 NOV · 1-bedroom apartment for rent in Almada, Lisbon · 1150 €/month · NO DEPOSIT · INSTANT BOOKING\nhttps://www.spotahome.com/lisbon/for-rent:apartments/1762460"
  ],
  "son_gonderim": "2026-11-22"
 }
