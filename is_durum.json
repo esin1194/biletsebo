@@ -951,7 +951,11 @@
    "assistente-de-apoio-ao-cliente-banca-mfx_lisboa_OTS-2026-187573",
    "tecnico-de-instalacoes_castanheira-do-ribatejo_OTS-2026-187220",
    "operador-logistico-mfx-parttime-manha_odivelas-famoes_OTS-2026-187506",
-   "recepcionista-mfx_oeiras_OTS-2026-186933"
+   "recepcionista-mfx_oeiras_OTS-2026-186933",
+   "operador-de-empilhador-mxf_frielas_OTS-2026-187617",
+   "profissional-de-saude-mfx_loures_PTS-2026-187608",
+   "gestor-de-compras-pescado-fresco_carnaxide_PTS-2026-187599",
+   "operario-linha-de-producao-mfx_algueirao-mem-martins_OTS-2026-187594"
   ],
   "landing.jobs": [],
   "workable.com": [
@@ -1899,7 +1903,7 @@
  "kaynaklar": {
   "https://www.net-empregos.com/pesquisa_rapida.asp?chaves=english&zona=3": {
    "ilk": false,
-   "bos": 36,
+   "bos": 37,
    "uyarildi": true
   },
   "https://emprego.sapo.pt/ofertas-emprego?q=english&local=lisboa": {
@@ -1961,7 +1965,7 @@
  "kuyruk": [],
  "son_gonderim": "",
  "sayaclar": {
-  "elenen": 1106,
+  "elenen": 1110,
   "tekrar": 48
  }
 }
