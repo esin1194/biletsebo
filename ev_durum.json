@@ -2745,7 +2745,9 @@
    "arrendo-apartamento-t2-portas-de-benfica-1300EUR-ID1jgSn",
    "t-2-mobilado-equipado-centro-lisboa-so-1-renda-caucao-aceita-pet-ID1jgQh",
    "apartamento-t2-para-arrendamento-na-ajuda-varanda-e-vista-desafogada-ID1jgLr",
-   "apartamento-5-quartos-75-m2-jardim-ID9P5lm0"
+   "apartamento-5-quartos-75-m2-jardim-ID9P5lm0",
+   "t1-50-m-na-graca-arroios-despesas-incluidas-1-200-EUR-mes-ID1jgTF",
+   "apartamento-1-quartos-118-m2-remodelado-ID9P5lm1"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -6428,7 +6430,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 7,
+   "bos": 8,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -6470,7 +6472,7 @@
  "gunluk": {
   "tarih": "2026-09-17",
   "gonderilen": 75,
-  "elenen": 146,
+  "elenen": 148,
   "tekrar": 12
  },
  "imzalar": [
