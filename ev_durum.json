@@ -2777,7 +2777,9 @@
    "t0-mobilado-no-areeiro-com-ar-condicionado-ID1jgWN",
    "apartamento-1-quartos-135-m2-novo-ID9P5lm2",
    "apartamento-t1-charmoso-e-soalheiro-nao-mobilado-ao-metro-dos-anj-ID1jhdc",
-   "apartamento-2-quartos-55-m2-varanda-ID9P5lm3"
+   "apartamento-2-quartos-55-m2-varanda-ID9P5lm3",
+   "t0-mobilado-com-ar-condicionado-no-areeiro-ID1jhgv",
+   "apartamento-3-quartos-50-m2-garagem-ID9P5lm4"
   ],
   "olx.pt": [
    "alugo-t2-em-camarate-IDJykEE",
@@ -6477,7 +6479,7 @@
  "kaynaklar": {
   "https://www.idealista.pt/arrendar-casas/lisboa/com-preco-max_2000,arrendamento-temporario/?ordem=atualizado-desc": {
    "ilk": false,
-   "bos": 10,
+   "bos": 11,
    "uyarildi": true
   },
   "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/lisboa/lisboa?priceMax=2000&by=LATEST&direction=DESC": {
@@ -7992,12 +7994,16 @@
   "b9aed0da4ca4c63f",
   "77b1a2521150f53f",
   "3e4b39694d812476",
-  "c9a006df155d9d45"
+  "c9a006df155d9d45",
+  "bc7f4d3439e25ea8",
+  "ecdeb989efe39372"
  ],
  "kuyruk": [
   "<b>🏠 Yeni ilan · OLX</b>\n💶 1.150 €\nApartamento T2 Centro Ericeira com garagem · 1.150 € · Ericeira - 27 de novembro de 2026\nhttps://www.olx.pt/d/anuncio/apartamento-t2-centro-ericeira-com-garagem-IDJJLuK.html",
   "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · Apartamento ⋅ Lisboa · 4,2 de uma avaliação média de 5, 5 avaliações · 4,2 (5) · Mushi – Quarto aconchegante em Avenidas Novas · 1 quarto · 1 cama de casal · Sem banheiro · $ 2.037 USD · $ 1.877 USD · $ 1.877 USD mensal, preço original: $ 2.037 USD · mensal · Superh…\nhttps://www.airbnb.com/rooms/1827659537221142527",
-  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 3 de dez.  a  2 de mar. · 3 de dez. – 2 de mar. · Apartamento ⋅ Lisboa · 4,86 de uma avaliação média de 5, 35 avaliações · 4,86 (35) · Studio moderno em Campo de Ourique | Varanda · 1 cama de casal · 1 banheiro · $ 1.964 USD · $ 1.621 USD · $ 1.621 USD mensal, pr…\nhttps://www.airbnb.com/rooms/1239920709545837938"
+  "<b>🏠 Yeni ilan · Airbnb</b>\nFoto 1 de 6 · De 3 de dez.  a  2 de mar. · 3 de dez. – 2 de mar. · Apartamento ⋅ Lisboa · 4,86 de uma avaliação média de 5, 35 avaliações · 4,86 (35) · Studio moderno em Campo de Ourique | Varanda · 1 cama de casal · 1 banheiro · $ 1.964 USD · $ 1.621 USD · $ 1.621 USD mensal, pr…\nhttps://www.airbnb.com/rooms/1239920709545837938",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 € · T0 mobilado com ar condicionado no Areeiro · Bairro dos Actores, Areeiro, Lisboa, Lisboa · Tipologia · T0 · Preço por metro quadrado · 30 m² · Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/t0-mobilado-com-ar-condicionado-no-areeiro-ID1jhgv",
+  "<b>🏠 Yeni ilan · Imovirtual</b>\n💶 630 €\n630 €T0 mobilado com ar condicionado no AreeiroBairro dos Actores, Areeiro, Lisboa, LisboaTipologiaT0Preço por metro quadrado30 m²Oferta privada\nhttps://www.imovirtual.com/pt/anuncio/apartamento-3-quartos-50-m2-garagem-ID9P5lm4"
  ],
  "son_gonderim": "2026-11-27"
 }
